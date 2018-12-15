@@ -1,0 +1,29 @@
+{
+  "country":
+  [ "US":{
+    "diseases":[
+      {"type":"Heart","bad":["Salt","Mint"],"good":["Spinach","Water"]}
+      ]
+    "recipees":[
+      {"title": "Mexican Strawberry Water",
+      "ingredients": [ {"name":"Strawberries","quantity":4,"type":"cups"},{"name":"Mint","quantity":8,"type":"sprig"}],"calories": "100"}
+      ]
+  },
+  "UK":{
+
+  }
+    ]
+}
+
+
+{
+  "title": "Mexican Strawberry Water",
+  "ingredients": [
+    {"name":"Strawberries","quantity":4,"type":"cups"},
+    {"name":"Sugar","quantity":4,"type":"cups"},
+    {"name":"Water","quantity":8,"type":"cups"},
+    {"name":"Lime","quantity":1,"type":"whole"},
+    {"name":"Mint","quantity":8,"type":"sprig"}
+    ],
+  "calories": "100",
+}
