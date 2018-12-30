@@ -5,7 +5,7 @@ recipesuk = []
 recipesus = []
 files = glob.glob('uk/json/*.json')
 for filename in files:
-    with open('uk/json/2.json') as f:
+    with open(filename) as f:
         data = json.load(f)
         recipesuk.append(data)
 

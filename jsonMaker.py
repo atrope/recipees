@@ -94,5 +94,5 @@ results = pool.map(execute, files)
 pool.close()
 pool.join()
 
-for filename in files:
-    execute(filename)
+# for filename in files:
+#     execute(filename)
