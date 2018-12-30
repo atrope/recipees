@@ -1,0 +1,21 @@
+{
+    "title": "The ultimate hot chocolate",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "200",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

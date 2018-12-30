@@ -1,0 +1,46 @@
+{
+    "title": "Tuna kebabs with lime marinade",
+    "ingredients": [
+        {
+            "name": "tuna steak",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "marinade",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "zest juice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garnish lime wedges coriander",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

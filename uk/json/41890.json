@@ -1,0 +1,56 @@
+{
+    "title": "German red cabbage with apples",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "apple cider vinegar wine",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "beef stock wine",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lingonberry preserves",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

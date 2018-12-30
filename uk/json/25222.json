@@ -1,0 +1,51 @@
+{
+    "title": "Chicken, chorizo and black pudding pasta",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chorizo sausages",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pudding",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

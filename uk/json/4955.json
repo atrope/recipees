@@ -1,0 +1,56 @@
+{
+    "title": "German Kaesespaetzle",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley garnish",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

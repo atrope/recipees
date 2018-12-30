@@ -1,0 +1,46 @@
+{
+    "title": "Smoked haddock pate",
+    "ingredients": [
+        {
+            "name": "smoked haddock",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "mascarpone cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "horseradish sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

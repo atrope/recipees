@@ -1,0 +1,36 @@
+{
+    "title": "Malteser slice",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cooking chocolate cocoa",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "cooking chocolate",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Rhubarb and walnut bread pudding",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rhubarb",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

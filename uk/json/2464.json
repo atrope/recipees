@@ -1,0 +1,61 @@
+{
+    "title": "Veggie Fried Rice",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "rice",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "groundnut sesame oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "garden peas",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

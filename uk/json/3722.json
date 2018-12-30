@@ -1,0 +1,46 @@
+{
+    "title": "Fillet steak with roasted shallots and garlic",
+    "ingredients": [
+        {
+            "name": "shallots",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "fillet steaks",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Cheesy Sauerkraut and Beef Soup",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt beef brisket",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sauerkraut",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "rye bread toasted",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

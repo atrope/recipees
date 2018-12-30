@@ -1,0 +1,41 @@
+{
+    "title": "Vegetarian tofu, spinach and cheese lasagne rolls",
+    "ingredients": [
+        {
+            "name": "lasagne",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "420",
+            "type": "g"
+        },
+        {
+            "name": "tofu",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "spinach",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "800",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

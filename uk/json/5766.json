@@ -1,0 +1,41 @@
+{
+    "title": "Fresh tomato and chilli pasta sauce",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "flakes",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese grana",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

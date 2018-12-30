@@ -1,0 +1,46 @@
+{
+    "title": "Creamy turkey gravy",
+    "ingredients": [
+        {
+            "name": "turkey stock",
+            "quantity": "1.1L",
+            "type": "-"
+        },
+        {
+            "name": "cream chicken soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "poultry seasoning",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "230",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

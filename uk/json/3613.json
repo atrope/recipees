@@ -1,0 +1,56 @@
+{
+    "title": "Broccoli and cauliflower cheese soup",
+    "ingredients": [
+        {
+            "name": "broccoli",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cauliflower",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "shallot onions",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "pasta shapes soup",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "chives",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garnish pinch nutmeg",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

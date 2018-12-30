@@ -1,0 +1,66 @@
+{
+    "title": "Apple crumble",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

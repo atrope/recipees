@@ -1,0 +1,36 @@
+{
+    "title": "Cheese and crab canapes",
+    "ingredients": [
+        {
+            "name": "crab meat",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cheese spread",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "breakfast muffins",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

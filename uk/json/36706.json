@@ -1,0 +1,56 @@
+{
+    "title": "Homemade coleslaw with apple",
+    "ingredients": [
+        {
+            "name": "mayonnaise",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

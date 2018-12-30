@@ -1,0 +1,76 @@
+{
+    "title": "Nachos",
+    "ingredients": [
+        {
+            "name": "kidney beans",
+            "quantity": "510",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tortilla",
+            "quantity": "415",
+            "type": "g"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "salsa",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

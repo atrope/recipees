@@ -1,0 +1,21 @@
+{
+    "title": "Marmalade pork chops",
+    "ingredients": [
+        {
+            "name": "pork",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "orange marmalade",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

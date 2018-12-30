@@ -1,0 +1,36 @@
+{
+    "title": "Saut\u00e9ed Mushrooms",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Homemade stuffing",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pear",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "stuffing",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "900",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

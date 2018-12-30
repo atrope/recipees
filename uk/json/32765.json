@@ -1,0 +1,31 @@
+{
+    "title": "Passion fruit syllabub",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "170",
+            "type": "ml"
+        },
+        {
+            "name": "frache",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "lemon curd",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fruits",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

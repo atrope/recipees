@@ -1,0 +1,51 @@
+{
+    "title": "Chicken 'n' Bean Chilli",
+    "ingredients": [
+        {
+            "name": "sweetcorn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "hominy",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "kidney beans",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salsa",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "chicken",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

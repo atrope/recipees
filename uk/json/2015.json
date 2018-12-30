@@ -1,0 +1,56 @@
+{
+    "title": "Peanut, Chilli and Ginger Noodles",
+    "ingredients": [
+        {
+            "name": "noodles",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "minced root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "paste",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

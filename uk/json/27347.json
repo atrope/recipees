@@ -1,0 +1,41 @@
+{
+    "title": "Raspberry mojitos",
+    "ingredients": [
+        {
+            "name": "lime",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": "1/3",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,86 @@
+{
+    "title": "Deluxe chocolate fudge cake",
+    "ingredients": [
+        {
+            "name": "cake",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fudge icing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate cocoa",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

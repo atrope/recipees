@@ -1,0 +1,31 @@
+{
+    "title": "Oatmeal banana cookie bites",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "145",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

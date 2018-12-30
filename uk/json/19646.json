@@ -1,0 +1,46 @@
+{
+    "title": "Buttercream icing for German chocolate cake",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Ale and brown sugar marinated sirloin steak",
+    "ingredients": [
+        {
+            "name": "beef steaks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ale",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "teriyaki sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

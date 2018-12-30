@@ -1,0 +1,76 @@
+{
+    "title": "Sweetcorn and Cheddar Chowder",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "corn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "sherry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch cayenne pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

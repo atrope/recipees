@@ -1,0 +1,26 @@
+{
+    "title": "Kiddie party juice",
+    "ingredients": [
+        {
+            "name": "cranberry juice",
+            "quantity": "1.8L",
+            "type": "-"
+        },
+        {
+            "name": "lemonade",
+            "quantity": "4L",
+            "type": "-"
+        },
+        {
+            "name": "oranges",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

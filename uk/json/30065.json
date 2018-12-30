@@ -1,0 +1,71 @@
+{
+    "title": "French onion and bacon quiche",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "lard",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "bacon",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

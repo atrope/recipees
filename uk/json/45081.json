@@ -1,0 +1,61 @@
+{
+    "title": "Fruit cake with apples",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "spice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "nuts",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "baking cocoa",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

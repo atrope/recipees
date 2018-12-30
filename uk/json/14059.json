@@ -1,0 +1,86 @@
+{
+    "title": "Italian Easter Bread",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sachet baking yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "eggs temperature",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "anise",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "margarine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar sprinkles",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

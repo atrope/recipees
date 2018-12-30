@@ -1,0 +1,66 @@
+{
+    "title": "Cream of chicken soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "chicken",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "parsley garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

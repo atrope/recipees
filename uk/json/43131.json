@@ -1,0 +1,51 @@
+{
+    "title": "White asparagus and smoked salmon salad",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bunch dill minced",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

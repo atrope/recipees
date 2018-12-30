@@ -1,0 +1,36 @@
+{
+    "title": "No-bake chocolate biscuit cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cooking chocolate",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

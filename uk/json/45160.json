@@ -1,0 +1,51 @@
+{
+    "title": "Curried rice pilaf",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "rice",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Raspberry cream dessert",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "gelatine powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice zest",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

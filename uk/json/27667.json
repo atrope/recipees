@@ -1,0 +1,36 @@
+{
+    "title": "Sultana and marzipan tarts",
+    "ingredients": [
+        {
+            "name": "sultanas",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "apricot jam lemon curd",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "marzipan",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Red pepper coleslaw",
+    "ingredients": [
+        {
+            "name": "bunch coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

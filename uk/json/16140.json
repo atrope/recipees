@@ -1,0 +1,26 @@
+{
+    "title": "White chocolate buttercream icing",
+    "ingredients": [
+        {
+            "name": "butter temperature",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

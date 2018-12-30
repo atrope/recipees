@@ -1,0 +1,26 @@
+{
+    "title": "Lemon posset",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

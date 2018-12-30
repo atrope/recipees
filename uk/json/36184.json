@@ -1,0 +1,36 @@
+{
+    "title": "Siddy's halloumi sausage rolls",
+    "ingredients": [
+        {
+            "name": "pork sausage meat",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "halloumi cheese julienned",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Banana orange smoothie",
+    "ingredients": [
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla milk",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

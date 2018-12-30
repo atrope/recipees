@@ -1,0 +1,41 @@
+{
+    "title": "Simple elegant moist carrot cake or cupcakes",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

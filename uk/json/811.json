@@ -1,0 +1,66 @@
+{
+    "title": "Prawn and avocado salad",
+    "ingredients": [
+        {
+            "name": "prawns",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "chives",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "avocados",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garnish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "peppers pimentos julienned garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Spinach and Cheese Bake",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken seasoning",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "dill",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "215",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

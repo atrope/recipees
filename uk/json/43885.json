@@ -1,0 +1,41 @@
+{
+    "title": "Fresh peach crumble",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oats",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

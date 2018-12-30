@@ -1,0 +1,31 @@
+{
+    "title": "Honey roasted parsnips and carrots",
+    "ingredients": [
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "parsnips",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

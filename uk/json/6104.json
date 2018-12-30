@@ -1,0 +1,41 @@
+{
+    "title": "Fluffy meringue icing",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream tartar",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

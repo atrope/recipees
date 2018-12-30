@@ -1,0 +1,36 @@
+{
+    "title": "Perfect beef",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "silverside beef",
+            "quantity": "25",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

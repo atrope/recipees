@@ -1,0 +1,41 @@
+{
+    "title": "White and dark chocolate chip cookies",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

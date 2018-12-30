@@ -1,0 +1,51 @@
+{
+    "title": "Pasta tuna salad with broccoli",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "peppers orange pepper",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "350",
+            "type": "-"
+        },
+        {
+            "name": "tuna water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "capers",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream mayonnaise",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

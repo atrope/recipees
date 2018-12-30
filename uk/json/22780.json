@@ -1,0 +1,51 @@
+{
+    "title": "Eccles Cakes",
+    "ingredients": [
+        {
+            "name": "sultanas",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "juice zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pastry",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

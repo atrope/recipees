@@ -1,0 +1,91 @@
+{
+    "title": "Ham Broccoli and Potato Soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "270",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "950",
+            "type": "ml"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Three berry pie",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

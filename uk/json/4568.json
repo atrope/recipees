@@ -1,0 +1,41 @@
+{
+    "title": "Raspberry oat slices",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "raspberry jam",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

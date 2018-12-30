@@ -1,0 +1,41 @@
+{
+    "title": "Garlic roasted tomatoes with mozzarella cheese",
+    "ingredients": [
+        {
+            "name": "plum tomatoes",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Pressure cooker chicken thighs with spicy sauce",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

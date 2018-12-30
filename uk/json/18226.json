@@ -1,0 +1,26 @@
+{
+    "title": "Cake Decorating Icing",
+    "ingredients": [
+        {
+            "name": "icing sugar",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

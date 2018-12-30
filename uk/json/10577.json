@@ -1,0 +1,56 @@
+{
+    "title": "Best chocolate chip cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuit",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

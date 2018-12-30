@@ -1,0 +1,16 @@
+{
+    "title": "Chocolate cereal cakes",
+    "ingredients": [
+        {
+            "name": "milk chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cereal",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

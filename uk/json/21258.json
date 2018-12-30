@@ -1,0 +1,56 @@
+{
+    "title": "Easy artichoke pasta salad",
+    "ingredients": [
+        {
+            "name": "macaroni pasta",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "artichoke heart antipasto oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "olives",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

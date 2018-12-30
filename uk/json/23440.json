@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate truffle torte",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs temperature",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

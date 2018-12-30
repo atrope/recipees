@@ -1,0 +1,66 @@
+{
+    "title": "Pizza for grown-ups",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "yeast",
+            "quantity": "7",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ball mozzarella cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

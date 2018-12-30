@@ -1,0 +1,26 @@
+{
+    "title": "Midnight moon",
+    "ingredients": [
+        {
+            "name": "rum",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "coffee liqueur",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cola drink",
+            "quantity": "115",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

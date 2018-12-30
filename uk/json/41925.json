@@ -1,0 +1,41 @@
+{
+    "title": "Sucre \u00e0 la cr\u00e8me (Qu\u00e9b\u00e9cois fudge)",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "corn syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nuts",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

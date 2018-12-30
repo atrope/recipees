@@ -1,0 +1,61 @@
+{
+    "title": "Italian pork fillet",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "prosciutto",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pork fillet",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

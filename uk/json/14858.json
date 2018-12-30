@@ -1,0 +1,46 @@
+{
+    "title": "Apple Pumpkin Spread",
+    "ingredients": [
+        {
+            "name": "pumpkin puree",
+            "quantity": "430",
+            "type": "g"
+        },
+        {
+            "name": "apple sauce",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "allspice cloves",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

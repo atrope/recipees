@@ -1,0 +1,71 @@
+{
+    "title": "Toffee apple and pear crumble",
+    "ingredients": [
+        {
+            "name": "toffee sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "crumble",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oats",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "nuts",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Greek roast chicken",
+    "ingredients": [
+        {
+            "name": "juice orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

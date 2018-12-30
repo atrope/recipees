@@ -1,0 +1,51 @@
+{
+    "title": "Terrific tuna salad",
+    "ingredients": [
+        {
+            "name": "tuna flaked",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise salad",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweet pickle",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion flakes",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch garlic",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

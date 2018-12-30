@@ -1,0 +1,46 @@
+{
+    "title": "Chestnut and butternut squash soup",
+    "ingredients": [
+        {
+            "name": "chestnuts",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "squash",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "vegetable chicken stock",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

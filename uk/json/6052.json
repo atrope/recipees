@@ -1,0 +1,51 @@
+{
+    "title": "Fig Squares",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "figs",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

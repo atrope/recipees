@@ -1,0 +1,41 @@
+{
+    "title": "Pumpkin nut financiers",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin puree",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nuts",
+            "quantity": "70",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

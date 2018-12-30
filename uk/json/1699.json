@@ -1,0 +1,26 @@
+{
+    "title": "Strawberry Orange Smoothie",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

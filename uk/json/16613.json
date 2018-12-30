@@ -1,0 +1,36 @@
+{
+    "title": "Lamb's lettuce and smoked salmon salad",
+    "ingredients": [
+        {
+            "name": "lettuce",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pistachio nuts",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cashew nuts",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

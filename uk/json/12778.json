@@ -1,0 +1,46 @@
+{
+    "title": "Savoury Cheese Muffins",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion soup",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Carne Con Chillies",
+    "ingredients": [
+        {
+            "name": "pork loin",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lime juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatillos",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

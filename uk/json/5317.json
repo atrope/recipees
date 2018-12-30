@@ -1,0 +1,41 @@
+{
+    "title": "Swedish cream with summer berries",
+    "ingredients": [
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

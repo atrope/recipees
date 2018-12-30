@@ -1,0 +1,51 @@
+{
+    "title": "Gran's German red cabbage",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "green apples",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "apple cider vinegar",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Spaghetti with prawns",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

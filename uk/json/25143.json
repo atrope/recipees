@@ -1,0 +1,51 @@
+{
+    "title": "Chocolate chunk brownies",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs egg yolk temperature",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

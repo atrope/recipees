@@ -1,0 +1,41 @@
+{
+    "title": "Cheese and bacon pasta bake",
+    "ingredients": [
+        {
+            "name": "rashers bacon",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pasta",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

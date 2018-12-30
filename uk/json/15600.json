@@ -1,0 +1,56 @@
+{
+    "title": "Bread and butter pudding with a marmalade glaze and cinnamon and orange butter",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "freerange eggs",
+            "quantity": "9",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "marmalade",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

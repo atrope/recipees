@@ -1,0 +1,76 @@
+{
+    "title": "Creamy potato and beef soup",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "beef stock crumbled",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Special Fruity Flapjacks",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "apricots",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

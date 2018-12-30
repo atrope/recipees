@@ -1,0 +1,41 @@
+{
+    "title": "Fruity Honey Mustard Chicken",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "apricot jam",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

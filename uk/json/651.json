@@ -1,0 +1,61 @@
+{
+    "title": "Welsh Rarebit",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "ale",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "toast",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

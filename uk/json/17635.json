@@ -1,0 +1,56 @@
+{
+    "title": "Easy blueberry pancakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

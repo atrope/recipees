@@ -1,0 +1,56 @@
+{
+    "title": "Minty chocolate brownies",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peppermint flavouring",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

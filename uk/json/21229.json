@@ -1,0 +1,41 @@
+{
+    "title": "Cheat's creamy carbonara",
+    "ingredients": [
+        {
+            "name": "farfalle pasta",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "prosciutto",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "garden peas",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

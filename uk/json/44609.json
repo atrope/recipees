@@ -1,0 +1,46 @@
+{
+    "title": "Smoked salmon and avocado starter",
+    "ingredients": [
+        {
+            "name": "smoked salmon",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese garlic herbs",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "quark yogurt",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "crackers",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "paprika",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

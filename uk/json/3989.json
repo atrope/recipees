@@ -1,0 +1,76 @@
+{
+    "title": "Salmon and tomato chowder",
+    "ingredients": [
+        {
+            "name": "salmon fillet",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fish vegetable stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leek",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rasher bacon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

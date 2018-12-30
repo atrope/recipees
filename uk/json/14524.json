@@ -1,0 +1,56 @@
+{
+    "title": "Pears and Sweet Potato Mash",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sweet potatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Pimm's cocktail",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "ginger ale",
+            "quantity": "85",
+            "type": "ml"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Lemon barley pilaf with chicken",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "barley",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "zest juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

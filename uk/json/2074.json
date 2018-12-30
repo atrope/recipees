@@ -1,0 +1,31 @@
+{
+    "title": "Pork Chops with Blue Cheese",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "pork",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "double cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese crumbled",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

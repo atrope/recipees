@@ -1,0 +1,71 @@
+{
+    "title": "Spicy Indian masoor dhal",
+    "ingredients": [
+        {
+            "name": "lentils",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "minced root ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "coriander seed",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

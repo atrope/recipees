@@ -1,0 +1,116 @@
+{
+    "title": "Real Italian lasagne Bolognese",
+    "ingredients": [
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "shallot minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "prosciutto bacon",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "minced pork",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "800",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lasagne",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lasagne",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Vanilla Frozen Yoghurt",
+    "ingredients": [
+        {
+            "name": "yoghurt",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

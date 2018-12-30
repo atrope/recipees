@@ -1,0 +1,26 @@
+{
+    "title": "An easy peasy apple crumble",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "fruit filling apple",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

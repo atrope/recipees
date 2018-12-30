@@ -1,0 +1,46 @@
+{
+    "title": "Potato latkes with smoked salmon",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

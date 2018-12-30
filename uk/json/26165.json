@@ -1,0 +1,56 @@
+{
+    "title": "Coconut chicken noodle soup",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "green curry paste",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cooking",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "stock cube chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "green beans",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "courgette",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rice noodles",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "coriander",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

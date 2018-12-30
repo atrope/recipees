@@ -1,0 +1,61 @@
+{
+    "title": "Rum punch",
+    "ingredients": [
+        {
+            "name": "rum",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "rum",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "rum",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "juice lime",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cherry",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

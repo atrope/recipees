@@ -1,0 +1,41 @@
+{
+    "title": "Caramelles",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

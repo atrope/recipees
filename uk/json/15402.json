@@ -1,0 +1,51 @@
+{
+    "title": "Three Cheese Cannelloni",
+    "ingredients": [
+        {
+            "name": "cannelloni pasta",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

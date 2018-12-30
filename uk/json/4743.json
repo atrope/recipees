@@ -1,0 +1,21 @@
+{
+    "title": "Baileys sundae coffee drink",
+    "ingredients": [
+        {
+            "name": "coffee",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "vanilla ice cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream liqueur",
+            "quantity": "350",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

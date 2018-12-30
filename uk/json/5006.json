@@ -1,0 +1,46 @@
+{
+    "title": "Spiced Fairy Cakes",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pinch cardamom",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

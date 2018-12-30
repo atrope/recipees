@@ -1,0 +1,51 @@
+{
+    "title": "Vorschmack",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "anchovies",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef stock cube",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

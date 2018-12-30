@@ -1,0 +1,41 @@
+{
+    "title": "Simple but tasty coleslaw",
+    "ingredients": [
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

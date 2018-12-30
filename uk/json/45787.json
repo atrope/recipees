@@ -1,0 +1,36 @@
+{
+    "title": "Easy ice cream",
+    "ingredients": [
+        {
+            "name": "cream",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

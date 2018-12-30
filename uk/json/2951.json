@@ -1,0 +1,81 @@
+{
+    "title": "Risi e bisi (rice and pea) ham salad",
+    "ingredients": [
+        {
+            "name": "basmati rice",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "mint",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "chicory",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "radicchio",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "6",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

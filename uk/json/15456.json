@@ -1,0 +1,71 @@
+{
+    "title": "Turkey, bacon and wild rice soup",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "onions",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "rice",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "herb seasoning",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "turkey",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sherry",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

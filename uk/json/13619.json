@@ -1,0 +1,86 @@
+{
+    "title": "Egg, ham and cheese pie",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

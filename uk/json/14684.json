@@ -1,0 +1,36 @@
+{
+    "title": "Savoury Rice Bake",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "415",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "garlic salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Strapatsada (Greek scrambled eggs with cheese and tomato)",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pinch sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Primavera pasta salad",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salad",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

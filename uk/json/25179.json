@@ -1,0 +1,51 @@
+{
+    "title": "Amazing chocolate brownies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "113",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "220",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

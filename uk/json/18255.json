@@ -1,0 +1,56 @@
+{
+    "title": "Black walnut cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Spinach and Dover Sole Rolls",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sole fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "parma ham",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

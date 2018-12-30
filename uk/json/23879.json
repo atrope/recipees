@@ -1,0 +1,101 @@
+{
+    "title": "Goan chicken vindaloo",
+    "ingredients": [
+        {
+            "name": "chicken drumsticks",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "ginger minced",
+            "quantity": "2cm",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "masala",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "curry",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "945",
+            "type": "ml"
+        },
+        {
+            "name": "potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

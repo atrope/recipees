@@ -1,0 +1,46 @@
+{
+    "title": "Slow cooker mulled wine",
+    "ingredients": [
+        {
+            "name": "boiling water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

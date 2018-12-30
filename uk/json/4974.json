@@ -1,0 +1,56 @@
+{
+    "title": "Creamy Chicken and Leek Pie",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch mace nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "275",
+            "type": "ml"
+        },
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

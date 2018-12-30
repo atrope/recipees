@@ -1,0 +1,101 @@
+{
+    "title": "Crab, avocado and bulghur wheat salad",
+    "ingredients": [
+        {
+            "name": "wheat salad",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bulghur wheat",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "chives",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salad",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "crab meat",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "avocados",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green dessert apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bean",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "pinch cayenne pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lettuces",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "walnut toasted",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

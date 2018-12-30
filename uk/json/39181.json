@@ -1,0 +1,46 @@
+{
+    "title": "Emoji cupcakes",
+    "ingredients": [
+        {
+            "name": "butter margarine temperature",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanillia",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "yellow icing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate icing",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

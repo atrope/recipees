@@ -1,0 +1,41 @@
+{
+    "title": "Breadmaker burger buns",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "rapeseed oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "410",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "wheat gluten",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

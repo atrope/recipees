@@ -1,0 +1,86 @@
+{
+    "title": "Spiced apple and blueberry pie",
+    "ingredients": [
+        {
+            "name": "shortcrust pastry",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": "1\u00bc",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "blueberry filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cooking apples",
+            "quantity": "550",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vanilla yogurt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

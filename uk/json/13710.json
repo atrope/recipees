@@ -1,0 +1,56 @@
+{
+    "title": "Simple Carrot Soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "carrots",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

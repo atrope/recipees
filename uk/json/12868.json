@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate Peanut Butter Balls",
+    "ingredients": [
+        {
+            "name": "rice cereal",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "creamy icing",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cooking chocolate",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "coconut oil",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

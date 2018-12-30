@@ -1,0 +1,51 @@
+{
+    "title": "Almond dukka",
+    "ingredients": [
+        {
+            "name": "almonds",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sesame",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "celery salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch cayenne pepper",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

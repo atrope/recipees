@@ -1,0 +1,71 @@
+{
+    "title": "Perfect pizza",
+    "ingredients": [
+        {
+            "name": "pizza dough",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "yeast sachet",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "25",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "25",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water dough",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

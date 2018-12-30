@@ -1,0 +1,41 @@
+{
+    "title": "Quick cheese scones",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "milk egg glaze",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

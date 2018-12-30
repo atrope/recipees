@@ -1,0 +1,36 @@
+{
+    "title": "Easy peasy carrot and coriander soup",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "600",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

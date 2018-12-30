@@ -1,0 +1,71 @@
+{
+    "title": "Pumpkin and Chocolate Chip Cookies",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin puree",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "310",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "170",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

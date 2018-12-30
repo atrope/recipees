@@ -1,0 +1,31 @@
+{
+    "title": "Gran's Yorkshire Pudding",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "beef",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

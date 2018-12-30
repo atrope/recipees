@@ -1,0 +1,51 @@
+{
+    "title": "Tasty double chocolate brownies",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

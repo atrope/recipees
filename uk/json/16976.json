@@ -1,0 +1,31 @@
+{
+    "title": "Tuna Lasagne",
+    "ingredients": [
+        {
+            "name": "pasta sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lasagne",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "tuna flaked",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Staple flaky pastry for pies",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "lard",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

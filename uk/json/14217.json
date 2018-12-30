@@ -1,0 +1,71 @@
+{
+    "title": "Bacon Sweetcorn and Potato Chowder",
+    "ingredients": [
+        {
+            "name": "bacon",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "corn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

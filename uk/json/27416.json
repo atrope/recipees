@@ -1,0 +1,61 @@
+{
+    "title": "Spinach soup with chicken meatballs",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken mince",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1.5L",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

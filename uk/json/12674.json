@@ -1,0 +1,76 @@
+{
+    "title": "Spiced lemon cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

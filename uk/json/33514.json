@@ -1,0 +1,51 @@
+{
+    "title": "Granny Kent's apple tart",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cooking apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar apples",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

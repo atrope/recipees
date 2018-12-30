@@ -1,0 +1,46 @@
+{
+    "title": "Feta carrot salad",
+    "ingredients": [
+        {
+            "name": "feta cheese",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

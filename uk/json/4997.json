@@ -1,0 +1,41 @@
+{
+    "title": "Sun-blush tomato, red pepper and goat cheese pizzas",
+    "ingredients": [
+        {
+            "name": "breads",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "goat cheese crumbled",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "peppers",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes marinated olive oil",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

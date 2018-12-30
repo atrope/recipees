@@ -1,0 +1,36 @@
+{
+    "title": "Peanut butter dog biscuits",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "spelt flour",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "flax",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "590",
+            "type": "ml"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "135",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

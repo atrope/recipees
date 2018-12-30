@@ -1,0 +1,51 @@
+{
+    "title": "Nutty biscuits",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vanilla sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bitter almond oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "nuts",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

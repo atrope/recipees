@@ -1,0 +1,41 @@
+{
+    "title": "Tomato salad dressing",
+    "ingredients": [
+        {
+            "name": "tomato",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced thyme",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

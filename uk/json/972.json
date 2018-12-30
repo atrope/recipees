@@ -1,0 +1,26 @@
+{
+    "title": "Simple beef and barley soup",
+    "ingredients": [
+        {
+            "name": "beef stock",
+            "quantity": "2L",
+            "type": "-"
+        },
+        {
+            "name": "beef",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "barley",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

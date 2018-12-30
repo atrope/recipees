@@ -1,0 +1,16 @@
+{
+    "title": "Baby Back Ribs",
+    "ingredients": [
+        {
+            "name": "ribs",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "sauce",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

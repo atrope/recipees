@@ -1,0 +1,26 @@
+{
+    "title": "Feel-Good Shortbread",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

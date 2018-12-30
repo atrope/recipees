@@ -1,0 +1,31 @@
+{
+    "title": "White chocolate panna cotta",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "gelatine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "140",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

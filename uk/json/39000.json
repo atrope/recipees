@@ -1,0 +1,56 @@
+{
+    "title": "No grumbles classic apple crumble",
+    "ingredients": [
+        {
+            "name": "crumble",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

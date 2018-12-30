@@ -1,0 +1,36 @@
+{
+    "title": "Lemon sauce for salmon fish cakes",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

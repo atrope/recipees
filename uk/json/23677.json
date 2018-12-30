@@ -1,0 +1,61 @@
+{
+    "title": "Fresh fruit pavlova",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "redcurrants",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "grapes",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "275",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

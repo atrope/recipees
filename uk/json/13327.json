@@ -1,0 +1,51 @@
+{
+    "title": "Creamy celery soup",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "35",
+            "type": "kg"
+        },
+        {
+            "name": "carrots julienned",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

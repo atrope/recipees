@@ -1,0 +1,56 @@
+{
+    "title": "Butterscotch Bread Pudding",
+    "ingredients": [
+        {
+            "name": "loaf bread",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "400",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

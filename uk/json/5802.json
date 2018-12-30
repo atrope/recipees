@@ -1,0 +1,26 @@
+{
+    "title": "Pesto and Smoked Salmon pasta",
+    "ingredients": [
+        {
+            "name": "tagliatelle",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "pesto",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "flaked salmon",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cheese grana",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

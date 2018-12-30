@@ -1,0 +1,61 @@
+{
+    "title": "Roast goose with port gravy",
+    "ingredients": [
+        {
+            "name": "goose",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "750",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

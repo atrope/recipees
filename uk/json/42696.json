@@ -1,0 +1,66 @@
+{
+    "title": "Roast beetroot and potato soup",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "beetroot",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Courgette, pancetta and Gruyere quiche",
+    "ingredients": [
+        {
+            "name": "shortcrust pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pancetta",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

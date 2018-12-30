@@ -1,0 +1,46 @@
+{
+    "title": "Citrus surprise pudding",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "zest juice lemons",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "zest juice orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

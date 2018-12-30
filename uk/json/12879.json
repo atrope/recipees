@@ -1,0 +1,61 @@
+{
+    "title": "Baked Bread Pudding",
+    "ingredients": [
+        {
+            "name": "loaf bread",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "custard powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "whisky",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

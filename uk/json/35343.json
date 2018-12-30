@@ -1,0 +1,36 @@
+{
+    "title": "Slow roasted beef topside",
+    "ingredients": [
+        {
+            "name": "beef",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

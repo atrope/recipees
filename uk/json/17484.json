@@ -1,0 +1,31 @@
+{
+    "title": "Rum and walnut truffles",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

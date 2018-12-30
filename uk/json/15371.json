@@ -1,0 +1,71 @@
+{
+    "title": "Rich and spicy potato soup",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "415",
+            "type": "ml"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

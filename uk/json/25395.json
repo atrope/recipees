@@ -1,0 +1,51 @@
+{
+    "title": "Broccoli and cashew quiche",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "wedge brie",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sour cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cashew nuts",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheddar cheese",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

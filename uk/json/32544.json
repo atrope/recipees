@@ -1,0 +1,36 @@
+{
+    "title": "Easy peasy dark chocolate chip cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

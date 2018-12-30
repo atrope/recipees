@@ -1,0 +1,36 @@
+{
+    "title": "Soured cream pound cake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pinch",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Beef casserole",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "beef braising steak",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "gravy",
+            "quantity": "600",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

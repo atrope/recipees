@@ -1,0 +1,51 @@
+{
+    "title": "Aubergine bake",
+    "ingredients": [
+        {
+            "name": "aubergines",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "feta cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "oregano",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

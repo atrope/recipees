@@ -1,0 +1,66 @@
+{
+    "title": "Sultana and Cinnamon Loaf",
+    "ingredients": [
+        {
+            "name": "sachets yeast",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "625",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

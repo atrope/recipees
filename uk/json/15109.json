@@ -1,0 +1,81 @@
+{
+    "title": "Borscht with Rye Grains",
+    "ingredients": [
+        {
+            "name": "rye grains",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "beans",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beetroots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "950",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

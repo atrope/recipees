@@ -1,0 +1,36 @@
+{
+    "title": "Doggy treats",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin puree",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

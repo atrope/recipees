@@ -1,0 +1,71 @@
+{
+    "title": "Bulghur wheat and prawn salad",
+    "ingredients": [
+        {
+            "name": "bulghur wheat",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "corn",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Roasted garlic soup",
+    "ingredients": [
+        {
+            "name": "garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sherry",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Panna cotta with blueberries",
+    "ingredients": [
+        {
+            "name": "gelatine",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "blueberry compote",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

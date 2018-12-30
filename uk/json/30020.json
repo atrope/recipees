@@ -1,0 +1,56 @@
+{
+    "title": "Homemade vegetable soup",
+    "ingredients": [
+        {
+            "name": "soup",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "leek",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

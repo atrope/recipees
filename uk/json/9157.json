@@ -1,0 +1,61 @@
+{
+    "title": "Appeltaart (Dutch apple tart)",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "eggs pastry",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "apples tart sour",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Chicken and rice broth",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "825",
+            "type": "ml"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "285",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

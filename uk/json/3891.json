@@ -1,0 +1,51 @@
+{
+    "title": "Zesty Cheddar and asparagus quiche",
+    "ingredients": [
+        {
+            "name": "breadcrumbs",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

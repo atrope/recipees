@@ -1,0 +1,41 @@
+{
+    "title": "Halloumi and greens salad",
+    "ingredients": [
+        {
+            "name": "salad",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato wedges",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "herbs coriander",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salad",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "halloumi cheese",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

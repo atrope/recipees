@@ -1,0 +1,21 @@
+{
+    "title": "Strawberry Lemon Yoghurt Smoothie",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "lemon curd yogurt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

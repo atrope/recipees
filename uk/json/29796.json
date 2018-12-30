@@ -1,0 +1,51 @@
+{
+    "title": "Easy pumpkin cake",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

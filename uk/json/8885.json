@@ -1,0 +1,36 @@
+{
+    "title": "Beef Crostini",
+    "ingredients": [
+        {
+            "name": "baguette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

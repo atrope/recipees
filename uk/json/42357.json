@@ -1,0 +1,31 @@
+{
+    "title": "Rich shortcrust pastry",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "240",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

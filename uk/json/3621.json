@@ -1,0 +1,36 @@
+{
+    "title": "Aubergine dip",
+    "ingredients": [
+        {
+            "name": "aubergine",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "1-2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "4-6",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

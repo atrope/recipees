@@ -1,0 +1,71 @@
+{
+    "title": "Grandad AJ's Duck Casserole",
+    "ingredients": [
+        {
+            "name": "duck",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "shallots",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "bacon pancetta",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "butter oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "redcurrant jelly",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

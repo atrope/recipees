@@ -1,0 +1,51 @@
+{
+    "title": "Light Quiche Lorraine",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "375",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "2/3",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parsley chives",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

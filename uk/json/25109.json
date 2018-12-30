@@ -1,0 +1,56 @@
+{
+    "title": "Creamy turkey pasta salad",
+    "ingredients": [
+        {
+            "name": "yoghurt",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pasta penne",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "turkey",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

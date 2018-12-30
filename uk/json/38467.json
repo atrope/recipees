@@ -1,0 +1,41 @@
+{
+    "title": "Hot served mug cake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

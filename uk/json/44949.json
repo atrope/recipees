@@ -1,0 +1,26 @@
+{
+    "title": "Italian seasoning",
+    "ingredients": [
+        {
+            "name": "oregano",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

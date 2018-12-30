@@ -1,0 +1,66 @@
+{
+    "title": "Bread pudding with whisky sauce",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "loaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pecans",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "whisky",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

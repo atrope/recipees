@@ -1,0 +1,66 @@
+{
+    "title": "White chocolate, cranberry and pecan cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oats",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "vanilla paste",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

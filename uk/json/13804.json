@@ -1,0 +1,41 @@
+{
+    "title": "Classic chicken and noodle soup",
+    "ingredients": [
+        {
+            "name": "chicken meat",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "spaghetti",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

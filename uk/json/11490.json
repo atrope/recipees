@@ -1,0 +1,56 @@
+{
+    "title": "Baked Reuben with Noodles",
+    "ingredients": [
+        {
+            "name": "cream mushroom soup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "salt beef brisket",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "mustard",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sauerkraut",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg noodles",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "215",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "rye bread",
+            "quantity": "170",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

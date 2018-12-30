@@ -1,0 +1,71 @@
+{
+    "title": "Family meatloaf",
+    "ingredients": [
+        {
+            "name": "meatloaf",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "beef mince",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Duck do-piaza",
+    "ingredients": [
+        {
+            "name": "onions",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "duck",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "crumbled",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green cardamom",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "turmeric",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "masala",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garnish coriander cucumber onion",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

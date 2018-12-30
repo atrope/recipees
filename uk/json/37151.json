@@ -1,0 +1,51 @@
+{
+    "title": "Easy tuna pasta bake",
+    "ingredients": [
+        {
+            "name": "shape pasta",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tuna flaked",
+            "quantity": "370",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Flamenco eggs",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppers green yellow",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes total",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

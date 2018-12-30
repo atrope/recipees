@@ -1,0 +1,41 @@
+{
+    "title": "Pomegranate and Apple Jam",
+    "ingredients": [
+        {
+            "name": "pomegranate fruit pith",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "cooking apples",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "water",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "jam sugar",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "jam",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "jam",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Cherry poppy seed loaf cake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "spelt flour",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "poppy",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sunflower olive oil",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "275",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Pomegranate syrup",
+    "ingredients": [
+        {
+            "name": "pomegranate juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

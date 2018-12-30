@@ -1,0 +1,51 @@
+{
+    "title": "Kheer (Rice pudding)",
+    "ingredients": [
+        {
+            "name": "coconut milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "basmati rice",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cardamom",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rose water",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flaked almonds toasted",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "pistachio nuts",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

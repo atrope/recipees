@@ -1,0 +1,71 @@
+{
+    "title": "Calzone with roasted peppers",
+    "ingredients": [
+        {
+            "name": "peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "tomato oil",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "olives",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "pizza",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sesame",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

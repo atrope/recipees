@@ -1,0 +1,46 @@
+{
+    "title": "Baked asparagus frittata",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "670",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "courgette",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

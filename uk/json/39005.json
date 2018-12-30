@@ -1,0 +1,51 @@
+{
+    "title": "Sage, onion, and sausage meat stuffing",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "sausage meat",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

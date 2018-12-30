@@ -1,0 +1,36 @@
+{
+    "title": "Lemon Flan",
+    "ingredients": [
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

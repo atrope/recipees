@@ -1,0 +1,41 @@
+{
+    "title": "Delicious gluten free and dairy free brownies",
+    "ingredients": [
+        {
+            "name": "almonds",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "agave",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "coconut oil",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

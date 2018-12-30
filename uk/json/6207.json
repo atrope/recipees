@@ -1,0 +1,46 @@
+{
+    "title": "Roasted garlic and sweet potato mash",
+    "ingredients": [
+        {
+            "name": "sweet potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

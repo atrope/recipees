@@ -1,0 +1,71 @@
+{
+    "title": "Carrot cake muffins",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

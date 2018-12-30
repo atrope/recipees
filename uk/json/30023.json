@@ -1,0 +1,46 @@
+{
+    "title": "Lilia's fruit cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "fruit",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

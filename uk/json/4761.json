@@ -1,0 +1,16 @@
+{
+    "title": "Chocolate strawberries",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

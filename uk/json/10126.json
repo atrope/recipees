@@ -1,0 +1,41 @@
+{
+    "title": "Fruit punch",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "summer fruits",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "citrus fruits",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "lemons",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "pineapple coconut juice",
+            "quantity": "1.2",
+            "type": "-"
+        },
+        {
+            "name": "vodka",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

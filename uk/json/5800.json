@@ -1,0 +1,26 @@
+{
+    "title": "Peppered strawberries and blueberries",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon wedges",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

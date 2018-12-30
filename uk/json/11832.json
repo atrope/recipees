@@ -1,0 +1,56 @@
+{
+    "title": "Chocolate, caramel and pecan cheesecake",
+    "ingredients": [
+        {
+            "name": "vanilla biscuit",
+            "quantity": "360",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "dairy toffees",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "pecans",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "85",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

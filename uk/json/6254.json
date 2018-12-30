@@ -1,0 +1,71 @@
+{
+    "title": "Apple squares",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "apple",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

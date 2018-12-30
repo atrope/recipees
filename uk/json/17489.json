@@ -1,0 +1,36 @@
+{
+    "title": "Berry Hazelnut Biscuits",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "330",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "hazelnuts",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "330",
+            "type": "g"
+        },
+        {
+            "name": "berry jam",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

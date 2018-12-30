@@ -1,0 +1,41 @@
+{
+    "title": "Raisin shortbread",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "raisins",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

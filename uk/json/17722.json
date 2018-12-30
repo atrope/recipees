@@ -1,0 +1,46 @@
+{
+    "title": "Caraway Biscuits",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "310",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caraway",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

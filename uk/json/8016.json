@@ -1,0 +1,26 @@
+{
+    "title": "Halloween punch",
+    "ingredients": [
+        {
+            "name": "blackcurrant squash",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "1.75L",
+            "type": "-"
+        },
+        {
+            "name": "orange drink",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "ginger ale",
+            "quantity": "1L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

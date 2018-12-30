@@ -1,0 +1,41 @@
+{
+    "title": "Vietnamese prawn spring rolls",
+    "ingredients": [
+        {
+            "name": "rice noodles",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "rice",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "beansprouts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bunch coriander",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

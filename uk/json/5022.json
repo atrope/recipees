@@ -1,0 +1,41 @@
+{
+    "title": "Cranachan",
+    "ingredients": [
+        {
+            "name": "porridge oats",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "double whipping cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "whisky",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mint garnish",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

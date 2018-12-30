@@ -1,0 +1,41 @@
+{
+    "title": "Irish coffee mousse",
+    "ingredients": [
+        {
+            "name": "gelatine",
+            "quantity": "16",
+            "type": "g"
+        },
+        {
+            "name": "espresso coffee",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "whisky",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

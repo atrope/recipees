@@ -1,0 +1,36 @@
+{
+    "title": "Chickpea and red pepper soup",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "chickpeas",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tahini",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

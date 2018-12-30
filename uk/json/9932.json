@@ -1,0 +1,46 @@
+{
+    "title": "Homemade gnocchi with a tomato & thyme sauce, spinach and ricotta",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "shallots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ricotta",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

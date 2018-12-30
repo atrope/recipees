@@ -1,0 +1,31 @@
+{
+    "title": "Jemma's strawberry and banana smoothie",
+    "ingredients": [
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "vanilla ice cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "blender milk",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

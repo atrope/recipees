@@ -1,0 +1,36 @@
+{
+    "title": "Banana trifle",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "custard",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "ginger biscuits",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "tea lemon juice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

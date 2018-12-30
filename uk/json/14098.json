@@ -1,0 +1,81 @@
+{
+    "title": "Ethiopian Spiced Vegetable Stew",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fenugreek",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

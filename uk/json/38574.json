@@ -1,0 +1,66 @@
+{
+    "title": "Chicken coconut curry",
+    "ingredients": [
+        {
+            "name": "cooking",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "640",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt chicken stock",
+            "quantity": "800",
+            "type": "ml"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "470",
+            "type": "ml"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cilantro",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

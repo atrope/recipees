@@ -1,0 +1,26 @@
+{
+    "title": "Apple, banana and orange juice smoothie",
+    "ingredients": [
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

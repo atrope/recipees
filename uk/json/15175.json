@@ -1,0 +1,31 @@
+{
+    "title": "Italian Sunset",
+    "ingredients": [
+        {
+            "name": "ice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cranberry juice",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "lemons",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

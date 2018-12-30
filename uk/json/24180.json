@@ -1,0 +1,56 @@
+{
+    "title": "Prosciutto salad with a nutty vinaigrette",
+    "ingredients": [
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tofu",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "prosciutto",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "vinaigrette",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "hazelnuts",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

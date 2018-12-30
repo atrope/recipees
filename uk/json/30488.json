@@ -1,0 +1,36 @@
+{
+    "title": "Vanilla and pistachio cookies",
+    "ingredients": [
+        {
+            "name": "butter temperature",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "pistachios",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Banana and peanut butter wraps",
+    "ingredients": [
+        {
+            "name": "peanut butter",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coconut",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "granola",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tortillas",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

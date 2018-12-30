@@ -1,0 +1,66 @@
+{
+    "title": "Ntbella's courgette quiche",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

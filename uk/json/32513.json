@@ -1,0 +1,31 @@
+{
+    "title": "Goat's cheese pots",
+    "ingredients": [
+        {
+            "name": "goats cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sun tomatoes",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "chives",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "anchovy fillets",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

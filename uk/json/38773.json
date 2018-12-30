@@ -1,0 +1,36 @@
+{
+    "title": "Easy peasy chocolate cupcakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Gluten-free and dairy-free pancakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk coconut",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "coconut oil spread",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

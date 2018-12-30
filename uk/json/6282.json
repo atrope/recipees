@@ -1,0 +1,66 @@
+{
+    "title": "White Christmas Cake",
+    "ingredients": [
+        {
+            "name": "candied pineapple",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "candied orange peel",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "candied citron",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "475",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "pecans",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "375",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

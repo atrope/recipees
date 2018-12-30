@@ -1,0 +1,41 @@
+{
+    "title": "Yorkshire pudding for Yorkshiremen",
+    "ingredients": [
+        {
+            "name": "vegetable oil beef",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "spices",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Very Melony Lemonade",
+    "ingredients": [
+        {
+            "name": "ice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "melon liqueur",
+            "quantity": "85",
+            "type": "ml"
+        },
+        {
+            "name": "sweet sour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vodka",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon lime drink",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Vegan coconut biscuits",
+    "ingredients": [
+        {
+            "name": "dairy butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "almond milk",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

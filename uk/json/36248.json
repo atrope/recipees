@@ -1,0 +1,46 @@
+{
+    "title": "Chocolate crunchies with fruit and flavoured cream",
+    "ingredients": [
+        {
+            "name": "syrup",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "cornflakes",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "fruit",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "double whipping cream",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "liqueur",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

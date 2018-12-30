@@ -1,0 +1,56 @@
+{
+    "title": "Gingerbread Cake",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

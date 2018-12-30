@@ -1,0 +1,46 @@
+{
+    "title": "Quick spicy apple chutney",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water cover",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "malt vinegar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

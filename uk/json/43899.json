@@ -1,0 +1,51 @@
+{
+    "title": "Poppy seed fruit salad",
+    "ingredients": [
+        {
+            "name": "pineapple juice",
+            "quantity": "575",
+            "type": "g"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "grapes",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "lime zest",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "poppy",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

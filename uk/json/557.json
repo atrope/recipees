@@ -1,0 +1,26 @@
+{
+    "title": "Crispie mars treats",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "cereal",
+            "quantity": "260",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

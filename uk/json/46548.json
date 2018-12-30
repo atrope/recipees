@@ -1,0 +1,36 @@
+{
+    "title": "Pesto with toasted walnuts",
+    "ingredients": [
+        {
+            "name": "basil",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

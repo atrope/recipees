@@ -1,0 +1,36 @@
+{
+    "title": "Rhubarb, cinnamon and custard tart",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rhubarb",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

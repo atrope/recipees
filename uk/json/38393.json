@@ -1,0 +1,56 @@
+{
+    "title": "Chicken and pumpkin risotto",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "risotto rice",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin puree stewed",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Watermelon shark",
+    "ingredients": [
+        {
+            "name": "watermelon shaped",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bluberries",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "toothpicks",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

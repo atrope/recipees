@@ -1,0 +1,51 @@
+{
+    "title": "Chicken fajita sandwiches",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "tomato juice",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "taco seasoning spice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato salsa",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "bread",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

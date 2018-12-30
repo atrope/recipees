@@ -1,0 +1,41 @@
+{
+    "title": "Honey glazed ham",
+    "ingredients": [
+        {
+            "name": "gammon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "orange juiced",
+            "quantity": "1/3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Salt dough baked ham",
+    "ingredients": [
+        {
+            "name": "smoked ham",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "salt",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

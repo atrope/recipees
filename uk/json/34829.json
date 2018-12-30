@@ -1,0 +1,71 @@
+{
+    "title": "Crown roast lamb with red wine sauce",
+    "ingredients": [
+        {
+            "name": "crown",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lamb ribs cutlets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "shallots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "lamb stock",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "redcurrant jelly",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

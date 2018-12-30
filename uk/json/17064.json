@@ -1,0 +1,51 @@
+{
+    "title": "Raspberry cheesecake slices",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

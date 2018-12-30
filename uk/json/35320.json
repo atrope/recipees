@@ -1,0 +1,61 @@
+{
+    "title": "Easy chocolate sandwich cake",
+    "ingredients": [
+        {
+            "name": "cake",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "buttercream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

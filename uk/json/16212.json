@@ -1,0 +1,61 @@
+{
+    "title": "Vanilla cupcakes with vanilla frosting",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla ingredients",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "320",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

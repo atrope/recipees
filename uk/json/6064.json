@@ -1,0 +1,36 @@
+{
+    "title": "Cinnamon roasted pumpkin seeds",
+    "ingredients": [
+        {
+            "name": "pumpkin",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

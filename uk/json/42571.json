@@ -1,0 +1,71 @@
+{
+    "title": "Buckwheat salad",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "buckwheat",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "lime juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "bunch mint",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch dill",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ricewine vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "feta cheese",
+            "quantity": "85",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

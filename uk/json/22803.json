@@ -1,0 +1,41 @@
+{
+    "title": "Tipsy pork",
+    "ingredients": [
+        {
+            "name": "sultanas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pork fillet",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

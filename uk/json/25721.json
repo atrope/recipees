@@ -1,0 +1,41 @@
+{
+    "title": "Eggs in purgatory",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch flakes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

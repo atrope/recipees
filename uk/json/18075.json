@@ -1,0 +1,46 @@
+{
+    "title": "Grilled Halibut with Coriander Butter",
+    "ingredients": [
+        {
+            "name": "fillets halibut",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lime wedges",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

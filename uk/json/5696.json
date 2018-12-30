@@ -1,0 +1,46 @@
+{
+    "title": "Nectarine parcels",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "nectarines",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "ginger cake total",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "filo pastry",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "mint",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Liv's Homemade Strawberry Jam",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "juice lemons",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Rich Chocolate Pie",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "320",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "cooking chocolate",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "powder",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

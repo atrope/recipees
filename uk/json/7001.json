@@ -1,0 +1,76 @@
+{
+    "title": "Wholemeal Hot Cross Buns",
+    "ingredients": [
+        {
+            "name": "baking yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "475",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "fruit peel",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Blue cheese dressing",
+    "ingredients": [
+        {
+            "name": "mayonnaise",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "minced onion",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "110",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese crumbled",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

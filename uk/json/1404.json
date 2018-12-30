@@ -1,0 +1,41 @@
+{
+    "title": "Easy horseradish dressing",
+    "ingredients": [
+        {
+            "name": "yoghurt",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "horseradish",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

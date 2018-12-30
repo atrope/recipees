@@ -1,0 +1,61 @@
+{
+    "title": "Slow cooker cider pulled pork",
+    "ingredients": [
+        {
+            "name": "cider",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pork fillet",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "butter",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

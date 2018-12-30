@@ -1,0 +1,21 @@
+{
+    "title": "Perfect Papaya Smoothie",
+    "ingredients": [
+        {
+            "name": "papayas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": "10",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Cabbage and portabello saute",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "mushroom",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

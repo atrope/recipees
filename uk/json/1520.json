@@ -1,0 +1,51 @@
+{
+    "title": "Tuna and avocado salad with sesame soy dressing",
+    "ingredients": [
+        {
+            "name": "tuna fillets",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "toasted sesame",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

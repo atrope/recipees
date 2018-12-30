@@ -1,0 +1,46 @@
+{
+    "title": "Florentine baked eggs",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

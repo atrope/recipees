@@ -1,0 +1,31 @@
+{
+    "title": "Rich Chocolate Frosting",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

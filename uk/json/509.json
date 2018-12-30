@@ -1,0 +1,46 @@
+{
+    "title": "Strawberry tiramisu",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mascarpone cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "liqueur",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "finger biscuits sponge fingers",
+            "quantity": "18",
+            "type": "-"
+        },
+        {
+            "name": "espresso",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

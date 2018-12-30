@@ -1,0 +1,31 @@
+{
+    "title": "15 minute spaghetti with sun-dried tomatoes",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "sun tomato pesto",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

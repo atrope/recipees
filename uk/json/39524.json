@@ -1,0 +1,26 @@
+{
+    "title": "Flourless chocolate mousse cake",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cooking margarine",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,91 @@
+{
+    "title": "Aussie beef burger with the works",
+    "ingredients": [
+        {
+            "name": "beef mince",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sesame seed",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "pickled beetroot",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

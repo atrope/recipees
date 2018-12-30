@@ -1,0 +1,71 @@
+{
+    "title": "Roasted vegetables with horseradish sauce",
+    "ingredients": [
+        {
+            "name": "beetroot",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "parsnips",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "horseradish",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garnish thyme",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

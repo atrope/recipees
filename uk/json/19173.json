@@ -1,0 +1,46 @@
+{
+    "title": "Ham, Green Bean and Potato Soup",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "green beans",
+            "quantity": "440",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "465",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

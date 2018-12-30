@@ -1,0 +1,21 @@
+{
+    "title": "Cauliflower rice",
+    "ingredients": [
+        {
+            "name": "cauliflower",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Chicken and mushroom puff slice",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil frying",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chestnut mushrooms",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

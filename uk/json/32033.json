@@ -1,0 +1,36 @@
+{
+    "title": "Mint sauce for poppadoms",
+    "ingredients": [
+        {
+            "name": "yoghurt",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mint sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

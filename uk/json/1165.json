@@ -1,0 +1,61 @@
+{
+    "title": "Chicken Fajitas",
+    "ingredients": [
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

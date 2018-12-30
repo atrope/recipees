@@ -1,0 +1,41 @@
+{
+    "title": "Awesome apple turnovers",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1-2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

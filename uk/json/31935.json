@@ -1,0 +1,26 @@
+{
+    "title": "Easy chocolate strawberries",
+    "ingredients": [
+        {
+            "name": "milk chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "16",
+            "type": "-"
+        },
+        {
+            "name": "coconut",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

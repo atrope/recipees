@@ -1,0 +1,41 @@
+{
+    "title": "Spinach filo triangles",
+    "ingredients": [
+        {
+            "name": "filo pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

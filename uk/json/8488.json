@@ -1,0 +1,36 @@
+{
+    "title": "No hassle steak pie",
+    "ingredients": [
+        {
+            "name": "stewing steak",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "beef stock cube",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "gravy",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk glaze pastry",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

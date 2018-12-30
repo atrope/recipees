@@ -1,0 +1,31 @@
+{
+    "title": "Cats' Tongue Biscuits",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

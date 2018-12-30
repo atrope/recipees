@@ -1,0 +1,26 @@
+{
+    "title": "Coconut bites",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

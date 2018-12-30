@@ -1,0 +1,91 @@
+{
+    "title": "Christmas Eve cake",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "660",
+            "type": "g"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "375",
+            "type": "ml"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "hazelnuts",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "apricots",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "peel",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "icing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mint cherries walnuts",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

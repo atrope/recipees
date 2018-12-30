@@ -1,0 +1,46 @@
+{
+    "title": "Creamy Parmesan Chicken",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "paprika garnish",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

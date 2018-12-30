@@ -1,0 +1,51 @@
+{
+    "title": "Chocolate florentines",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "sultanas raisins",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "green cherries",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

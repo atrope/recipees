@@ -1,0 +1,46 @@
+{
+    "title": "Feta saganaki",
+    "ingredients": [
+        {
+            "name": "feta cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon wedges",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

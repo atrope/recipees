@@ -1,0 +1,41 @@
+{
+    "title": "Dee's cheat's chicken curry",
+    "ingredients": [
+        {
+            "name": "grain rice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sprinkles garlic powder",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

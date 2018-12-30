@@ -1,0 +1,91 @@
+{
+    "title": "Lasagne made from scratch",
+    "ingredients": [
+        {
+            "name": "lasagne",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "150",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef mince",
+            "quantity": "400",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

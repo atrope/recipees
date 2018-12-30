@@ -1,0 +1,51 @@
+{
+    "title": "Spanish green beans and tomatoes",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green beans",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinenuts",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

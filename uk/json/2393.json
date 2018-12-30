@@ -1,0 +1,56 @@
+{
+    "title": "Tofu houmous",
+    "ingredients": [
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chickpeas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tofu",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bunch parsley",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "tahini",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch cayenne pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

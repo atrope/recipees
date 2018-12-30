@@ -1,0 +1,66 @@
+{
+    "title": "Spiced pumpkin cheesecake bars",
+    "ingredients": [
+        {
+            "name": "sponge cake",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "allspice cloves",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin puree",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pecans",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

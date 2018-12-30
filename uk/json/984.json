@@ -1,0 +1,46 @@
+{
+    "title": "Beer Rolls",
+    "ingredients": [
+        {
+            "name": "beer",
+            "quantity": "285",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "540",
+            "type": "g"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "7",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

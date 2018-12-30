@@ -1,0 +1,41 @@
+{
+    "title": "Sunday trifle",
+    "ingredients": [
+        {
+            "name": "trifle sponge cakes",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "raspberry jam",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "toasted flaked almonds",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

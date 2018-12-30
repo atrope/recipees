@@ -1,0 +1,36 @@
+{
+    "title": "Easy, eggless strawberry ice cream",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "475",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

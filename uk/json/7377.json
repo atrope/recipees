@@ -1,0 +1,66 @@
+{
+    "title": "Asparagus and Stilton bruschetta",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "shallots",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baguette toasted",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "crumbled",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

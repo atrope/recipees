@@ -1,0 +1,21 @@
+{
+    "title": "Eton mess",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "meringue",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

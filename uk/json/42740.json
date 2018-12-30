@@ -1,0 +1,41 @@
+{
+    "title": "Spinach, orange and feta salad",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "mandarin oranges orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "toasted almonds",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vinaigrette",
+            "quantity": "225",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Smoked Salmon Pasta Salad",
+    "ingredients": [
+        {
+            "name": "pasta farfalle",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper julienned",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "cheese salad",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Extra easy houmous",
+    "ingredients": [
+        {
+            "name": "chickpeas",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

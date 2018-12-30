@@ -1,0 +1,51 @@
+{
+    "title": "Grilled aubergine and halloumi supper",
+    "ingredients": [
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "halloumi",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "maple syrup honey",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch cayenne pepper",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

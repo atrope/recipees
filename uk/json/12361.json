@@ -1,0 +1,46 @@
+{
+    "title": "Low-sugar banana bread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "440",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "rapeseed oil",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "banana",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

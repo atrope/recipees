@@ -1,0 +1,26 @@
+{
+    "title": "Grandi's chocolate mousse cake",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "300",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

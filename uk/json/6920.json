@@ -1,0 +1,61 @@
+{
+    "title": "Tomato Soup - Quick and very tasty!!",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sprinkle ginger",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

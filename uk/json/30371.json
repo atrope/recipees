@@ -1,0 +1,81 @@
+{
+    "title": "Deliciously simple paella",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch saffron",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "grain rice",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "prawns",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "chorizo sausage",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parsley garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

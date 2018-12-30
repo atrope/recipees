@@ -1,0 +1,26 @@
+{
+    "title": "Yummy pesto mashed potato",
+    "ingredients": [
+        {
+            "name": "potatoes dish",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pesto",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

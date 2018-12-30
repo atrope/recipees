@@ -1,0 +1,46 @@
+{
+    "title": "Pumpkin and Walnut French Toast",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pumpkin pie spice",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

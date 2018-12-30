@@ -1,0 +1,81 @@
+{
+    "title": "Chorizo and bean hotpot",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chorizo",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "beans",
+            "quantity": "420",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sausages",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

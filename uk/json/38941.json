@@ -1,0 +1,46 @@
+{
+    "title": "Extremely fudgy brownies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "170",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

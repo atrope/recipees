@@ -1,0 +1,56 @@
+{
+    "title": "Easy pizza",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yeast",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "sprinkle herbs",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Wonderful lemon cake",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "lemon curd",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

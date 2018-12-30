@@ -1,0 +1,131 @@
+{
+    "title": "Arancini (Italian stuffed rice balls)",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2.5L",
+            "type": "-"
+        },
+        {
+            "name": "chicken beef stock",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "saffron",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "risotto rice",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pork beef mince",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "tomato",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

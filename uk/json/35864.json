@@ -1,0 +1,36 @@
+{
+    "title": "Fig and almond baked Brie",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "figs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "toasted almonds",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cheese",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

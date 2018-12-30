@@ -1,0 +1,36 @@
+{
+    "title": "Perfect gluten free crepes",
+    "ingredients": [
+        {
+            "name": "gluten flour",
+            "quantity": "270",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

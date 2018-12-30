@@ -1,0 +1,51 @@
+{
+    "title": "Spiced rock cakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "peel",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

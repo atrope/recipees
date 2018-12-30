@@ -1,0 +1,51 @@
+{
+    "title": "Spinach, cheese and egg filo pie",
+    "ingredients": [
+        {
+            "name": "filo pastry",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese crumbled",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sesame",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

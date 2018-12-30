@@ -1,0 +1,51 @@
+{
+    "title": "Pumpkin pie with brandy",
+    "ingredients": [
+        {
+            "name": "pumpkin",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "shortcrust pastry pie",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

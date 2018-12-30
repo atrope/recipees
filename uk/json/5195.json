@@ -1,0 +1,46 @@
+{
+    "title": "Karai chicken curry",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger paste",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Whisky Glazed Ham",
+    "ingredients": [
+        {
+            "name": "ham",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bourbon whisky",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "pineapple juice pureed",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

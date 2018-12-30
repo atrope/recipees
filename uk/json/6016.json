@@ -1,0 +1,61 @@
+{
+    "title": "Curried Salmon with Fruit Chutney",
+    "ingredients": [
+        {
+            "name": "curry paste",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salmon fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "nectarine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "plums",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onion minced",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

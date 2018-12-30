@@ -1,0 +1,61 @@
+{
+    "title": "King prawn and spinach linguine",
+    "ingredients": [
+        {
+            "name": "linguine pasta",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "spinach",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

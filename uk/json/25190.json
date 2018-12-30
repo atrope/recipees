@@ -1,0 +1,31 @@
+{
+    "title": "Spinach poached eggs",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "toast",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

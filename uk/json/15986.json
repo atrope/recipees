@@ -1,0 +1,61 @@
+{
+    "title": "Easy pizza rolls",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "butter bread",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pickled gherkin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pizza seasoning",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

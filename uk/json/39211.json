@@ -1,0 +1,31 @@
+{
+    "title": "Gluten free cream cheese pancakes",
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "agave maple syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

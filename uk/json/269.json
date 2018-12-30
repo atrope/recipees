@@ -1,0 +1,71 @@
+{
+    "title": "Macaroni Mince",
+    "ingredients": [
+        {
+            "name": "macaroni",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "beef mince",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

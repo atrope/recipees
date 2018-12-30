@@ -1,0 +1,41 @@
+{
+    "title": "No-bake Toblerone\u00ae cheesecake",
+    "ingredients": [
+        {
+            "name": "chocolate biscuit",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

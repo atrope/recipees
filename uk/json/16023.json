@@ -1,0 +1,46 @@
+{
+    "title": "Sauerkraut Cooked in Wine",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sweet apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauerkraut",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "juniper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

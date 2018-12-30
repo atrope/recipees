@@ -1,0 +1,36 @@
+{
+    "title": "Easy pan-fried chicken with lemon and oregano",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "parsley garnish",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

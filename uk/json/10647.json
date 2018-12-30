@@ -1,0 +1,66 @@
+{
+    "title": "Couscous Salad with Feta, Pine Nuts and Cucumber",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "couscous",
+            "quantity": "230",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "crumbled feta cheese",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "toasted pine nuts",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

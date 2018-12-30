@@ -1,0 +1,76 @@
+{
+    "title": "Pheasant Pie",
+    "ingredients": [
+        {
+            "name": "pheasant",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "4/5",
+            "type": "-"
+        },
+        {
+            "name": "leek",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "stock smoked gammon",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "pepper",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "shortcrust pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Apple oatmeal cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Cherry Rum Balls",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "syrup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "biscuit",
+            "quantity": "540",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "24",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

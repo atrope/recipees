@@ -1,0 +1,26 @@
+{
+    "title": "Marie's plum tart",
+    "ingredients": [
+        {
+            "name": "shortcrust pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "semolina",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "plums",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Creme patissiere",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vanilla bean",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

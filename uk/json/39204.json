@@ -1,0 +1,86 @@
+{
+    "title": "Fragrant Thai style chicken soup",
+    "ingredients": [
+        {
+            "name": "fish stock",
+            "quantity": "1.5L",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemongrass",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "zest lime",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "green finger",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "bunch",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "juice lime",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Leek and Bacon Pie",
+    "ingredients": [
+        {
+            "name": "leeks",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "gammon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "3/4",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

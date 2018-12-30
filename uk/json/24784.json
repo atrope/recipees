@@ -1,0 +1,26 @@
+{
+    "title": "Grilled cheese sandwich",
+    "ingredients": [
+        {
+            "name": "cheese",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,91 @@
+{
+    "title": "Caramel apple cake",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "apples",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

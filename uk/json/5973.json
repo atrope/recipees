@@ -1,0 +1,61 @@
+{
+    "title": "Boston",
+    "ingredients": [
+        {
+            "name": "sausages",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "kidney beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rice",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Chocolate self-saucing cake",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "400",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

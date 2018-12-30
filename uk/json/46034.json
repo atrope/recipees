@@ -1,0 +1,56 @@
+{
+    "title": "Classic pecan pie",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "corn syrup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pecans",
+            "quantity": "135",
+            "type": "g"
+        },
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

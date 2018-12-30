@@ -1,0 +1,26 @@
+{
+    "title": "Witches' hats",
+    "ingredients": [
+        {
+            "name": "jaffa cakes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cherries jelly beans",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

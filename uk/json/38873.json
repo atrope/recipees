@@ -1,0 +1,51 @@
+{
+    "title": "Chocolate pancakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs temperature",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Cheesy bacon, sweetcorn and potato soup",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "35",
+            "type": "kg"
+        },
+        {
+            "name": "bacon",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "corn",
+            "quantity": "850",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "margarine",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

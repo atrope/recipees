@@ -1,0 +1,46 @@
+{
+    "title": "Garlic honey and lemon roast chicken",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemons",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garlic bulb",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "300",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

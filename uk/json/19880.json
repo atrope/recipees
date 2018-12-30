@@ -1,0 +1,51 @@
+{
+    "title": "Tuna Pineapple Meltz",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "tuna olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

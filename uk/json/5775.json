@@ -1,0 +1,26 @@
+{
+    "title": "Hot butterscotch sauce",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

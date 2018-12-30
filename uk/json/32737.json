@@ -1,0 +1,26 @@
+{
+    "title": "Simply the best strawberry tart",
+    "ingredients": [
+        {
+            "name": "sweet pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pastry cream",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "strawberry jam",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

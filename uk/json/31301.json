@@ -1,0 +1,46 @@
+{
+    "title": "Whole chicken soup",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch soup vegetables leek carrot celery parsley root",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rapeseed oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

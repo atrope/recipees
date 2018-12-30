@@ -1,0 +1,46 @@
+{
+    "title": "Chocolate dream cupcakes",
+    "ingredients": [
+        {
+            "name": "margarine butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

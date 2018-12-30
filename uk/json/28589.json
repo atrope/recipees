@@ -1,0 +1,51 @@
+{
+    "title": "Banana oat scones",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

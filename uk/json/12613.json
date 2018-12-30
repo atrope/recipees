@@ -1,0 +1,56 @@
+{
+    "title": "Corinne's Anzac Biscuits",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "treacle",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oats",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "wheat bran",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Best-ever slow cooker chicken chilli",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salsa",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn peppers",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

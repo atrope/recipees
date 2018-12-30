@@ -1,0 +1,86 @@
+{
+    "title": "Tomato and Fish Stew",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "stewed tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "fish stock",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "sherry",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "fish cod halibut",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "bunch coriander",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

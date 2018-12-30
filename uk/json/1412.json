@@ -1,0 +1,36 @@
+{
+    "title": "Easy artichoke and red pepper pasta salad",
+    "ingredients": [
+        {
+            "name": "penne pasta",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper julienned",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "marinated artichoke hearts",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Banana oat flapjacks",
+    "ingredients": [
+        {
+            "name": "porridge oats",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "bananas",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

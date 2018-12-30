@@ -1,0 +1,66 @@
+{
+    "title": "Vegetable rice salad",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "capers",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

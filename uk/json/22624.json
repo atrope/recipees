@@ -1,0 +1,36 @@
+{
+    "title": "Rice pudding with raisins",
+    "ingredients": [
+        {
+            "name": "pudding rice",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "butter dish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2.1L",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

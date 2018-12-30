@@ -1,0 +1,46 @@
+{
+    "title": "Raspberry and White Chocolate Oat Bars",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raspberry jam",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "375",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

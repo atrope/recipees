@@ -1,0 +1,36 @@
+{
+    "title": "Watermelon daiquiris",
+    "ingredients": [
+        {
+            "name": "tequila",
+            "quantity": "35",
+            "type": "ml"
+        },
+        {
+            "name": "triple",
+            "quantity": "25",
+            "type": "ml"
+        },
+        {
+            "name": "lime juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "watermelon",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

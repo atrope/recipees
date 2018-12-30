@@ -1,0 +1,41 @@
+{
+    "title": "Choc chip scones",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

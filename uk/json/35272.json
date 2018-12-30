@@ -1,0 +1,41 @@
+{
+    "title": "Skint Dad's spaghetti carbonara",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "gammon steaks",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheddar cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

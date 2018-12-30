@@ -1,0 +1,61 @@
+{
+    "title": "The classic British omelette",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3-4",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mushroom filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mushrooms butter parsley",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "tomato filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "beef tomato cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salmon chive filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "smoked salmon chives salt",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "cheese filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ham cheese",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Basic apple sauce",
+    "ingredients": [
+        {
+            "name": "cooking apples",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

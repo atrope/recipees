@@ -1,0 +1,31 @@
+{
+    "title": "Seedless summer salad",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tuna flaked",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil pesto",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Budget potato and onion soup",
+    "ingredients": [
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk cream",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

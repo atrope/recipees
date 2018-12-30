@@ -1,0 +1,41 @@
+{
+    "title": "Sponge cake with brandy cream",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "brandy cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "strawberry jam",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

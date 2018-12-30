@@ -1,0 +1,86 @@
+{
+    "title": "Aubergine and cheese bake",
+    "ingredients": [
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "rice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

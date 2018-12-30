@@ -1,0 +1,81 @@
+{
+    "title": "Creamy Turkey a la King",
+    "ingredients": [
+        {
+            "name": "cream chicken soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "295",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "turkey",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sherry",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "peas",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

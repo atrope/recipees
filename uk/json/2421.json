@@ -1,0 +1,36 @@
+{
+    "title": "Turkey and pearl barley soup",
+    "ingredients": [
+        {
+            "name": "beef stock",
+            "quantity": "1.25L",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced turkey",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "barley",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

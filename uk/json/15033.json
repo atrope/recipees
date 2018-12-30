@@ -1,0 +1,71 @@
+{
+    "title": "Perfect chicken stock",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "6",
+            "type": "kg"
+        },
+        {
+            "name": "water cover",
+            "quantity": "3.75",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "carrot",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheesecloth",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Non-alcoholic fruit punch",
+    "ingredients": [
+        {
+            "name": "apple juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "mint",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

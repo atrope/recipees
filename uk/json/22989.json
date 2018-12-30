@@ -1,0 +1,36 @@
+{
+    "title": "Creamy Smoked Salmon Starter",
+    "ingredients": [
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pinch paprika pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Vegetarian Chickpea Burgers",
+    "ingredients": [
+        {
+            "name": "chickpeas",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "breadcumbs",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

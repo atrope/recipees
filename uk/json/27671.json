@@ -1,0 +1,51 @@
+{
+    "title": "Amy's beautiful brown bread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "wheat",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wheat bran",
+            "quantity": "3/4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "320",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

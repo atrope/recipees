@@ -1,0 +1,31 @@
+{
+    "title": "Banana blast",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

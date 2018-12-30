@@ -1,0 +1,66 @@
+{
+    "title": "Turkish pizza",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced lamb",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "garlic coriander naan breads",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mint coriander",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pomegranate",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

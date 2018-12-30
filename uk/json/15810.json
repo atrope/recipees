@@ -1,0 +1,46 @@
+{
+    "title": "Beetroot Salad with Apples and Walnuts",
+    "ingredients": [
+        {
+            "name": "beetroot",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "tart apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "horseradish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

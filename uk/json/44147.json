@@ -1,0 +1,41 @@
+{
+    "title": "Leftover roast beef and spinach wraps",
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "horseradish",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tortillas",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "30",
+            "type": "-"
+        },
+        {
+            "name": "roast beef",
+            "quantity": "650",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

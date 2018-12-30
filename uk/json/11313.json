@@ -1,0 +1,56 @@
+{
+    "title": "Peanut Butter and Jam Cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "flavour fruit jam",
+            "quantity": "160",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

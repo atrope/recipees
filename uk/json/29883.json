@@ -1,0 +1,51 @@
+{
+    "title": "Flavourful pea soup",
+    "ingredients": [
+        {
+            "name": "butter bacon",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "stock",
+            "quantity": "1.8L",
+            "type": "-"
+        },
+        {
+            "name": "ham water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mint parsley",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

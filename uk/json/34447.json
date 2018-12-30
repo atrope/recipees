@@ -1,0 +1,51 @@
+{
+    "title": "Rich chocolate hazelnut cake",
+    "ingredients": [
+        {
+            "name": "hazelnuts",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate liqueur",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "chocolate hazelnut spread",
+            "quantity": "175",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

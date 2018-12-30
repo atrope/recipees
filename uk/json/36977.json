@@ -1,0 +1,51 @@
+{
+    "title": "Muddy puddle biscuits",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "icing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water icing",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

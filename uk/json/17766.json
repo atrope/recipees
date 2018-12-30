@@ -1,0 +1,76 @@
+{
+    "title": "Amaretto Layer Cake",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sponge cake",
+            "quantity": "520",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "amaretto liqueur",
+            "quantity": "275",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vanilla dessert",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "amaretto liqueur",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "70",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

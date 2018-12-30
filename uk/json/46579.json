@@ -1,0 +1,46 @@
+{
+    "title": "Courgette bacon quiche",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bacon rashers",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

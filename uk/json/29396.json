@@ -1,0 +1,46 @@
+{
+    "title": "Cream of Jerusalem artichoke soup",
+    "ingredients": [
+        {
+            "name": "artichokes",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.2L",
+            "type": "-"
+        },
+        {
+            "name": "cream milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

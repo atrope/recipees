@@ -1,0 +1,21 @@
+{
+    "title": "Quick frosted cornflake cakes",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cornflakes cereal",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Peanut Butter and Chocolate Oatmeal Cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "170",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

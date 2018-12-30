@@ -1,0 +1,66 @@
+{
+    "title": "Moroccan lamb kebabs",
+    "ingredients": [
+        {
+            "name": "minced lamb",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "goat cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "3/4",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

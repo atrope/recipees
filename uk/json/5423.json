@@ -1,0 +1,26 @@
+{
+    "title": "Chocolate Ganache Icing",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

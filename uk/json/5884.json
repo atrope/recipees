@@ -1,0 +1,41 @@
+{
+    "title": "Classic banoffee pie",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "pecans walnuts",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

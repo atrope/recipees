@@ -1,0 +1,46 @@
+{
+    "title": "Tomato chicken",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "minced root ginger",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch turmeric",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coconut oil",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

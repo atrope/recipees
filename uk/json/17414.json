@@ -1,0 +1,36 @@
+{
+    "title": "Ham Crepes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

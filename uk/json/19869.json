@@ -1,0 +1,16 @@
+{
+    "title": "Hard Chocolate Topping",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

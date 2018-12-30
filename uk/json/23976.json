@@ -1,0 +1,91 @@
+{
+    "title": "Margherita pizza",
+    "ingredients": [
+        {
+            "name": "dough",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "550",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "beer",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pizza sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mozzarella",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "tomato",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

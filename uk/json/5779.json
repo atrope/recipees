@@ -1,0 +1,46 @@
+{
+    "title": "Italian summer salad",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yellow cherry tomatoes",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "peppers",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

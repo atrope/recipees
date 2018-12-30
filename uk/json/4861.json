@@ -1,0 +1,46 @@
+{
+    "title": "Summer sangria",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

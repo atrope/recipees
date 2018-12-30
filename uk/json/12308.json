@@ -1,0 +1,61 @@
+{
+    "title": "Peach and blueberry crumble",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

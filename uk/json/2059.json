@@ -1,0 +1,26 @@
+{
+    "title": "Pizzeria pizza base",
+    "ingredients": [
+        {
+            "name": "baking yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

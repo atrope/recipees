@@ -1,0 +1,71 @@
+{
+    "title": "Borscht",
+    "ingredients": [
+        {
+            "name": "beef",
+            "quantity": "3",
+            "type": "kg"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1.4L",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1/3",
+            "type": "-"
+        },
+        {
+            "name": "beetroot",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "tomato juice",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

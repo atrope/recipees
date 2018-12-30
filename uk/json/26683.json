@@ -1,0 +1,26 @@
+{
+    "title": "Parmesan cheese crisps",
+    "ingredients": [
+        {
+            "name": "cheese",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

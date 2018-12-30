@@ -1,0 +1,51 @@
+{
+    "title": "Canja",
+    "ingredients": [
+        {
+            "name": "chicken meat",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lardons bacon",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "grain rice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bunch parsley",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

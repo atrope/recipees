@@ -1,0 +1,71 @@
+{
+    "title": "Meatloaf roulade",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "beef mince",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "pork mince",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "provolone cheese",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "prosciutto ham",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

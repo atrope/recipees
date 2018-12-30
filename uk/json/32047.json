@@ -1,0 +1,51 @@
+{
+    "title": "Banana drop cakes",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "banans",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "440",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Banana and cherry loaf",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "bananas",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

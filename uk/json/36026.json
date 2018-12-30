@@ -1,0 +1,61 @@
+{
+    "title": "Shallow fried popcorn chicken",
+    "ingredients": [
+        {
+            "name": "chicken leftovers",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "70",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

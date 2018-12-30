@@ -1,0 +1,46 @@
+{
+    "title": "Thick and Creamy Potato Soup",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion flakes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

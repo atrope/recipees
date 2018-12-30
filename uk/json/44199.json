@@ -1,0 +1,31 @@
+{
+    "title": "Baked apple dessert",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "oats",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

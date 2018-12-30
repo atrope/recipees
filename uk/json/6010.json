@@ -1,0 +1,71 @@
+{
+    "title": "Bloke's chilli",
+    "ingredients": [
+        {
+            "name": "minced beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "kidney beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch paprika",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch cayenne",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "leaf ingredient",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "spaghetti pasta",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oil cooking",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

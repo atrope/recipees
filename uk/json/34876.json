@@ -1,0 +1,46 @@
+{
+    "title": "Triple chocolate brownie",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

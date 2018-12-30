@@ -1,0 +1,51 @@
+{
+    "title": "Baked onion bhaji",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "gram flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

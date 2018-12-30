@@ -1,0 +1,21 @@
+{
+    "title": "Hot sauce",
+    "ingredients": [
+        {
+            "name": "green",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

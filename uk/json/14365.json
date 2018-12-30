@@ -1,0 +1,31 @@
+{
+    "title": "Italian Cream Cheese Torta",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "pesto",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

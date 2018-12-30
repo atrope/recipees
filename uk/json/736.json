@@ -1,0 +1,51 @@
+{
+    "title": "Apple barbecue sauce",
+    "ingredients": [
+        {
+            "name": "apple",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

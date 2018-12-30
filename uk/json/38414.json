@@ -1,0 +1,21 @@
+{
+    "title": "Two ingredient ice cream",
+    "ingredients": [
+        {
+            "name": "double cream whipping",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flavours",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

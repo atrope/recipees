@@ -1,0 +1,56 @@
+{
+    "title": "Crab Quiche",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "crab meat flaked",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "wine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

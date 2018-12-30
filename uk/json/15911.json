@@ -1,0 +1,51 @@
+{
+    "title": "Baked Apple Pork Chops",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oil lard dish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pork",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

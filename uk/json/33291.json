@@ -1,0 +1,36 @@
+{
+    "title": "Cuban ambrosia",
+    "ingredients": [
+        {
+            "name": "mango",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mayonaise",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "fruit cocktail",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coconut syrup",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

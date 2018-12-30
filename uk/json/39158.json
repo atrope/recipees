@@ -1,0 +1,26 @@
+{
+    "title": "Haggis pie",
+    "ingredients": [
+        {
+            "name": "haggis",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leftover",
+            "quantity": "150",
+            "type": "-"
+        },
+        {
+            "name": "leftover",
+            "quantity": "150",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

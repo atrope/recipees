@@ -1,0 +1,76 @@
+{
+    "title": "Turkey and red wine casserole",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "turkey steaks",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "shallots",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "600-700",
+            "type": "ml"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "parsley thyme leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garnish chervil parsley",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Lemon cream pots with amaretto cherries",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "zest juice lemons",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "amaretto liqueur",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "toasted almonds",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mint garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

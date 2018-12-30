@@ -1,0 +1,71 @@
+{
+    "title": "Leek and ham pasta",
+    "ingredients": [
+        {
+            "name": "leeks",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "5-6",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pappardelle tagliatelle pasta",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "stock",
+            "quantity": "600",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

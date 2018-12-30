@@ -1,0 +1,46 @@
+{
+    "title": "Polish braised beef",
+    "ingredients": [
+        {
+            "name": "steak beef brisket",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

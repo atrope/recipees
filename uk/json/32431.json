@@ -1,0 +1,51 @@
+{
+    "title": "Piquant potato salad",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salad cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cherry peppers",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

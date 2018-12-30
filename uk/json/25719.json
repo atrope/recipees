@@ -1,0 +1,66 @@
+{
+    "title": "Throw it in! beef stew and dumplins",
+    "ingredients": [
+        {
+            "name": "carrots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "barley",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "stewing beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "gravy",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "suet",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Fried cod fish with pineapple sauce",
+    "ingredients": [
+        {
+            "name": "fillets water",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cooking oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

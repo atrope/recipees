@@ -1,0 +1,46 @@
+{
+    "title": "Microwave banana sponge pudding",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

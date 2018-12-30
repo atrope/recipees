@@ -1,0 +1,51 @@
+{
+    "title": "Chocolate sandwich cupcakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate spread",
+            "quantity": "140",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

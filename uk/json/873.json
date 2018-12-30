@@ -1,0 +1,36 @@
+{
+    "title": "Balsamic Mushrooms",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

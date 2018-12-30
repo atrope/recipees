@@ -1,0 +1,41 @@
+{
+    "title": "Salmon cream cheese spread",
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "horseradish",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salmon flaked",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch parsley",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

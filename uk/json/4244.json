@@ -1,0 +1,46 @@
+{
+    "title": "Cauliflower and Broccoli with Gorgonzola",
+    "ingredients": [
+        {
+            "name": "cauliflower",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "21/2",
+            "type": "tbsp"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "cheese crumbled",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

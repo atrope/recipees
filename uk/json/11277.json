@@ -1,0 +1,56 @@
+{
+    "title": "Simple French bread",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "yeast",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "95",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "yeast",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "825",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "polenta cornmeal",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

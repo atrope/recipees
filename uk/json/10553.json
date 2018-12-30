@@ -1,0 +1,56 @@
+{
+    "title": "Chicken Valdostana",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "prosciutto",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "fontina cheese",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Cheesy tomato and bacon pasta bake",
+    "ingredients": [
+        {
+            "name": "sunflower oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic puree",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheddar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "parmesan",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pasta",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

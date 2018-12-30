@@ -1,0 +1,31 @@
+{
+    "title": "Raspberry walnut salad",
+    "ingredients": [
+        {
+            "name": "salad greens",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar olive oil",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

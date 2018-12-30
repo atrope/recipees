@@ -1,0 +1,31 @@
+{
+    "title": "Perfectly pumpkin scones",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin puree",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

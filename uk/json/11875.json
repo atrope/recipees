@@ -1,0 +1,26 @@
+{
+    "title": "Baked Wasabi Salmon",
+    "ingredients": [
+        {
+            "name": "salmon fillet",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "wasabi powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potato",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

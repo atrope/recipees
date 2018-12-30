@@ -1,0 +1,36 @@
+{
+    "title": "Dairy free coconut creme caramel",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut toasted",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

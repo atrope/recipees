@@ -1,0 +1,71 @@
+{
+    "title": "Raspberry nougat ice cream dessert",
+    "ingredients": [
+        {
+            "name": "parfait",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "165",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "toasted almond",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "nougat",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "berry compote",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

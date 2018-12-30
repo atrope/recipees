@@ -1,0 +1,46 @@
+{
+    "title": "Jerk seasoning",
+    "ingredients": [
+        {
+            "name": "minced onion",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "allspice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

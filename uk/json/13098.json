@@ -1,0 +1,51 @@
+{
+    "title": "Slow cooker beef silverside",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef silverside",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

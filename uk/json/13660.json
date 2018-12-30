@@ -1,0 +1,31 @@
+{
+    "title": "Healthy coleslaw",
+    "ingredients": [
+        {
+            "name": "cabbage",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

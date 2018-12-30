@@ -1,0 +1,71 @@
+{
+    "title": "Oreo\u00ae cupcakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "icing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vanilla icing",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate sprinkles",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

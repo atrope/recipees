@@ -1,0 +1,41 @@
+{
+    "title": "Sorted's rocky road",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

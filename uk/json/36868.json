@@ -1,0 +1,56 @@
+{
+    "title": "Quick mince hotpot",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "beef mince",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef gravy",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

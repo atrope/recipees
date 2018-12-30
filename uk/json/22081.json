@@ -1,0 +1,61 @@
+{
+    "title": "Tofu Lasagne",
+    "ingredients": [
+        {
+            "name": "lasagne",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "tofu chicken",
+            "quantity": "335",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pasta sauce",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Kate's cream scones",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "480",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "180",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

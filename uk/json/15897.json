@@ -1,0 +1,46 @@
+{
+    "title": "Classic Italian Tiramisu",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "espresso",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "brandy",
+            "quantity": "40",
+            "type": "ml"
+        },
+        {
+            "name": "sponge fingers",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

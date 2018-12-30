@@ -1,0 +1,46 @@
+{
+    "title": "Creamy tuna and mushroom pasta bake",
+    "ingredients": [
+        {
+            "name": "egg pasta",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "garden peas",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "tuna",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream mushroom soup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "potato",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

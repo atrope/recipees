@@ -1,0 +1,86 @@
+{
+    "title": "Pasta bake for a crowd",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "pasta sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "pepperoni chorizo",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pasta macaroni",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "fusilli pasta",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

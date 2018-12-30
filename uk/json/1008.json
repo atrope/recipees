@@ -1,0 +1,36 @@
+{
+    "title": "Black bean and salsa soup",
+    "ingredients": [
+        {
+            "name": "beans",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "tomato salsa dip",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cream yoghurt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

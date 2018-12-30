@@ -1,0 +1,41 @@
+{
+    "title": "Pesto mash",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "skimmedmilk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "green pesto",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Simple Yorkshire puddings",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable sunflower oil",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

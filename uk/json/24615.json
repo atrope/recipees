@@ -1,0 +1,51 @@
+{
+    "title": "Homemade slow cooker baked beans",
+    "ingredients": [
+        {
+            "name": "beans",
+            "quantity": "625",
+            "type": "g"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "treacle",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

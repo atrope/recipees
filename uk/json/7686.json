@@ -1,0 +1,31 @@
+{
+    "title": "Raspberry Sauce",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

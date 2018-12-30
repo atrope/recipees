@@ -1,0 +1,36 @@
+{
+    "title": "White chocolate and blueberry cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "175",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

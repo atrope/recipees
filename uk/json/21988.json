@@ -1,0 +1,41 @@
+{
+    "title": "Tasty tuna pasta",
+    "ingredients": [
+        {
+            "name": "fettuccine pasta",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "tuna",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese pasta sauce",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

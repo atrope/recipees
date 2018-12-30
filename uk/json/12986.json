@@ -1,0 +1,66 @@
+{
+    "title": "Nutty pea salad",
+    "ingredients": [
+        {
+            "name": "peas",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "145",
+            "type": "g"
+        },
+        {
+            "name": "macadamia nuts toasted",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "water chestnuts",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

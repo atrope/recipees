@@ -1,0 +1,61 @@
+{
+    "title": "New Orleans Bread Pudding",
+    "ingredients": [
+        {
+            "name": "loaf bread",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pecans",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

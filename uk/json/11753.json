@@ -1,0 +1,41 @@
+{
+    "title": "Spicy baked chips",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon pepper",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

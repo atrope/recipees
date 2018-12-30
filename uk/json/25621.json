@@ -1,0 +1,36 @@
+{
+    "title": "Almost fat free tea loaf",
+    "ingredients": [
+        {
+            "name": "raisins",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "tea",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "allspice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Wholemeal sweet potato bread",
+    "ingredients": [
+        {
+            "name": "sweet potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple sauce",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "maple syrup honey",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

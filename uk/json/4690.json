@@ -1,0 +1,51 @@
+{
+    "title": "Honey-sweetened challah",
+    "ingredients": [
+        {
+            "name": "sachet bread yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Simple chestnut soup",
+    "ingredients": [
+        {
+            "name": "chestnuts",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "water vegetable stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

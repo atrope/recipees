@@ -1,0 +1,61 @@
+{
+    "title": "Salmon and cream cheese crepes",
+    "ingredients": [
+        {
+            "name": "crepes",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream cheese temperature",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

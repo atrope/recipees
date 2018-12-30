@@ -1,0 +1,21 @@
+{
+    "title": "Champagne with Strawberries",
+    "ingredients": [
+        {
+            "name": "lemon sorbet",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "champagne",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

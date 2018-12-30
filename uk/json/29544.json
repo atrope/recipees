@@ -1,0 +1,31 @@
+{
+    "title": "Healthy filling apple crumble",
+    "ingredients": [
+        {
+            "name": "cooking apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "85",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

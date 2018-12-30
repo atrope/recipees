@@ -1,0 +1,66 @@
+{
+    "title": "Prawn and rice salad",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "chicken vegetable stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "avocados",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

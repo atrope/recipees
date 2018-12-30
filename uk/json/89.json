@@ -1,0 +1,41 @@
+{
+    "title": "Korean-style seaweed soup",
+    "ingredients": [
+        {
+            "name": "seaweed",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fillet steak",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

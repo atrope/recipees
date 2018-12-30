@@ -1,0 +1,36 @@
+{
+    "title": "Oat, fruit and banana bars",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "fruit sultanas",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

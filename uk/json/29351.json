@@ -1,0 +1,46 @@
+{
+    "title": "Wickedly wild mushroom soup",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "chestnut mushrooms",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "stock",
+            "quantity": "1.2L",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

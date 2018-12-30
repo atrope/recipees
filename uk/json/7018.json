@@ -1,0 +1,71 @@
+{
+    "title": "Almond Pastries",
+    "ingredients": [
+        {
+            "name": "almond paste",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "almond",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "amaretto liqueur",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": "3",
+            "type": "kg"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flaked almonds garnish",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

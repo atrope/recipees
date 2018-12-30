@@ -1,0 +1,61 @@
+{
+    "title": "White chocolate and raspberry cheesecake",
+    "ingredients": [
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "biscuit",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

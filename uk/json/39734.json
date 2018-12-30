@@ -1,0 +1,46 @@
+{
+    "title": "Farro, kale and feta salad",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "farro",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "kale",
+            "quantity": "135",
+            "type": "g"
+        },
+        {
+            "name": "feta cheese",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

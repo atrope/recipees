@@ -1,0 +1,46 @@
+{
+    "title": "Greek beetroot and yoghurt salad",
+    "ingredients": [
+        {
+            "name": "beetroots",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Rainbow sponge cake",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sponge cake",
+            "quantity": "520",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "325",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "paste",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange paste",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "yellow paste",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "green paste",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "paste",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "paste",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

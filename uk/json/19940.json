@@ -1,0 +1,56 @@
+{
+    "title": "Soft White Bread",
+    "ingredients": [
+        {
+            "name": "baking yeast",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "potato flakes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

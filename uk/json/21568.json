@@ -1,0 +1,21 @@
+{
+    "title": "Peanut butter chocolate fudge",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "smooth peanut butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "180",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

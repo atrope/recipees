@@ -1,0 +1,71 @@
+{
+    "title": "Vegetable Cannelloni",
+    "ingredients": [
+        {
+            "name": "mushrooms",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lasagne",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "750",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

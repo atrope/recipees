@@ -1,0 +1,46 @@
+{
+    "title": "Chocolate Cherry Bites",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "35",
+            "type": "kg"
+        },
+        {
+            "name": "cocktail cherries",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

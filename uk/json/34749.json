@@ -1,0 +1,46 @@
+{
+    "title": "American-style buttermilk biscuits",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "230",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

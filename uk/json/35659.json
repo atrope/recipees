@@ -1,0 +1,81 @@
+{
+    "title": "Coffee and walnut cake traybake",
+    "ingredients": [
+        {
+            "name": "cake",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coffee",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "icing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coffee",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "walnut",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Gluten free peanut butter cookies",
+    "ingredients": [
+        {
+            "name": "peanut butter",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "180",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

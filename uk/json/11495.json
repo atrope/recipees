@@ -1,0 +1,61 @@
+{
+    "title": "Best French Onion Soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "1.2",
+            "type": "-"
+        },
+        {
+            "name": "sherry",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "baguette",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

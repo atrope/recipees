@@ -1,0 +1,81 @@
+{
+    "title": "Mango cheesecake",
+    "ingredients": [
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "saffron",
+            "quantity": "10-12",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50-60",
+            "type": "g"
+        },
+        {
+            "name": "zest lime",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sachet gelatine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mango syrup",
+            "quantity": "850",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "nutmeg cardamom",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sachet gelatine",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

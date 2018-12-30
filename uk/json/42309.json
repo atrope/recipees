@@ -1,0 +1,61 @@
+{
+    "title": "Neapolitan shortbread",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "310",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "almond",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "baking chocolate",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

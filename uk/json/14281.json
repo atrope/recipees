@@ -1,0 +1,56 @@
+{
+    "title": "Beef and bean casserole",
+    "ingredients": [
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "kidney beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

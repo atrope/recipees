@@ -1,0 +1,46 @@
+{
+    "title": "Creamy Dill and Tarragon Salmon",
+    "ingredients": [
+        {
+            "name": "yoghurt",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tarragon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salmon fillets",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

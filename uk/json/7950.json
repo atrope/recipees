@@ -1,0 +1,31 @@
+{
+    "title": "Blender hollandaise sauce",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

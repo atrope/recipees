@@ -1,0 +1,41 @@
+{
+    "title": "Taco spice mix",
+    "ingredients": [
+        {
+            "name": "powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

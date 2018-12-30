@@ -1,0 +1,36 @@
+{
+    "title": "Asparagus and pancetta salad",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pancetta",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

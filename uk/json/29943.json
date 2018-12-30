@@ -1,0 +1,76 @@
+{
+    "title": "Fish and bacon chowder",
+    "ingredients": [
+        {
+            "name": "rashers bacon",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "grain rice",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "smoked haddock cod",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "peas",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parsley garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

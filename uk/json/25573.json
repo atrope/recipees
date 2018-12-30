@@ -1,0 +1,46 @@
+{
+    "title": "Chocolate orange tart",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "zest oranges",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange curd",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

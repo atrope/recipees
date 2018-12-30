@@ -1,0 +1,31 @@
+{
+    "title": "Lavender-infused lemonade",
+    "ingredients": [
+        {
+            "name": "boiling water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "lavender flowers",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

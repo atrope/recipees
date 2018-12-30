@@ -1,0 +1,81 @@
+{
+    "title": "Catalan style baked fish",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomatoes wedges",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "steaks",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oregano",
+            "quantity": "2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

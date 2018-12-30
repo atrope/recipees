@@ -1,0 +1,56 @@
+{
+    "title": "Tomato and Cabbage Soup",
+    "ingredients": [
+        {
+            "name": "carrots",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "400",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

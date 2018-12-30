@@ -1,0 +1,46 @@
+{
+    "title": "Chicken and broccoli salad",
+    "ingredients": [
+        {
+            "name": "broccoli",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "apple cider vinegar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "bacon crumbled",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

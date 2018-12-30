@@ -1,0 +1,36 @@
+{
+    "title": "Italian lemon chicken",
+    "ingredients": [
+        {
+            "name": "lemon juice",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

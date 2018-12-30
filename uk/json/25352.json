@@ -1,0 +1,46 @@
+{
+    "title": "Banana and sultana muffins",
+    "ingredients": [
+        {
+            "name": "butter sunflower spread",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "114",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

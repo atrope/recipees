@@ -1,0 +1,36 @@
+{
+    "title": "Choconut macaroons",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "almond paste",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coconut",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cream tartar",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

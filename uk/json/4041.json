@@ -1,0 +1,41 @@
+{
+    "title": "Salad of prawns with avocado and pink grapefruit",
+    "ingredients": [
+        {
+            "name": "pink grapefruit",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "avocado",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "watercress",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "prawns",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

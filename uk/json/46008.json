@@ -1,0 +1,61 @@
+{
+    "title": "Sweet potato and spinach risotto with chicken",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "sweet potato",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "spinach",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

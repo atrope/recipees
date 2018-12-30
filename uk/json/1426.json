@@ -1,0 +1,21 @@
+{
+    "title": "Strawberry jam",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

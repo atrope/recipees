@@ -1,0 +1,66 @@
+{
+    "title": "Spiced lemon loaf cake",
+    "ingredients": [
+        {
+            "name": "butter temperature",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "milk powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mace",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "White chocolate and raspberry shortbread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "raspberry",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

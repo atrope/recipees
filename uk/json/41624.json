@@ -1,0 +1,66 @@
+{
+    "title": "Easy bagels",
+    "ingredients": [
+        {
+            "name": "dough",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "yeast",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "bagel dough",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "135",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "poppy",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sesame",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Strawberry cream cheese cobbler",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "strawberry",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

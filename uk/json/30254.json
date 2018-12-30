@@ -1,0 +1,71 @@
+{
+    "title": "Banana bread loaf",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "560",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

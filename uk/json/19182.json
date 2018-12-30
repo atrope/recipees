@@ -1,0 +1,56 @@
+{
+    "title": "Creamy Gruyere Chicken Bake",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cream chicken soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "croutons",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

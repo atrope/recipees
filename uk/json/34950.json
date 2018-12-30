@@ -1,0 +1,61 @@
+{
+    "title": "Mango upside down cake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Mushroom pie",
+    "ingredients": [
+        {
+            "name": "mushrooms",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "shortcrust pastry",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

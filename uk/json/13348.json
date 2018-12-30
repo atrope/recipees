@@ -1,0 +1,61 @@
+{
+    "title": "Perfect pumpkin pie",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pumpkin puree",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "shortcrust pastry",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

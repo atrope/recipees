@@ -1,0 +1,36 @@
+{
+    "title": "Sugar-free Berry Sorbet",
+    "ingredients": [
+        {
+            "name": "granular",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

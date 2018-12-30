@@ -1,0 +1,46 @@
+{
+    "title": "Lemon and thyme roast chicken with an Algerian twist",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch thyme",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

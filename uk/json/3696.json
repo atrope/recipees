@@ -1,0 +1,46 @@
+{
+    "title": "Turkey with smoked chilli sauce",
+    "ingredients": [
+        {
+            "name": "chipotle",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "chicken vegetable stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "turkey steak fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garnish thyme",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

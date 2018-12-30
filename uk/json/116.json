@@ -1,0 +1,116 @@
+{
+    "title": "Bob's beer chilli",
+    "ingredients": [
+        {
+            "name": "minced beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "smoked bacon lardons",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chorizo sausage",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pickled",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "kidney beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beef stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "puree",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch peppercorns",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ale",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

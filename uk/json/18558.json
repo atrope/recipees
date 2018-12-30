@@ -1,0 +1,81 @@
+{
+    "title": "Mince and barley supper",
+    "ingredients": [
+        {
+            "name": "barley",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "basil",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "kidney beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

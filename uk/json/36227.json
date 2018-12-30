@@ -1,0 +1,41 @@
+{
+    "title": "Mia's chocolate brownies",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "pinch",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "70",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

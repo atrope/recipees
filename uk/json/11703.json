@@ -1,0 +1,41 @@
+{
+    "title": "Strawberry, Ginger and Mint Syrup",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "mint",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "235",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

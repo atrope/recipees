@@ -1,0 +1,51 @@
+{
+    "title": "Luxury chicken liver pate",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tart apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken livers",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

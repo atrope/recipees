@@ -1,0 +1,41 @@
+{
+    "title": "Easy pavlova",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "fruits",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

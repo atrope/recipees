@@ -1,0 +1,31 @@
+{
+    "title": "Kumquat marmalade",
+    "ingredients": [
+        {
+            "name": "kumquats",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "oranges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "75",
+            "type": "kg"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Moist Carrot Cake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "440",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cooking oil",
+            "quantity": "425",
+            "type": "ml"
+        },
+        {
+            "name": "spice",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

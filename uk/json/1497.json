@@ -1,0 +1,51 @@
+{
+    "title": "Fennel, watercress and tomato salad",
+    "ingredients": [
+        {
+            "name": "wine vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tarragon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fennel seed",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "watercress",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "fennel",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

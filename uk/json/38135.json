@@ -1,0 +1,51 @@
+{
+    "title": "Moroccan carrot salad",
+    "ingredients": [
+        {
+            "name": "carrots",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "paprika",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

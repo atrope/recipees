@@ -1,0 +1,36 @@
+{
+    "title": "Bright pepper and salami salad",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "vinaigrette",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "green yellow pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salami",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

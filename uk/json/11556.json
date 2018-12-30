@@ -1,0 +1,46 @@
+{
+    "title": "Smoked Salmon Pate",
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "smoked salmon flaked",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fish seasoning",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

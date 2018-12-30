@@ -1,0 +1,36 @@
+{
+    "title": "Rhubarb Compote",
+    "ingredients": [
+        {
+            "name": "rhubarb",
+            "quantity": "4",
+            "type": "kg"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cloves",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "jelly",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

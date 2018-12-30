@@ -1,0 +1,36 @@
+{
+    "title": "Strawberry tartlets",
+    "ingredients": [
+        {
+            "name": "tart",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

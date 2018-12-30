@@ -1,0 +1,26 @@
+{
+    "title": "Basic sweet pastry",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "ice water",
+            "quantity": "80",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

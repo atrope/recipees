@@ -1,0 +1,46 @@
+{
+    "title": "Fresh cucumber and tomato salad",
+    "ingredients": [
+        {
+            "name": "cucumbers",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "sweet onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "malt vinegar",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery seed",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

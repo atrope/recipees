@@ -1,0 +1,61 @@
+{
+    "title": "Fish pie parcels",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "shallot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vodka",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "fish cod haddock salmon pollock",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "leaf parsley",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": "375",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

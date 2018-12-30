@@ -1,0 +1,56 @@
+{
+    "title": "Salmon and broccoli pasta salad",
+    "ingredients": [
+        {
+            "name": "farfalle pasta",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salmon",
+            "quantity": "300",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

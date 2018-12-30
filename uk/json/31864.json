@@ -1,0 +1,31 @@
+{
+    "title": "J's roast beef in pastry",
+    "ingredients": [
+        {
+            "name": "beef brisket",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mushroom",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk egg",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Beer bread \"The Poacher's loaf\"",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sourdough",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "beer",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

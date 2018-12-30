@@ -1,0 +1,41 @@
+{
+    "title": "Ajoblanco (Spanish almond soup)",
+    "ingredients": [
+        {
+            "name": "almonds",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "green grapes",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

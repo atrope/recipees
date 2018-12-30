@@ -1,0 +1,31 @@
+{
+    "title": "Sausage and bean melt",
+    "ingredients": [
+        {
+            "name": "sausages",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

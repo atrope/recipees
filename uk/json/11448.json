@@ -1,0 +1,41 @@
+{
+    "title": "Salmon and spinach en croute",
+    "ingredients": [
+        {
+            "name": "salmon fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pastry",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "pesto",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "175",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

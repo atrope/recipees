@@ -1,0 +1,31 @@
+{
+    "title": "Potato pastry",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "flour",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

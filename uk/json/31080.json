@@ -1,0 +1,56 @@
+{
+    "title": "Five-a-day soup",
+    "ingredients": [
+        {
+            "name": "vegetable stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "1.2L",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "green vegetables broccoli cabbage leek kale",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

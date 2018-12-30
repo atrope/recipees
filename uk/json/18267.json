@@ -1,0 +1,51 @@
+{
+    "title": "Black eye bean burritos",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour tortillas",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

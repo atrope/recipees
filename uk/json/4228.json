@@ -1,0 +1,61 @@
+{
+    "title": "Smoked Salmon Pancakes",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "frache",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sunflower olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "roe",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "dill chives garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

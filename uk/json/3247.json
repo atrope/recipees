@@ -1,0 +1,61 @@
+{
+    "title": "Lamb and brown rice salad",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lamb steaks",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "beans",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "olives",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "vinaigrette",
+            "quantity": "5",
+            "type": "tbsp"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

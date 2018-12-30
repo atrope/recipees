@@ -1,0 +1,36 @@
+{
+    "title": "Savoury rice pudding",
+    "ingredients": [
+        {
+            "name": "risotto rice",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "shallot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "savoury rice spice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken vegetable stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "200",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

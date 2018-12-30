@@ -1,0 +1,36 @@
+{
+    "title": "Soul warming punch",
+    "ingredients": [
+        {
+            "name": "oranges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemons",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "tea",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

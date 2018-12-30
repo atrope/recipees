@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate chip cookie ice cream cake",
+    "ingredients": [
+        {
+            "name": "chocolate cookies",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "chocolate sauce",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla ice cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cherries",
+            "quantity": "12",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

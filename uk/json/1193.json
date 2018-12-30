@@ -1,0 +1,41 @@
+{
+    "title": "Chicken with Tomatoes and Olives",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

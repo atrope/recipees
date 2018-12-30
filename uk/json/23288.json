@@ -1,0 +1,41 @@
+{
+    "title": "Banana Spring Rolls",
+    "ingredients": [
+        {
+            "name": "oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "roll",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

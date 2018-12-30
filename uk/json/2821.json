@@ -1,0 +1,76 @@
+{
+    "title": "Mozzarella in carrozza",
+    "ingredients": [
+        {
+            "name": "bread total",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes oil",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": "16",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange salad",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oranges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Apple carrot bran muffins",
+    "ingredients": [
+        {
+            "name": "wheat bran",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "oat bran",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "nuts",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple peel",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "margarine spread",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "350",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

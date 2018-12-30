@@ -1,0 +1,36 @@
+{
+    "title": "Sarah's savoury bread and cheese pudding",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

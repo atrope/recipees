@@ -1,0 +1,21 @@
+{
+    "title": "Aunt Gemmy's roast potatoes",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "chicken crumbled",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "20",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

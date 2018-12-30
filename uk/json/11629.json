@@ -1,0 +1,101 @@
+{
+    "title": "Chowder with Smoked Salmon",
+    "ingredients": [
+        {
+            "name": "bacon",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "fish stock",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1.2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "smoked salmon flaked",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

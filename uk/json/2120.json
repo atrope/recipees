@@ -1,0 +1,36 @@
+{
+    "title": "Easy lentil soup",
+    "ingredients": [
+        {
+            "name": "lentils",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "2L",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

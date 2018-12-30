@@ -1,0 +1,66 @@
+{
+    "title": "Banana, carrot and courgette loaf",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "bananas",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "courgette",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "walnuts pecans",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

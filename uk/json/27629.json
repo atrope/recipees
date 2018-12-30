@@ -1,0 +1,56 @@
+{
+    "title": "Fusilli with fresh tuna, olives and tomatoes",
+    "ingredients": [
+        {
+            "name": "fusilli pasta",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "capers",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tuna steak",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

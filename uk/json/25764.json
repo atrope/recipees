@@ -1,0 +1,21 @@
+{
+    "title": "Vegan super silky puff pastry",
+    "ingredients": [
+        {
+            "name": "spread",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "water temperature",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

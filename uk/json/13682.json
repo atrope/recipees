@@ -1,0 +1,36 @@
+{
+    "title": "Delicious toffee apples",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "30",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "syrup",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "mineral water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "blackcurrant cordial",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lollipop",
+            "quantity": "30",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

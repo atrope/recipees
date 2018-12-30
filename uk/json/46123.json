@@ -1,0 +1,76 @@
+{
+    "title": "Millionaire\u2019s flapjack",
+    "ingredients": [
+        {
+            "name": "flapjack",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "treacle",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "rum flavouring",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caramel",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

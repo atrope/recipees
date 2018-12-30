@@ -1,0 +1,71 @@
+{
+    "title": "Glenda's gingerbread pancakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "spice pumpkin pie",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "treacle",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "coconut oil",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

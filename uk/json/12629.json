@@ -1,0 +1,46 @@
+{
+    "title": "Creamy chicken and sweetcorn bake",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bacon rashers",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "sachets chicken noodle soup",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

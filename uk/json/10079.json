@@ -1,0 +1,36 @@
+{
+    "title": "Cool Green Mocktail",
+    "ingredients": [
+        {
+            "name": "fruit",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

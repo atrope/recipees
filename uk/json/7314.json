@@ -1,0 +1,51 @@
+{
+    "title": "Georgie's mango papaya salad",
+    "ingredients": [
+        {
+            "name": "mango",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "papaya",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

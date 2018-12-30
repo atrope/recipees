@@ -1,0 +1,66 @@
+{
+    "title": "Chocolate lover's cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuit",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

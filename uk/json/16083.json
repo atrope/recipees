@@ -1,0 +1,31 @@
+{
+    "title": "White chocolate mousse",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "orange liqueur",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Cinnamon drizzle cake",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon cake",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon icing",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water icing",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

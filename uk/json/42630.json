@@ -1,0 +1,36 @@
+{
+    "title": "Slow cooker fruit compote",
+    "ingredients": [
+        {
+            "name": "fruit",
+            "quantity": "850",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "orange zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

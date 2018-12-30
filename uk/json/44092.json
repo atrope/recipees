@@ -1,0 +1,21 @@
+{
+    "title": "Old-fashioned lemonade",
+    "ingredients": [
+        {
+            "name": "lemons",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1.2L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

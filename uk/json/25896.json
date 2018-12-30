@@ -1,0 +1,36 @@
+{
+    "title": "Basic cupcakes",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

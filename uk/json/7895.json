@@ -1,0 +1,56 @@
+{
+    "title": "Yakisoba chicken stir fry",
+    "ingredients": [
+        {
+            "name": "sesame oil",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "paste",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "soba noodles",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

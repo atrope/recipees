@@ -1,0 +1,66 @@
+{
+    "title": "Broccoli souffl\u00e9",
+    "ingredients": [
+        {
+            "name": "broccoli",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "230",
+            "type": "ml"
+        },
+        {
+            "name": "chicken vegetable stock",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Coconut marzipan macaroons",
+    "ingredients": [
+        {
+            "name": "coconut",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "marzipan",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

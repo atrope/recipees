@@ -1,0 +1,56 @@
+{
+    "title": "Steak and kidney casserole",
+    "ingredients": [
+        {
+            "name": "flour salt pepper",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "steak kidney",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "280",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

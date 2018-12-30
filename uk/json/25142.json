@@ -1,0 +1,31 @@
+{
+    "title": "Green pea and bacon soup",
+    "ingredients": [
+        {
+            "name": "rashers bacon",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "garden peas",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Granny's coconut and corn flake bites",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "corn flakes",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Ham Pumpkin and Black Bean Soup",
+    "ingredients": [
+        {
+            "name": "beans",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin puree",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sherry vinegar",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

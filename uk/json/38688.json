@@ -1,0 +1,26 @@
+{
+    "title": "Icy milkshake in 5 minutes",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

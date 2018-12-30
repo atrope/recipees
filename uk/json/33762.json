@@ -1,0 +1,66 @@
+{
+    "title": "Venison pasties",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "venison steak",
+            "quantity": "35",
+            "type": "kg"
+        },
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

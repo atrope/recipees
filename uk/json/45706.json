@@ -1,0 +1,41 @@
+{
+    "title": "Soda bread with dried fruit",
+    "ingredients": [
+        {
+            "name": "sultanas",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "420",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

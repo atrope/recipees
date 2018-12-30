@@ -1,0 +1,66 @@
+{
+    "title": "Light Christmas Pudding",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "mace",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cooking apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mincemeat",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

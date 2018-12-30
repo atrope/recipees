@@ -1,0 +1,56 @@
+{
+    "title": "Curried lentils",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green lentils",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

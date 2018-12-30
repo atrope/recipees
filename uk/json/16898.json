@@ -1,0 +1,56 @@
+{
+    "title": "Chocolate Duo Ice Cream",
+    "ingredients": [
+        {
+            "name": "chocolate ice cream",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "ginger ice cream",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "lemon sorbet",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "mango sorbet",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "raspberry sorbet",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla ice cream",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "shortbread biscuits",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "fruit raspberries lemon mango",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

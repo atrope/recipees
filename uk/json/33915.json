@@ -1,0 +1,51 @@
+{
+    "title": "Classic brioche bread and butter pudding",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "brioche",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "White chocolate chip muffins",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

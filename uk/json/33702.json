@@ -1,0 +1,51 @@
+{
+    "title": "Classic bubble and squeak",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "swede",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

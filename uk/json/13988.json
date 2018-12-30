@@ -1,0 +1,61 @@
+{
+    "title": "Creamy vegetable stew",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "double cream",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

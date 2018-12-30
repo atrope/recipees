@@ -1,0 +1,31 @@
+{
+    "title": "Spicy mango chicken sandwich filler",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mango chutney",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

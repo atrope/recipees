@@ -1,0 +1,51 @@
+{
+    "title": "Soda beer bread",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "wholegrain rye flour",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caraway",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "buttermilk temperature",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "stout temperature",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

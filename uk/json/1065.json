@@ -1,0 +1,26 @@
+{
+    "title": "Breakfast Smoothie",
+    "ingredients": [
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

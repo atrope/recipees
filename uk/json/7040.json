@@ -1,0 +1,46 @@
+{
+    "title": "Cream of Spinach Soup",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "minced onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

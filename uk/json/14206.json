@@ -1,0 +1,56 @@
+{
+    "title": "Creamy Onion and White Wine Soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

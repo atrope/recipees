@@ -1,0 +1,51 @@
+{
+    "title": "Pumpkin delight pie",
+    "ingredients": [
+        {
+            "name": "vanilla dessert",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "pumpkin puree",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "allspice cloves",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "double cream",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "biscuit",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

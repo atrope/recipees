@@ -1,0 +1,36 @@
+{
+    "title": "Mussels with Shallots and White Wine",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "shallots minced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "mussels",
+            "quantity": "25",
+            "type": "kg"
+        },
+        {
+            "name": "parsley",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

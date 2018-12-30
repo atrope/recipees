@@ -1,0 +1,51 @@
+{
+    "title": "Spicy roasted chickpeas",
+    "ingredients": [
+        {
+            "name": "chickpeas",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Baked Salmon with Goat Cheese",
+    "ingredients": [
+        {
+            "name": "salmon fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "goat cheese",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

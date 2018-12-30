@@ -1,0 +1,36 @@
+{
+    "title": "Easy apple chutney",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "mustard",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

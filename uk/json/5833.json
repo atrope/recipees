@@ -1,0 +1,36 @@
+{
+    "title": "Thai cream of tuna soup",
+    "ingredients": [
+        {
+            "name": "coconut milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "chicken fish stock",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "green curry paste",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tuna",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Fresh mango salsa",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "mango",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

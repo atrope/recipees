@@ -1,0 +1,36 @@
+{
+    "title": "Creamy lemon mousse",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "gelatine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

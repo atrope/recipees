@@ -1,0 +1,61 @@
+{
+    "title": "Healthier Kedgeree",
+    "ingredients": [
+        {
+            "name": "smoked haddock",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "turmeric",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

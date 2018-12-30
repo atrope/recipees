@@ -1,0 +1,46 @@
+{
+    "title": "English Muffins",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sachet baking yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "polenta cornmeal",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Watermelon Grape Slush Puppy",
+    "ingredients": [
+        {
+            "name": "watermelon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "green grapes",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "ice",
+            "quantity": "15-20",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

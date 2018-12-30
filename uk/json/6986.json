@@ -1,0 +1,51 @@
+{
+    "title": "Leftover Chicken Croquettes",
+    "ingredients": [
+        {
+            "name": "chicken meat",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "herb seasoning",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oil frying",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

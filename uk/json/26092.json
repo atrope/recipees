@@ -1,0 +1,26 @@
+{
+    "title": "Strawberry and vanilla shake",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla yoghurt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

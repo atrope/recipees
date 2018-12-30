@@ -1,0 +1,61 @@
+{
+    "title": "BBQ-flavoured turkey pittas",
+    "ingredients": [
+        {
+            "name": "oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "turkey",
+            "quantity": "260",
+            "type": "g"
+        },
+        {
+            "name": "chicken seasoning",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "breads",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salad",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

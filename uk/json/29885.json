@@ -1,0 +1,31 @@
+{
+    "title": "Homemade strawberry ice cream",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "600",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Creamy potato and onion soup",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2.15",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

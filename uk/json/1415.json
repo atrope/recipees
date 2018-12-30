@@ -1,0 +1,46 @@
+{
+    "title": "Easy pizza sauce",
+    "ingredients": [
+        {
+            "name": "tomato",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Potato curry with peas and mushrooms",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "5cm",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "chestnut mushrooms",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

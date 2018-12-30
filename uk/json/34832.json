@@ -1,0 +1,46 @@
+{
+    "title": "Paleo pancakes",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "honey maple syrup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "almond flour almonds",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coconut oil frying",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

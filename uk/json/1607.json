@@ -1,0 +1,51 @@
+{
+    "title": "Abby's Souvlaki",
+    "ingredients": [
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pork fillet",
+            "quantity": "75",
+            "type": "kg"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "skewers",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

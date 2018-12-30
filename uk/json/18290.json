@@ -1,0 +1,66 @@
+{
+    "title": "Blueberry lemon cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Red Fish Stew (Bourtheto)",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fillets cod",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

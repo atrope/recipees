@@ -1,0 +1,41 @@
+{
+    "title": "Simple chicken noodle soup",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "egg noodles",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

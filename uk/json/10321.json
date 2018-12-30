@@ -1,0 +1,51 @@
+{
+    "title": "Baked salmon with mango rice",
+    "ingredients": [
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fillet salmon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "mango",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

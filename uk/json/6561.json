@@ -1,0 +1,21 @@
+{
+    "title": "Simple quesadillas",
+    "ingredients": [
+        {
+            "name": "flour tortillas",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salsa",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

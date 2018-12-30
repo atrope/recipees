@@ -1,0 +1,51 @@
+{
+    "title": "Banana and chocolate chip muffins",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange zest",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate cocoa",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

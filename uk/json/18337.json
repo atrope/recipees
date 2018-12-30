@@ -1,0 +1,61 @@
+{
+    "title": "Brandied Pecan Pie",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "treacle",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "brandy",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pecans",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

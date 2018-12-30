@@ -1,0 +1,51 @@
+{
+    "title": "Banana quinoa 'rice' pudding",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

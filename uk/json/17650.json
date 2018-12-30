@@ -1,0 +1,36 @@
+{
+    "title": "Fudgy Chocolate Icing",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

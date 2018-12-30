@@ -1,0 +1,56 @@
+{
+    "title": "Asparagus, tomato and feta salad",
+    "ingredients": [
+        {
+            "name": "rice vinegar",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "crumbled feta",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

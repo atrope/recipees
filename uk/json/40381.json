@@ -1,0 +1,46 @@
+{
+    "title": "Brown rice, seaweed and avocado salad",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "535",
+            "type": "ml"
+        },
+        {
+            "name": "rice",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "wakame seaweed",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "toasted sesame",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

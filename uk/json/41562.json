@@ -1,0 +1,61 @@
+{
+    "title": "Berbere (Ethiopian spice mix)",
+    "ingredients": [
+        {
+            "name": "powder",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "paprika",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fenugreek",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cardamom",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Easy Sausage Pasta Bake",
+    "ingredients": [
+        {
+            "name": "beef sausages",
+            "quantity": "6-8",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "enchilada sauce",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "macaroni pasta",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

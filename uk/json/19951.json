@@ -1,0 +1,31 @@
+{
+    "title": "Honey butter carrots",
+    "ingredients": [
+        {
+            "name": "carrots",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

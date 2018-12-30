@@ -1,0 +1,31 @@
+{
+    "title": "Blueberry kiwi smoothie",
+    "ingredients": [
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "ice",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,91 @@
+{
+    "title": "Sam's spaghetti Bolognese",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onions minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "steak mince",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "wineglass wine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wineglass wine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "herbes oregano herbs",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

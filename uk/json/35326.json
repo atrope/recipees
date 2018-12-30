@@ -1,0 +1,26 @@
+{
+    "title": "Fabulous flapjacks",
+    "ingredients": [
+        {
+            "name": "porridge oats",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

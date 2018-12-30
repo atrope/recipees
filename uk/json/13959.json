@@ -1,0 +1,41 @@
+{
+    "title": "Easy cream of mushroom soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.2",
+            "type": "-"
+        },
+        {
+            "name": "cube beef stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sherry",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

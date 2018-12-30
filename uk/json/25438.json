@@ -1,0 +1,81 @@
+{
+    "title": "Lebkuchen Christmas cookies",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "allspice",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "honey",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

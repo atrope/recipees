@@ -1,0 +1,46 @@
+{
+    "title": "Slow cooker lemon and thyme chicken",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "3",
+            "type": "kg"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemons",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "wine",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

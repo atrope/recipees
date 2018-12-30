@@ -1,0 +1,41 @@
+{
+    "title": "Naughty Chocy Sponge Trifle",
+    "ingredients": [
+        {
+            "name": "chocolate swiss roll",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "blackcurrent jelly",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "custard",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate flake",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sherry",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

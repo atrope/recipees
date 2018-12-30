@@ -1,0 +1,41 @@
+{
+    "title": "Sticky lemon cake",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon curd",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

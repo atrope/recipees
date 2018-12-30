@@ -1,0 +1,46 @@
+{
+    "title": "Mango mousse",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "sweet wine water",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "zest juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange flower water",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

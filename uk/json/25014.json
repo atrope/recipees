@@ -1,0 +1,51 @@
+{
+    "title": "Best ever cheese straws",
+    "ingredients": [
+        {
+            "name": "butter temperature",
+            "quantity": "165",
+            "type": "g"
+        },
+        {
+            "name": "cheese temperature",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

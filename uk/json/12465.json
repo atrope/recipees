@@ -1,0 +1,46 @@
+{
+    "title": "Biscuit mix for busy mums",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

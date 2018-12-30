@@ -1,0 +1,66 @@
+{
+    "title": "Deluxe chicken salad",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "capers",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green olives",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leaf parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tarragon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

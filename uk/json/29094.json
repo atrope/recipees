@@ -1,0 +1,46 @@
+{
+    "title": "Savoury potato pie",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mortadella",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

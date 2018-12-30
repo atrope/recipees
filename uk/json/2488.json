@@ -1,0 +1,56 @@
+{
+    "title": "Wheatgerm and Oat Bread",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "wheatgerm",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

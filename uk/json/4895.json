@@ -1,0 +1,56 @@
+{
+    "title": "Cheesy chicken and chive sauce",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "grain mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "chives",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

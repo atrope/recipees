@@ -1,0 +1,71 @@
+{
+    "title": "Creamy Vegetable Pie",
+    "ingredients": [
+        {
+            "name": "parsnips",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sweet potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "leeks",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "scone baking",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "175",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

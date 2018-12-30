@@ -1,0 +1,46 @@
+{
+    "title": "Easy gluten free bread",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "315",
+            "type": "ml"
+        },
+        {
+            "name": "yeast",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "gluten bread flour",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

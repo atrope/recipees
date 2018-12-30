@@ -1,0 +1,61 @@
+{
+    "title": "Creamy Caesar salad",
+    "ingredients": [
+        {
+            "name": "cloves garlic",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "8-10",
+            "type": "-"
+        },
+        {
+            "name": "anchovy fillets minced",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

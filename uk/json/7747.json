@@ -1,0 +1,36 @@
+{
+    "title": "Zesty Cherry and Grape Smoothie",
+    "ingredients": [
+        {
+            "name": "grapes",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pear syrup",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "orange juice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Rich chocolate biscotti",
+    "ingredients": [
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "espresso powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

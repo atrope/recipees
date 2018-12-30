@@ -1,0 +1,51 @@
+{
+    "title": "Easy coleslaw",
+    "ingredients": [
+        {
+            "name": "mayonnaise",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "650",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "minced sweet onion",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

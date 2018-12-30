@@ -1,0 +1,26 @@
+{
+    "title": "Mashed Potatoes with Baby Carrots",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "carrots carrot",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

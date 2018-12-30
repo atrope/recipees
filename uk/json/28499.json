@@ -1,0 +1,26 @@
+{
+    "title": "Biscuit ice cream sandwiches",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "2-3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

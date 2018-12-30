@@ -1,0 +1,66 @@
+{
+    "title": "Traditional English mincemeat",
+    "ingredients": [
+        {
+            "name": "sultanas",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "peel",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "suet",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "zest juice oranges",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "zest juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "apples",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": "85",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

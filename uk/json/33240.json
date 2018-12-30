@@ -1,0 +1,36 @@
+{
+    "title": "Lovely oat biscuits",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

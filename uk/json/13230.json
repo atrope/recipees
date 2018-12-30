@@ -1,0 +1,21 @@
+{
+    "title": "Super-Easy Fruit Cake",
+    "ingredients": [
+        {
+            "name": "fruit",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "chocolate milk",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

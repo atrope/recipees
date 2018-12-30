@@ -1,0 +1,71 @@
+{
+    "title": "Sweetcorn cakes with yoghurt sauce",
+    "ingredients": [
+        {
+            "name": "polenta cornmeal",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk water",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,86 @@
+{
+    "title": "Saintly Pumpkin Pie",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pumpkin puree",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

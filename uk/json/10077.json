@@ -1,0 +1,46 @@
+{
+    "title": "Cucumber, tomato and olive salad",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

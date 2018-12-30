@@ -1,0 +1,51 @@
+{
+    "title": "Farro salad with asparagus and Parmesan",
+    "ingredients": [
+        {
+            "name": "farro",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "yellow cherry tomatoes",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "chives",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "vinaigrette",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

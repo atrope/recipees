@@ -1,0 +1,36 @@
+{
+    "title": "Easy moist chocolate cupcakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

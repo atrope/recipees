@@ -1,0 +1,26 @@
+{
+    "title": "Golden flapjacks",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Seeded crispbreads",
+    "ingredients": [
+        {
+            "name": "pumpkin",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "rye flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "spelt flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "20",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

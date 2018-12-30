@@ -1,0 +1,66 @@
+{
+    "title": "Stir Fried Prawns and Green Beans",
+    "ingredients": [
+        {
+            "name": "green beans",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "prawns",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

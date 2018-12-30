@@ -1,0 +1,51 @@
+{
+    "title": "Moroccan ksra",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "semolina flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "anise seed",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sesame",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

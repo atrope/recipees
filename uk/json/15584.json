@@ -1,0 +1,71 @@
+{
+    "title": "Couscous and Chickpea Salad",
+    "ingredients": [
+        {
+            "name": "creamy salad",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "couscous",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flaked almonds toasted",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "chickpeas",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Pineapple glazed ham",
+    "ingredients": [
+        {
+            "name": "ham",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

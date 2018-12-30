@@ -1,0 +1,31 @@
+{
+    "title": "Honey glazed ham (alcohol free)",
+    "ingredients": [
+        {
+            "name": "ham",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "25",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

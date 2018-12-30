@@ -1,0 +1,46 @@
+{
+    "title": "Adobo seasoning",
+    "ingredients": [
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

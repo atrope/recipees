@@ -1,0 +1,76 @@
+{
+    "title": "Amarula bread and butter pudding with Amarula cream",
+    "ingredients": [
+        {
+            "name": "pudding",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "375",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "liqueur",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "liqueur",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "300",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

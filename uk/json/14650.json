@@ -1,0 +1,61 @@
+{
+    "title": "Autumn apple pie",
+    "ingredients": [
+        {
+            "name": "shortcrust pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "toffees",
+            "quantity": "9",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

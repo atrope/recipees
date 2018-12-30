@@ -1,0 +1,26 @@
+{
+    "title": "My nan's fruit crumble",
+    "ingredients": [
+        {
+            "name": "fruit",
+            "quantity": "675",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "margarine butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

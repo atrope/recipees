@@ -1,0 +1,41 @@
+{
+    "title": "Apple pie",
+    "ingredients": [
+        {
+            "name": "recipe pastry pie",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "apples",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

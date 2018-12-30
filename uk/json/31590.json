@@ -1,0 +1,31 @@
+{
+    "title": "Homemade cheese and onion sandwiches",
+    "ingredients": [
+        {
+            "name": "cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

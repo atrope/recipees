@@ -1,0 +1,21 @@
+{
+    "title": "Chocolate and Nut Clusters",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nuts peanuts cashew almonds",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Duck breasts with a port and cream sauce",
+    "ingredients": [
+        {
+            "name": "duck",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "redcurrant jelly",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "300",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

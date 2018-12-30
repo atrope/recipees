@@ -1,0 +1,61 @@
+{
+    "title": "Coconut Chocolate Chip Cookies",
+    "ingredients": [
+        {
+            "name": "butter temperature",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "330",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "315",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coconut",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

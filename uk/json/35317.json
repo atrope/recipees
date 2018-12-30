@@ -1,0 +1,61 @@
+{
+    "title": "Chocolate and hazelnut marble sandwich cake",
+    "ingredients": [
+        {
+            "name": "cake",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "hazelnuts",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "buttercream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

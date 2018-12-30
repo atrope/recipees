@@ -1,0 +1,86 @@
+{
+    "title": "Pasta with chicken and portabello mushrooms",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "wine",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "pasta sauce",
+            "quantity": "900",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

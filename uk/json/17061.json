@@ -1,0 +1,26 @@
+{
+    "title": "Lemon sorbet",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

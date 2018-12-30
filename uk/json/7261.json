@@ -1,0 +1,86 @@
+{
+    "title": "Thai cucumber soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cucumbers",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "green minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemongrass",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

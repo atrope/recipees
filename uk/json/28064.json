@@ -1,0 +1,26 @@
+{
+    "title": "Chocolate croissants",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

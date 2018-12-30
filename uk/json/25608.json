@@ -1,0 +1,31 @@
+{
+    "title": "Juliana's easiest creme caramel",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vanilla bean paste",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Slow cooker beef",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "salad",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "gravy",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "beef roast",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

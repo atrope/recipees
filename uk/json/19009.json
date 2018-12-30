@@ -1,0 +1,61 @@
+{
+    "title": "Chocolate cookie lollipops",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "chocolate smarties",
+            "quantity": "210",
+            "type": "g"
+        },
+        {
+            "name": "lollipop",
+            "quantity": "20",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

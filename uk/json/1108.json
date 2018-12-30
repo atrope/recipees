@@ -1,0 +1,26 @@
+{
+    "title": "Cantaloupe Melon and Berry Smoothie",
+    "ingredients": [
+        {
+            "name": "cantaloupe",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

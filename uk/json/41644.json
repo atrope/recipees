@@ -1,0 +1,36 @@
+{
+    "title": "White chocolate fondue",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "syrup",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

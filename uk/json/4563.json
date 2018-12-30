@@ -1,0 +1,56 @@
+{
+    "title": "Chocolate mice",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "chocolate biscuit",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate biscuit",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "liquorice",
+            "quantity": "12",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

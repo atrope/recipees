@@ -1,0 +1,36 @@
+{
+    "title": "Tomato and basil soup",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken vegetable stock",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "18",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "whipping double cream",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Buttoned-up gingerbread men",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sweets",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Apple and Quince Tart",
+    "ingredients": [
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "shortcrust pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "apples",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "quinces",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

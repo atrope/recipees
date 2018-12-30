@@ -1,0 +1,66 @@
+{
+    "title": "Easy Christmas cake",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cherries",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "peel",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

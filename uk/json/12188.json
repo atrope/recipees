@@ -1,0 +1,26 @@
+{
+    "title": "Dark Side Spicy Chocolate Truffles",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "335",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "liquorice",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "5",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

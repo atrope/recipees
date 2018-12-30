@@ -1,0 +1,31 @@
+{
+    "title": "Still rhubarb lemonade",
+    "ingredients": [
+        {
+            "name": "rhubarb",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "4.25L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Classic toad in the hole",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water milk beer",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cooking oil lard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sausages",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

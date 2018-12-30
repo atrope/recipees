@@ -1,0 +1,56 @@
+{
+    "title": "Baked Chicken and Rice",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chorizo",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "chicken drumsticks",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "rice",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

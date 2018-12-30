@@ -1,0 +1,46 @@
+{
+    "title": "Sweet and sour cucumber salad",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "115",
+            "type": "ml"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "115",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2-3",
+            "type": "-"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "3-4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

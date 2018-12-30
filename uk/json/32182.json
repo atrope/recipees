@@ -1,0 +1,31 @@
+{
+    "title": "Herb roasted potatoes",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "35",
+            "type": "kg"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

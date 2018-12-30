@@ -1,0 +1,36 @@
+{
+    "title": "Blue cheese and asparagus pizza",
+    "ingredients": [
+        {
+            "name": "bunch asparagus",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomato pasta sauce pizza",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "pizza",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "crumbled cheese",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

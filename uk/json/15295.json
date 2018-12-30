@@ -1,0 +1,41 @@
+{
+    "title": "Italian Egg Drop Soup",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "825",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "macaroni pasta",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

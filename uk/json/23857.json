@@ -1,0 +1,21 @@
+{
+    "title": "Kate's perfect roast potatoes",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

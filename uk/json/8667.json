@@ -1,0 +1,26 @@
+{
+    "title": "Brazilian Peanut Squares",
+    "ingredients": [
+        {
+            "name": "peanuts",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

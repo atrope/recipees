@@ -1,0 +1,46 @@
+{
+    "title": "Chocolate Coconut Pudding with Orange Sauce",
+    "ingredients": [
+        {
+            "name": "coconut",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange flower water",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oranges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "vanilla bean",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Baked apples",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "110",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

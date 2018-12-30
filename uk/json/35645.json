@@ -1,0 +1,61 @@
+{
+    "title": "Apple and almond squares",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pinch cloves",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fruit",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "nuts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cooking apples",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

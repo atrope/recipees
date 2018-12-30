@@ -1,0 +1,51 @@
+{
+    "title": "Fresh tomato and seafood linguine",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "prawns",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "scallops",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "linguine",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "parmesan cheese",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

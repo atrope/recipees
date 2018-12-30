@@ -1,0 +1,41 @@
+{
+    "title": "Sammy's new potato salad",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salad cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch cayenne pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

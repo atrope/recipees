@@ -1,0 +1,26 @@
+{
+    "title": "Icy banana milkshake",
+    "ingredients": [
+        {
+            "name": "banana",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "220",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla icecream",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sugar honey",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

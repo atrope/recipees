@@ -1,0 +1,31 @@
+{
+    "title": "Rock cakes wowsa",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

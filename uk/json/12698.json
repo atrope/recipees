@@ -1,0 +1,41 @@
+{
+    "title": "Steamed Fruit Pudding",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "315",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

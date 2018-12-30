@@ -1,0 +1,21 @@
+{
+    "title": "Mint chocolate syrup",
+    "ingredients": [
+        {
+            "name": "agave syrup",
+            "quantity": "680",
+            "type": "ml"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "mint",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Low sugar banana cake",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bananas",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Moist and delicious chocolate cake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "230",
+            "type": "ml"
+        },
+        {
+            "name": "oil vegetable sunflower",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla paste",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coffee",
+            "quantity": "230",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

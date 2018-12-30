@@ -1,0 +1,26 @@
+{
+    "title": "Hot salmon party dip",
+    "ingredients": [
+        {
+            "name": "cheese",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "smoked salmon flaked",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "hearts",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

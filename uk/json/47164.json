@@ -1,0 +1,31 @@
+{
+    "title": "Chocolate buttercream for cupcakes",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

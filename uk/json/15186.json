@@ -1,0 +1,46 @@
+{
+    "title": "Hot buttered rum",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla ice cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "simmering water",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Korean beef stir fry",
+    "ingredients": [
+        {
+            "name": "beef steak",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "pear",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice wine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sesame",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

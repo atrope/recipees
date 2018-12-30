@@ -1,0 +1,66 @@
+{
+    "title": "Hot mango chutney",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mango syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "anise",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cardamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fennel",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

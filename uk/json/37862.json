@@ -1,0 +1,46 @@
+{
+    "title": "Chocolate sorbet with olive oil and Greek basil",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "dairy chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

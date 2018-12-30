@@ -1,0 +1,21 @@
+{
+    "title": "Microwave chocolate fudge",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "397",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "10",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

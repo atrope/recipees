@@ -1,0 +1,61 @@
+{
+    "title": "Chocolate Nut Fruit Salad",
+    "ingredients": [
+        {
+            "name": "strawberry yoghurt",
+            "quantity": "610",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "almonds",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "cashews",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "oranges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "grapefruit",
+            "quantity": "400",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

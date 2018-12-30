@@ -1,0 +1,61 @@
+{
+    "title": "Gluten free fish pie",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "haddock fillets",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "smoked cod fillets",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "milk potatoes",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "gluten",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

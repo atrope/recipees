@@ -1,0 +1,41 @@
+{
+    "title": "Iconic chocolate chip cookies with Kinder Bueno",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

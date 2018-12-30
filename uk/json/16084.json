@@ -1,0 +1,36 @@
+{
+    "title": "Yoghurt herb sauce",
+    "ingredients": [
+        {
+            "name": "yoghurt",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "shallot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garden herbs parsley chives chervil dill basil",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

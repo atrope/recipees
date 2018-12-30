@@ -1,0 +1,31 @@
+{
+    "title": "Easy toffee apple crumble",
+    "ingredients": [
+        {
+            "name": "cooking apples",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "toffee",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

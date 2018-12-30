@@ -1,0 +1,61 @@
+{
+    "title": "Lentil and Rice Soup in a Jar",
+    "ingredients": [
+        {
+            "name": "barley",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "rice",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "lentils",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pasta shapes",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "macaroni",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Trifle - very easy",
+    "ingredients": [
+        {
+            "name": "roll flavour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sherry brandy",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "fruit cocktail",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "jelly flavour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "custard",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Barbecued beer can chicken",
+    "ingredients": [
+        {
+            "name": "cherry",
+            "quantity": "230",
+            "type": "g"
+        },
+        {
+            "name": "beer",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "paprika",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chickens",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Coffee-free tiramisu",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "mascarpone cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rum liqueur",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "biscuits sponge fingers",
+            "quantity": "16",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

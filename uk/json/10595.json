@@ -1,0 +1,21 @@
+{
+    "title": "Best Chocolate Mousse",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

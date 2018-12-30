@@ -1,0 +1,61 @@
+{
+    "title": "Spicy Tuna Salad",
+    "ingredients": [
+        {
+            "name": "tuna olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salsa",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

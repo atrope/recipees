@@ -1,0 +1,41 @@
+{
+    "title": "Easter double chocolate brownies",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

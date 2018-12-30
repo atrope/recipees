@@ -1,0 +1,36 @@
+{
+    "title": "Oaty honey biscuits",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

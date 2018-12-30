@@ -1,0 +1,46 @@
+{
+    "title": "Salmon Poached in White Wine",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salmon steak",
+            "quantity": "3",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

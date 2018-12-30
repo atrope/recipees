@@ -1,0 +1,36 @@
+{
+    "title": "Brandada de bacalao (creamy cod with potato)",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "cod fillets",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "toast",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

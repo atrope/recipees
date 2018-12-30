@@ -1,0 +1,61 @@
+{
+    "title": "Summer pasta salad",
+    "ingredients": [
+        {
+            "name": "cucumber",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "macaroni",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

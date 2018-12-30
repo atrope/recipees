@@ -1,0 +1,31 @@
+{
+    "title": "Slow cooker 5-ingredient ham",
+    "ingredients": [
+        {
+            "name": "ham",
+            "quantity": "25",
+            "type": "kg"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "mustard",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

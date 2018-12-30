@@ -1,0 +1,76 @@
+{
+    "title": "Red wine pot roast",
+    "ingredients": [
+        {
+            "name": "roasting",
+            "quantity": "4",
+            "type": "kg"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rapeseed oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "marjoram",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "shallots",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

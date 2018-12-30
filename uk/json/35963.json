@@ -1,0 +1,46 @@
+{
+    "title": "Breakfast egg and bacon club",
+    "ingredients": [
+        {
+            "name": "cherry tomatoes vine",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rashers smoked bacon",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "bread toasted",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "watercress",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

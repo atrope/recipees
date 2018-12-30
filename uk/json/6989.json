@@ -1,0 +1,46 @@
+{
+    "title": "Lemon sponge cake",
+    "ingredients": [
+        {
+            "name": "cake flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

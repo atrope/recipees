@@ -1,0 +1,76 @@
+{
+    "title": "Baked beans",
+    "ingredients": [
+        {
+            "name": "beans",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "shallots",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cider",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "treacle",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parsley garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

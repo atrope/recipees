@@ -1,0 +1,41 @@
+{
+    "title": "Baked stuffed tomatoes",
+    "ingredients": [
+        {
+            "name": "bacon",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "croutons breadcrumbs",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

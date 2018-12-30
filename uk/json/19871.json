@@ -1,0 +1,91 @@
+{
+    "title": "Rabbit Stew",
+    "ingredients": [
+        {
+            "name": "rabbit meat",
+            "quantity": "35",
+            "type": "kg"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "shallots",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "redcurrant jelly",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

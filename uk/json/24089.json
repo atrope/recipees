@@ -1,0 +1,76 @@
+{
+    "title": "Hot chocolate cake pudding",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate powder",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "315",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "265",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "315",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "375",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

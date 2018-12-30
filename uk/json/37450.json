@@ -1,0 +1,51 @@
+{
+    "title": "Potato, leek and bacon quiche",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bacon pancetta",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper nutmeg",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

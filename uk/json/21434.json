@@ -1,0 +1,36 @@
+{
+    "title": "Baked Salmon with Dill",
+    "ingredients": [
+        {
+            "name": "salmon fillets steaks",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

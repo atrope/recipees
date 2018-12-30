@@ -1,0 +1,36 @@
+{
+    "title": "Spelt flatbread",
+    "ingredients": [
+        {
+            "name": "spelt flour",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

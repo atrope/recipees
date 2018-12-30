@@ -1,0 +1,51 @@
+{
+    "title": "Creamy strawberry tiramisu",
+    "ingredients": [
+        {
+            "name": "savoiardi sponge fingers",
+            "quantity": "16",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "mascarpone cheese",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "strawberries garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

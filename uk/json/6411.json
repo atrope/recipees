@@ -1,0 +1,51 @@
+{
+    "title": "Cranberry-Apple Crumble",
+    "ingredients": [
+        {
+            "name": "porridge oats",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cranberry sauce",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

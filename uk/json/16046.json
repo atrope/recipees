@@ -1,0 +1,31 @@
+{
+    "title": "Spinach pasta",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "spinach pureed",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

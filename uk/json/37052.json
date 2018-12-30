@@ -1,0 +1,46 @@
+{
+    "title": "Granny's alternative apple crumble",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar sprinkle",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "zest orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "255",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

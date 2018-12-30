@@ -1,0 +1,36 @@
+{
+    "title": "Dreamy creamy potato salad",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

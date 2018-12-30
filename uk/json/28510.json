@@ -1,0 +1,61 @@
+{
+    "title": "My mum's Swedish meatballs",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "minced pork",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1/3",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

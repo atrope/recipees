@@ -1,0 +1,41 @@
+{
+    "title": "Barbecued tequila and coriander pineapple",
+    "ingredients": [
+        {
+            "name": "pineapple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tequila",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

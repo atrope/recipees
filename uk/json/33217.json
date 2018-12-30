@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate amaretto cheesecake",
+    "ingredients": [
+        {
+            "name": "sweet biscuits",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "amaretto liqueur",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

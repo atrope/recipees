@@ -1,0 +1,46 @@
+{
+    "title": "Pain de campagne",
+    "ingredients": [
+        {
+            "name": "baking yeast",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Simple tabbouleh salad",
+    "ingredients": [
+        {
+            "name": "bulgur wheat",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Fennel and apple summer salad",
+    "ingredients": [
+        {
+            "name": "fennel bulb",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vinaigrette",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

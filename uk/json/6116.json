@@ -1,0 +1,51 @@
+{
+    "title": "Strawberry cake",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "sachet strawberry jelly",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "eggs temperature",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk temperature",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberry puree strawberries",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

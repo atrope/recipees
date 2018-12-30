@@ -1,0 +1,51 @@
+{
+    "title": "Lucy's bread and butter pudding",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "sultanas raisins",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

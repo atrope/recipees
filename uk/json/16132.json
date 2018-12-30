@@ -1,0 +1,41 @@
+{
+    "title": "Habanero jelly",
+    "ingredients": [
+        {
+            "name": "green apples",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "pectin",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "habanero minced",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

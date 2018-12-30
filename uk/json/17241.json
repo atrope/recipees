@@ -1,0 +1,81 @@
+{
+    "title": "Chocolate and orange cup cakes",
+    "ingredients": [
+        {
+            "name": "cupcakes",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "orange flavouring",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "icing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "orange flavouring",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

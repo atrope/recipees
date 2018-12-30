@@ -1,0 +1,36 @@
+{
+    "title": "Sugar-free chocolate cake",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Triple layered white chocolate fudge",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

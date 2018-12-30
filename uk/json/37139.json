@@ -1,0 +1,61 @@
+{
+    "title": "Mushroom mini quiches",
+    "ingredients": [
+        {
+            "name": "empanada pastry",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

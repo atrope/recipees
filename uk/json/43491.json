@@ -1,0 +1,31 @@
+{
+    "title": "Stuffed cheese and bacon mushrooms",
+    "ingredients": [
+        {
+            "name": "mushrooms",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bacon rashers",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

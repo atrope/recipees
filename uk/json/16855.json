@@ -1,0 +1,26 @@
+{
+    "title": "Duck Confit Salad",
+    "ingredients": [
+        {
+            "name": "duck confit",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cashew nuts",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "green salad",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "pomegranate",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Noodle and cabbage salad",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "almonds",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "sesame",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "ramen noodles",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "rice wine vinegar",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

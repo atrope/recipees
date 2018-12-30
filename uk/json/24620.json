@@ -1,0 +1,46 @@
+{
+    "title": "Slow cooker red cabbage",
+    "ingredients": [
+        {
+            "name": "cabbage",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

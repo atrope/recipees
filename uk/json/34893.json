@@ -1,0 +1,41 @@
+{
+    "title": "Mrs U's almond loaf cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "almond",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

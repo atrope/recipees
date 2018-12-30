@@ -1,0 +1,56 @@
+{
+    "title": "B\u00e9chamel sauce with cheese",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Mamgu's bara brith",
+    "ingredients": [
+        {
+            "name": "tea",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "fruit",
+            "quantity": "225",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

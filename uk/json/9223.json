@@ -1,0 +1,81 @@
+{
+    "title": "Cajun-style chicken pasta",
+    "ingredients": [
+        {
+            "name": "linguine pasta",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "seasoning",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "basil",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon pepper seasoning",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

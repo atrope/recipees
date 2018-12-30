@@ -1,0 +1,31 @@
+{
+    "title": "Cheesy chicken 'n bacon baked potatoes",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "baking potatoes",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

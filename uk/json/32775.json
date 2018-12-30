@@ -1,0 +1,51 @@
+{
+    "title": "Chocolate and vanilla pinwheel biscuits",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "170",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Barbecued fruit brochettes",
+    "ingredients": [
+        {
+            "name": "pineapple",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "160",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

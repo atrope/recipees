@@ -1,0 +1,36 @@
+{
+    "title": "Italian asparagus frittata",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "shallot",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

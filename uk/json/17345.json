@@ -1,0 +1,41 @@
+{
+    "title": "Warm Spiced Apple Punch",
+    "ingredients": [
+        {
+            "name": "apple juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tea",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "organic orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

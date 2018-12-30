@@ -1,0 +1,46 @@
+{
+    "title": "Broccoli Fried Rice",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Low fat chicken noodle soup",
+    "ingredients": [
+        {
+            "name": "chicken stock boiling water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bunch onions",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leek",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spice powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "noodles",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

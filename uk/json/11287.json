@@ -1,0 +1,46 @@
+{
+    "title": "T-Bone Steak with Dijon Rosemary Sauce",
+    "ingredients": [
+        {
+            "name": "steak",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt beef stock",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

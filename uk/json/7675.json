@@ -1,0 +1,21 @@
+{
+    "title": "Banana sorbet",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "bananas",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Dark chocolate and raspberry cake",
+    "ingredients": [
+        {
+            "name": "chocolate cocoa",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powderc",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "coffee",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raspberry jam",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

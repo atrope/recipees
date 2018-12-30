@@ -1,0 +1,61 @@
+{
+    "title": "Five-spice pork",
+    "ingredients": [
+        {
+            "name": "pork fillet",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "egg noodles",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fivespice powder",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "peas",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "peppers yellow orange",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Buttermilk Oatmeal Cookies",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "90",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

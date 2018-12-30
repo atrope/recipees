@@ -1,0 +1,61 @@
+{
+    "title": "Don's spanish salmon burgers",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salmon",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

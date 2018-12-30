@@ -1,0 +1,61 @@
+{
+    "title": "Barbecued steak and vegetables",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "basil oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch flakes",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rump steaks",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "green peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "yellow onions",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

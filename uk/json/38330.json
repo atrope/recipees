@@ -1,0 +1,91 @@
+{
+    "title": "Thai noodle soup",
+    "ingredients": [
+        {
+            "name": "lemongrass",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "minced ginger",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "lime",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "680",
+            "type": "g"
+        },
+        {
+            "name": "coriander",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg noodles",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

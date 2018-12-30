@@ -1,0 +1,56 @@
+{
+    "title": "Cheesy rice with asparagus",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "basmati rice",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "peas",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Classic eggs Florentine with a twist",
+    "ingredients": [
+        {
+            "name": "ciabatta bread",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "25",
+            "type": "ml"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "spinach",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

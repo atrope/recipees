@@ -1,0 +1,46 @@
+{
+    "title": "Salt Cod Fritters",
+    "ingredients": [
+        {
+            "name": "cod fish",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

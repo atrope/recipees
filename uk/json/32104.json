@@ -1,0 +1,36 @@
+{
+    "title": "Chicken goujons with a kick",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "seasoning",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

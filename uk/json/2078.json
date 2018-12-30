@@ -1,0 +1,66 @@
+{
+    "title": "Pork Wontons",
+    "ingredients": [
+        {
+            "name": "minced pork",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water chestnuts",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "bamboo shoots",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "beansprouts",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rice wine sake",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wonton",
+            "quantity": "60",
+            "type": "-"
+        },
+        {
+            "name": "rapeseed oil frying",
+            "quantity": "2L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

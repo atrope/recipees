@@ -1,0 +1,31 @@
+{
+    "title": "Chocolate and banana panini",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "banana",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

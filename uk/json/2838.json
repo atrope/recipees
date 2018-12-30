@@ -1,0 +1,86 @@
+{
+    "title": "Camembert and broccoli pancakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "parsley garnish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes pinch sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "broccoli filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "quark cheese",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

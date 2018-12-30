@@ -1,0 +1,36 @@
+{
+    "title": "Pitta pizzas",
+    "ingredients": [
+        {
+            "name": "tomato puree",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

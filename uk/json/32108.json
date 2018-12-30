@@ -1,0 +1,51 @@
+{
+    "title": "Victoria sponge cake with buttercream",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "organic eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "raspberry jam",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

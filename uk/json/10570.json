@@ -1,0 +1,66 @@
+{
+    "title": "Chocolate Cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuit",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

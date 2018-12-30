@@ -1,0 +1,31 @@
+{
+    "title": "Easy Chocolate Frosting",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cocoa",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

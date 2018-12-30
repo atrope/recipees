@@ -1,0 +1,46 @@
+{
+    "title": "Plain vegetable stir fry",
+    "ingredients": [
+        {
+            "name": "mushrooms",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "shallot onion",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

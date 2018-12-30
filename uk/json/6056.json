@@ -1,0 +1,31 @@
+{
+    "title": "Chocolate dipped apples",
+    "ingredients": [
+        {
+            "name": "dessert apples",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "1",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

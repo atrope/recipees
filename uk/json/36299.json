@@ -1,0 +1,36 @@
+{
+    "title": "Simple bread rolls",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "sachet yeast",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

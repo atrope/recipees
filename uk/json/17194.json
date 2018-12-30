@@ -1,0 +1,46 @@
+{
+    "title": "Creamy Courgette Lasagne",
+    "ingredients": [
+        {
+            "name": "lasagne",
+            "quantity": "9",
+            "type": "-"
+        },
+        {
+            "name": "sunflower olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "tomato sauce pasta",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

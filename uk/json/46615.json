@@ -1,0 +1,51 @@
+{
+    "title": "Apple and mixed berry crumble",
+    "ingredients": [
+        {
+            "name": "green apples",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

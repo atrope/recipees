@@ -1,0 +1,36 @@
+{
+    "title": "Tomato Gruyere tart",
+    "ingredients": [
+        {
+            "name": "plum tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "shortcrust pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "herbes",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cheese",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

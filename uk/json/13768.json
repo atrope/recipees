@@ -1,0 +1,56 @@
+{
+    "title": "Bacon Wrapped Chicken Kebabs",
+    "ingredients": [
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rapeseed oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "skewers",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

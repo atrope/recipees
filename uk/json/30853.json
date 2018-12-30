@@ -1,0 +1,56 @@
+{
+    "title": "Christmas cheesecake",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "biscuit",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mincemeat",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "rum brandy",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

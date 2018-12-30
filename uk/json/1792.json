@@ -1,0 +1,86 @@
+{
+    "title": "Lentil and sausage soup",
+    "ingredients": [
+        {
+            "name": "sausage casings",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "lentils",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "basil",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

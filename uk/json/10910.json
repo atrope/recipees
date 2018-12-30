@@ -1,0 +1,31 @@
+{
+    "title": "Griddled Soda Bread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "475",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

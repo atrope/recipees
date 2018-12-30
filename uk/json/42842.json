@@ -1,0 +1,101 @@
+{
+    "title": "Layered meatloaf",
+    "ingredients": [
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine drink",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs panko",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

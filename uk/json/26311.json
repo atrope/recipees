@@ -1,0 +1,46 @@
+{
+    "title": "Granola bites",
+    "ingredients": [
+        {
+            "name": "oats",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "raisins",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "70",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Chocolate chip marshmallow blondies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "butterscotch",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "170",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

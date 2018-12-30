@@ -1,0 +1,66 @@
+{
+    "title": "Creamy Macaroni Cheese",
+    "ingredients": [
+        {
+            "name": "macaroni",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

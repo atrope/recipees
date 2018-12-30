@@ -1,0 +1,56 @@
+{
+    "title": "My BBQ Sauce",
+    "ingredients": [
+        {
+            "name": "ketchup",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "allspice",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch celery salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch mustard powder",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Spinach and ricotta enchiladas",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "spinach",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "corn tortillas",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "enchilada sauce",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

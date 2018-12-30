@@ -1,0 +1,31 @@
+{
+    "title": "Acorn squash with orange-brandy sauce",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "acorn squash",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

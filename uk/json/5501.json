@@ -1,0 +1,46 @@
+{
+    "title": "Artichoke crostini",
+    "ingredients": [
+        {
+            "name": "marinated artichokes",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ciabatta loaf",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Mock Pecan Pie",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "beans",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

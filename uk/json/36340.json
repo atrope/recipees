@@ -1,0 +1,41 @@
+{
+    "title": "Marble cake with a difference",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "probiotic yoghurt",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

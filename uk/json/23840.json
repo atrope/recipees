@@ -1,0 +1,36 @@
+{
+    "title": "Cheese Souffles",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

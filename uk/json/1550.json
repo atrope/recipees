@@ -1,0 +1,36 @@
+{
+    "title": "Garlic Ginger Tofu",
+    "ingredients": [
+        {
+            "name": "rapeseed oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "root ginger minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tofu",
+            "quantity": "900",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

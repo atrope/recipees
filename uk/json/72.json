@@ -1,0 +1,41 @@
+{
+    "title": "Mum's apple crumble",
+    "ingredients": [
+        {
+            "name": "cooking apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Toffee Popcorn",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "popcorn",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

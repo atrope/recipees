@@ -1,0 +1,56 @@
+{
+    "title": "Tomato and garlic risotto",
+    "ingredients": [
+        {
+            "name": "garlic cloves",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "sun tomato",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "risotto rice",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "vegetable stock boiling",
+            "quantity": "900",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "-"
+        },
+        {
+            "name": "leaf parsley",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

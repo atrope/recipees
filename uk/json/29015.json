@@ -1,0 +1,61 @@
+{
+    "title": "Duck and watermelon salad",
+    "ingredients": [
+        {
+            "name": "duck",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "mint",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "watermelon",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cashew nuts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pomegranate cranberry juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

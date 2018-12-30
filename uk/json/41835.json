@@ -1,0 +1,31 @@
+{
+    "title": "White chocolate fudge",
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "480",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "335",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

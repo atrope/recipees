@@ -1,0 +1,36 @@
+{
+    "title": "Easy pickled eggs and beetroot",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "beetroot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

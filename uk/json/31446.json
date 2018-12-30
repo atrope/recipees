@@ -1,0 +1,31 @@
+{
+    "title": "Glazed chicken with orange and cumin",
+    "ingredients": [
+        {
+            "name": "orange juice",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "buckwheat honey",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

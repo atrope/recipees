@@ -1,0 +1,46 @@
+{
+    "title": "Polish white sausage",
+    "ingredients": [
+        {
+            "name": "pork",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "pork",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "marjoram",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "hog casing",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

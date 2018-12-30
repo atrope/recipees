@@ -1,0 +1,41 @@
+{
+    "title": "Courgette and mozzarella toasties",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch flakes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pasta sauce",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "ciabattas",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

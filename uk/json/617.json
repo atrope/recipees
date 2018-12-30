@@ -1,0 +1,26 @@
+{
+    "title": "Bananas about yoghurt",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

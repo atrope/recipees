@@ -1,0 +1,26 @@
+{
+    "title": "Very berry soya lollies",
+    "ingredients": [
+        {
+            "name": "blueberries",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vanilla milk",
+            "quantity": "600",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

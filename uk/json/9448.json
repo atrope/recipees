@@ -1,0 +1,51 @@
+{
+    "title": "Light and easy chicken with Marsala sauce",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "garlic salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "marsala wine",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

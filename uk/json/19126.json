@@ -1,0 +1,51 @@
+{
+    "title": "Creamy crayfish pots",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "crayfish",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "paprika garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

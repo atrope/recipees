@@ -1,0 +1,41 @@
+{
+    "title": "Bubble and squeak cakes",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cheese",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

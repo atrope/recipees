@@ -1,0 +1,81 @@
+{
+    "title": "Fresh fruit soup",
+    "ingredients": [
+        {
+            "name": "pineapple juice",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "cucumber",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "juice lime",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mango",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "pear",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mint garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

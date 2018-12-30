@@ -1,0 +1,91 @@
+{
+    "title": "Chicken and chorizo paella",
+    "ingredients": [
+        {
+            "name": "chorizo sausage",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "peas",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "15",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

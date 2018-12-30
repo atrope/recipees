@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate, almond and pear tart",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cooking chocolate",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

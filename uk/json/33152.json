@@ -1,0 +1,71 @@
+{
+    "title": "Traditional Victoria sponge cake",
+    "ingredients": [
+        {
+            "name": "cake",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberry jam",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

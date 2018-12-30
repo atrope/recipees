@@ -1,0 +1,91 @@
+{
+    "title": "Gingered roast pork",
+    "ingredients": [
+        {
+            "name": "loin pork",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "dessert apples",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "prunes",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "gingernut biscuits",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "parsnips",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "shallots",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cooking apples",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "2.5",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

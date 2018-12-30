@@ -1,0 +1,61 @@
+{
+    "title": "Couscous salad",
+    "ingredients": [
+        {
+            "name": "couscous",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "orange pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

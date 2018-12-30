@@ -1,0 +1,71 @@
+{
+    "title": "Bacon jam",
+    "ingredients": [
+        {
+            "name": "bacon",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "bacon cooking",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "whiskey",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "coffee",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "sherry vinegar",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "180",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

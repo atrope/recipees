@@ -1,0 +1,41 @@
+{
+    "title": "The one and only Italian spaghetti carbonara",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "bacon",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Spinach and potato frittata",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "spinach",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "5\u20136",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

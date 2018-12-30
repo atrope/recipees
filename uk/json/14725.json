@@ -1,0 +1,61 @@
+{
+    "title": "Plump Pear Bread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "330",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Japanese Noodle Salad",
+    "ingredients": [
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oil",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "noodles",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cucumber julienned",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nori",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

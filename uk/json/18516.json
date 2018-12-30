@@ -1,0 +1,71 @@
+{
+    "title": "Simple carrot cake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "cheese icing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

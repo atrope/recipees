@@ -1,0 +1,36 @@
+{
+    "title": "Courgette salad with mint",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mint minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch cayenne pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

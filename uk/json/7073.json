@@ -1,0 +1,56 @@
+{
+    "title": "Easter Egg Fairy Cakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate eggs",
+            "quantity": "24",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Raspberry ice cream",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "corn syrup",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

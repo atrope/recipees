@@ -1,0 +1,86 @@
+{
+    "title": "Chicken Mulligatawny Soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken meat",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mace",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "1.2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

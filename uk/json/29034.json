@@ -1,0 +1,46 @@
+{
+    "title": "Rice and mincemeat filo tarts",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cardamom",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "mincemeat",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "filo pastry",
+            "quantity": "270",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

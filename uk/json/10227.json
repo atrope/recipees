@@ -1,0 +1,71 @@
+{
+    "title": "100% wholemeal bread",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "420",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "yeast",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "725",
+            "type": "g"
+        },
+        {
+            "name": "wheat gluten",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "flax",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flax seed",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oats",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sesame",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "quinoa",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coconut oil",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

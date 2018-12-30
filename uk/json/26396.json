@@ -1,0 +1,41 @@
+{
+    "title": "Crisp broccoli salad",
+    "ingredients": [
+        {
+            "name": "broccoli",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raisins sultanas",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "grapes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

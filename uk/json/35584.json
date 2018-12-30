@@ -1,0 +1,91 @@
+{
+    "title": "Pete's pulled pork, slow cooker style",
+    "ingredients": [
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pork",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "apple vinegar",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomarto ketchup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "smoked cheese",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "coleslaw",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

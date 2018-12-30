@@ -1,0 +1,86 @@
+{
+    "title": "Sherry mincemeat",
+    "ingredients": [
+        {
+            "name": "raisins",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "candied orange peel",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange apple juice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "potato flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "almonds",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sherry",
+            "quantity": "200",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

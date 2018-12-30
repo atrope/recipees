@@ -1,0 +1,71 @@
+{
+    "title": "Sangria",
+    "ingredients": [
+        {
+            "name": "wine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cognac",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "oranges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla bean",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

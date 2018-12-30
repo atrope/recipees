@@ -1,0 +1,46 @@
+{
+    "title": "Deep-fried flatbread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1\u00bc",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1\u00bd",
+            "type": "teaspoon"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "ghee",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "frying",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

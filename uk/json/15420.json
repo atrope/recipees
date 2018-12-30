@@ -1,0 +1,61 @@
+{
+    "title": "Barley and Tomato Soup",
+    "ingredients": [
+        {
+            "name": "onions",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "barley",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

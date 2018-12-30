@@ -1,0 +1,56 @@
+{
+    "title": "Chicken panang curry",
+    "ingredients": [
+        {
+            "name": "curry paste",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "seasoning",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemongrass minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "10",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

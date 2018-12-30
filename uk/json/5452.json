@@ -1,0 +1,21 @@
+{
+    "title": "Citrus fruit marmalade",
+    "ingredients": [
+        {
+            "name": "oranges grapefruit",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "lemons",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "75",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

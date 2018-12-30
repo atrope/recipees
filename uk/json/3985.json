@@ -1,0 +1,46 @@
+{
+    "title": "Sardine, watercress and carrot open sandwich",
+    "ingredients": [
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "watercress",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "chives",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "rye bread",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "sardines olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chives garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

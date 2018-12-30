@@ -1,0 +1,36 @@
+{
+    "title": "Apple betty with oats",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oats",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

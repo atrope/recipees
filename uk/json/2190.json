@@ -1,0 +1,46 @@
+{
+    "title": "Creamy coleslaw salad",
+    "ingredients": [
+        {
+            "name": "cabbage",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

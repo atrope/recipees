@@ -1,0 +1,46 @@
+{
+    "title": "Kathryn's chocolate cake",
+    "ingredients": [
+        {
+            "name": "chocolate cocoa",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "brandy liqueur",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "prunes brandy liqueur",
+            "quantity": "20-25",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

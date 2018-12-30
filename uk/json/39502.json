@@ -1,0 +1,31 @@
+{
+    "title": "Easy peasy lemon cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuit",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "juice lemons zest",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

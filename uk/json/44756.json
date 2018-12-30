@@ -1,0 +1,51 @@
+{
+    "title": "Beef stuffed mushrooms",
+    "ingredients": [
+        {
+            "name": "beef mince",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "green peppers",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

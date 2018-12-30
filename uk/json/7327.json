@@ -1,0 +1,26 @@
+{
+    "title": "Strawberry cinnamon smoothie",
+    "ingredients": [
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

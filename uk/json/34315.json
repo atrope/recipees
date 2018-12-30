@@ -1,0 +1,36 @@
+{
+    "title": "Refreshing cucumber yoghurt salad",
+    "ingredients": [
+        {
+            "name": "cucumbers",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "winte vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

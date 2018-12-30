@@ -1,0 +1,41 @@
+{
+    "title": "Merguez and vegetable tagine",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "merguez sausages",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

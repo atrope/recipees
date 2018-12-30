@@ -1,0 +1,56 @@
+{
+    "title": "Lentil and Orange Soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lentils",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "750",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

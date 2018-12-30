@@ -1,0 +1,51 @@
+{
+    "title": "Fattoush salad",
+    "ingredients": [
+        {
+            "name": "sesame seed breads",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "mint garnish",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "beans chickpeas",
+            "quantity": "400",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

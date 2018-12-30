@@ -1,0 +1,26 @@
+{
+    "title": "Brilliant bedtime drink",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sprinkle cinnamon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Brilliant Korean steak",
+    "ingredients": [
+        {
+            "name": "fillet steak",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sesame",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "shallots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mirin sweet wine",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

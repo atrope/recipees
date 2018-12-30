@@ -1,0 +1,46 @@
+{
+    "title": "Very best chocolate cake",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "6",
+            "type": "tbsp"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "baking",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "275",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

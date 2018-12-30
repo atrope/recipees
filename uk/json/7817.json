@@ -1,0 +1,61 @@
+{
+    "title": "Salmon with Dijon vinaigrette",
+    "ingredients": [
+        {
+            "name": "wine vinegar",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tarragon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "capers",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salmon fillets",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

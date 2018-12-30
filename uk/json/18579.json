@@ -1,0 +1,91 @@
+{
+    "title": "Very vegetable lasagne",
+    "ingredients": [
+        {
+            "name": "lasagne",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "courgette",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "spinach",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "275",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

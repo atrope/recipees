@@ -1,0 +1,31 @@
+{
+    "title": "Fruity rum",
+    "ingredients": [
+        {
+            "name": "rum",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "melon liqueur",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sweet sour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

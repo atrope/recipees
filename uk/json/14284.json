@@ -1,0 +1,41 @@
+{
+    "title": "Easy Chicken and Vegetable Soup",
+    "ingredients": [
+        {
+            "name": "carrots",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "green beans",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cream chicken soup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "chicken meat",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "35",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

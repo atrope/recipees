@@ -1,0 +1,36 @@
+{
+    "title": "Caesar pasta salad",
+    "ingredients": [
+        {
+            "name": "macaroni pasta",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "croutons",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

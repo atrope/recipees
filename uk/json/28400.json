@@ -1,0 +1,36 @@
+{
+    "title": "Bacon wrapped chicken rolls",
+    "ingredients": [
+        {
+            "name": "chicken fillet",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

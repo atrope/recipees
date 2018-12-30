@@ -1,0 +1,106 @@
+{
+    "title": "The perfect Christmas cake",
+    "ingredients": [
+        {
+            "name": "cake",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "sherry",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "zest oranges",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "treacle",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "almonds",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "apricot jam",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "almond",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "roll icing",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

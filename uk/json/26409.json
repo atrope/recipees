@@ -1,0 +1,41 @@
+{
+    "title": "Fennel, citrus and asparagus salad",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "oranges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "grapefruit",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fennel",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salad greens",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salad",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

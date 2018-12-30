@@ -1,0 +1,26 @@
+{
+    "title": "Coconut truffles",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

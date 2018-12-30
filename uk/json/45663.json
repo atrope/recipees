@@ -1,0 +1,46 @@
+{
+    "title": "Honeymoon eggs Benedict",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "croissants",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Vegan quesadillas",
+    "ingredients": [
+        {
+            "name": "olive oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "kidney beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "fajita seasoning",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

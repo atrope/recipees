@@ -1,0 +1,51 @@
+{
+    "title": "White Sandwich Loaf",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "480",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "320",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wheat gluten",
+            "quantity": "7",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk powder",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "yeast",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

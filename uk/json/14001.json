@@ -1,0 +1,46 @@
+{
+    "title": "Curried leek and potato soup",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Best Ever Chicken Soup",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beef stock crumbled",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken noodle soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt chicken stock",
+            "quantity": "825",
+            "type": "ml"
+        },
+        {
+            "name": "pinch thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch chicken seasoning",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "farfalle pasta",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

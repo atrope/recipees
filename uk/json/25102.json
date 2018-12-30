@@ -1,0 +1,41 @@
+{
+    "title": "Steamed jam sponge pudding",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "jam",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

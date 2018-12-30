@@ -1,0 +1,71 @@
+{
+    "title": "Chocolate Chip Laden Cookies",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "175",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

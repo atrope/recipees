@@ -1,0 +1,21 @@
+{
+    "title": "Best chocolate ganache",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

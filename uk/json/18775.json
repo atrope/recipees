@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate cream cheese spread",
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

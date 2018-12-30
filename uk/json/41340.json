@@ -1,0 +1,61 @@
+{
+    "title": "Pizza Margherita",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "440",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "yeast",
+            "quantity": "7",
+            "type": "g"
+        },
+        {
+            "name": "pinch caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "pizza sauce",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

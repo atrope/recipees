@@ -1,0 +1,61 @@
+{
+    "title": "Lemon cupcakes",
+    "ingredients": [
+        {
+            "name": "lemon cupcakes",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon icing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "540",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

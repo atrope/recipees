@@ -1,0 +1,31 @@
+{
+    "title": "Plum ginger jam",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "plums",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rosemary cheesecloth",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

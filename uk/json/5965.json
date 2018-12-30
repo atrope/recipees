@@ -1,0 +1,31 @@
+{
+    "title": "Cinnamon apple jelly",
+    "ingredients": [
+        {
+            "name": "apples crab",
+            "quantity": "25",
+            "type": "kg"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cinnamon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

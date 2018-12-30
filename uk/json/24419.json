@@ -1,0 +1,41 @@
+{
+    "title": "Cheese and crispy bacon muffins",
+    "ingredients": [
+        {
+            "name": "bacon crumbled",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sunflower oil vegetable",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

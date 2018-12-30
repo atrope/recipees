@@ -1,0 +1,36 @@
+{
+    "title": "No added sugar wholemeal blueberry pancakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

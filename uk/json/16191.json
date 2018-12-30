@@ -1,0 +1,26 @@
+{
+    "title": "Chocolate Bubble Cake",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "rice",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

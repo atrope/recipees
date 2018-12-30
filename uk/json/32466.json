@@ -1,0 +1,36 @@
+{
+    "title": "Perfect sandwich bread machine recipe",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "525",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "8",
+            "type": "g"
+        },
+        {
+            "name": "table salt",
+            "quantity": "13",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "bread yeast",
+            "quantity": "7",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

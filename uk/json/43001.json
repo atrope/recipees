@@ -1,0 +1,36 @@
+{
+    "title": "Asparagus and spinach salad",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

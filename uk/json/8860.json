@@ -1,0 +1,41 @@
+{
+    "title": "Chestnut souffle",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chestnut puree",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

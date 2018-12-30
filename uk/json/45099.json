@@ -1,0 +1,41 @@
+{
+    "title": "Cranberry, walnut and orange salad",
+    "ingredients": [
+        {
+            "name": "salad greens spinach",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "candied walnuts",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "mandarins mandarin",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "crumbled cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinaigrette",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

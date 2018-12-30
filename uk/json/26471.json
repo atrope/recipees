@@ -1,0 +1,41 @@
+{
+    "title": "Marinated vegetable brochettes",
+    "ingredients": [
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "herbes",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

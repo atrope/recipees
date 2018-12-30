@@ -1,0 +1,36 @@
+{
+    "title": "Carrot and Split Pea Soup",
+    "ingredients": [
+        {
+            "name": "peas",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken vegetable stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Maple salmon",
+    "ingredients": [
+        {
+            "name": "maple syrup",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salmon fillet",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

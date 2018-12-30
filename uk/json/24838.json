@@ -1,0 +1,36 @@
+{
+    "title": "Red wine gravy",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "rosemary thyme",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Kim's stir fried ginger garlic chicken",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "75",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

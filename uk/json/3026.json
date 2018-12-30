@@ -1,0 +1,86 @@
+{
+    "title": "Spaghetti carbonara with roasted tomato salad",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "5",
+            "type": "tbsp"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomato salad",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes plum",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green salad watercress lettuce hearts",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bulb fennel",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

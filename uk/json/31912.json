@@ -1,0 +1,36 @@
+{
+    "title": "Strawberry suprise",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "strawberry custard",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "biscuit biscuits",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sour raspberry juice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

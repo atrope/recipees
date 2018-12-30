@@ -1,0 +1,46 @@
+{
+    "title": "Vegetable pancakes",
+    "ingredients": [
+        {
+            "name": "spinach kale cabbage",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pancakes",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

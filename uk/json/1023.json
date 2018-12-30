@@ -1,0 +1,36 @@
+{
+    "title": "Bloke Burgers",
+    "ingredients": [
+        {
+            "name": "beef mince",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "bread crumbled",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

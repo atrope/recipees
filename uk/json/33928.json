@@ -1,0 +1,66 @@
+{
+    "title": "Vegetarian split pea soup",
+    "ingredients": [
+        {
+            "name": "green peas",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "1.5L",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

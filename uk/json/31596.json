@@ -1,0 +1,56 @@
+{
+    "title": "Savoury green bean, bacon and potato salad",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "green beans",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wholegrain mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

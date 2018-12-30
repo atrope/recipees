@@ -1,0 +1,26 @@
+{
+    "title": "Juicy roast ham",
+    "ingredients": [
+        {
+            "name": "beer",
+            "quantity": "340",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "smoked gammon",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

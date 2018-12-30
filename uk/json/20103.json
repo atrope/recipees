@@ -1,0 +1,56 @@
+{
+    "title": "Beef 'n' mushroom pasta bake",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pinch garlic salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "850",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

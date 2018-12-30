@@ -1,0 +1,56 @@
+{
+    "title": "NM Bean and Tuna Salad",
+    "ingredients": [
+        {
+            "name": "beans",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "butter beans",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "tuna",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

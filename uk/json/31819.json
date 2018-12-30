@@ -1,0 +1,21 @@
+{
+    "title": "No fuss lemon ice cream",
+    "ingredients": [
+        {
+            "name": "lemons",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "300",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

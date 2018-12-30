@@ -1,0 +1,46 @@
+{
+    "title": "Creamy Chicken Soup",
+    "ingredients": [
+        {
+            "name": "butter oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "leftover roast chicken",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

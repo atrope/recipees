@@ -1,0 +1,36 @@
+{
+    "title": "Cherry coconut cake",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

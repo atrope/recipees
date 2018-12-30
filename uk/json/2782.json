@@ -1,0 +1,71 @@
+{
+    "title": "Multigrain seeded loaf",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "buckwheat flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "polenta",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sachet yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "water",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "milk glaze",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

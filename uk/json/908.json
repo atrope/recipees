@@ -1,0 +1,31 @@
+{
+    "title": "Barbecued Indian chicken",
+    "ingredients": [
+        {
+            "name": "ginger root",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

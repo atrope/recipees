@@ -1,0 +1,46 @@
+{
+    "title": "Sausage hotpot with lentils",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sausages total",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beef vegetable stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "green lentils",
+            "quantity": "420",
+            "type": "g"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

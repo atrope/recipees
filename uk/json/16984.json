@@ -1,0 +1,41 @@
+{
+    "title": "White asparagus soup",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.5L",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "pinch powder",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Butter Bean and Tuna Pasta Salad",
+    "ingredients": [
+        {
+            "name": "fusilli pasta",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tuna flaked",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "2-3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter beans",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

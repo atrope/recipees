@@ -1,0 +1,61 @@
+{
+    "title": "Turkey with lentils and chorizo",
+    "ingredients": [
+        {
+            "name": "chorizo sausage",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "turkey fillets",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lentils",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

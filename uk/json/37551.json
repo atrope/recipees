@@ -1,0 +1,31 @@
+{
+    "title": "Porcini mushrooms in tomato sauce",
+    "ingredients": [
+        {
+            "name": "porcini mushrooms",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

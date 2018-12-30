@@ -1,0 +1,41 @@
+{
+    "title": "Dijon Salad Dressing",
+    "ingredients": [
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch garlic salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

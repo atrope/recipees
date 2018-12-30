@@ -1,0 +1,101 @@
+{
+    "title": "Thai green curry",
+    "ingredients": [
+        {
+            "name": "coconut milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemongrass",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coriander puree",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "14",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "jasmine rice",
+            "quantity": "315",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Triple Chocolate Chip Cookies",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "85",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

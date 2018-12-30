@@ -1,0 +1,26 @@
+{
+    "title": "Vegan banana ice cream",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "almond milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "pecans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

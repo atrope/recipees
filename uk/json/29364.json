@@ -1,0 +1,56 @@
+{
+    "title": "Plain naan bread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "140",
+            "type": "ml"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil ghee",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "poppy",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

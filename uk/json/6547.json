@@ -1,0 +1,26 @@
+{
+    "title": "Pizza quesadillas",
+    "ingredients": [
+        {
+            "name": "flour tortillas",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pizza pasta sauce",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "prosciutto",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

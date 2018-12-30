@@ -1,0 +1,51 @@
+{
+    "title": "Chicken and chestnut mushroom pie",
+    "ingredients": [
+        {
+            "name": "vegetable oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chestnut mushrooms",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "leftover chicken",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "thyme",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

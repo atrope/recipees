@@ -1,0 +1,41 @@
+{
+    "title": "Mediterranean Roasted Vegetable Sandwich",
+    "ingredients": [
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "loaf focaccia bread",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

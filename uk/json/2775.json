@@ -1,0 +1,36 @@
+{
+    "title": "Oatmeal and raisin cookies",
+    "ingredients": [
+        {
+            "name": "butter temperature",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "oatmeal",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "170",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

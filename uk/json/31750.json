@@ -1,0 +1,46 @@
+{
+    "title": "Roasted red pepper and carrot soup",
+    "ingredients": [
+        {
+            "name": "peppers",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "900",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

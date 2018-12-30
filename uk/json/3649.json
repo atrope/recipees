@@ -1,0 +1,51 @@
+{
+    "title": "Mixed shellfish and pasta salad",
+    "ingredients": [
+        {
+            "name": "mussels",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "lemons",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pasta shapes fusilli farfalle",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "prawns",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

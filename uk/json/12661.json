@@ -1,0 +1,31 @@
+{
+    "title": "Delicious shortbread biscuits",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "525",
+            "type": "g"
+        },
+        {
+            "name": "rice flour",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

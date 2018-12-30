@@ -1,0 +1,51 @@
+{
+    "title": "Kesari Bhat",
+    "ingredients": [
+        {
+            "name": "pinch saffron",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "semolina",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "banana",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "ghee butter",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cashew",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

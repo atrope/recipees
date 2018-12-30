@@ -1,0 +1,61 @@
+{
+    "title": "Simple lentil and bacon soup",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rashers smoked bacon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lentils water",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1.2L",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Apricot and Amaretti Ice Cream",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "284",
+            "type": "ml"
+        },
+        {
+            "name": "apricot jam",
+            "quantity": "370",
+            "type": "g"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

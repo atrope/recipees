@@ -1,0 +1,56 @@
+{
+    "title": "Chilled tomato and avocado soup",
+    "ingredients": [
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "avocados",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tomato juice",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

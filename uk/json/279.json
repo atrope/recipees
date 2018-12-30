@@ -1,0 +1,36 @@
+{
+    "title": "Eric's Fruit Flan",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raspberries blackcurrants banana",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

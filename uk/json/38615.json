@@ -1,0 +1,46 @@
+{
+    "title": "Onion and mustard gravy",
+    "ingredients": [
+        {
+            "name": "sweet onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil margarine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "gravy",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "mustard",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

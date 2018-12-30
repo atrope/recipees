@@ -1,0 +1,51 @@
+{
+    "title": "Rosemary marinated olives",
+    "ingredients": [
+        {
+            "name": "olives green",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "One-Pot Chicken and Rice",
+    "ingredients": [
+        {
+            "name": "margarine butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "chicken giblets",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "chicken soup",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

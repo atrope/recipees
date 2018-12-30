@@ -1,0 +1,61 @@
+{
+    "title": "Chicken Wrap",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "chicken tikka sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "wrap bread",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

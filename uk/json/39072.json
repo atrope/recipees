@@ -1,0 +1,31 @@
+{
+    "title": "Rosti",
+    "ingredients": [
+        {
+            "name": "floury potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Cherry bakewell tarts",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "sponge",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberry raspberry jam",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

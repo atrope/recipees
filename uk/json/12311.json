@@ -1,0 +1,41 @@
+{
+    "title": "Pickled cucumbers",
+    "ingredients": [
+        {
+            "name": "cucumbers",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "water",
+            "quantity": "1.5L",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch dill",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

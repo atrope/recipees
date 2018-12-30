@@ -1,0 +1,26 @@
+{
+    "title": "Easy baked rice pudding",
+    "ingredients": [
+        {
+            "name": "pudding rice",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1.8L",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "nutmeg allspice ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

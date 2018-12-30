@@ -1,0 +1,51 @@
+{
+    "title": "Teriyaki chicken",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken",
+            "quantity": "12",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Quick and easy egg mayonnaise sandwich",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "watercress",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

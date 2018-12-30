@@ -1,0 +1,41 @@
+{
+    "title": "Bread machine oat bread",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "cooking margarine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

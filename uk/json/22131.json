@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate and coconut biscuit bars",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "smooth peanut butter",
+            "quantity": "130",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Pumpkin bread pudding with caramel sauce",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pumpkin bread loaf cake",
+            "quantity": "550",
+            "type": "g"
+        },
+        {
+            "name": "caramel sauce",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

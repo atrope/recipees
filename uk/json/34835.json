@@ -1,0 +1,41 @@
+{
+    "title": "Lamb kleftiko",
+    "ingredients": [
+        {
+            "name": "lamb",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "zest juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

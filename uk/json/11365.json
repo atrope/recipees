@@ -1,0 +1,41 @@
+{
+    "title": "Crispy Pepperoni Pizza Rolls",
+    "ingredients": [
+        {
+            "name": "rapeseed oil frying",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pizza sauce",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "pepperoni",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "roll egg",
+            "quantity": "400",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

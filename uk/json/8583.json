@@ -1,0 +1,36 @@
+{
+    "title": "Bhindi (okra curry)",
+    "ingredients": [
+        {
+            "name": "okra",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chickpea flour",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

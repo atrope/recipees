@@ -1,0 +1,66 @@
+{
+    "title": "Vegetarian nut loaf",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "organic eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

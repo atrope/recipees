@@ -1,0 +1,21 @@
+{
+    "title": "Homemade Greek yogurt",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "2L",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

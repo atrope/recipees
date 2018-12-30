@@ -1,0 +1,46 @@
+{
+    "title": "Croque madam",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "baguette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ham prosciutto",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

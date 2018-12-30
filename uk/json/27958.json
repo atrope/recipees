@@ -1,0 +1,36 @@
+{
+    "title": "Grilled halloumi and mushroom skewers with quinoa and pesto",
+    "ingredients": [
+        {
+            "name": "quinoa grains",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "halloumi",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pesto",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

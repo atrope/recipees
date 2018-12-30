@@ -1,0 +1,36 @@
+{
+    "title": "Roast sprouts and parsnips",
+    "ingredients": [
+        {
+            "name": "vinaigrette",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "parsnips",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

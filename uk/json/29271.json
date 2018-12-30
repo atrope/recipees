@@ -1,0 +1,31 @@
+{
+    "title": "Pan fried kale with olives",
+    "ingredients": [
+        {
+            "name": "green kale",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

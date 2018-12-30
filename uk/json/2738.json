@@ -1,0 +1,71 @@
+{
+    "title": "Quark citrus souffl\u00e9s",
+    "ingredients": [
+        {
+            "name": "souffle",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "quark cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "zest lime",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "zest orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "strawberry coulis",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "liqueur kirsch",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

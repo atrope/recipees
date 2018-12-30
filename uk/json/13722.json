@@ -1,0 +1,36 @@
+{
+    "title": "Creamy Cauliflower Cheese Soup",
+    "ingredients": [
+        {
+            "name": "cauliflower",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "900",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Marie's easy slow cooker beef stew",
+    "ingredients": [
+        {
+            "name": "beef stewing steak",
+            "quantity": "8",
+            "type": "kg"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sachet onion soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

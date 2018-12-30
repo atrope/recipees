@@ -1,0 +1,21 @@
+{
+    "title": "Cottage cheese toast",
+    "ingredients": [
+        {
+            "name": "cheese",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

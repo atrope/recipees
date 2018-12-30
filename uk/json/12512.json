@@ -1,0 +1,46 @@
+{
+    "title": "Cashew Chocolate Mousse",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cashew nuts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cashew nuts",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

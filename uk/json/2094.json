@@ -1,0 +1,26 @@
+{
+    "title": "Portuguese Rice Pudding",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1.4L",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Carrot pumpkin muffins",
+    "ingredients": [
+        {
+            "name": "muffins",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vanilla sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nuts",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "icing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mascarpone cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "marzipan",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

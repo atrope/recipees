@@ -1,0 +1,21 @@
+{
+    "title": "Berry Watermelon Smoothie",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "watermelon",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "vanilla yoghurt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

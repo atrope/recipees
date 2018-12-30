@@ -1,0 +1,51 @@
+{
+    "title": "Red cabbage and apples",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "550",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tart apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

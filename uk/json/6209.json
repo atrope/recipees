@@ -1,0 +1,31 @@
+{
+    "title": "Cheat's Mexican hot chocolate",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "175",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

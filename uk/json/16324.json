@@ -1,0 +1,51 @@
+{
+    "title": "Chinese Beef and Potato Stew",
+    "ingredients": [
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "stewing beef steak",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "475",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

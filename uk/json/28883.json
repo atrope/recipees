@@ -1,0 +1,26 @@
+{
+    "title": "My simple sponge cake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Tomato and Rice Soup with Scallops",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "scallops",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

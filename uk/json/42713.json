@@ -1,0 +1,41 @@
+{
+    "title": "Mast-o-Khiar (Persian yogurt dip)",
+    "ingredients": [
+        {
+            "name": "yogurt",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mint",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "raisins",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

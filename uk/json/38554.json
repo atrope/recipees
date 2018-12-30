@@ -1,0 +1,16 @@
+{
+    "title": "Nicole's easy banana smoothie",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

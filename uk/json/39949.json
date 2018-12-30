@@ -1,0 +1,36 @@
+{
+    "title": "Turmeric milk",
+    "ingredients": [
+        {
+            "name": "turmeric root",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "almond milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "pinch turmeric",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Meatloaf on the barbecue",
+    "ingredients": [
+        {
+            "name": "minced beef",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "minced pork",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "215",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tarragon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "barbecue sauce",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

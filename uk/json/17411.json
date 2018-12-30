@@ -1,0 +1,21 @@
+{
+    "title": "Grog with rum",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

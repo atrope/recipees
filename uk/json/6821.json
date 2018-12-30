@@ -1,0 +1,41 @@
+{
+    "title": "Garlic and apple sausage rolls",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "cooking apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg glaze",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

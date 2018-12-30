@@ -1,0 +1,66 @@
+{
+    "title": "Chicken Caesar salad with tofu dressing",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tofu",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "capers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "anchovies",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "croutons garnish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parmesan cheese",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

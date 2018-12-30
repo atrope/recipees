@@ -1,0 +1,46 @@
+{
+    "title": "Blackened seasoning",
+    "ingredients": [
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

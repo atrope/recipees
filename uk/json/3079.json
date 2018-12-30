@@ -1,0 +1,46 @@
+{
+    "title": "Provenal turkey sandwich",
+    "ingredients": [
+        {
+            "name": "rustic loaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pesto sauce",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "beefsteak tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "watercress",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "turkey meat",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Crab and grapefruit salad",
+    "ingredients": [
+        {
+            "name": "grapefruits",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "mango chutney",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "toasted sesame oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "crabmeat picked cartilage",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "watercress",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "chicory",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

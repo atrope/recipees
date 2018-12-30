@@ -1,0 +1,51 @@
+{
+    "title": "Five vegetable soup",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "2.5L",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "turnip",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green beans",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

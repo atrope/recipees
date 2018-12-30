@@ -1,0 +1,41 @@
+{
+    "title": "Fruit scones",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

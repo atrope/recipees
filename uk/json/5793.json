@@ -1,0 +1,31 @@
+{
+    "title": "Old-fashioned Welsh rarebit",
+    "ingredients": [
+        {
+            "name": "cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ale milk",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "toast",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

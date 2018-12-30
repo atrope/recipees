@@ -1,0 +1,61 @@
+{
+    "title": "Mocha Sponge Cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "water coffee",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "coffee water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cocoa chocolate",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

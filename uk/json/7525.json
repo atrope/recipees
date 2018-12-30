@@ -1,0 +1,51 @@
+{
+    "title": "Oven Baked BBQ Ribs",
+    "ingredients": [
+        {
+            "name": "onions",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "mustard",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pork spareribs",
+            "quantity": "2",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

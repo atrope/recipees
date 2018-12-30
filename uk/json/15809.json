@@ -1,0 +1,66 @@
+{
+    "title": "Beef Goulash with Peppers",
+    "ingredients": [
+        {
+            "name": "butter olive oil",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sweet paprika",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "vinegar water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef stewing steak",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caraway",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "marjoram",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "1-2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

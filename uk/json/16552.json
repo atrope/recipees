@@ -1,0 +1,51 @@
+{
+    "title": "Chinese noodles with chicken",
+    "ingredients": [
+        {
+            "name": "rapeseed oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper julienned",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "noodles",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

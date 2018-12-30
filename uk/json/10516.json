@@ -1,0 +1,66 @@
+{
+    "title": "Cheddar, Bacon and Asparagus Strata",
+    "ingredients": [
+        {
+            "name": "bacon",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "loaf bread",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

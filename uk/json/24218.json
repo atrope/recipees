@@ -1,0 +1,36 @@
+{
+    "title": "Bourbon Glazed Ham",
+    "ingredients": [
+        {
+            "name": "bone ham",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "30",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bourbon",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "750",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

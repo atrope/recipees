@@ -1,0 +1,41 @@
+{
+    "title": "Classic bread and butter pudding",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "bread",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

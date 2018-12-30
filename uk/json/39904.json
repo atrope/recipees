@@ -1,0 +1,41 @@
+{
+    "title": "Rice with peas and carrots",
+    "ingredients": [
+        {
+            "name": "basmati rice",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "saffron",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "peas carrots",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

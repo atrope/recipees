@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate krispy squares",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "raisins",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

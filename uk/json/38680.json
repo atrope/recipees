@@ -1,0 +1,26 @@
+{
+    "title": "Hot chocolate in a jar",
+    "ingredients": [
+        {
+            "name": "chocolate powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolates",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "candy",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

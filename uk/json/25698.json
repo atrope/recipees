@@ -1,0 +1,41 @@
+{
+    "title": "Corned beef hash . . . simple",
+    "ingredients": [
+        {
+            "name": "beef",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "olive oil vegetable",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Spring sorrel soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "sorrel",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "croutons garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

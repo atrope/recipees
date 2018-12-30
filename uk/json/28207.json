@@ -1,0 +1,51 @@
+{
+    "title": "Berries with oats and flaxseed",
+    "ingredients": [
+        {
+            "name": "oats",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "apricots minced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "mint",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

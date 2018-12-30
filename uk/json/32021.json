@@ -1,0 +1,31 @@
+{
+    "title": "Perfect pastry",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "margarine butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "milk water",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

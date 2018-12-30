@@ -1,0 +1,21 @@
+{
+    "title": "Strawberry smoothie",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "ice",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Pizza pasta",
+    "ingredients": [
+        {
+            "name": "rigatoni pasta",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "sausage",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "pepperoni",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepperoni",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt pepper",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

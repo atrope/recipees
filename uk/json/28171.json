@@ -1,0 +1,36 @@
+{
+    "title": "Chicken mushroom curry",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "curry paste",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

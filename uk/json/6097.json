@@ -1,0 +1,41 @@
+{
+    "title": "Coconut pecan icing",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coconut",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

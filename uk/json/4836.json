@@ -1,0 +1,46 @@
+{
+    "title": "Cheese Borek",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch parsley minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flakes",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cheese",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "filo pastry",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

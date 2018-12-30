@@ -1,0 +1,66 @@
+{
+    "title": "Potato moussaka",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine vegetable stock",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "parsley rosemary",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "olives",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parsley rosemary garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

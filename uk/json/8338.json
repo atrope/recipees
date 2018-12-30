@@ -1,0 +1,66 @@
+{
+    "title": "Heavenly chocolate and hazelnut cheesecake",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "combo",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "toasted hazelnuts",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "hazelnut liqueur",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "toasted hazelnuts",
+            "quantity": "13",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "hazelnut liqueur",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

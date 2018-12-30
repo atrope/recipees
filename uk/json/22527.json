@@ -1,0 +1,31 @@
+{
+    "title": "The ol' doll's stew",
+    "ingredients": [
+        {
+            "name": "mutton",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

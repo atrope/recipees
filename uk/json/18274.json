@@ -1,0 +1,81 @@
+{
+    "title": "Peanut Butter Blondies",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "440",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "260",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "75",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

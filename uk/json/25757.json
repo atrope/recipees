@@ -1,0 +1,61 @@
+{
+    "title": "Blueberry and bran muffins",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "oat",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt buttermilk",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

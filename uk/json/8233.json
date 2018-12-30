@@ -1,0 +1,56 @@
+{
+    "title": "Beef and mushroom ragout",
+    "ingredients": [
+        {
+            "name": "beef steak",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "flour gluten rice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "bacon",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

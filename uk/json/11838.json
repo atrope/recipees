@@ -1,0 +1,41 @@
+{
+    "title": "Luscious Tzatziki",
+    "ingredients": [
+        {
+            "name": "yoghurt",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "cucumbers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

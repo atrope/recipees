@@ -1,0 +1,76 @@
+{
+    "title": "Three Cheese and Potato Soup",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "950",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "flakes",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

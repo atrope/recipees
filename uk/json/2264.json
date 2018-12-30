@@ -1,0 +1,36 @@
+{
+    "title": "Strawberry Soya Breakfast Smoothie",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "14",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Fresh blackberry jam",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "575",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "allspice",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

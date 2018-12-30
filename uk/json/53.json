@@ -1,0 +1,36 @@
+{
+    "title": "My Welsh Rarebit",
+    "ingredients": [
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "beer milk",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread toasted",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Chocolate, cinnamon and vanilla shake",
+    "ingredients": [
+        {
+            "name": "chocolate powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla ice cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "strawberry chocolate sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sprinkles",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

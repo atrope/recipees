@@ -1,0 +1,41 @@
+{
+    "title": "Spanish chicken kebab",
+    "ingredients": [
+        {
+            "name": "garlic cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sweet paprika",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch cumin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

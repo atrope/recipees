@@ -1,0 +1,51 @@
+{
+    "title": "White chocolate and raspberry ice cream",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vanilla bean",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

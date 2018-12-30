@@ -1,0 +1,26 @@
+{
+    "title": "Fail-safe Basmati Rice",
+    "ingredients": [
+        {
+            "name": "basmati rice",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "275",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

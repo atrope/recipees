@@ -1,0 +1,46 @@
+{
+    "title": "Marzipan rum balls",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "redcurrant jam",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "marzipan",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pistachios",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

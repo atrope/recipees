@@ -1,0 +1,61 @@
+{
+    "title": "Barbecued portobello burger",
+    "ingredients": [
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "mushroom",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "garlic paste",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mozzarella",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "tomato",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "16",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

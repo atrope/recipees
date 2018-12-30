@@ -1,0 +1,46 @@
+{
+    "title": "Bread Machine Rosemary French Bread",
+    "ingredients": [
+        {
+            "name": "yeast",
+            "quantity": "7",
+            "type": "g"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "255",
+            "type": "ml"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

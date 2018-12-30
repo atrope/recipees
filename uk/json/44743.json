@@ -1,0 +1,46 @@
+{
+    "title": "Chocolate topped oat flap jacks",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "550",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

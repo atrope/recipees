@@ -1,0 +1,26 @@
+{
+    "title": "Strawberry and kiwi fruit smoothie",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "fruits",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

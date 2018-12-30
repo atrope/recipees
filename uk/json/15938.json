@@ -1,0 +1,46 @@
+{
+    "title": "Homemade bread",
+    "ingredients": [
+        {
+            "name": "baking yeast",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beer temperature",
+            "quantity": "90",
+            "type": "ml"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

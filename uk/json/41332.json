@@ -1,0 +1,46 @@
+{
+    "title": "Strawberry and spinach quinoa salad",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "spinach",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

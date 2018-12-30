@@ -1,0 +1,41 @@
+{
+    "title": "Spicy perciatelli with cherry tomatoes",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

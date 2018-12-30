@@ -1,0 +1,56 @@
+{
+    "title": "Bacon and sweetcorn quiche",
+    "ingredients": [
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "1-2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "4-5",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "90",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

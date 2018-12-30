@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate corn flake cakes",
+    "ingredients": [
+        {
+            "name": "milk chocolate",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coconut oil",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "almonds",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cornflakes",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

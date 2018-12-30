@@ -1,0 +1,51 @@
+{
+    "title": "Sweet and sour gammon and pineapple",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "gammon",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

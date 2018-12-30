@@ -1,0 +1,31 @@
+{
+    "title": "Orangitini",
+    "ingredients": [
+        {
+            "name": "vodka",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "triple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweet sour",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Basic Wholemeal Bread",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "135",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "yeast",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Quick and Healthy Chicken Stew",
+    "ingredients": [
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken meat",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.2",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "165",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "courgette",
+            "quantity": "115",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

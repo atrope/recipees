@@ -1,0 +1,101 @@
+{
+    "title": "Fake steak and Guinness\u00ae pie",
+    "ingredients": [
+        {
+            "name": "meatballs",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "stout",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "shortcrust pastry",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

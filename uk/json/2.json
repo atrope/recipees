@@ -1,0 +1,61 @@
+{
+    "title": "Pistachio chicken with pomegranate sauce",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "pistachio nuts",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "minced shallots",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "wine",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "pomegranate juice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

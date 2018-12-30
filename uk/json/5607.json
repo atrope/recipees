@@ -1,0 +1,61 @@
+{
+    "title": "Blue-cheese stuffed burgers",
+    "ingredients": [
+        {
+            "name": "minced beef",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "cheese crumbled",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "toasted",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Coffee parfait",
+    "ingredients": [
+        {
+            "name": "coffee",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "mascarpone cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "caramelised walnuts",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garnish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "biscuit",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

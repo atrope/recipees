@@ -1,0 +1,51 @@
+{
+    "title": "Chocolate Chunk Macadamia Brownies",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "macadamia nuts",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

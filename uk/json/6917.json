@@ -1,0 +1,31 @@
+{
+    "title": "Triple Fionn MacCool",
+    "ingredients": [
+        {
+            "name": "cream liqueur",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "whisky",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

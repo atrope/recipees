@@ -1,0 +1,56 @@
+{
+    "title": "Rabbit Pie",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "rabbit meat",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "pastry",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "suet butter",
+            "quantity": "85",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

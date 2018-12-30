@@ -1,0 +1,71 @@
+{
+    "title": "Emma's cowboy pie",
+    "ingredients": [
+        {
+            "name": "sausages",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "supermarket beans",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

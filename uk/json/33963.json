@@ -1,0 +1,31 @@
+{
+    "title": "Three fruit marmalade",
+    "ingredients": [
+        {
+            "name": "oranges",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pink grapefruit",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemons",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2L",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "8",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

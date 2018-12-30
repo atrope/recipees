@@ -1,0 +1,51 @@
+{
+    "title": "Venison and mushroom stew",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "venison",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "bunch onions",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

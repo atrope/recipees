@@ -1,0 +1,51 @@
+{
+    "title": "Seared duck breasts with wild rice and grapes",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pecan nuts",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "duck",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "zest juice orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "grapes",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

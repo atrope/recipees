@@ -1,0 +1,36 @@
+{
+    "title": "Baked Salmon Loaf",
+    "ingredients": [
+        {
+            "name": "salmon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "crackers",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

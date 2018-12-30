@@ -1,0 +1,41 @@
+{
+    "title": "Cheese and Ham Scone Whirls",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

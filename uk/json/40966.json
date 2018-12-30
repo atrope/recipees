@@ -1,0 +1,56 @@
+{
+    "title": "Leek and goat cheese quiche",
+    "ingredients": [
+        {
+            "name": "savoury pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leeks green",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "chives",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "goat cheese crumbled",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

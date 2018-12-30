@@ -1,0 +1,31 @@
+{
+    "title": "Pan-fried Potatoes with Bacon",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

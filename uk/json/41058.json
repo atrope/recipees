@@ -1,0 +1,61 @@
+{
+    "title": "Pea, prawn and avocado salad",
+    "ingredients": [
+        {
+            "name": "avocados",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "olives",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "sweet onion",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

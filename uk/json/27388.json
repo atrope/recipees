@@ -1,0 +1,36 @@
+{
+    "title": "Banana and rum-honey syrup for waffles",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "juice orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "waffles",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

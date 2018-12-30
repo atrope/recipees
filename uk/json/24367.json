@@ -1,0 +1,51 @@
+{
+    "title": "Gorgonzola Risotto",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "850",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "shallots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "risotto rice",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "frache",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

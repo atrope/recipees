@@ -1,0 +1,36 @@
+{
+    "title": "Easy mincemeat fruit cake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "mincemeat",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

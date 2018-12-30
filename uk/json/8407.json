@@ -1,0 +1,51 @@
+{
+    "title": "Stuffing",
+    "ingredients": [
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "bread",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "poultry seasoning",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

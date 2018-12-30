@@ -1,0 +1,51 @@
+{
+    "title": "Chunky vegetable mulligatawny soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable chicken stock",
+            "quantity": "900",
+            "type": "ml"
+        },
+        {
+            "name": "basmati rice",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "pinch thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

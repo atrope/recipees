@@ -1,0 +1,41 @@
+{
+    "title": "Best fluffy American pancakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "135",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "130",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter olive oil cooking",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

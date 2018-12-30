@@ -1,0 +1,31 @@
+{
+    "title": "Pasta and Cabbage",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

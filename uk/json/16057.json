@@ -1,0 +1,31 @@
+{
+    "title": "Sweet and sour cucumber and dill salad",
+    "ingredients": [
+        {
+            "name": "cucumbers",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bunch dill",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

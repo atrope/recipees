@@ -1,0 +1,76 @@
+{
+    "title": "Vegetable Fried Rice",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bamboo shoots",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

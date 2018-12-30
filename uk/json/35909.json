@@ -1,0 +1,51 @@
+{
+    "title": "Fondant brownies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sachet vanilla sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Creamy Coconut Custard",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "340",
+            "type": "ml"
+        },
+        {
+            "name": "coconut cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

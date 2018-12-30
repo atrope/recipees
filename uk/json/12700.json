@@ -1,0 +1,56 @@
+{
+    "title": "Slow Cooker Taco Dip",
+    "ingredients": [
+        {
+            "name": "beef mince",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salsa",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "taco sauce",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "olives",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "tortilla",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

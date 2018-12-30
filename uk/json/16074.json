@@ -1,0 +1,41 @@
+{
+    "title": "Uri Rispor (Swiss rice and leeks)",
+    "ingredients": [
+        {
+            "name": "leeks",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "butter",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "meat stock chicken",
+            "quantity": "1.5L",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

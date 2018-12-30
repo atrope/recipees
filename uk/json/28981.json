@@ -1,0 +1,71 @@
+{
+    "title": "Apple salad",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "candied cherries",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "pistachios",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "arak",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

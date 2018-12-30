@@ -1,0 +1,31 @@
+{
+    "title": "Beer can chicken on the BBQ",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beer",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken seasoning",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "smoke flavouring",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

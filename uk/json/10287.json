@@ -1,0 +1,51 @@
+{
+    "title": "Melanzane alla parmigiana (Aubergine and Parmesan bake)",
+    "ingredients": [
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "800",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

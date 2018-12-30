@@ -1,0 +1,41 @@
+{
+    "title": "Bacon, Egg and Onion Breakfast Tower",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

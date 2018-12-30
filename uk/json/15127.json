@@ -1,0 +1,16 @@
+{
+    "title": "Sauerkraut",
+    "ingredients": [
+        {
+            "name": "cabbage",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "pickling salt",
+            "quantity": "90",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

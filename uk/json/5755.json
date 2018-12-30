@@ -1,0 +1,36 @@
+{
+    "title": "Doughnut babas",
+    "ingredients": [
+        {
+            "name": "doughnuts",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "rum orange juice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "grapes",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

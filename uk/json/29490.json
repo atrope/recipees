@@ -1,0 +1,51 @@
+{
+    "title": "Chicken and broccoli bake",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "mushroom soup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cheese",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Buffalo chicken calzone",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "pizza dough",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

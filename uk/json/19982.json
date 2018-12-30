@@ -1,0 +1,51 @@
+{
+    "title": "Pizza Bread with Pepperoni",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "pepperoni",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sachet baking yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "480",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

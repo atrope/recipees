@@ -1,0 +1,66 @@
+{
+    "title": "Chopped power salad",
+    "ingredients": [
+        {
+            "name": "cauliflower",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "toasted pumpkin",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "apple cider vinegar",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

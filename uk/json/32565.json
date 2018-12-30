@@ -1,0 +1,51 @@
+{
+    "title": "Chocolate and hazelnut cookies",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "almonds",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "hazelnuts",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

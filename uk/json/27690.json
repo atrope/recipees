@@ -1,0 +1,41 @@
+{
+    "title": "Wild mushroom tart",
+    "ingredients": [
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pastry",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "goats cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

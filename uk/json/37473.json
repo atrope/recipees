@@ -1,0 +1,46 @@
+{
+    "title": "Smoked salmon and walnut tagliatelle",
+    "ingredients": [
+        {
+            "name": "tagliatelle pasta",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "chives",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

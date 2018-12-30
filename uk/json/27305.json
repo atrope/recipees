@@ -1,0 +1,36 @@
+{
+    "title": "Steak and potatoes with whisky sauce",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "steaks",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "whisky",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

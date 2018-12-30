@@ -1,0 +1,41 @@
+{
+    "title": "Macaroni cheese",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "macaroni",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "175",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

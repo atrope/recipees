@@ -1,0 +1,86 @@
+{
+    "title": "Asian beef noodle soup",
+    "ingredients": [
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "steak",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sriracha sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rice noodles",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

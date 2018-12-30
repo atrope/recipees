@@ -1,0 +1,31 @@
+{
+    "title": "Fresh berry salad",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

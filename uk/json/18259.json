@@ -1,0 +1,31 @@
+{
+    "title": "Blackberry Cobbler",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

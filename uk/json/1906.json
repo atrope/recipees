@@ -1,0 +1,41 @@
+{
+    "title": "Hot mulled cranberry punch",
+    "ingredients": [
+        {
+            "name": "cranberry juice",
+            "quantity": "2L",
+            "type": "-"
+        },
+        {
+            "name": "oranges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "14",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "honey",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Spicy Chilli Squid",
+    "ingredients": [
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "squid",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

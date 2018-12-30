@@ -1,0 +1,36 @@
+{
+    "title": "Lemonade with Watermelon",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "watermelon",
+            "quantity": "615",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

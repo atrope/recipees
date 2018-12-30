@@ -1,0 +1,51 @@
+{
+    "title": "Hearty fruit cake",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "170",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "fruit",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cherries",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

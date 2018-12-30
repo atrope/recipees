@@ -1,0 +1,21 @@
+{
+    "title": "Stilton sauce for steak",
+    "ingredients": [
+        {
+            "name": "wine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

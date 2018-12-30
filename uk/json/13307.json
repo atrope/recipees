@@ -1,0 +1,16 @@
+{
+    "title": "Mock Guinness",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ice cream vanilla",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

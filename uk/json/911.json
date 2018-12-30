@@ -1,0 +1,41 @@
+{
+    "title": "Barbecued peanut chicken",
+    "ingredients": [
+        {
+            "name": "peanut butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1/3",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

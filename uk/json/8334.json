@@ -1,0 +1,61 @@
+{
+    "title": "Bakewell slice",
+    "ingredients": [
+        {
+            "name": "shortcrust pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raspberry jam",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "almond",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "almonds",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

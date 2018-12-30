@@ -1,0 +1,26 @@
+{
+    "title": "So simple tandoori chicken",
+    "ingredients": [
+        {
+            "name": "yoghurt",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "tandoori masala spice",
+            "quantity": "9",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "5",
+            "type": "g"
+        },
+        {
+            "name": "chicken drumsticks",
+            "quantity": "1",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

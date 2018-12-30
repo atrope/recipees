@@ -1,0 +1,41 @@
+{
+    "title": "Coffee ice cream",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "coffee",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "coffee",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

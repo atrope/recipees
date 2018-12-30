@@ -1,0 +1,46 @@
+{
+    "title": "Warm potato and caper salad",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "pickled cucumbers",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "capers",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leaf parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "apple cider vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wholegrain mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Peanut butter chocolate chip energy cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "protein",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

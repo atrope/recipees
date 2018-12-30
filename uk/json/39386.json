@@ -1,0 +1,26 @@
+{
+    "title": "Exotic kiwi smoothie",
+    "ingredients": [
+        {
+            "name": "fruits",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "200",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

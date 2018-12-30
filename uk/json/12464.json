@@ -1,0 +1,41 @@
+{
+    "title": "Best ever bbq marinade",
+    "ingredients": [
+        {
+            "name": "ketchup",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "juice zest orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "smoked paprika",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Potato and onion cakes",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Tiramisu with Amaretto",
+    "ingredients": [
+        {
+            "name": "coffee",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "savoiardi sponge fingers",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mascarpone cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "amaretto liqueur",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

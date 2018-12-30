@@ -1,0 +1,81 @@
+{
+    "title": "Luxurious mincemeat Christmas cake",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mincemeat",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "prunes",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "fruit",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "candied peel",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sherry",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "cake",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "zest orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

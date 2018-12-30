@@ -1,0 +1,51 @@
+{
+    "title": "Cheesy potato and carrot soup",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "900",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

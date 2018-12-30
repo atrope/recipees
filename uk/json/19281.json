@@ -1,0 +1,51 @@
+{
+    "title": "Mini apple muffins",
+    "ingredients": [
+        {
+            "name": "margarine butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "allspice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "apple sauce puree",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

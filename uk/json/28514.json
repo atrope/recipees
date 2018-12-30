@@ -1,0 +1,41 @@
+{
+    "title": "Strawberries and cream cupcakes",
+    "ingredients": [
+        {
+            "name": "butter margarine temperature",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "double cream",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "36",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

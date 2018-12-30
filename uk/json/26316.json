@@ -1,0 +1,36 @@
+{
+    "title": "Barbecued pork chops",
+    "ingredients": [
+        {
+            "name": "ketchup",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "herbes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pork",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

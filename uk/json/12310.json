@@ -1,0 +1,41 @@
+{
+    "title": "Red pepper soup au gratin",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

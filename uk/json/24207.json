@@ -1,0 +1,16 @@
+{
+    "title": "Quick basil ice cream",
+    "ingredients": [
+        {
+            "name": "vanilla ice cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

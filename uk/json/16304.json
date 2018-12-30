@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate chip shortcake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

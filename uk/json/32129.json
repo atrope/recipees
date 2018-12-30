@@ -1,0 +1,26 @@
+{
+    "title": "Kid's cheese and veg kebab",
+    "ingredients": [
+        {
+            "name": "carrot",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

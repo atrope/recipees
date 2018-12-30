@@ -1,0 +1,51 @@
+{
+    "title": "Chicken parmigiana",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "chicken fillets total",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

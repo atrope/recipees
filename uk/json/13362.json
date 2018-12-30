@@ -1,0 +1,46 @@
+{
+    "title": "Spicy Sausage and Potato Soup",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sausages spiced sausage",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bunch spinach",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

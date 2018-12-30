@@ -1,0 +1,56 @@
+{
+    "title": "Ana's meatballs in tomato sauce",
+    "ingredients": [
+        {
+            "name": "mince pork beef",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomato paste",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "beef stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

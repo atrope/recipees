@@ -1,0 +1,46 @@
+{
+    "title": "Laura's Barbecue Chicken Pizza",
+    "ingredients": [
+        {
+            "name": "sesame oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "barbecue sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pizza sauce",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "pizza",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "coriander garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

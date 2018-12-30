@@ -1,0 +1,41 @@
+{
+    "title": "Pork escalope with orange and chorizo crumb",
+    "ingredients": [
+        {
+            "name": "breadcrumbs",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "orange peel",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced chorizo",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pork",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter oil frying",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

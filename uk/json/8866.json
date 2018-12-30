@@ -1,0 +1,26 @@
+{
+    "title": "Scrambled Egg on Toast",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Japanese mushroom soup",
+    "ingredients": [
+        {
+            "name": "celery",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "minced chives",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

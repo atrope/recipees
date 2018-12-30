@@ -1,0 +1,46 @@
+{
+    "title": "Crunchy cabbage salad",
+    "ingredients": [
+        {
+            "name": "noodles",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Chocolaty and gooey chocolate chip muffins",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "oil",
+            "quantity": "40",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

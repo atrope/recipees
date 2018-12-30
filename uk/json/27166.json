@@ -1,0 +1,46 @@
+{
+    "title": "Perfect florentines",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

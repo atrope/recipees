@@ -1,0 +1,26 @@
+{
+    "title": "Cheddar cheese dog",
+    "ingredients": [
+        {
+            "name": "tomato ketchup barbecue sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "hotdog roll",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "finger shape",
+            "quantity": "35",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Basil and Raspberry Creme Brulee",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

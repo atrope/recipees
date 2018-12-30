@@ -1,0 +1,41 @@
+{
+    "title": "Pan\u2013fried cod with potatoes",
+    "ingredients": [
+        {
+            "name": "cod fillets",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "organic potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

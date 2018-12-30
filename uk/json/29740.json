@@ -1,0 +1,66 @@
+{
+    "title": "The best ginger cake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "treacle",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "peel apricots",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "almonds cake",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Creamy smoked salmon carbonara",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "300",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

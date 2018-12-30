@@ -1,0 +1,96 @@
+{
+    "title": "The great crab sandwich",
+    "ingredients": [
+        {
+            "name": "paste",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "crabmeat crab",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon wedges",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "dijon mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch cayenne pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "meat",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "meat crab",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "herbs parsley dill tarragon chervil chives",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sandwich",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

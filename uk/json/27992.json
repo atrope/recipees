@@ -1,0 +1,21 @@
+{
+    "title": "Rum guava cocktail",
+    "ingredients": [
+        {
+            "name": "rum",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "guava juice",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

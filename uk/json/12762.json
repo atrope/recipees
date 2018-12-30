@@ -1,0 +1,41 @@
+{
+    "title": "Tofu in Green Coconut Curry",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "basmati rice",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tofu",
+            "quantity": "440",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "green curry paste",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

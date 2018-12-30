@@ -1,0 +1,61 @@
+{
+    "title": "Hi-veg muffins",
+    "ingredients": [
+        {
+            "name": "squash sweet potatoes",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "spinach broccoli",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

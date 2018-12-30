@@ -1,0 +1,31 @@
+{
+    "title": "Juicy Fruit Salad",
+    "ingredients": [
+        {
+            "name": "pineapple juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green grapes",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

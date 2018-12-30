@@ -1,0 +1,76 @@
+{
+    "title": "Ultimate spring potato salad",
+    "ingredients": [
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "wholegrain mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bunch onions",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "frache",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "35",
+            "type": "kg"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

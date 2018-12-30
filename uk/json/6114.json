@@ -1,0 +1,51 @@
+{
+    "title": "Butternut squash soup",
+    "ingredients": [
+        {
+            "name": "squash",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

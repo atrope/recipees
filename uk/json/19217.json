@@ -1,0 +1,26 @@
+{
+    "title": "Cream Cheese and Cucumber Canapes",
+    "ingredients": [
+        {
+            "name": "cream cheese creamy",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "salad",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "rye bread",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

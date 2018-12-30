@@ -1,0 +1,26 @@
+{
+    "title": "Cucumber melon salad",
+    "ingredients": [
+        {
+            "name": "cantaloupe",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cucumbers",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "honeydew melon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

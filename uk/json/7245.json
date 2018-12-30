@@ -1,0 +1,51 @@
+{
+    "title": "Thai-inspired tofu",
+    "ingredients": [
+        {
+            "name": "tofu",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "coconut",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sesame",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

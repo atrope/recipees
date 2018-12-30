@@ -1,0 +1,46 @@
+{
+    "title": "Strawberry cheesecake in a jar",
+    "ingredients": [
+        {
+            "name": "shortbread biscuits",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

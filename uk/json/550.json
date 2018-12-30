@@ -1,0 +1,66 @@
+{
+    "title": "Beetroot risotto",
+    "ingredients": [
+        {
+            "name": "beetroot",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "risotto rice",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "vegetable stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "halloumi cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "375",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

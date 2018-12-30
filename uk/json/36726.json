@@ -1,0 +1,56 @@
+{
+    "title": "Aloo methi",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fenugreek methi",
+            "quantity": "60",
+            "type": "-"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Curried beef and vegetable parcels",
+    "ingredients": [
+        {
+            "name": "beef",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut cream",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "curry paste",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

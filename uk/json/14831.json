@@ -1,0 +1,46 @@
+{
+    "title": "Spiced Pumpkin Smoothie",
+    "ingredients": [
+        {
+            "name": "pumpkin puree",
+            "quantity": "825",
+            "type": "g"
+        },
+        {
+            "name": "vanilla ice cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "950",
+            "type": "ml"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mace",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

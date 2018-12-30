@@ -1,0 +1,41 @@
+{
+    "title": "Veal and ham pickle burgers",
+    "ingredients": [
+        {
+            "name": "minced veal",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fruity pickle chutney",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

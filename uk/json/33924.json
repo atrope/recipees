@@ -1,0 +1,41 @@
+{
+    "title": "Citrus lemon loaf cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "juice zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon curd",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "lemon marmalade",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,91 @@
+{
+    "title": "Best fish pie",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "haddock fillets",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "salmon fillets",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "smoked haddock fillets",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "onion cloves",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Sirloin steak and salad",
+    "ingredients": [
+        {
+            "name": "steak",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salad",
+            "quantity": "1/3",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "20",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

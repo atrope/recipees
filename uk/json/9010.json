@@ -1,0 +1,81 @@
+{
+    "title": "Betty's Lancashire Hotpot",
+    "ingredients": [
+        {
+            "name": "lamb",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "flour salt pepper",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "swede",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sherry",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "butter clove garlic",
+            "quantity": "15",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

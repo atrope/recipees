@@ -1,0 +1,46 @@
+{
+    "title": "Two-way potato",
+    "ingredients": [
+        {
+            "name": "herbs",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bacon",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "300",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

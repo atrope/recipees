@@ -1,0 +1,51 @@
+{
+    "title": "Bread machine pretzels",
+    "ingredients": [
+        {
+            "name": "beer",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "380",
+            "type": "g"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt flakes",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

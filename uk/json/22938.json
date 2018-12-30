@@ -1,0 +1,36 @@
+{
+    "title": "Mussels and Clams with Lemon",
+    "ingredients": [
+        {
+            "name": "mussels",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "clams",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "lemon zest juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

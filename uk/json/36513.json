@@ -1,0 +1,36 @@
+{
+    "title": "Sourdough beer bread",
+    "ingredients": [
+        {
+            "name": "loaf flour",
+            "quantity": "575",
+            "type": "g"
+        },
+        {
+            "name": "loaf flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "loaf sourdough",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "loaf ale",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "loaf water",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "loaf salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

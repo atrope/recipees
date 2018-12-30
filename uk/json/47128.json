@@ -1,0 +1,21 @@
+{
+    "title": "Quick raspberry ice cream",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

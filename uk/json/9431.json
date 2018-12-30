@@ -1,0 +1,66 @@
+{
+    "title": "Barbecued curried chicken and mushroom kebabs",
+    "ingredients": [
+        {
+            "name": "mayonnaise",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "rice",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "skewers",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

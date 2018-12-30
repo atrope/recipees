@@ -1,0 +1,31 @@
+{
+    "title": "Mango Vanilla Smoothie",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla yoghurt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mango",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "ice",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

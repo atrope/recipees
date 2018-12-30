@@ -1,0 +1,31 @@
+{
+    "title": "Spiced aubergine Indian style",
+    "ingredients": [
+        {
+            "name": "aubergine",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "ghee butter",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "onions",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "coriander seed",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

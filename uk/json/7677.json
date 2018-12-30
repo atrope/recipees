@@ -1,0 +1,31 @@
+{
+    "title": "Coconut avocado ice cream",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "coconut cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "avocados",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

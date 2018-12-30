@@ -1,0 +1,26 @@
+{
+    "title": "Slow cooker roast beef",
+    "ingredients": [
+        {
+            "name": "beef rump roasting",
+            "quantity": "25",
+            "type": "kg"
+        },
+        {
+            "name": "sauce",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "sachet onion soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,86 @@
+{
+    "title": "Blueberry cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "curd cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "mint",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "1",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

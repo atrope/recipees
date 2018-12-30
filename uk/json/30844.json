@@ -1,0 +1,41 @@
+{
+    "title": "Smoked salmon pate on bagel toasts",
+    "ingredients": [
+        {
+            "name": "bagels",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bunch watercress",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

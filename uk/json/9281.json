@@ -1,0 +1,46 @@
+{
+    "title": "Korean Beef Bulgogi",
+    "ingredients": [
+        {
+            "name": "frying steak",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sesame",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

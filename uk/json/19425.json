@@ -1,0 +1,51 @@
+{
+    "title": "Cheat's spinach lasagne",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "lasagne",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

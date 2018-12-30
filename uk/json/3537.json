@@ -1,0 +1,41 @@
+{
+    "title": "Sausage, pasta and bean bake",
+    "ingredients": [
+        {
+            "name": "pork sausages",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "penne pasta",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "beans sweetcorn",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Frost bite",
+    "ingredients": [
+        {
+            "name": "spiced orange tea",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "rum",
+            "quantity": "25",
+            "type": "ml"
+        },
+        {
+            "name": "lemonade",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "raspberry syrup",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

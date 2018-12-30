@@ -1,0 +1,51 @@
+{
+    "title": "Roasted olives",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "capers",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "green olives pimento",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "olives",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

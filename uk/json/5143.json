@@ -1,0 +1,41 @@
+{
+    "title": "Cucumber and Avocado Sushi",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "sushi rice",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "rice vinegar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nori seaweed",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cucumber julienned",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

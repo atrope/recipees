@@ -1,0 +1,56 @@
+{
+    "title": "Pan-fried Steaks with Italian Sauce",
+    "ingredients": [
+        {
+            "name": "rump steaks",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "tagliatelle",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "capers",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "green olives",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "basil garnish",
+            "quantity": "2",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

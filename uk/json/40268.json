@@ -1,0 +1,51 @@
+{
+    "title": "Gluten free cornbread",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "cornmeal polenta",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "millet flour",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "rice flour",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "gluten baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

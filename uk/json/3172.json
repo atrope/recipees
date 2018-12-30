@@ -1,0 +1,101 @@
+{
+    "title": "Cassoulet",
+    "ingredients": [
+        {
+            "name": "beans",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "pork fillet",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "sausage",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "turnip",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "pork chicken stock",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "15",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

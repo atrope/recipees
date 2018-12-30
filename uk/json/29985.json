@@ -1,0 +1,31 @@
+{
+    "title": "Easy parsnip soup",
+    "ingredients": [
+        {
+            "name": "parsnips",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "950",
+            "type": "ml"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

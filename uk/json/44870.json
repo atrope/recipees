@@ -1,0 +1,56 @@
+{
+    "title": "Cauliflower mac 'n cheese",
+    "ingredients": [
+        {
+            "name": "cauliflower",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "ghee butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Tuna and Chickpea Salad",
+    "ingredients": [
+        {
+            "name": "tuna olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chickpeas",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "feta cheese",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt pepper",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Crispy Cajun Breaded Fish",
+    "ingredients": [
+        {
+            "name": "breadcrumbs",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "seasoning",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "fish fillets",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

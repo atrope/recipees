@@ -1,0 +1,51 @@
+{
+    "title": "Chocolate croissant bread pudding",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla bean",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate croissants",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

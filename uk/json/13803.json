@@ -1,0 +1,46 @@
+{
+    "title": "Chicken and rice vermicelli soup",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "35",
+            "type": "kg"
+        },
+        {
+            "name": "salt chicken stock",
+            "quantity": "2.75",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice vermicelli",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "bunch onions",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

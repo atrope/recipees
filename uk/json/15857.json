@@ -1,0 +1,46 @@
+{
+    "title": "Classic Club Sandwich",
+    "ingredients": [
+        {
+            "name": "lettuce",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "toast",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "3-4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "16",
+            "type": "-"
+        },
+        {
+            "name": "chicken turkey",
+            "quantity": "16",
+            "type": "-"
+        },
+        {
+            "name": "skewers",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,86 @@
+{
+    "title": "Sweetcorn fritters",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "watercress",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "zest juice lime",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

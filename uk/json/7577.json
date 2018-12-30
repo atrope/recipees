@@ -1,0 +1,61 @@
+{
+    "title": "Coronation chicken pasta salad",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "chicken meat",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "green grapes",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rice vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

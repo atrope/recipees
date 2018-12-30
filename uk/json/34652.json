@@ -1,0 +1,51 @@
+{
+    "title": "Blueberry lemon loaf cake",
+    "ingredients": [
+        {
+            "name": "butter temperature",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

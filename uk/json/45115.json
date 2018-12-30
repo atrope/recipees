@@ -1,0 +1,16 @@
+{
+    "title": "Sweet and soothing ginger tea",
+    "ingredients": [
+        {
+            "name": "ginger ale",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "tea",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

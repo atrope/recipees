@@ -1,0 +1,61 @@
+{
+    "title": "William's roast beef",
+    "ingredients": [
+        {
+            "name": "root ginger",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "orange marmalade",
+            "quantity": "5",
+            "type": "tbsp"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lager",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "beef",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

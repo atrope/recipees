@@ -1,0 +1,41 @@
+{
+    "title": "Champagne lobster",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "champagne wine",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "lobsters",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

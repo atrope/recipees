@@ -1,0 +1,26 @@
+{
+    "title": "Pineapple jam",
+    "ingredients": [
+        {
+            "name": "pineapple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "jam sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "juice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

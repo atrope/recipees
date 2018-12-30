@@ -1,0 +1,31 @@
+{
+    "title": "Brandy Ice Cream",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

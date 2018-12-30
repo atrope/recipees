@@ -1,0 +1,36 @@
+{
+    "title": "Chilled tomato soup with Parmesan ice cream",
+    "ingredients": [
+        {
+            "name": "plum tomatoes",
+            "quantity": "18",
+            "type": "-"
+        },
+        {
+            "name": "basil julienned",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Sourdough starter",
+    "ingredients": [
+        {
+            "name": "sachet baking yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

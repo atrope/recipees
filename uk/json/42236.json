@@ -1,0 +1,56 @@
+{
+    "title": "Christmas tree brownies",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pomegranate",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sweets",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

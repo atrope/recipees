@@ -1,0 +1,61 @@
+{
+    "title": "Brown Rice Salad with Orange Vinaigrette",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "spinach",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "oranges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

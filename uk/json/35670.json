@@ -1,0 +1,66 @@
+{
+    "title": "Ginger spice cookies",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "550",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "shortening",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "molasses",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

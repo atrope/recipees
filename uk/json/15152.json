@@ -1,0 +1,86 @@
+{
+    "title": "Seeded brown bread",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "treacle",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sachet baking yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rapeseed oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "poppy",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "millet grains",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "barley malt flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "wheat gluten",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "millet grains",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

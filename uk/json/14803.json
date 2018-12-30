@@ -1,0 +1,41 @@
+{
+    "title": "Simple Leek and Potato Soup",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "25",
+            "type": "kg"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

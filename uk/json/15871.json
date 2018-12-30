@@ -1,0 +1,51 @@
+{
+    "title": "Cream of Potato and Leek Soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

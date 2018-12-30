@@ -1,0 +1,26 @@
+{
+    "title": "Warm Goat Cheese Sandwiches",
+    "ingredients": [
+        {
+            "name": "goat cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "basil pesto",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "breads",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

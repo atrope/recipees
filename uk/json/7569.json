@@ -1,0 +1,41 @@
+{
+    "title": "Summertime sangria",
+    "ingredients": [
+        {
+            "name": "wine",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemonade",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

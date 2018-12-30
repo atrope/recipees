@@ -1,0 +1,61 @@
+{
+    "title": "Chipotle Chilli Mashed Potatoes",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chipotle paste",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Bacon, Spinach and Goats Cheese Quiche",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "shortcrust pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "goat cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "4-6",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Mark's Christmas Cake",
+    "ingredients": [
+        {
+            "name": "fruit",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "candied citrus peel",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

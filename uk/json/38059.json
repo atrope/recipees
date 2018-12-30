@@ -1,0 +1,41 @@
+{
+    "title": "Simple marshmallow brownies",
+    "ingredients": [
+        {
+            "name": "cooking chocolate",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

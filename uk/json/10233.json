@@ -1,0 +1,31 @@
+{
+    "title": "Smoky and sweet BBQ salmon",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "smoke flavouring",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "salmon fillet",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

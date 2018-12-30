@@ -1,0 +1,51 @@
+{
+    "title": "Quick Salmon Skewers",
+    "ingredients": [
+        {
+            "name": "salmon fillets",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "mint",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch flakes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Baked Potato with Cheese, Corned Beef and Beans",
+    "ingredients": [
+        {
+            "name": "baking potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "beef",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "oil potatoes",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

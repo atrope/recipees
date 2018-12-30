@@ -1,0 +1,46 @@
+{
+    "title": "Peach homemade ice cream",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cream milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

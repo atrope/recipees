@@ -1,0 +1,41 @@
+{
+    "title": "Lemon Chicken and Rice Soup",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "rice",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bunch spinach",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Super chocolaty muffins",
+    "ingredients": [
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

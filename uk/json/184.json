@@ -1,0 +1,46 @@
+{
+    "title": "Chocolate and Hazelnut Mascarpone Cheesecakes",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "110",
+            "type": "ml"
+        },
+        {
+            "name": "mascarpone",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "hazelnuts toasted",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "rasberries",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "mint garnish",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Chilli strawberry jam",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "green",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "fruit pectin",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "kg"
+        },
+        {
+            "name": "",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

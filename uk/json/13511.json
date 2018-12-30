@@ -1,0 +1,46 @@
+{
+    "title": "Grilled Caprese Ciabatta",
+    "ingredients": [
+        {
+            "name": "basil",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "toasted pine nuts",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "ciabatta bread",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

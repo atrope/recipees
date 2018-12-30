@@ -1,0 +1,56 @@
+{
+    "title": "Cauliflower and banana salad",
+    "ingredients": [
+        {
+            "name": "cauliflower",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cashew nuts",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "fruit persimmon",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "thyme garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

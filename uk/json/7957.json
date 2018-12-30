@@ -1,0 +1,31 @@
+{
+    "title": "Orange brandy butter",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "orange zest",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "brandy cognac",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

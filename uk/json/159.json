@@ -1,0 +1,41 @@
+{
+    "title": "Ice Cream Christmas Pudding",
+    "ingredients": [
+        {
+            "name": "chocolate ice cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "apricots",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "sultanas raisins",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "brandy rum",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Truffles",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cocoa chocolate",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coconut chocolate vermicelli truffles",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

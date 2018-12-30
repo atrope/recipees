@@ -1,0 +1,26 @@
+{
+    "title": "Mixed citrus fruit dessert",
+    "ingredients": [
+        {
+            "name": "oranges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "grapefruits",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

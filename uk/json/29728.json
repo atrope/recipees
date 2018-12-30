@@ -1,0 +1,51 @@
+{
+    "title": "Pumpkin curry",
+    "ingredients": [
+        {
+            "name": "cooking oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cooking apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

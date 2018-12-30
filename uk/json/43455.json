@@ -1,0 +1,61 @@
+{
+    "title": "Firik salatasi (Turkish freekeh salad)",
+    "ingredients": [
+        {
+            "name": "freekeh",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bunch onions",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yellow orange pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pomegranate",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

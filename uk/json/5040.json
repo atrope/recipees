@@ -1,0 +1,31 @@
+{
+    "title": "Bellini Martini",
+    "ingredients": [
+        {
+            "name": "vodka",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peach schnapps",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "champagne",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "raspberries garnish",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

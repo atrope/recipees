@@ -1,0 +1,31 @@
+{
+    "title": "Easy peasy chocolate truffles",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese temperature",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate milk",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Veggie burgers",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2\u00bd",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1\u00bd",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1\u00bd",
+            "type": "-"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato ketchup chutney relish",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "sesame",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "shallot",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

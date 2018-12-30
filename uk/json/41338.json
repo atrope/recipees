@@ -1,0 +1,56 @@
+{
+    "title": "Fried rice with bacon and peas",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green peas",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

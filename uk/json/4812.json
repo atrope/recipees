@@ -1,0 +1,41 @@
+{
+    "title": "Kiddie Animal Biscuits",
+    "ingredients": [
+        {
+            "name": "oats",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

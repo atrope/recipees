@@ -1,0 +1,76 @@
+{
+    "title": "Carrot and Sultana Muffins",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "apple sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "carrots",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Cinnamon raisin bagels",
+    "ingredients": [
+        {
+            "name": "raisins",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "yeast",
+            "quantity": "7",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "200",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

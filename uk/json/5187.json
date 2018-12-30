@@ -1,0 +1,41 @@
+{
+    "title": "Green pea sauce",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garden peas",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

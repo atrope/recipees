@@ -1,0 +1,61 @@
+{
+    "title": "Birthday mini cupcakes",
+    "ingredients": [
+        {
+            "name": "yoghurt",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "green",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

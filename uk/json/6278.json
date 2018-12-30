@@ -1,0 +1,36 @@
+{
+    "title": "World's best roast turkey",
+    "ingredients": [
+        {
+            "name": "turkey giblets",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "champagne",
+            "quantity": "2/3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Kale mash with sausage and bacon",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "1.5",
+            "type": "kg"
+        },
+        {
+            "name": "kale",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leek",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "smoked sausage",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sour",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Roast pork chops with orange sauce",
+    "ingredients": [
+        {
+            "name": "pork",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "zest juice oranges",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

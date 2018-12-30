@@ -1,0 +1,71 @@
+{
+    "title": "Saag aloo side dish",
+    "ingredients": [
+        {
+            "name": "potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ghee groundnut oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "masala",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

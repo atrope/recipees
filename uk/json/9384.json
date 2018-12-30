@@ -1,0 +1,46 @@
+{
+    "title": "Prosciutto Wrapped Chicken in a Mushroom and White Wine Cream Sauce",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "prosciutto bacon",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Easy Chicken Enchilada Bake",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "corn tortillas",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "enchilada cooking sauce",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Peach and gin champagne cocktail",
+    "ingredients": [
+        {
+            "name": "gin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peach liqueur",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "champagne",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

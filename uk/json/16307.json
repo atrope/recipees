@@ -1,0 +1,36 @@
+{
+    "title": "Creamy cheesy mushroom chicken",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mushroom soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "stuffing",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water wine",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

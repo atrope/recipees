@@ -1,0 +1,36 @@
+{
+    "title": "Kitten cupcakes",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "jelly sweets",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "170",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

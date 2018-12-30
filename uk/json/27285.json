@@ -1,0 +1,46 @@
+{
+    "title": "Mascarpone cheesecake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "butter biscuits",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "mascarpone",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "frache",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "vanilla bean",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

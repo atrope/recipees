@@ -1,0 +1,41 @@
+{
+    "title": "Gluten free banana pancakes",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "almonds",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pinch vanilla powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut oil",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

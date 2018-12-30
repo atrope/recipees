@@ -1,0 +1,36 @@
+{
+    "title": "Mozzarella and Tomato Crostini",
+    "ingredients": [
+        {
+            "name": "baguette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "bunch basil julienned",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

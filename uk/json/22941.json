@@ -1,0 +1,76 @@
+{
+    "title": "Assorted chocolate sweets",
+    "ingredients": [
+        {
+            "name": "chocolate cocoa",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "cooking chocolate",
+            "quantity": "520",
+            "type": "g"
+        },
+        {
+            "name": "shortbread crumbled",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "praline",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "vanilla bean",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "corn flakes rice",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "candied orange peel",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caramel milk jam lemon curd",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pistachio walnuts almonds raisins",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

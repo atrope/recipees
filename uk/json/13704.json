@@ -1,0 +1,51 @@
+{
+    "title": "Quinoa and tuna salad",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "celery",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "wasabi powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tuna",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

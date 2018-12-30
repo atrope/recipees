@@ -1,0 +1,41 @@
+{
+    "title": "Lemon and coriander prawns",
+    "ingredients": [
+        {
+            "name": "prawns",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "lemons",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

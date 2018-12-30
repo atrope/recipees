@@ -1,0 +1,56 @@
+{
+    "title": "Date and walnut flapjacks",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "zest orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "walnut",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

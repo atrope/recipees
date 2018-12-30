@@ -1,0 +1,31 @@
+{
+    "title": "Rocky Road Bites",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "365",
+            "type": "g"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Ham and Split Pea Soup",
+    "ingredients": [
+        {
+            "name": "leftover ham bone meat",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "130",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

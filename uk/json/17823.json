@@ -1,0 +1,31 @@
+{
+    "title": "Roast ham with apple",
+    "ingredients": [
+        {
+            "name": "ham",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple fruit filling",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yellow mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "barbecue sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

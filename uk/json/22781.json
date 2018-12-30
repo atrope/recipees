@@ -1,0 +1,46 @@
+{
+    "title": "Pear croque monsieur",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "butter sandwich",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "mustard",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pear",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

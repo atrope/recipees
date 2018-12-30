@@ -1,0 +1,61 @@
+{
+    "title": "Gingerbread",
+    "ingredients": [
+        {
+            "name": "muscovado sugar",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "treacle",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "rye flour",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

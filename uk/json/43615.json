@@ -1,0 +1,26 @@
+{
+    "title": "Homemade pineapple ice cream",
+    "ingredients": [
+        {
+            "name": "whipping cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

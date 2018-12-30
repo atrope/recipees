@@ -1,0 +1,66 @@
+{
+    "title": "Black beans",
+    "ingredients": [
+        {
+            "name": "beans",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cooking wine",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

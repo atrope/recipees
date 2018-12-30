@@ -1,0 +1,46 @@
+{
+    "title": "Spiced clementines in syrup",
+    "ingredients": [
+        {
+            "name": "syrup",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "wine liqueur",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "anise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clementines",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

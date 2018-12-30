@@ -1,0 +1,51 @@
+{
+    "title": "Potato pizza with chicken and rocket",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pancetta",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "pizza",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "6",
+            "type": "tbsp"
+        },
+        {
+            "name": "chicken smoked",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Salted Pork Fried Rice",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice grains",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "pork",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "glutamate",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

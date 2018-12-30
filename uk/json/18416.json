@@ -1,0 +1,36 @@
+{
+    "title": "Coconut Blondies in a Jar",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coconut",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

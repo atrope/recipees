@@ -1,0 +1,41 @@
+{
+    "title": "Turkey giblet gravy",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "turkey giblets gizzard heart liver",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yellow onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1.6L",
+            "type": "-"
+        },
+        {
+            "name": "turkey",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

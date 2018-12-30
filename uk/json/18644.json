@@ -1,0 +1,46 @@
+{
+    "title": "Chicken, olive and red pepper pasta salad",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "chicken meat",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salad",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

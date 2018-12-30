@@ -1,0 +1,41 @@
+{
+    "title": "Uncle White's bread machine rolls",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "410",
+            "type": "g"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yeast",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

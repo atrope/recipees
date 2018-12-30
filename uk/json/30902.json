@@ -1,0 +1,41 @@
+{
+    "title": "Roast pork leg with blackberry sauce",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "blackberry jam",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pork roasting",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

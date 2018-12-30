@@ -1,0 +1,36 @@
+{
+    "title": "Delicious gluten free chocolate cake",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cooking chocolate",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

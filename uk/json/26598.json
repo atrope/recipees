@@ -1,0 +1,36 @@
+{
+    "title": "Aubergine mille-feuilles",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ball mozzarella cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil herbs",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "olives",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

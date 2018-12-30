@@ -1,0 +1,66 @@
+{
+    "title": "Jay's Jerk Chicken",
+    "ingredients": [
+        {
+            "name": "onions",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "allspice",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "675",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

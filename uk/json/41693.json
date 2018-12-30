@@ -1,0 +1,46 @@
+{
+    "title": "Albanian spinach and cheese byrek",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheddar cheese",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "filo pastry",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "220",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

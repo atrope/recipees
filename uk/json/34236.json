@@ -1,0 +1,71 @@
+{
+    "title": "Pumpkin spice mincemeat",
+    "ingredients": [
+        {
+            "name": "sultanas",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "peel",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "suet",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "zest juice orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin puree",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "pecan nuts",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": "150",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

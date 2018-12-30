@@ -1,0 +1,56 @@
+{
+    "title": "Bacon potato and sweetcorn soup",
+    "ingredients": [
+        {
+            "name": "rashers bacon",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.2",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "corn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

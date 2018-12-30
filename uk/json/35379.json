@@ -1,0 +1,61 @@
+{
+    "title": "Spicy chicken baguette",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweet peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "baguette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

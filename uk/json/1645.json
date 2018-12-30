@@ -1,0 +1,61 @@
+{
+    "title": "Spiced mocha biscuit bars",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "treacle",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coffee",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

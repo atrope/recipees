@@ -1,0 +1,31 @@
+{
+    "title": "Carrot and Ginger Soup",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Burgundy lamb shanks",
+    "ingredients": [
+        {
+            "name": "lamb",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "wine beef stock",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "concentrated beef stock",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

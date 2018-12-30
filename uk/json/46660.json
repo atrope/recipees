@@ -1,0 +1,71 @@
+{
+    "title": "Banana cupcakes with caramel cream",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "vegetabe oil",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "bananas",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "caramel",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Ham and haddie",
+    "ingredients": [
+        {
+            "name": "smoked haddock fillet",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "bacon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "frache",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

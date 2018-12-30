@@ -1,0 +1,41 @@
+{
+    "title": "Chicken and chorizo",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chorizo",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pulses",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic puree",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rice",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

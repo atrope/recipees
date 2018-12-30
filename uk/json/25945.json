@@ -1,0 +1,31 @@
+{
+    "title": "Chocolate bar cake",
+    "ingredients": [
+        {
+            "name": "milk melting chocolate",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

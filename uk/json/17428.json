@@ -1,0 +1,36 @@
+{
+    "title": "Marzipan and Walnut Sweets",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "rum",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "marzipan",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "walnut",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

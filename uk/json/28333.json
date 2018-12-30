@@ -1,0 +1,86 @@
+{
+    "title": "Bobotie meatloaf",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beef mince",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "garlic cloves minced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "paste",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "allspice",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "mango chutney",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

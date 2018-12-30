@@ -1,0 +1,51 @@
+{
+    "title": "Chicken chow mein",
+    "ingredients": [
+        {
+            "name": "egg noodles",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

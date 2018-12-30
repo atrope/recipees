@@ -1,0 +1,41 @@
+{
+    "title": "Pear and raspberry sherry trifle",
+    "ingredients": [
+        {
+            "name": "sponge cake",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pear juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "sherry",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "custard",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flaked almonds toasted",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

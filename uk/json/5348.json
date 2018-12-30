@@ -1,0 +1,86 @@
+{
+    "title": "Lots of Veg Shepherd's Pie",
+    "ingredients": [
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "parsnip",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "turnip",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green peas",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "minced lamb",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato tomatoes",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

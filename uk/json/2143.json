@@ -1,0 +1,81 @@
+{
+    "title": "Rajma",
+    "ingredients": [
+        {
+            "name": "rapeseed oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cardamom",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "minced root ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "kidney beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander minced",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

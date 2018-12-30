@@ -1,0 +1,41 @@
+{
+    "title": "Roasted sweet potatoes and vegetables with thyme and maple syrup",
+    "ingredients": [
+        {
+            "name": "sweet potatoes",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsnip",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

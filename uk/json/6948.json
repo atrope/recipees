@@ -1,0 +1,31 @@
+{
+    "title": "Raspberry sorbet or granita",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

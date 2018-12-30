@@ -1,0 +1,21 @@
+{
+    "title": "Thai iced tea",
+    "ingredients": [
+        {
+            "name": "tea powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "50",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

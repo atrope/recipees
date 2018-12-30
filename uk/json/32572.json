@@ -1,0 +1,41 @@
+{
+    "title": "Courgette, pea and mint soup",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "garden peas",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "1.5L",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "frache",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

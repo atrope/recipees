@@ -1,0 +1,56 @@
+{
+    "title": "Pistachio and peanut butter cookies",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "pistachio nuts",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate milk",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Italian fried salt cod",
+    "ingredients": [
+        {
+            "name": "salt cod",
+            "quantity": "650",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

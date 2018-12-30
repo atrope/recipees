@@ -1,0 +1,31 @@
+{
+    "title": "Halloumi, watermelon and mint salad",
+    "ingredients": [
+        {
+            "name": "halloumi cheese",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "watermelon",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "mint",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "James's toffee",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

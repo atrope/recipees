@@ -1,0 +1,81 @@
+{
+    "title": "Treasure chest chocolate coconut cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cream tartar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "440",
+            "type": "g"
+        },
+        {
+            "name": "corn flakes cereal",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "336",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

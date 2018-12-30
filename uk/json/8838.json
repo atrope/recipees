@@ -1,0 +1,31 @@
+{
+    "title": "Homemade fifteens",
+    "ingredients": [
+        {
+            "name": "marshmallows",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "bisuits",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "coconut",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

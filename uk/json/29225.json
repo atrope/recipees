@@ -1,0 +1,81 @@
+{
+    "title": "Irene's Christmas cake",
+    "ingredients": [
+        {
+            "name": "cherries",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "250",
+            "type": "-"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "250",
+            "type": "-"
+        },
+        {
+            "name": "candied peel",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "3/4",
+            "type": "-"
+        },
+        {
+            "name": "spice",
+            "quantity": "3/4",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "almonds",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "cooking margarine",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "treacle",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

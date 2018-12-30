@@ -1,0 +1,56 @@
+{
+    "title": "Pumpkin risotto",
+    "ingredients": [
+        {
+            "name": "vegetable chicken stock",
+            "quantity": "525",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "shallots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chestnut mushrooms",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "rice",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "garden peas",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

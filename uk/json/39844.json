@@ -1,0 +1,36 @@
+{
+    "title": "Lemon ice cream",
+    "ingredients": [
+        {
+            "name": "whipping cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "180",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

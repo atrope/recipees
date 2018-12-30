@@ -1,0 +1,36 @@
+{
+    "title": "Irish cream liqueur",
+    "ingredients": [
+        {
+            "name": "whisky",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "375",
+            "type": "ml"
+        },
+        {
+            "name": "coffee",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

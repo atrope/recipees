@@ -1,0 +1,41 @@
+{
+    "title": "Baked Butternut Squash with Apple",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mace",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "squash",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Hot apple punch with spices",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "2L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

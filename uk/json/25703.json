@@ -1,0 +1,41 @@
+{
+    "title": "Banocolate trifle",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Chamchela's Old Irish Pot Stew",
+    "ingredients": [
+        {
+            "name": "onions",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "lamb goat",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

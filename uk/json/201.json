@@ -1,0 +1,46 @@
+{
+    "title": "Excellent gingerbread men",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate nuts",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

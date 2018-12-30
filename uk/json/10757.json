@@ -1,0 +1,26 @@
+{
+    "title": "Easy chocolate sorbet",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "amaretto almond liqueur",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

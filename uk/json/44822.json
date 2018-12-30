@@ -1,0 +1,31 @@
+{
+    "title": "Butterfly fruit platter",
+    "ingredients": [
+        {
+            "name": "kiwifruit",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "oranges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

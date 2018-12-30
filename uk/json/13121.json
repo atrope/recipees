@@ -1,0 +1,81 @@
+{
+    "title": "Chicken and mushroom fettucine",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chutney",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fettuccine",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes wedges",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

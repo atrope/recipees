@@ -1,0 +1,46 @@
+{
+    "title": "Chicken and pepper curry",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

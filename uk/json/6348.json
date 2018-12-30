@@ -1,0 +1,41 @@
+{
+    "title": "Perfect Turkey Giblet Gravy",
+    "ingredients": [
+        {
+            "name": "turkey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "turkey stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "turkey giblets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "White chocolate amaretto truffles",
+    "ingredients": [
+        {
+            "name": "truffles",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "amaretto liqueur",
+            "quantity": "40",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "toasted almonds",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

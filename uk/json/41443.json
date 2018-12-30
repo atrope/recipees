@@ -1,0 +1,36 @@
+{
+    "title": "Roti canai/paratha (Indian pancake)",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "egg water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ghee cooking",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

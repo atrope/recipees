@@ -1,0 +1,26 @@
+{
+    "title": "Berry banana smoothie",
+    "ingredients": [
+        {
+            "name": "pineapple juice",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "banana",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

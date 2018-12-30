@@ -1,0 +1,41 @@
+{
+    "title": "Cabbage and carrot salad",
+    "ingredients": [
+        {
+            "name": "green cabbage",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "malt vinegar",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "oregano",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Baked neeps and tatties",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "1.6L",
+            "type": "-"
+        },
+        {
+            "name": "floury potatoes",
+            "quantity": "4",
+            "type": "kg"
+        },
+        {
+            "name": "swede",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "parsnips",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Kedgeree with smoked mackerel",
+    "ingredients": [
+        {
+            "name": "cooking",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "smoked mackerel fillets flaked",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

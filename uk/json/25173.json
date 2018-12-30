@@ -1,0 +1,96 @@
+{
+    "title": "Chocolate mouse cupcakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "145",
+            "type": "g"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coffee water",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "12",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

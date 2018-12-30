@@ -1,0 +1,41 @@
+{
+    "title": "Avocado chocolate fudge",
+    "ingredients": [
+        {
+            "name": "avocados",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cream liqueur",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "90",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

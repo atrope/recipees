@@ -1,0 +1,46 @@
+{
+    "title": "Ekmek Turkish Bread",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "820",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "polenta cornmeal",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

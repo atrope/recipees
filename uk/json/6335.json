@@ -1,0 +1,26 @@
+{
+    "title": "Simple glazed roast ham",
+    "ingredients": [
+        {
+            "name": "gammon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "honey maple syrup",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

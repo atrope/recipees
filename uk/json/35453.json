@@ -1,0 +1,41 @@
+{
+    "title": "Tasty Turkish delight",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "gelatine",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "rose water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pink",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

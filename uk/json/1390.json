@@ -1,0 +1,36 @@
+{
+    "title": "Easy brandied fruit",
+    "ingredients": [
+        {
+            "name": "pineapple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apricot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peach",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

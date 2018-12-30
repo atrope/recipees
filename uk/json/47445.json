@@ -1,0 +1,41 @@
+{
+    "title": "Fried eggs with bacon and peas",
+    "ingredients": [
+        {
+            "name": "bacon lardons",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garden peas",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

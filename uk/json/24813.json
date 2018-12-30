@@ -1,0 +1,41 @@
+{
+    "title": "Goat's cheese chocolate truffles",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "goats cheese temperature",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

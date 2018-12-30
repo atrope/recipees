@@ -1,0 +1,41 @@
+{
+    "title": "Easy rock cakes",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "6oz",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "6oz",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon peel",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

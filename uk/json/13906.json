@@ -1,0 +1,71 @@
+{
+    "title": "Sweetcorn Relish",
+    "ingredients": [
+        {
+            "name": "sweetcorn",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple cider vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

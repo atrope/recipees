@@ -1,0 +1,71 @@
+{
+    "title": "Coffee cake with coffee and walnut icing",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cooking chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "mace",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coffee",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "icing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "coffee",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "300",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

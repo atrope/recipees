@@ -1,0 +1,36 @@
+{
+    "title": "Yellow split pea and tattie soup",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots blender",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "yellow peas",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Chocolate \u00e9clairs",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cream filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

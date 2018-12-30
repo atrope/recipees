@@ -1,0 +1,31 @@
+{
+    "title": "Yeast free pizza crust",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

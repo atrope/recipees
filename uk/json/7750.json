@@ -1,0 +1,81 @@
+{
+    "title": "Harry's risotto",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rashers",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sweet sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "goat cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "garlic bread",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

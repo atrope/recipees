@@ -1,0 +1,21 @@
+{
+    "title": "Katherine's chocolate truffles",
+    "ingredients": [
+        {
+            "name": "milk chocolate flavour cake",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cake",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "almond",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

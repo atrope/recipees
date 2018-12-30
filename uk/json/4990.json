@@ -1,0 +1,41 @@
+{
+    "title": "Diane's colcannon",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

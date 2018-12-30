@@ -1,0 +1,76 @@
+{
+    "title": "Ginger beef and noodle soup",
+    "ingredients": [
+        {
+            "name": "rice noodles",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1.4L",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "beansprouts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "wedges lime",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oyster sauce",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

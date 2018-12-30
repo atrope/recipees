@@ -1,0 +1,31 @@
+{
+    "title": "Pork Chops with Coriander",
+    "ingredients": [
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pork",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

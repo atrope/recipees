@@ -1,0 +1,81 @@
+{
+    "title": "Beef and sausage lasagne",
+    "ingredients": [
+        {
+            "name": "minced beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "sausages casings",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "640",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lasagne",
+            "quantity": "9",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Peanut butter and chocolate chip cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "smooth peanut butter",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

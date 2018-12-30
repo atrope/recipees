@@ -1,0 +1,31 @@
+{
+    "title": "California Style Guacamole",
+    "ingredients": [
+        {
+            "name": "avocados",
+            "quantity": "3-4",
+            "type": "-"
+        },
+        {
+            "name": "green salsa tomatillo",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic salt",
+            "quantity": "2-3",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

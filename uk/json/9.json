@@ -1,0 +1,51 @@
+{
+    "title": "Orange and apricot fruit loaf",
+    "ingredients": [
+        {
+            "name": "sultanas",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "apricots",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "zest orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "180",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

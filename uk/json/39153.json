@@ -1,0 +1,56 @@
+{
+    "title": "Chocolate hazelnut cheesecake",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "hazelnuts",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese temperature",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "liqueur",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

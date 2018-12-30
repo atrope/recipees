@@ -1,0 +1,56 @@
+{
+    "title": "Salmon coulibiac",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "grain rice",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "stock",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "salmon flaked",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": "380",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

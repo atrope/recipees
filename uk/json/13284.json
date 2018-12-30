@@ -1,0 +1,31 @@
+{
+    "title": "Sausage soup",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "beef stock",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sausages",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

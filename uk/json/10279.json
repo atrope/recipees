@@ -1,0 +1,36 @@
+{
+    "title": "Simple asparagus soup",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fennel seed",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fennel greens garnish",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

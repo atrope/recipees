@@ -1,0 +1,36 @@
+{
+    "title": "Buckwheat mini pancakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "buckwheat flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk temperature",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

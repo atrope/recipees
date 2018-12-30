@@ -1,0 +1,56 @@
+{
+    "title": "Greek roasted potatoes with feta cheese",
+    "ingredients": [
+        {
+            "name": "potatoes wedges",
+            "quantity": "25",
+            "type": "kg"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

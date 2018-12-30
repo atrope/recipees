@@ -1,0 +1,41 @@
+{
+    "title": "Creamy Salmon Pasta Salad",
+    "ingredients": [
+        {
+            "name": "macaroni",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pickled cucumber",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salmon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

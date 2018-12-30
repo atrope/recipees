@@ -1,0 +1,46 @@
+{
+    "title": "Digestive biscuits (gluten-free)",
+    "ingredients": [
+        {
+            "name": "porridge oats",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "pumpkin sunflower flax",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "155",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk rice",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

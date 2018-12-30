@@ -1,0 +1,31 @@
+{
+    "title": "Miso soup",
+    "ingredients": [
+        {
+            "name": "dashi",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "miso paste",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tofu",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

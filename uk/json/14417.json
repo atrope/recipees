@@ -1,0 +1,36 @@
+{
+    "title": "Litter box cake",
+    "ingredients": [
+        {
+            "name": "chocolate sponge cake",
+            "quantity": "520",
+            "type": "g"
+        },
+        {
+            "name": "sponge cake",
+            "quantity": "520",
+            "type": "g"
+        },
+        {
+            "name": "vanilla dessert",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "custard cream biscuits",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "green",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "dairy toffee sweets",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

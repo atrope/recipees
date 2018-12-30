@@ -1,0 +1,36 @@
+{
+    "title": "Nutty banana pudding",
+    "ingredients": [
+        {
+            "name": "gingernut biscuits",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "madeira marsala alcohol",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "yoghurt total",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

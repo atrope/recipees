@@ -1,0 +1,66 @@
+{
+    "title": "My Christmas cake",
+    "ingredients": [
+        {
+            "name": "fruit",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "alcohol whisky rum stout",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "spice",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

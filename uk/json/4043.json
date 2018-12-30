@@ -1,0 +1,41 @@
+{
+    "title": "Beetroot salad with mint dressing",
+    "ingredients": [
+        {
+            "name": "beetroot",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "sherry vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

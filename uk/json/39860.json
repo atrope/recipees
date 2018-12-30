@@ -1,0 +1,46 @@
+{
+    "title": "Mixed berry sherry trifle",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "sherry",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sponge cake",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "toasted coconut",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

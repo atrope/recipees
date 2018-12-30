@@ -1,0 +1,36 @@
+{
+    "title": "Creamy Chicken with Spinach and Bacon",
+    "ingredients": [
+        {
+            "name": "bacon",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "bunch spinach",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "235",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

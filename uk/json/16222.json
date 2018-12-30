@@ -1,0 +1,56 @@
+{
+    "title": "Croque Monsieur-Hoyle",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "mustard",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomato sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

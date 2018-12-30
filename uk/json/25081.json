@@ -1,0 +1,21 @@
+{
+    "title": "Whisky cream",
+    "ingredients": [
+        {
+            "name": "whipping cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "caster icing sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "whisky",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

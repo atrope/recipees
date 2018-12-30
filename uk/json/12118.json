@@ -1,0 +1,51 @@
+{
+    "title": "Mustard mayonnaise",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rice wine vinegar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

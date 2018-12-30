@@ -1,0 +1,51 @@
+{
+    "title": "Barley, black bean and avocado salad",
+    "ingredients": [
+        {
+            "name": "carrot juice",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "thyme",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch cayenne pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "barley",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "avocado",
+            "quantity": "70",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

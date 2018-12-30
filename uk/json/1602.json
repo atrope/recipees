@@ -1,0 +1,46 @@
+{
+    "title": "Linguine alla Greca",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "linguine pasta",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

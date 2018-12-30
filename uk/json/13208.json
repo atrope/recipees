@@ -1,0 +1,56 @@
+{
+    "title": "Double Chocolate Chunk Cookies",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "155",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "165",
+            "type": "g"
+        },
+        {
+            "name": "vanilla dessert",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

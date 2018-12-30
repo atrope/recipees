@@ -1,0 +1,26 @@
+{
+    "title": "Cheese and onion dip",
+    "ingredients": [
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

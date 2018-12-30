@@ -1,0 +1,41 @@
+{
+    "title": "Cherry cordials",
+    "ingredients": [
+        {
+            "name": "cherries",
+            "quantity": "40",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "57",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "290",
+            "type": "g"
+        },
+        {
+            "name": "cherry juice cherries",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

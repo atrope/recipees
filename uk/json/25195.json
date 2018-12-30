@@ -1,0 +1,51 @@
+{
+    "title": "Maroula's apple muffins",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Dark chocolate pots with white chocolate cream",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "custard temperature",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "double cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

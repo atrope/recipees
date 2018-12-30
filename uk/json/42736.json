@@ -1,0 +1,61 @@
+{
+    "title": "Beef and veggie meatloaf",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "beef mince",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "courgette",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

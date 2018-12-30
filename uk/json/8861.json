@@ -1,0 +1,56 @@
+{
+    "title": "Creamy chestnut soup",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "1.8L",
+            "type": "-"
+        },
+        {
+            "name": "chestnuts",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

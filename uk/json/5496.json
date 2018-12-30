@@ -1,0 +1,51 @@
+{
+    "title": "Summer vegetable pyramids",
+    "ingredients": [
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pesto",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garnish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Easy Christmas Fudge",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pistachios",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cherry chocolate",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Mujaddara (Green lentils and rice)",
+    "ingredients": [
+        {
+            "name": "green lentils",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "basmati rice",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

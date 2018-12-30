@@ -1,0 +1,36 @@
+{
+    "title": "Garlic and rosemary infused roast pork",
+    "ingredients": [
+        {
+            "name": "cloves garlic minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pork loin roast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

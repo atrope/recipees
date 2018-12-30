@@ -1,0 +1,41 @@
+{
+    "title": "Red cabbage and apple salad",
+    "ingredients": [
+        {
+            "name": "cabbage",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Easy-peasy cookie dough",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

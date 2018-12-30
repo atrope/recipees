@@ -1,0 +1,36 @@
+{
+    "title": "Spaghetti Aglio, Olio e Peperoncino (Garlic, Olive Oil and Chilli Spaghetti)",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

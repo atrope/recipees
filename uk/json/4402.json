@@ -1,0 +1,56 @@
+{
+    "title": "Mushroom and Walnut Turnovers",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "chestnut mushrooms",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "egg yolk water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sesame",
+            "quantity": "1",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

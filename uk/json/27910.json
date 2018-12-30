@@ -1,0 +1,56 @@
+{
+    "title": "Healthy smoked salmon salad",
+    "ingredients": [
+        {
+            "name": "salad greens spinach arugula",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "capers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bunch onions minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

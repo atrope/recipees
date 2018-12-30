@@ -1,0 +1,41 @@
+{
+    "title": "Tomato Cream Soup",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "concentrated chicken stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "margarine",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "475",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

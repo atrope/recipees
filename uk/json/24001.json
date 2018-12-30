@@ -1,0 +1,41 @@
+{
+    "title": "Butternut squash and peanut soup",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "squash",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "baking potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate Peanut Butter Fudge",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

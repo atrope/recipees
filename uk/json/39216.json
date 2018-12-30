@@ -1,0 +1,56 @@
+{
+    "title": "Gluten free fluffy pancakes",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "415",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "gluten flour",
+            "quantity": "270",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "gluten baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

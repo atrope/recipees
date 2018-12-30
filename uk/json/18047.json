@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate Chip Cake Bars",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sponge cake",
+            "quantity": "520",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "340",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

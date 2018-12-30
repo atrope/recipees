@@ -1,0 +1,51 @@
+{
+    "title": "Chicken with mango salsa",
+    "ingredients": [
+        {
+            "name": "pineapple fruit juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mangos",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

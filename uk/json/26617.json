@@ -1,0 +1,51 @@
+{
+    "title": "Cherry tomato pasta salad",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "olives",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

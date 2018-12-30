@@ -1,0 +1,46 @@
+{
+    "title": "Shake-n-Bake Chocolate Cake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "nuts",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "margarine butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "coffee",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

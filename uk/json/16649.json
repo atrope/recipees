@@ -1,0 +1,31 @@
+{
+    "title": "Quick chocolate cake",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Cheesy winter squash bake",
+    "ingredients": [
+        {
+            "name": "winter squash",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

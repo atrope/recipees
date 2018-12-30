@@ -1,0 +1,41 @@
+{
+    "title": "Creamy smoked salmon pasta sauce",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

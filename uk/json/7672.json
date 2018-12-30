@@ -1,0 +1,36 @@
+{
+    "title": "Blackberry Ice Cream",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1.25L",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

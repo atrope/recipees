@@ -1,0 +1,61 @@
+{
+    "title": "Swedish Rye Bread",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caraway seed",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fennel seed",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "sachets baking yeast",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs temperature",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rye flour",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

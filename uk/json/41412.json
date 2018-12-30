@@ -1,0 +1,101 @@
+{
+    "title": "Spicy shepherd's pie",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "3",
+            "type": "kg"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lamb mince",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "paprika",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tomato",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "300",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

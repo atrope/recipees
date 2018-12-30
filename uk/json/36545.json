@@ -1,0 +1,46 @@
+{
+    "title": "Vegetarian toad in the hole",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "horseradish sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "vegetarian sausages",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

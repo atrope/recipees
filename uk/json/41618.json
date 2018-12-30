@@ -1,0 +1,46 @@
+{
+    "title": "Savoury oat risotto",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "bunch onions",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "bunch garlic minced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "oats",
+            "quantity": "320",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

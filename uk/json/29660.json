@@ -1,0 +1,41 @@
+{
+    "title": "Pasta with broad beans, garden peas and bacon",
+    "ingredients": [
+        {
+            "name": "orzo risoni pasta",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "beans",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "garden peas",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

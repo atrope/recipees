@@ -1,0 +1,46 @@
+{
+    "title": "Biltong and cheese scones",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne powder paprika",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "biltong flavour sweet",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

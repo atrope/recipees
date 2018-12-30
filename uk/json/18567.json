@@ -1,0 +1,71 @@
+{
+    "title": "Cheesy Baked Aubergine",
+    "ingredients": [
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "herbs",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

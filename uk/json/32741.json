@@ -1,0 +1,36 @@
+{
+    "title": "Tangy lemon curd",
+    "ingredients": [
+        {
+            "name": "lemons",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "lime",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

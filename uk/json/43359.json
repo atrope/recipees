@@ -1,0 +1,51 @@
+{
+    "title": "Curried pasta salad",
+    "ingredients": [
+        {
+            "name": "pasta shapes",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch turmeric",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sultanas raisins",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

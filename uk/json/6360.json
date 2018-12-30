@@ -1,0 +1,41 @@
+{
+    "title": "Spicy Cheese Straws",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "165",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

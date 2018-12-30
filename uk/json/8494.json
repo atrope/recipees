@@ -1,0 +1,41 @@
+{
+    "title": "Cherries and chocolate fudge",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "almond",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pecan",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

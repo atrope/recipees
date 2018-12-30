@@ -1,0 +1,61 @@
+{
+    "title": "Lentil Feta and Pasta Salad",
+    "ingredients": [
+        {
+            "name": "orzo pasta",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "lentils",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "crumbled feta cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "dill",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

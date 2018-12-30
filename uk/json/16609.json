@@ -1,0 +1,56 @@
+{
+    "title": "Easy lamb tagine",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lamb",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "onions minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "150",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Chocolate and cherry terrine with berry coulis",
+    "ingredients": [
+        {
+            "name": "terrine",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "tea",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "brandy",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "redcurrants picked",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "blackcurrants picked",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "framboise liqueur",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

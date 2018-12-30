@@ -1,0 +1,46 @@
+{
+    "title": "Sausage and noodle saut\u00e9",
+    "ingredients": [
+        {
+            "name": "sunflower oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chipolata sausages",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "egg noodles",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

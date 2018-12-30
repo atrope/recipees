@@ -1,0 +1,46 @@
+{
+    "title": "Cherry banana loaf cake",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "bananas",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Viennese potato salad",
+    "ingredients": [
+        {
+            "name": "salad potatoes",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "apple cider vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "apple cider vinegar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

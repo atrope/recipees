@@ -1,0 +1,61 @@
+{
+    "title": "Banana and almond pie",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "strawberry jam",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

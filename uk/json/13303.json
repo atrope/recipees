@@ -1,0 +1,21 @@
+{
+    "title": "Potato and Cheese Filling",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "8",
+            "type": "kg"
+        },
+        {
+            "name": "cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

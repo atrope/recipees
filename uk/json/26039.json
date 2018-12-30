@@ -1,0 +1,36 @@
+{
+    "title": "Easy, peasy bread",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "yeast",
+            "quantity": "7",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

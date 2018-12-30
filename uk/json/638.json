@@ -1,0 +1,41 @@
+{
+    "title": "Fruit and Nut Raita",
+    "ingredients": [
+        {
+            "name": "yoghurt",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/3",
+            "type": "teaspoon"
+        },
+        {
+            "name": "raisins boiling water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cashew nuts",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pistachio nuts",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

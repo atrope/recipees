@@ -1,0 +1,46 @@
+{
+    "title": "Orange creme caramel",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla bean",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peel orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange liqueur",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

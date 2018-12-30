@@ -1,0 +1,46 @@
+{
+    "title": "Mushroom quinoa",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "quinoa",
+            "quantity": "255",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

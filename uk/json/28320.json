@@ -1,0 +1,71 @@
+{
+    "title": "Mixed salad with grapefruit-yogurt dressing",
+    "ingredients": [
+        {
+            "name": "salad",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "grapefruit juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chives",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

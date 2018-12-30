@@ -1,0 +1,26 @@
+{
+    "title": "Creamy Celeriac and Potato Mash",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "celeriac",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

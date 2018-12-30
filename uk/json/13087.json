@@ -1,0 +1,51 @@
+{
+    "title": "Japanese Potato Salad",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "carrot julienned",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

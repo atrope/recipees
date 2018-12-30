@@ -1,0 +1,31 @@
+{
+    "title": "Plum jam",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "8",
+            "type": "kg"
+        },
+        {
+            "name": "plums",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "water",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "sachets pectin",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

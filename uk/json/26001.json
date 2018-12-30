@@ -1,0 +1,76 @@
+{
+    "title": "Tasty and creamy chicken korma",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic puree",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ginger puree",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cardamon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "gram flour",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

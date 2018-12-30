@@ -1,0 +1,26 @@
+{
+    "title": "Brandy cream cheese icing",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "500",
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

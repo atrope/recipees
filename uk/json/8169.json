@@ -1,0 +1,46 @@
+{
+    "title": "Avocado and tuna tapas",
+    "ingredients": [
+        {
+            "name": "tuna water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions garnish",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "avocados",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Spicy chicken Thai soup",
+    "ingredients": [
+        {
+            "name": "lemongrass",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "25",
+            "type": "kg"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "curry paste",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lime juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch coriander",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "lime wedges",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

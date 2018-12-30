@@ -1,0 +1,66 @@
+{
+    "title": "Carly's cottage pie",
+    "ingredients": [
+        {
+            "name": "minced steak",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "swede carrot",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "beef stock cube",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sweet potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

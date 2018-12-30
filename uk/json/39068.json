@@ -1,0 +1,36 @@
+{
+    "title": "Special fairy cakes",
+    "ingredients": [
+        {
+            "name": "butter margarine temperature",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

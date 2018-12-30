@@ -1,0 +1,46 @@
+{
+    "title": "Evil Chilli Chutney",
+    "ingredients": [
+        {
+            "name": "green yellow",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cumin",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "tumeric",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "groundnut oil",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "200",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

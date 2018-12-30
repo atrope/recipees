@@ -1,0 +1,31 @@
+{
+    "title": "Seasonal fig jam",
+    "ingredients": [
+        {
+            "name": "figs",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "crab apples",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "juice lemons",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "900",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

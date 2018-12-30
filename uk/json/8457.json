@@ -1,0 +1,71 @@
+{
+    "title": "Chicken Tikka Kebabs",
+    "ingredients": [
+        {
+            "name": "yoghurt",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "tikka curry paste",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "breads",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "150",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Tomato, lentil and orange soup",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lentils",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable chicken stock",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Green salad with cashews and blueberries",
+    "ingredients": [
+        {
+            "name": "salad greens",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cashew nuts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

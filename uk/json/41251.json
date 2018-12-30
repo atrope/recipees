@@ -1,0 +1,26 @@
+{
+    "title": "Raspberry wine slushie",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "465",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "triple",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

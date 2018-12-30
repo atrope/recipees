@@ -1,0 +1,36 @@
+{
+    "title": "Easy tomato and tuna pasta bake",
+    "ingredients": [
+        {
+            "name": "penne pasta",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tuna",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch seasoning salt pepper herbs",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Fresh fruit cake",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "440",
+            "type": "g"
+        },
+        {
+            "name": "cooking margarine",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "raspberries fruit",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

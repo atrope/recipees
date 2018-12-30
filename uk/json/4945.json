@@ -1,0 +1,31 @@
+{
+    "title": "Chocolate chunk flapjacks",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "145",
+            "type": "g"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "270",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "220",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

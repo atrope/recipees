@@ -1,0 +1,31 @@
+{
+    "title": "Hot Irish Whisky",
+    "ingredients": [
+        {
+            "name": "cloves",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "whisky",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

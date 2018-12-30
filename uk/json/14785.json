@@ -1,0 +1,31 @@
+{
+    "title": "Chewy Popcorn Cake",
+    "ingredients": [
+        {
+            "name": "popcorn",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "jelly",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "145",
+            "type": "g"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

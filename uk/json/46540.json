@@ -1,0 +1,26 @@
+{
+    "title": "Fizzy hibiscus lemonade",
+    "ingredients": [
+        {
+            "name": "hibiscus flowers",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

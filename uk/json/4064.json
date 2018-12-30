@@ -1,0 +1,51 @@
+{
+    "title": "Fish supper with swede patties",
+    "ingredients": [
+        {
+            "name": "swede",
+            "quantity": "650",
+            "type": "g"
+        },
+        {
+            "name": "oatmeal",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2\u00bd",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes wedges",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "halibut sole fillets",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "horseradish vegetable chutney",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

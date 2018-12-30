@@ -1,0 +1,56 @@
+{
+    "title": "Summer chicken pasta salad",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "pasta",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salad",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

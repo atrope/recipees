@@ -1,0 +1,46 @@
+{
+    "title": "Creamy Potato and Cheddar Soup",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "bacon crumbled",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cream mushroom soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

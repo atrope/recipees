@@ -1,0 +1,56 @@
+{
+    "title": "Sirloin steak with golden onion rings",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "steaks",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "beef tomatoes",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

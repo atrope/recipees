@@ -1,0 +1,36 @@
+{
+    "title": "Pasteis de nata (Portuguese custard tarts)",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "vanilla bean",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

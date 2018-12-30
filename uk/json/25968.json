@@ -1,0 +1,86 @@
+{
+    "title": "Lamb seekh kebab",
+    "ingredients": [
+        {
+            "name": "lamb mince",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ginger paste",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch masala",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "masala",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch fenugreek",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch cayenne",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bamboo skewers",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

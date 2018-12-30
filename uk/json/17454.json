@@ -1,0 +1,46 @@
+{
+    "title": "Cream of pumpkin soup",
+    "ingredients": [
+        {
+            "name": "pumpkin flesh",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "onions",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

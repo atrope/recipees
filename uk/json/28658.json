@@ -1,0 +1,41 @@
+{
+    "title": "Tomato salad with aubergine",
+    "ingredients": [
+        {
+            "name": "aubergines",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "capers",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

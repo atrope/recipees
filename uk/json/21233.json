@@ -1,0 +1,51 @@
+{
+    "title": "Cheat's sourdough bread",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "cream temperature",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "barley flour",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "potato",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

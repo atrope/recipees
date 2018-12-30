@@ -1,0 +1,91 @@
+{
+    "title": "Winter Pheasant Stew",
+    "ingredients": [
+        {
+            "name": "pheasant",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "leek",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sugar peas",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "rosemary parsley thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots sweetcorn",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

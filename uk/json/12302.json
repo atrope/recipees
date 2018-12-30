@@ -1,0 +1,41 @@
+{
+    "title": "Raspberry almond pavlova",
+    "ingredients": [
+        {
+            "name": "almonds",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "almond",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

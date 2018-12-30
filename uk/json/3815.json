@@ -1,0 +1,71 @@
+{
+    "title": "Plum and apple meringue tart",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "spread",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sweet dessert plums",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "meringue",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

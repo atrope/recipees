@@ -1,0 +1,26 @@
+{
+    "title": "Classic mint sauce",
+    "ingredients": [
+        {
+            "name": "malt vinegar",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "mint",
+            "quantity": "45",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

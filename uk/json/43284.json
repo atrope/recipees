@@ -1,0 +1,71 @@
+{
+    "title": "Summer spinach salad",
+    "ingredients": [
+        {
+            "name": "salad",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "feta cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rose onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "walnuts hazelnuts",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

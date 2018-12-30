@@ -1,0 +1,36 @@
+{
+    "title": "Roasted garlic and Parmesan bread",
+    "ingredients": [
+        {
+            "name": "garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ciabatta bread",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

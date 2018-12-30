@@ -1,0 +1,41 @@
+{
+    "title": "Spinach and smoked salmon roulade",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "herb garlic cream cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

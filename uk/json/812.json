@@ -1,0 +1,46 @@
+{
+    "title": "Chilli con carne with avocado and pasta",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef recipe",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "15",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

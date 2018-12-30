@@ -1,0 +1,51 @@
+{
+    "title": "Chinese leaf and tofu stir fry",
+    "ingredients": [
+        {
+            "name": "cooking oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tofu",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "leaf cabbage",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken vegetable stock",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Bread, butter and jam pudding",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "jam",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

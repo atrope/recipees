@@ -1,0 +1,41 @@
+{
+    "title": "Soup maker chicken noodle soup",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "egg noodles",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

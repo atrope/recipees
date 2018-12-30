@@ -1,0 +1,51 @@
+{
+    "title": "White chocolate and coconut macaroons",
+    "ingredients": [
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "coconut",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "World Famous Matzo Balls",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "matzo meal",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vodka",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "basil",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "2L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

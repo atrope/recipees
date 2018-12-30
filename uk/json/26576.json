@@ -1,0 +1,51 @@
+{
+    "title": "Chocolate chocolate banana tart",
+    "ingredients": [
+        {
+            "name": "chocolate shortcrust",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

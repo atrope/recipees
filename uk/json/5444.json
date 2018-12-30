@@ -1,0 +1,36 @@
+{
+    "title": "Mayonnaise",
+    "ingredients": [
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pinch caster sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "1",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

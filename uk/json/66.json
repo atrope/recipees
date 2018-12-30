@@ -1,0 +1,51 @@
+{
+    "title": "Easy quesadillas",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "salsa",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour tortillas",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "green peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Raspberry iced tea",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "3L",
+            "type": "-"
+        },
+        {
+            "name": "tea",
+            "quantity": "9",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "lemonade",
+            "quantity": "100",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": "20",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

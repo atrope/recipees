@@ -1,0 +1,36 @@
+{
+    "title": "Raspberry cranachan",
+    "ingredients": [
+        {
+            "name": "porridge oats",
+            "quantity": "5",
+            "type": "tbsp"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "whisky",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "400",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

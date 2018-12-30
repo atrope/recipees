@@ -1,0 +1,46 @@
+{
+    "title": "Courgette Burgers",
+    "ingredients": [
+        {
+            "name": "courgette",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "savoury seasoning",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

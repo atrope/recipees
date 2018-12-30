@@ -1,0 +1,26 @@
+{
+    "title": "Egg in Bread",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

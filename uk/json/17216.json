@@ -1,0 +1,26 @@
+{
+    "title": "Pastry",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

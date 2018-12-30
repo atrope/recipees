@@ -1,0 +1,41 @@
+{
+    "title": "Three cheese spinach filo rolls",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "filo pastry",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

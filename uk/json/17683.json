@@ -1,0 +1,36 @@
+{
+    "title": "Perfect plum jam",
+    "ingredients": [
+        {
+            "name": "plums",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "butter",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pectin jam",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

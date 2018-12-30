@@ -1,0 +1,46 @@
+{
+    "title": "Apricot and rum brioche pudding",
+    "ingredients": [
+        {
+            "name": "brioche loaf total",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "apricot",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "apricots",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rum brandy",
+            "quantity": "1",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

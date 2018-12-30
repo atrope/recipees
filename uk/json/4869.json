@@ -1,0 +1,61 @@
+{
+    "title": "Spicy Tomato Chutney",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "8",
+            "type": "kg"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch paprika",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry paste",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

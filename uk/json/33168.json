@@ -1,0 +1,36 @@
+{
+    "title": "Flapjack biscuits",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "270",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oats",
+            "quantity": "340",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

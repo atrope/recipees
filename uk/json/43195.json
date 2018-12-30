@@ -1,0 +1,31 @@
+{
+    "title": "Fried potatoes with wild garlic",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "bacon cooking",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

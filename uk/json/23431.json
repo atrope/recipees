@@ -1,0 +1,36 @@
+{
+    "title": "Oxford marmalade",
+    "ingredients": [
+        {
+            "name": "oranges",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "lemons",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2.5",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "320",
+            "type": "g"
+        },
+        {
+            "name": "treacle",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

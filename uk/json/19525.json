@@ -1,0 +1,36 @@
+{
+    "title": "Italian sausage fettuccine carbonara",
+    "ingredients": [
+        {
+            "name": "fettuccine pasta",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sausage casings",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

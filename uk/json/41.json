@@ -1,0 +1,21 @@
+{
+    "title": "Apricot brandy",
+    "ingredients": [
+        {
+            "name": "apricots",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

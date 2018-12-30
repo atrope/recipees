@@ -1,0 +1,66 @@
+{
+    "title": "Rye Bread",
+    "ingredients": [
+        {
+            "name": "rye",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "wheat gluten powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

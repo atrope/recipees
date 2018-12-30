@@ -1,0 +1,66 @@
+{
+    "title": "Steak and vegetable stir-fry",
+    "ingredients": [
+        {
+            "name": "broccoli",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "steak",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "teriyaki sauce",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rice",
+            "quantity": "320",
+            "type": "g"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

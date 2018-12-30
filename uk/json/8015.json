@@ -1,0 +1,36 @@
+{
+    "title": "Ghostly punch",
+    "ingredients": [
+        {
+            "name": "orange juice",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla ice cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "18",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

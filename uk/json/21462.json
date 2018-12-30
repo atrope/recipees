@@ -1,0 +1,56 @@
+{
+    "title": "Sausage and courgette lasagne",
+    "ingredients": [
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pork sausage",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "lasagne",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "475",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

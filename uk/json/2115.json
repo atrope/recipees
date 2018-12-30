@@ -1,0 +1,61 @@
+{
+    "title": "Quick and easy vegetable biryani",
+    "ingredients": [
+        {
+            "name": "basmati rice",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "masala",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetables",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Beef stew with parsley dumplings",
+    "ingredients": [
+        {
+            "name": "beef stewing steak",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions wedges",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "swede",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "meat stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "dumplings",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "spread",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

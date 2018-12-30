@@ -1,0 +1,56 @@
+{
+    "title": "Meatloaf with capers",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pork mince",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "beef mince",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caraway",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "capers",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

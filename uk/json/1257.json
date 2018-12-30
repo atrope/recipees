@@ -1,0 +1,61 @@
+{
+    "title": "Cock-a-leekie soup for a crowd",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "75",
+            "type": "kg"
+        },
+        {
+            "name": "water",
+            "quantity": "2.5L",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "barley",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "275",
+            "type": "ml"
+        },
+        {
+            "name": "leeks",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Carbonara with Mint and Courgette",
+    "ingredients": [
+        {
+            "name": "penne pasta",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "rashers pancetta bacon",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mint picked",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

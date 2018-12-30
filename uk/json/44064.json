@@ -1,0 +1,26 @@
+{
+    "title": "Matcha milkshake",
+    "ingredients": [
+        {
+            "name": "ice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "syrup",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "green tea powder matcha",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Classic beef burger",
+    "ingredients": [
+        {
+            "name": "beef mince",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ketchup",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

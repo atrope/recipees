@@ -1,0 +1,31 @@
+{
+    "title": "Apple lemon curd",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

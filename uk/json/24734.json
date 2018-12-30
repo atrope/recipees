@@ -1,0 +1,51 @@
+{
+    "title": "Chewy berry and orange cookies",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "spread margarine",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "orange zest",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

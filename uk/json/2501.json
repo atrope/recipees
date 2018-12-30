@@ -1,0 +1,61 @@
+{
+    "title": "Beef wontons",
+    "ingredients": [
+        {
+            "name": "cabbage",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beansprouts",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "oyster sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wonton",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

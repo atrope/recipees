@@ -1,0 +1,66 @@
+{
+    "title": "Mrs Walton's Christmas cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "lard",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "candied peel",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "50",
+            "type": "-"
+        },
+        {
+            "name": "mace",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

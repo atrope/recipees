@@ -1,0 +1,36 @@
+{
+    "title": "Buttermilk banana pancakes",
+    "ingredients": [
+        {
+            "name": "buttermilk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bananas",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

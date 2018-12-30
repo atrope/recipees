@@ -1,0 +1,51 @@
+{
+    "title": "The Ultimate Cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuit",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

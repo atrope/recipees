@@ -1,0 +1,76 @@
+{
+    "title": "Chocolate Oreo\u00ae cake",
+    "ingredients": [
+        {
+            "name": "cake",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "buttercream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "7",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

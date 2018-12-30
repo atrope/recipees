@@ -1,0 +1,61 @@
+{
+    "title": "Black bean and chicken quesadillas",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green peppers",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "taco seasoning",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour tortillas",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

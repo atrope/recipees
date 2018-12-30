@@ -1,0 +1,26 @@
+{
+    "title": "Champagne jam",
+    "ingredients": [
+        {
+            "name": "champagne wine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pectin",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

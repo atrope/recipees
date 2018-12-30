@@ -1,0 +1,51 @@
+{
+    "title": "Fresh pear and almond cake",
+    "ingredients": [
+        {
+            "name": "pear",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "amaretto liqueur",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

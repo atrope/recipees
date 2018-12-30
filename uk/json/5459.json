@@ -1,0 +1,46 @@
+{
+    "title": "Broccoli soup",
+    "ingredients": [
+        {
+            "name": "chicken vegetable stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "frache",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "flaked almonds toasted",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

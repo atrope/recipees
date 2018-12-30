@@ -1,0 +1,56 @@
+{
+    "title": "Banana and poppy seed loaf",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "210",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "poppy",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter margarine temperature",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs temperature",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

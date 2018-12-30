@@ -1,0 +1,41 @@
+{
+    "title": "Italian Easter Rice Pie",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "9",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "rice",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "pineapple pulsed",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

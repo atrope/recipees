@@ -1,0 +1,36 @@
+{
+    "title": "Quick tartare sauce",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "chives",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "capers",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "gherkin",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

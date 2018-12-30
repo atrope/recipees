@@ -1,0 +1,36 @@
+{
+    "title": "Lefse",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "300",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

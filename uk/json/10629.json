@@ -1,0 +1,36 @@
+{
+    "title": "Coffee and Doughnuts Ice Cream",
+    "ingredients": [
+        {
+            "name": "doughnuts",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "coffee",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "475",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

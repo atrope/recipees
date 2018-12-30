@@ -1,0 +1,46 @@
+{
+    "title": "Crispy courgette fritters",
+    "ingredients": [
+        {
+            "name": "courgette",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "bunch dill",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

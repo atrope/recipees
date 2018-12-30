@@ -1,0 +1,56 @@
+{
+    "title": "Simple and scrumptious scones",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk lemon juice",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "glaze",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg milk",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

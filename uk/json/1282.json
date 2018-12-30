@@ -1,0 +1,61 @@
+{
+    "title": "Couscous Cucumber Salad",
+    "ingredients": [
+        {
+            "name": "couscous",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch onions",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "lemon wedges garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

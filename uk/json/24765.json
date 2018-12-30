@@ -1,0 +1,36 @@
+{
+    "title": "White chocolate raspberry mousse",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "pinch caster sugar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

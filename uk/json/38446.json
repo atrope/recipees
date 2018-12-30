@@ -1,0 +1,41 @@
+{
+    "title": "Chicken and bacon fried rice",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "rice",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken leftover roast",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

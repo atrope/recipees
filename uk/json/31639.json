@@ -1,0 +1,46 @@
+{
+    "title": "Cheat's easy cheap lasagne",
+    "ingredients": [
+        {
+            "name": "lasagne",
+            "quantity": "9",
+            "type": "-"
+        },
+        {
+            "name": "minced beef vegetarian mince",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

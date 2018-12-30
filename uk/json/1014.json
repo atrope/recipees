@@ -1,0 +1,61 @@
+{
+    "title": "Black bean salad",
+    "ingredients": [
+        {
+            "name": "beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "green minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bunch coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salad vinaigrette",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Slow cooker chicken cacciatore",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine chicken stock",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

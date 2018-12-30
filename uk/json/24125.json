@@ -1,0 +1,71 @@
+{
+    "title": "Cranberry and oatmeal cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "130",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

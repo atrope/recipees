@@ -1,0 +1,56 @@
+{
+    "title": "Vegan chocolate rum cheesecake",
+    "ingredients": [
+        {
+            "name": "almonds",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "tofu",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "rum",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

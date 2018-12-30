@@ -1,0 +1,71 @@
+{
+    "title": "Homemade mincemeat",
+    "ingredients": [
+        {
+            "name": "raisins",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "peel",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "cooking apples",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "zest orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch allspice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "brandy rum",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

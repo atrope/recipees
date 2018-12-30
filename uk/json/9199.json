@@ -1,0 +1,46 @@
+{
+    "title": "Hogmanay Steak Pie",
+    "ingredients": [
+        {
+            "name": "rump steaks",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

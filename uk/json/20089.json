@@ -1,0 +1,51 @@
+{
+    "title": "Glazed Fruit and Nut Cake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "cocktail cherries",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "pecan",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "peach brandy",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Wheat gluten free Victoria sponge cake",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wheat gluten flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "gluten baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

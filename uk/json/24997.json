@@ -1,0 +1,41 @@
+{
+    "title": "Spanish tortilla with Spanish olives and chorizo",
+    "ingredients": [
+        {
+            "name": "potatoes frying",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "chorizo sausage",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "olives green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

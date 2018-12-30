@@ -1,0 +1,26 @@
+{
+    "title": "Herbed mayonnaise",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Grapefruit salad shells",
+    "ingredients": [
+        {
+            "name": "pink ruby grapefruit",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "dessert apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "walnut",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

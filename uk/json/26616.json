@@ -1,0 +1,46 @@
+{
+    "title": "Feta and spinach triangles",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "feta cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "herbes",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

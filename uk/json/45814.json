@@ -1,0 +1,61 @@
+{
+    "title": "Oat, peanut butter and chocolate chip cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "vanilla sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg water cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

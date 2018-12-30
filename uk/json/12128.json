@@ -1,0 +1,51 @@
+{
+    "title": "Roast chicken with lemon and rosemary roast spuds",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bulb garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rosemary picked",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Baked salmon fishcakes with parsley sauce",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "salmon fillets",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "anchovy",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chives parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "spread",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

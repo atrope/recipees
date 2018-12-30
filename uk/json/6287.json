@@ -1,0 +1,41 @@
+{
+    "title": "Best mince pies",
+    "ingredients": [
+        {
+            "name": "mincemeat",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "recipe pastry",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

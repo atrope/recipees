@@ -1,0 +1,76 @@
+{
+    "title": "Bacon, egg and tomato pasta salad",
+    "ingredients": [
+        {
+            "name": "bacon",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "macaroni",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "yellow mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "60",
+            "type": "-"
+        },
+        {
+            "name": "green olives",
+            "quantity": "85",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

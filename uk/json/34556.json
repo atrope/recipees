@@ -1,0 +1,26 @@
+{
+    "title": "Quick Italian tomato sauce",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "basil",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

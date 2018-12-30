@@ -1,0 +1,41 @@
+{
+    "title": "Oven-baked potato and leek hash",
+    "ingredients": [
+        {
+            "name": "bacon",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "leeks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

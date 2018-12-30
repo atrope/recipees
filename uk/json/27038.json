@@ -1,0 +1,21 @@
+{
+    "title": "Orange and mushroom salad",
+    "ingredients": [
+        {
+            "name": "oranges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "walnut oil",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

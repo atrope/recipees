@@ -1,0 +1,51 @@
+{
+    "title": "BBQ chicken teriyaki",
+    "ingredients": [
+        {
+            "name": "beer",
+            "quantity": "330",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "teriyaki sauce",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "10",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

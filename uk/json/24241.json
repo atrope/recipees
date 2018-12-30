@@ -1,0 +1,31 @@
+{
+    "title": "Cheese and onion brunch omelette",
+    "ingredients": [
+        {
+            "name": "vegetable oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

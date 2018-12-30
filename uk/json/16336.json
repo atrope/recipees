@@ -1,0 +1,76 @@
+{
+    "title": "Hot and Spicy Chicken",
+    "ingredients": [
+        {
+            "name": "chickens",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice wine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cooking oil frying",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "peppercorn",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic shoots",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "glutamate",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

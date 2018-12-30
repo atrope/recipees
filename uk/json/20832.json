@@ -1,0 +1,66 @@
+{
+    "title": "Orange, date and walnut cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "110",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "310",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "orange",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

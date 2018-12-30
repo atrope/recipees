@@ -1,0 +1,66 @@
+{
+    "title": "Asparagus Spaghetti with Guacamole",
+    "ingredients": [
+        {
+            "name": "spaghetti pasta",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "415",
+            "type": "ml"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "avocados",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lime juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

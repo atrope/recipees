@@ -1,0 +1,66 @@
+{
+    "title": "Egg-free tuna Nicoise salad",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "tuna steaks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "green beans",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "anchovies",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

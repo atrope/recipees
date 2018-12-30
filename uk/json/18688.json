@@ -1,0 +1,41 @@
+{
+    "title": "Chicken and feta pasta salad",
+    "ingredients": [
+        {
+            "name": "fusilli pasta",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "lemon pepper seasoning",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "crumbled feta cheese",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vinaigrette",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Low Fat Chicken and Vegetable Soup",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "carrot",
+            "quantity": "135",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "green beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tomato juice",
+            "quantity": "25",
+            "type": "ml"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "herb seasoning",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

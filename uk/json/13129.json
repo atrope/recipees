@@ -1,0 +1,56 @@
+{
+    "title": "Spinach Ricotta Gnocchi",
+    "ingredients": [
+        {
+            "name": "ricotta cheese",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "spinach",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

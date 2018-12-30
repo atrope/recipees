@@ -1,0 +1,36 @@
+{
+    "title": "Lavender panna cotta with orange cream",
+    "ingredients": [
+        {
+            "name": "gelatine",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "lavender flowers",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "zest juice orange",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

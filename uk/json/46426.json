@@ -1,0 +1,56 @@
+{
+    "title": "Pear and apple crumble",
+    "ingredients": [
+        {
+            "name": "oats",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pecan nuts",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pear",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

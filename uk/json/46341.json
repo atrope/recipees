@@ -1,0 +1,61 @@
+{
+    "title": "Lentil salad with tomatoes and feta cheese",
+    "ingredients": [
+        {
+            "name": "green lentils",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "minced parsley",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "minced oregano",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "feta cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "toasted pine nuts",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

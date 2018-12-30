@@ -1,0 +1,56 @@
+{
+    "title": "Fresh roasted chestnut and pumkin soup",
+    "ingredients": [
+        {
+            "name": "chestnuts",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1.5L",
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch cayenne pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Beef mince and ricotta lasagne",
+    "ingredients": [
+        {
+            "name": "beef mince",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "seasoning",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "550",
+            "type": "ml"
+        },
+        {
+            "name": "ricotta",
+            "quantity": "570",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "lasagne",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

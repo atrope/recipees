@@ -1,0 +1,36 @@
+{
+    "title": "Cheesy Halibut Bake",
+    "ingredients": [
+        {
+            "name": "halibut",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

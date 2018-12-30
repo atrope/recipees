@@ -1,0 +1,61 @@
+{
+    "title": "Sprouted mung bean salad",
+    "ingredients": [
+        {
+            "name": "beans",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "carrot",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "pomegranate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "coriander",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "green paste",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch asafoetida",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Spaghetti with tomato and aubergine sauce",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "spaghetti",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

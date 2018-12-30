@@ -1,0 +1,46 @@
+{
+    "title": "Turkey Delight",
+    "ingredients": [
+        {
+            "name": "turkey chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "bunch coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cranberry sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "basmati rice",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

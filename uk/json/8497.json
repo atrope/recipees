@@ -1,0 +1,26 @@
+{
+    "title": "White Chocolate Orange Fudge",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

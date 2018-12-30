@@ -1,0 +1,61 @@
+{
+    "title": "Mixed Fruit Oatmeal Cookies",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "245",
+            "type": "g"
+        },
+        {
+            "name": "fruit",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

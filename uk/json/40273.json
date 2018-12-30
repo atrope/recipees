@@ -1,0 +1,41 @@
+{
+    "title": "Caprese pasta salad with mozzarella",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "360",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes larger",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

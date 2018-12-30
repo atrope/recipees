@@ -1,0 +1,56 @@
+{
+    "title": "Chicken and sugarsnap noodle salad",
+    "ingredients": [
+        {
+            "name": "peas",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "egg noodles",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "tahini",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "toasted sesame oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "240",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

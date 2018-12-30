@@ -1,0 +1,36 @@
+{
+    "title": "Panna cotta with raspberry cream",
+    "ingredients": [
+        {
+            "name": "vanilla bean",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "gelatine",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "raspberry jam",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

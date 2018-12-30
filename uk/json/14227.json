@@ -1,0 +1,56 @@
+{
+    "title": "Best-ever chicken noodle soup",
+    "ingredients": [
+        {
+            "name": "noodles tagliatelle pasta",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken seasoning",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "celery",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken meat",
+            "quantity": "425",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

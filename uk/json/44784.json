@@ -1,0 +1,36 @@
+{
+    "title": "Honey garlic chicken with rosemary",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "chicken",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

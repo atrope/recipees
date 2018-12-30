@@ -1,0 +1,41 @@
+{
+    "title": "Triple chocolate fridge cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk chocolate biscuits",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "fruit nut",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "pink marshmallows",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

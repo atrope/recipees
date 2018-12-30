@@ -1,0 +1,36 @@
+{
+    "title": "Tagliatelle with ham and mushrooms",
+    "ingredients": [
+        {
+            "name": "tagliatelle",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "290",
+            "type": "g"
+        },
+        {
+            "name": "smoked ham",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "frache",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

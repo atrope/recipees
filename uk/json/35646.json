@@ -1,0 +1,66 @@
+{
+    "title": "Bakewell tart traybake",
+    "ingredients": [
+        {
+            "name": "shortcrust pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberry jam",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "almond",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "18",
+            "type": "-"
+        },
+        {
+            "name": "toasted flaked almonds",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Pea pasta salad",
+    "ingredients": [
+        {
+            "name": "fusilli pasta",
+            "quantity": "335",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

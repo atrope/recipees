@@ -1,0 +1,51 @@
+{
+    "title": "Cheesy aubergine bake with pasta",
+    "ingredients": [
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "prosciutto",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "pasta sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "vermicelli pasta",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Celery stuffing",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "bread",
+            "quantity": "725",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch marjoram",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

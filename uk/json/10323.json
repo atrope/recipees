@@ -1,0 +1,51 @@
+{
+    "title": "Simple Baklava",
+    "ingredients": [
+        {
+            "name": "filo pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

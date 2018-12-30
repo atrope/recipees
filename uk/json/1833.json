@@ -1,0 +1,41 @@
+{
+    "title": "Marinated pork chops",
+    "ingredients": [
+        {
+            "name": "sauce",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pork loin",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

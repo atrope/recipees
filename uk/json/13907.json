@@ -1,0 +1,71 @@
+{
+    "title": "Smoked Sausage and Sweetcorn Chowder",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "550",
+            "type": "g"
+        },
+        {
+            "name": "kielbasa sausages",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "75",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

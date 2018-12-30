@@ -1,0 +1,41 @@
+{
+    "title": "Pea and ham salad",
+    "ingredients": [
+        {
+            "name": "garden peas",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

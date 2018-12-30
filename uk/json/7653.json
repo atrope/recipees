@@ -1,0 +1,56 @@
+{
+    "title": "Toffee Crunch Ice Cream",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "coffee",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

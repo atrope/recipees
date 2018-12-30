@@ -1,0 +1,26 @@
+{
+    "title": "Pan-Fried Garlic Potatoes",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

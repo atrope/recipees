@@ -1,0 +1,46 @@
+{
+    "title": "Easy Chocolate Cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Yummy Toad in the Hole",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1/2oz",
+            "type": "-"
+        },
+        {
+            "name": "pork sausages",
+            "quantity": "1lb",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "4oz",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Duck vindaloo",
+    "ingredients": [
+        {
+            "name": "duck",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "malt vinegar",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cardamom",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fenugreek",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ghee butter",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

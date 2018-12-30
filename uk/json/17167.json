@@ -1,0 +1,26 @@
+{
+    "title": "Iced coffee milkshake",
+    "ingredients": [
+        {
+            "name": "espresso coffee",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

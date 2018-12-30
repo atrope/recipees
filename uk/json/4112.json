@@ -1,0 +1,76 @@
+{
+    "title": "Roast beef with a mustard crust and Yorkshire pudding",
+    "ingredients": [
+        {
+            "name": "beef",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "thyme rosemary",
+            "quantity": "2-3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pudding",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

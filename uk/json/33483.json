@@ -1,0 +1,76 @@
+{
+    "title": "Thai potato and chicken curry",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sunflower vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry paste",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "salt chicken stock",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "corn",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "green beans",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "juice lime",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bunch coriander",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

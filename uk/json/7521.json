@@ -1,0 +1,31 @@
+{
+    "title": "Brandied pineapple on the BBQ",
+    "ingredients": [
+        {
+            "name": "pineapple",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "brandy cognac rum",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Sweet chilli chicken pasta",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweet sauce",
+            "quantity": "200",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "150",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

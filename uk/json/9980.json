@@ -1,0 +1,86 @@
+{
+    "title": "Boeuf Bourguignon in a Thermal Cooker",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "beef",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "thyme bunch",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

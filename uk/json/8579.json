@@ -1,0 +1,36 @@
+{
+    "title": "Besan Ladoo",
+    "ingredients": [
+        {
+            "name": "ghee butter",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "chickpea flour besan",
+            "quantity": "185",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cardamom",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

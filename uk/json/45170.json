@@ -1,0 +1,46 @@
+{
+    "title": "Simple banana and cinnamon cookies",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "260",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "icing sugar sprinkle",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

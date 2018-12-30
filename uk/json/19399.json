@@ -1,0 +1,51 @@
+{
+    "title": "Macaroni Cheese Muffins",
+    "ingredients": [
+        {
+            "name": "macaroni",
+            "quantity": "210",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

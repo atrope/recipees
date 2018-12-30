@@ -1,0 +1,36 @@
+{
+    "title": "Hazelnut and rum chocolate truffles",
+    "ingredients": [
+        {
+            "name": "hazelnuts",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate sprinkles",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

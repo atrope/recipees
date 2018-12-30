@@ -1,0 +1,86 @@
+{
+    "title": "Liver and onions",
+    "ingredients": [
+        {
+            "name": "liver",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "butter",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "smoked bacon rashers",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "227",
+            "type": "g"
+        },
+        {
+            "name": "beef vegetable stock",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

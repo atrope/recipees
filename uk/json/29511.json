@@ -1,0 +1,41 @@
+{
+    "title": "Easy chocolate heaven cupcakes or cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "75",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

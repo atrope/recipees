@@ -1,0 +1,31 @@
+{
+    "title": "Crab and Prawn Cream Cheese Dip",
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "crab meat",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "prawns",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

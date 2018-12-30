@@ -1,0 +1,41 @@
+{
+    "title": "Fresh Thai Peanut Sauce",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "smooth peanut butter",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "syrup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sherry",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

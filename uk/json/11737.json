@@ -1,0 +1,46 @@
+{
+    "title": "Pickled walnuts",
+    "ingredients": [
+        {
+            "name": "walnuts",
+            "quantity": "8",
+            "type": "kg"
+        },
+        {
+            "name": "salt",
+            "quantity": "215",
+            "type": "g"
+        },
+        {
+            "name": "malt vinegar",
+            "quantity": "950",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "470",
+            "type": "g"
+        },
+        {
+            "name": "allspice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

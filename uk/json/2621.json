@@ -1,0 +1,86 @@
+{
+    "title": "Chicken and ham jambalaya",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "seasoning",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "marjoram",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "basmati rice",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "smoked ham",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garnish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4\u20136",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

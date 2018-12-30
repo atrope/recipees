@@ -1,0 +1,41 @@
+{
+    "title": "Crispy filo chicken and leek pie",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "filo pastry",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

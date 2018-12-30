@@ -1,0 +1,56 @@
+{
+    "title": "Filipino Pork and Liver Menudo",
+    "ingredients": [
+        {
+            "name": "pork",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "pork liver",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chickpeas",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

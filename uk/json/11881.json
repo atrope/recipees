@@ -1,0 +1,71 @@
+{
+    "title": "Porcini pizza",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "13",
+            "type": "kg"
+        },
+        {
+            "name": "salt",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "sachet baking yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "porcini mushrooms",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "polenta",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

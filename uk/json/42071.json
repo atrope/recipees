@@ -1,0 +1,36 @@
+{
+    "title": "Dutch spice mix for speculaas",
+    "ingredients": [
+        {
+            "name": "cinnamon",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "5",
+            "type": "g"
+        },
+        {
+            "name": "cloves",
+            "quantity": "5",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "2",
+            "type": "g"
+        },
+        {
+            "name": "aniseed",
+            "quantity": "3",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "3",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

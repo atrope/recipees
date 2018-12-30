@@ -1,0 +1,86 @@
+{
+    "title": "Wild mushroom stuffing",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "porcini mushrooms",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "bread",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "hazelnuts",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "leeks",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "shallots",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "thyme",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "180",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

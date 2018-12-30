@@ -1,0 +1,36 @@
+{
+    "title": "Beer and lime roast chicken",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beer",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

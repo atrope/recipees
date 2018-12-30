@@ -1,0 +1,51 @@
+{
+    "title": "Mexican Chocolate Cake",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "coffee",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "coffee liqueur",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "double cream",
+            "quantity": "625",
+            "type": "ml"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

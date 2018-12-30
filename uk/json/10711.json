@@ -1,0 +1,51 @@
+{
+    "title": "Glazed pork chops with stuffing",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock cube",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "pork",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

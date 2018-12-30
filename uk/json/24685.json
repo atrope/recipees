@@ -1,0 +1,56 @@
+{
+    "title": "Real tiger bread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "360",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "yeast",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sesame seed oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cooking oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rice flour corn",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

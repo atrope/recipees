@@ -1,0 +1,41 @@
+{
+    "title": "Deluxe chocolate fridge cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

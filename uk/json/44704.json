@@ -1,0 +1,61 @@
+{
+    "title": "Willy Wonka's mashed potatoes",
+    "ingredients": [
+        {
+            "name": "sweet potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yellow potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beetroot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "swede",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsnip",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "turnip",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

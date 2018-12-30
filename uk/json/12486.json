@@ -1,0 +1,21 @@
+{
+    "title": "Bourbon fillet steak",
+    "ingredients": [
+        {
+            "name": "fillet steaks",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "bourbon",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

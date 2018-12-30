@@ -1,0 +1,56 @@
+{
+    "title": "Baked bean curry",
+    "ingredients": [
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "turmeric powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bunch coriander",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

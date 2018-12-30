@@ -1,0 +1,36 @@
+{
+    "title": "Blue cheese and pear tartlets",
+    "ingredients": [
+        {
+            "name": "filo pastry",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cheese crumbled",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "pear",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

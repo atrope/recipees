@@ -1,0 +1,51 @@
+{
+    "title": "My homemade muesli",
+    "ingredients": [
+        {
+            "name": "porridge oats",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "toasted almonds",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "toasted hazelnuts",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "wholewheat flakes crumbled",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "2-3",
+            "type": "-"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "agave syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "millet sesame sunflower",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "baking raisins sultanas fruit",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

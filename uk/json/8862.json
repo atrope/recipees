@@ -1,0 +1,61 @@
+{
+    "title": "Roast turkey with chestnut stuffing",
+    "ingredients": [
+        {
+            "name": "chestnuts",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "minced onion",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "minced celery",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "marjoram",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "savoury",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "turkey giblets",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

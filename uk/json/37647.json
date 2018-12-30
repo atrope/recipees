@@ -1,0 +1,36 @@
+{
+    "title": "Italian rice and almond cake",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "rice",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "almonds",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

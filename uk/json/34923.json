@@ -1,0 +1,41 @@
+{
+    "title": "Brunch packed omelette",
+    "ingredients": [
+        {
+            "name": "rapeseed oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bacon ham",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "leftover potatoes",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

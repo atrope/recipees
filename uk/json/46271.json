@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate souffle torte",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "185",
+            "type": "g"
+        },
+        {
+            "name": "chocolate cocoa",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

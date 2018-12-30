@@ -1,0 +1,41 @@
+{
+    "title": "Trisha's Toasted Sandwich",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonaise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pinch herbs",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

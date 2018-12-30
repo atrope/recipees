@@ -1,0 +1,46 @@
+{
+    "title": "Turkey burger",
+    "ingredients": [
+        {
+            "name": "turkey mince",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sprinkle spice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vine tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

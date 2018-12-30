@@ -1,0 +1,31 @@
+{
+    "title": "Honeydew melon with ginger-lemon sauce",
+    "ingredients": [
+        {
+            "name": "honeydew melon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1-2",
+            "type": "-"
+        },
+        {
+            "name": "garnish mint",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

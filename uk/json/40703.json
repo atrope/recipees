@@ -1,0 +1,16 @@
+{
+    "title": "Gourmet Parmesan ice cream",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

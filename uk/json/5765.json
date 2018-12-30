@@ -1,0 +1,66 @@
+{
+    "title": "Fresh green vegetable risotto",
+    "ingredients": [
+        {
+            "name": "vegetable stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "artichoke hearts",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

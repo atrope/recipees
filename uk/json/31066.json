@@ -1,0 +1,41 @@
+{
+    "title": "Easy chocolate trifle",
+    "ingredients": [
+        {
+            "name": "double chocolate muffins",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "custard powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cocoa",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream milk",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate flakes",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

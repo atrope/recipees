@@ -1,0 +1,31 @@
+{
+    "title": "Beetroot and egg pickle",
+    "ingredients": [
+        {
+            "name": "beetroot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

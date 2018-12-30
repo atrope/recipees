@@ -1,0 +1,36 @@
+{
+    "title": "Easy apple crumble",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

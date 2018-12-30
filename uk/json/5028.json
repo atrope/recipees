@@ -1,0 +1,16 @@
+{
+    "title": "Mini Guinness",
+    "ingredients": [
+        {
+            "name": "coffee liqueur",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "cream liqueur",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

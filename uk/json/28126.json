@@ -1,0 +1,41 @@
+{
+    "title": "Macaroni and chorizo",
+    "ingredients": [
+        {
+            "name": "chorizo sausage",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "macaroni pasta",
+            "quantity": "300",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

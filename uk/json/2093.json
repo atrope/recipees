@@ -1,0 +1,46 @@
+{
+    "title": "Red Pepper and Pork Stew",
+    "ingredients": [
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pork loin",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "peppers julienned",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "lemons",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

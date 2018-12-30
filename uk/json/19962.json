@@ -1,0 +1,46 @@
+{
+    "title": "White Bread with Honey",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "410",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "powder",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Super simple pasta",
+    "ingredients": [
+        {
+            "name": "pasta spaghetti",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Buttered turkey",
+    "ingredients": [
+        {
+            "name": "turkey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

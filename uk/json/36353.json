@@ -1,0 +1,51 @@
+{
+    "title": "Skint Dad's budget chicken curry",
+    "ingredients": [
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken meat",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "rice",
+            "quantity": "280",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

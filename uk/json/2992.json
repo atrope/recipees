@@ -1,0 +1,61 @@
+{
+    "title": "Chickpea soup with asparagus",
+    "ingredients": [
+        {
+            "name": "chickpeas",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable chicken stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "soup pasta",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garnish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "lemon wedges",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

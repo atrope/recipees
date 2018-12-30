@@ -1,0 +1,31 @@
+{
+    "title": "Quick Chicken and Vegetable Soup",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "vegetables",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "potato leek soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream chicken soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "400",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

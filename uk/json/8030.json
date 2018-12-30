@@ -1,0 +1,51 @@
+{
+    "title": "Tortilla Espanola (Spanish Tortilla)",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "baking potatoes",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Apple smiles",
+    "ingredients": [
+        {
+            "name": "peanut butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "apple wedges",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "30",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

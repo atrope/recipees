@@ -1,0 +1,81 @@
+{
+    "title": "Spring chicken paella",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillet",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "chorizo sausage",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch paprika",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "prawns",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

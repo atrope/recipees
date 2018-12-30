@@ -1,0 +1,31 @@
+{
+    "title": "Curried potato cakes",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "table powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

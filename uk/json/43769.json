@@ -1,0 +1,56 @@
+{
+    "title": "Quinoa, avocado and tomato salad",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Iced melon and berry soup",
+    "ingredients": [
+        {
+            "name": "melon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "juice lime",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "3.5",
+            "type": "-"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "raspberries strawberries",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Beef and mushroom pasta bake",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "310",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

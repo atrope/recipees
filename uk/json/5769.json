@@ -1,0 +1,36 @@
+{
+    "title": "Green sauce",
+    "ingredients": [
+        {
+            "name": "parsley",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "dill fennel",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "chives",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "watercress",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

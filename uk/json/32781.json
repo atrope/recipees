@@ -1,0 +1,36 @@
+{
+    "title": "Strawberry and banana smoothie drink",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "strawberry yoghurt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

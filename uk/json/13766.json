@@ -1,0 +1,31 @@
+{
+    "title": "Berry and Lemonade Float",
+    "ingredients": [
+        {
+            "name": "cherries",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "raspberry syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemonade",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla ice cream",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Pear Cake",
+    "ingredients": [
+        {
+            "name": "lard",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "215",
+            "type": "g"
+        },
+        {
+            "name": "pinch cloves",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

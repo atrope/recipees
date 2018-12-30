@@ -1,0 +1,61 @@
+{
+    "title": "Indulgent chocolate truffle tiffin",
+    "ingredients": [
+        {
+            "name": "margarine butter",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "syrup honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "biscuits tea",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "nuts",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

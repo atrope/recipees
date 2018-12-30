@@ -1,0 +1,36 @@
+{
+    "title": "Eierlik\u00f6r (German egg liqueur)",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "double schnapps vodka",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "rum",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Sarah Bomb",
+    "ingredients": [
+        {
+            "name": "vodka",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "fruit pastel ice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cranberry juice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

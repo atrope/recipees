@@ -1,0 +1,31 @@
+{
+    "title": "The best chocolate mousse recipe ever",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "peppermint",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

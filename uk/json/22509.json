@@ -1,0 +1,41 @@
+{
+    "title": "Sweet autumn pie",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "spices pepper ginger cinnamon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "filo pastry",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

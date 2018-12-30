@@ -1,0 +1,31 @@
+{
+    "title": "Strawberries and cream Victoria doughnut sandwiches",
+    "ingredients": [
+        {
+            "name": "whipping cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "doughnuts",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "600",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

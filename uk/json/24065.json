@@ -1,0 +1,81 @@
+{
+    "title": "Classic beef Bourguignon",
+    "ingredients": [
+        {
+            "name": "bacon lardons",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "stewing steak",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "beef stock cube",
+            "quantity": "375",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves pureed",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onions",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "chestnut mushrooms",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

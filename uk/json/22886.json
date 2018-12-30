@@ -1,0 +1,31 @@
+{
+    "title": "Duck breast with clementines and balsamic sauce",
+    "ingredients": [
+        {
+            "name": "duck",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "acacia honey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "clementines",
+            "quantity": "12",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

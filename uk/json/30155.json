@@ -1,0 +1,26 @@
+{
+    "title": "Very simple crepes",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "450",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

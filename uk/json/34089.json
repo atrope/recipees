@@ -1,0 +1,51 @@
+{
+    "title": "Simple prawn cocktail",
+    "ingredients": [
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweet sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon wedges",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Greek feta and chickpea salad",
+    "ingredients": [
+        {
+            "name": "feta cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "oregano herbes",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pinch flakes",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "chickpeas",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "watercress",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

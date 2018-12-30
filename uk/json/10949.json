@@ -1,0 +1,36 @@
+{
+    "title": "Chickpea and ham bone slow cooker soup",
+    "ingredients": [
+        {
+            "name": "chickpeas",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "ham bone",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

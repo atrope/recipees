@@ -1,0 +1,66 @@
+{
+    "title": "Pulled beef and pork baps",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beef roasting",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "pork roast",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "gherkins",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Fruity salad with Gruyere and cashews",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "onion",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "poppy",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "cashews",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pear",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

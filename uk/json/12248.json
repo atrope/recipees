@@ -1,0 +1,51 @@
+{
+    "title": "Chocolate hazelnut cherry cake",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "hazelnuts",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cherries syrup",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

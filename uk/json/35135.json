@@ -1,0 +1,36 @@
+{
+    "title": "Butterscotch icing",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "milk cream",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "butterscotch syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "130",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

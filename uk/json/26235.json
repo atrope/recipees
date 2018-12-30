@@ -1,0 +1,26 @@
+{
+    "title": "Banana apple smoothie",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

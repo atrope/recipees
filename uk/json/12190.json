@@ -1,0 +1,101 @@
+{
+    "title": "The best New York cheesecake",
+    "ingredients": [
+        {
+            "name": "ginger biscuits",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cheesecake",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla bean",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coulis",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberry raspberry liqueur",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

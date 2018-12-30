@@ -1,0 +1,66 @@
+{
+    "title": "Christmas Chocolate Fruit Cake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "165",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "apricots",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "marzipan",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "160",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

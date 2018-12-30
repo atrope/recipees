@@ -1,0 +1,61 @@
+{
+    "title": "Bombay bubble and squeak",
+    "ingredients": [
+        {
+            "name": "oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nigella seed",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onions",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "minced garlic puree",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cabbage green",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "masala",
+            "quantity": "2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch cayenne pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

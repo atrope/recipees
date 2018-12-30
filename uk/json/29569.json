@@ -1,0 +1,36 @@
+{
+    "title": "Wholemeal sandwich bread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "35",
+            "type": "kg"
+        },
+        {
+            "name": "salt",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "lard",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "yeast",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1.2L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

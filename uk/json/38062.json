@@ -1,0 +1,36 @@
+{
+    "title": "Sponge cake with icing",
+    "ingredients": [
+        {
+            "name": "butter margarine temperature",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

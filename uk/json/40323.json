@@ -1,0 +1,66 @@
+{
+    "title": "Maple walnut ice cream",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "walnuts",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "walnut",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "135",
+            "type": "ml"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

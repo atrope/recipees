@@ -1,0 +1,21 @@
+{
+    "title": "Delicious banana milkshake",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla ice cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

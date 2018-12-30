@@ -1,0 +1,96 @@
+{
+    "title": "Denis's mixed vegetable soup",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "25",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "celery salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cardamon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "fenugreek",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "powder",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "400",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "250",
+            "type": "-"
+        },
+        {
+            "name": "potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

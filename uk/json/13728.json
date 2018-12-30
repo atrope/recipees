@@ -1,0 +1,66 @@
+{
+    "title": "Chicken and Bean Chilli",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "825",
+            "type": "ml"
+        },
+        {
+            "name": "chicken",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "beans",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "115",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

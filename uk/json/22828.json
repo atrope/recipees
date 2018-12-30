@@ -1,0 +1,41 @@
+{
+    "title": "Ann's Creme Caramel",
+    "ingredients": [
+        {
+            "name": "caramel",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "custard",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

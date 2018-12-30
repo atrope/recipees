@@ -1,0 +1,66 @@
+{
+    "title": "Prawn pho",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fish stock",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "prawns",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "rice noodles vermicelli",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

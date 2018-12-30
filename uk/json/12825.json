@@ -1,0 +1,26 @@
+{
+    "title": "Rocky Road Treats",
+    "ingredients": [
+        {
+            "name": "baking chocolate",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "jelly snakes",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Sweet and spicy ginger beer pulled pork",
+    "ingredients": [
+        {
+            "name": "sweet onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "smoked paprika",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pork",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger beer",
+            "quantity": "375",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

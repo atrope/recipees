@@ -1,0 +1,61 @@
+{
+    "title": "Butternut Squash and Prawn Soup",
+    "ingredients": [
+        {
+            "name": "squash",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "celery salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "prawns",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sherry wine",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

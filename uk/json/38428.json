@@ -1,0 +1,31 @@
+{
+    "title": "Apple and cinnamon sauce",
+    "ingredients": [
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

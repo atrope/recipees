@@ -1,0 +1,41 @@
+{
+    "title": "Quick and easy lasagne",
+    "ingredients": [
+        {
+            "name": "beef mince",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "lasagne",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "1.5L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Pilao Rice",
+    "ingredients": [
+        {
+            "name": "saffron turmeric",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "1.4L",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cumin",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cardamom",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "basmati rice",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

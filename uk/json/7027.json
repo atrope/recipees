@@ -1,0 +1,46 @@
+{
+    "title": "Brazilian Cheese Puffs (Pao de Queijo)",
+    "ingredients": [
+        {
+            "name": "rapeseed oil",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tapioca flour",
+            "quantity": "135",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

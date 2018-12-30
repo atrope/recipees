@@ -1,0 +1,51 @@
+{
+    "title": "Oat and Flaxseed Bread",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rapeseed oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "meal",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

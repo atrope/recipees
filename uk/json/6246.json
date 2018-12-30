@@ -1,0 +1,41 @@
+{
+    "title": "Mum's Favourite Bread and Butter Pudding",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "11-12",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sultanas",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs yolk",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

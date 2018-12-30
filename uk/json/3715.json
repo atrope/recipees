@@ -1,0 +1,91 @@
+{
+    "title": "Venison cottage pie",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "minced venison",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "stock water ale",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

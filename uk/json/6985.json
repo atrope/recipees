@@ -1,0 +1,26 @@
+{
+    "title": "Banana fruit smoothie",
+    "ingredients": [
+        {
+            "name": "pineapple juice",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "bananas",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

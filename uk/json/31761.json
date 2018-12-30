@@ -1,0 +1,51 @@
+{
+    "title": "White asparagus risotto",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "onion shallot",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "stock",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

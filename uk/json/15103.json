@@ -1,0 +1,41 @@
+{
+    "title": "Potato beetroot and herring salad",
+    "ingredients": [
+        {
+            "name": "piper potatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beetroots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "herring oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

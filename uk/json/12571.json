@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate chocolate chip cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "cocoa",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "175",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

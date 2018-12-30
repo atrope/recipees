@@ -1,0 +1,31 @@
+{
+    "title": "Pizza puffs",
+    "ingredients": [
+        {
+            "name": "pizza dough",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pizza pasta sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "beef turkey meatballs",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

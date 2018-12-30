@@ -1,0 +1,91 @@
+{
+    "title": "Deluxe Christmas pudding",
+    "ingredients": [
+        {
+            "name": "suet",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "stout",
+            "quantity": "150",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

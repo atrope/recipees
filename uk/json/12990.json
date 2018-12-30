@@ -1,0 +1,36 @@
+{
+    "title": "Cherry Tomato and Olive Penne",
+    "ingredients": [
+        {
+            "name": "penne",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "olives",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil pesto",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

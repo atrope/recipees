@@ -1,0 +1,31 @@
+{
+    "title": "Easy and tasty turkey gravy",
+    "ingredients": [
+        {
+            "name": "turkey",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "juices turkey roasting",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "turkey stock",
+            "quantity": "475",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

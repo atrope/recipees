@@ -1,0 +1,31 @@
+{
+    "title": "Fig and ricotta crostini",
+    "ingredients": [
+        {
+            "name": "baguette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "figs",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

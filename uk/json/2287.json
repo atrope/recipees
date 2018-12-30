@@ -1,0 +1,66 @@
+{
+    "title": "Spicy Bean Soup",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "kidney beans",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "beans",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes basil",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "green",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

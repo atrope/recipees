@@ -1,0 +1,26 @@
+{
+    "title": "Maple glazed carrots",
+    "ingredients": [
+        {
+            "name": "carrots",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "margarine butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

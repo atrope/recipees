@@ -1,0 +1,36 @@
+{
+    "title": "Butterflied roast chicken with lemon and rosemary",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "wine chicken stock",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

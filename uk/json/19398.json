@@ -1,0 +1,81 @@
+{
+    "title": "Light fruit cake",
+    "ingredients": [
+        {
+            "name": "cherries",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "875",
+            "type": "g"
+        },
+        {
+            "name": "peel",
+            "quantity": "360",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "625",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "almonds",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

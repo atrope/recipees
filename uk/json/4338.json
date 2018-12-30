@@ -1,0 +1,66 @@
+{
+    "title": "Golden Kebabs with Zesty Mayonnaise",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "nectarines",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "pinch cayenne pepper powder",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

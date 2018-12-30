@@ -1,0 +1,66 @@
+{
+    "title": "Spanish Chicken",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic minced",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

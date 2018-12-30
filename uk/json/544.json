@@ -1,0 +1,66 @@
+{
+    "title": "Quick 'n easy grape salad",
+    "ingredients": [
+        {
+            "name": "salad",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "grapes",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "grape juice",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Pineapple fruit cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "fruit",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

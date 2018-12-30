@@ -1,0 +1,51 @@
+{
+    "title": "Coconut cream cheese icing",
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coconut flavouring",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coconut",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "coconut toasted",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Duck filo baskets",
+    "ingredients": [
+        {
+            "name": "duck",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken livers",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "shallot minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sherry vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oranges juiced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "filo",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "peanut oil",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

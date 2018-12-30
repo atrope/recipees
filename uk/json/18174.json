@@ -1,0 +1,76 @@
+{
+    "title": "Pizza with beer and tomato sauce",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepperoni",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "bacon",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "1/3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "beer",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pizza",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

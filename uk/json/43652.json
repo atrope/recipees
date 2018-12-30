@@ -1,0 +1,31 @@
+{
+    "title": "Apple and walnut haroset",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

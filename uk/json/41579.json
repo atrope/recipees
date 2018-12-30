@@ -1,0 +1,86 @@
+{
+    "title": "Kimchi (Korean fermented spicy cabbage)",
+    "ingredients": [
+        {
+            "name": "leaf cabbage",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "water",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "sweet rice flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sweet onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "minced ginger root",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flakes",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "shrimp saeujeot",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sesame",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "radish",
+            "quantity": "230",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Banana and caramel cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "caramel sauce",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Banana chocolate chip bran muffins",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "bran cereal",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "chocolate cooking",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

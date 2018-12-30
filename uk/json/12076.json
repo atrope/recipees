@@ -1,0 +1,26 @@
+{
+    "title": "Crispy flapjacks",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "175",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

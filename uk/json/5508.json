@@ -1,0 +1,46 @@
+{
+    "title": "Cheese and walnut souffl\u00e9 tart",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese crumbled",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "walnut",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

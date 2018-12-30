@@ -1,0 +1,51 @@
+{
+    "title": "Beef and cottage cheese lasagne",
+    "ingredients": [
+        {
+            "name": "lasagne",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "375",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

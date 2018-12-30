@@ -1,0 +1,36 @@
+{
+    "title": "Easter bunny biscuits",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Brilliant bakewell tart",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "6oz",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "4oz",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4oz",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "almonds",
+            "quantity": "1oz",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

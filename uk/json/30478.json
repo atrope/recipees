@@ -1,0 +1,61 @@
+{
+    "title": "Chicken and mango rice noodle salad",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rice noodles",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "juice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mango",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "bunch mint picked",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

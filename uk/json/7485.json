@@ -1,0 +1,41 @@
+{
+    "title": "Greek runner beans",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "onions",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

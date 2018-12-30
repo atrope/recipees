@@ -1,0 +1,26 @@
+{
+    "title": "No-Cook Vanilla Ice Cream",
+    "ingredients": [
+        {
+            "name": "whipping cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

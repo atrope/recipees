@@ -1,0 +1,26 @@
+{
+    "title": "Salt encrusted roast beef",
+    "ingredients": [
+        {
+            "name": "salt",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "roasting",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "seasoning salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

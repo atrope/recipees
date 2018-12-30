@@ -1,0 +1,46 @@
+{
+    "title": "Canneles de Bordeaux",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "10",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

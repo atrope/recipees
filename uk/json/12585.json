@@ -1,0 +1,71 @@
+{
+    "title": "Christmas fruit compote",
+    "ingredients": [
+        {
+            "name": "fruit",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "orange",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "lemon",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pear",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange juice cover",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ice cream",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

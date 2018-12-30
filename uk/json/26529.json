@@ -1,0 +1,26 @@
+{
+    "title": "Banana wrap",
+    "ingredients": [
+        {
+            "name": "tortilla wrap",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peanut butter smooth",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey spread",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

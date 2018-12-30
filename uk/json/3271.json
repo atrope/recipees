@@ -1,0 +1,91 @@
+{
+    "title": "Sweet and sour duck salad",
+    "ingredients": [
+        {
+            "name": "basmati rice",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "duck",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "watercress",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "green grapes",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "nectarines",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "radicchio salad",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "toasted pumpkin",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sour",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apricot jam",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "raspberry vinegar wine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "hazelnut oil",
+            "quantity": "2",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

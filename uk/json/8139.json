@@ -1,0 +1,46 @@
+{
+    "title": "Aqua Cooler",
+    "ingredients": [
+        {
+            "name": "vodka",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "midouri",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemonade",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lime",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

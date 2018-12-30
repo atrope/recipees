@@ -1,0 +1,36 @@
+{
+    "title": "Snappy Muffins",
+    "ingredients": [
+        {
+            "name": "muffins",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sunflower spread butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "beans",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "cheese total",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes plum",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "smoked bacon rashers",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

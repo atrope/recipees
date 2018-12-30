@@ -1,0 +1,46 @@
+{
+    "title": "Chilli beefburgers",
+    "ingredients": [
+        {
+            "name": "minced beef",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "poblano minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "habanero pepper minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

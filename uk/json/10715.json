@@ -1,0 +1,56 @@
+{
+    "title": "Bran Muffins",
+    "ingredients": [
+        {
+            "name": "wheat bran",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "360",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "treacle",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

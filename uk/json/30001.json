@@ -1,0 +1,41 @@
+{
+    "title": "Cherry and ginger shortbread biscuits",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cherries",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,91 @@
+{
+    "title": "Wild Rice Chicken Soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "sherry",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

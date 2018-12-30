@@ -1,0 +1,46 @@
+{
+    "title": "Spaghetti with tuna",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "anchovy paste",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "organic tomato",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "tuna oil",
+            "quantity": "210",
+            "type": "g"
+        },
+        {
+            "name": "spaghetti",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

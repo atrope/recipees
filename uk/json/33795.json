@@ -1,0 +1,46 @@
+{
+    "title": "Tasty smoked salmon pate",
+    "ingredients": [
+        {
+            "name": "smoked salmon",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

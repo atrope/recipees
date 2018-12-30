@@ -1,0 +1,41 @@
+{
+    "title": "Perfect hot dogs",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "pickle",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

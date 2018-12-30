@@ -1,0 +1,21 @@
+{
+    "title": "Corn tortillas",
+    "ingredients": [
+        {
+            "name": "masa corn flour",
+            "quantity": "168",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

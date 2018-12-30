@@ -1,0 +1,76 @@
+{
+    "title": "Foolproof mini cupcakes",
+    "ingredients": [
+        {
+            "name": "cupcakes",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate buttercream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "baking chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

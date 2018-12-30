@@ -1,0 +1,36 @@
+{
+    "title": "Strawberry soup",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

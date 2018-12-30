@@ -1,0 +1,61 @@
+{
+    "title": "Chocolate, Almond and Coconut Cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "560",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "840",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "185",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "215",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

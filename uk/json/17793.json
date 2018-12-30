@@ -1,0 +1,26 @@
+{
+    "title": "Prawn Pasta Salad",
+    "ingredients": [
+        {
+            "name": "spaghetti pasta",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "prawns",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "salad",
+            "quantity": "350",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

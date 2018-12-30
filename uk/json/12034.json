@@ -1,0 +1,41 @@
+{
+    "title": "Baked apple cups",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange zest spice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

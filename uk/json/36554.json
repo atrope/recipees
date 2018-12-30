@@ -1,0 +1,46 @@
+{
+    "title": "Yummy, mummy, biscuits",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "buttercream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

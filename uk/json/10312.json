@@ -1,0 +1,26 @@
+{
+    "title": "Maple and walnut baked Brie",
+    "ingredients": [
+        {
+            "name": "cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "baguette",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

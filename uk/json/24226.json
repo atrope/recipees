@@ -1,0 +1,26 @@
+{
+    "title": "Apple frog prince",
+    "ingredients": [
+        {
+            "name": "apple",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "green grapes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "raisins",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

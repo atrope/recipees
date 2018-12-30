@@ -1,0 +1,41 @@
+{
+    "title": "Filo square mini quiches",
+    "ingredients": [
+        {
+            "name": "sunflower oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheddar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "filo pastry",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Basic fish stock",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "1.2L",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fish bone",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

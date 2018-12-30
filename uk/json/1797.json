@@ -1,0 +1,51 @@
+{
+    "title": "Avocado and sunflower seed salad",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "avocados",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Salmon with spicy coriander sauce",
+    "ingredients": [
+        {
+            "name": "salmon",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "coriander",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

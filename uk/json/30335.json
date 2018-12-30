@@ -1,0 +1,31 @@
+{
+    "title": "Orange marmalade",
+    "ingredients": [
+        {
+            "name": "oranges",
+            "quantity": "4",
+            "type": "kg"
+        },
+        {
+            "name": "juice lemons",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "3.5L",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "7",
+            "type": "kg"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

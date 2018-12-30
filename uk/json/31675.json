@@ -1,0 +1,31 @@
+{
+    "title": "Easy sushi rice",
+    "ingredients": [
+        {
+            "name": "sushi rice",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "rice vinegar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

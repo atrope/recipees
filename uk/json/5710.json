@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate chip cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

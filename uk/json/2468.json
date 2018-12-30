@@ -1,0 +1,26 @@
+{
+    "title": "Venison Steaks with Cracked Black Pepper",
+    "ingredients": [
+        {
+            "name": "venison steaks",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

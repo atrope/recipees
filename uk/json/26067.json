@@ -1,0 +1,36 @@
+{
+    "title": "How to make bread the best way",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "margarine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "240",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

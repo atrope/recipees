@@ -1,0 +1,81 @@
+{
+    "title": "Tilapia gumbo",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2-3",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "okra",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tilapia fillets",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

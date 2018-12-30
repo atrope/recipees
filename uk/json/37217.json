@@ -1,0 +1,61 @@
+{
+    "title": "Chocolate covered heart cookies",
+    "ingredients": [
+        {
+            "name": "cookies",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ganache",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

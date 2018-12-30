@@ -1,0 +1,21 @@
+{
+    "title": "Cherry jam",
+    "ingredients": [
+        {
+            "name": "sour cherries",
+            "quantity": "875",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "sachet pectin",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Bramley apple pie",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "juice orange lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "shortcrust pastry",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1-2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

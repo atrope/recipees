@@ -1,0 +1,26 @@
+{
+    "title": "Ham and egg salad",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "crackers bread",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

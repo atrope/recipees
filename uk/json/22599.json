@@ -1,0 +1,36 @@
+{
+    "title": "Simple tuna and pasta salad",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "tuna",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Pasta frittata with asparagus and peas",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "soup pasta",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "cheese crumbled",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Tasty and moist shortbread",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "180",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

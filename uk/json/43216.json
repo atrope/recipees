@@ -1,0 +1,41 @@
+{
+    "title": "Rocket salad with bacon and butternut squash",
+    "ingredients": [
+        {
+            "name": "bacon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "squash",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "goat cheese crumbled",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Chicken and Butter Bean Bake",
+    "ingredients": [
+        {
+            "name": "butter beans",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken minced",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cheese",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

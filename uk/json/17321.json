@@ -1,0 +1,46 @@
+{
+    "title": "Mocha truffles",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "coffee liqueur",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate cocoa",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "espresso",
+            "quantity": "50",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

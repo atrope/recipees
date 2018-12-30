@@ -1,0 +1,51 @@
+{
+    "title": "Cheesy naan bread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "wedges cheese",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "ghee butter",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

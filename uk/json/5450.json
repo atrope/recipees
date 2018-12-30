@@ -1,0 +1,21 @@
+{
+    "title": "Butterscotch sauce",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "170",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

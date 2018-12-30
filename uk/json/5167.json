@@ -1,0 +1,36 @@
+{
+    "title": "Creamy Clapshot",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "swede turnips",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

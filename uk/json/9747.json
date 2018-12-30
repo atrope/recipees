@@ -1,0 +1,46 @@
+{
+    "title": "Chicken burrito filling",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "salsa",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "taco seasoning",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Grilled polenta with spicy sausage and veg sauce",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "polenta",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "sausage",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "courgette",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pasta sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

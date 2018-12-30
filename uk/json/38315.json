@@ -1,0 +1,36 @@
+{
+    "title": "Baked sweet potato with lemon",
+    "ingredients": [
+        {
+            "name": "sweet potatoes egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "juice lemons",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Glogi",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

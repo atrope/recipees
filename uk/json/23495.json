@@ -1,0 +1,26 @@
+{
+    "title": "Wheaten Farls",
+    "ingredients": [
+        {
+            "name": "flour kneading",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

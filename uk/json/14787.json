@@ -1,0 +1,31 @@
+{
+    "title": "Poppy Seed Salad Dressing",
+    "ingredients": [
+        {
+            "name": "mayonnaise",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "poppy",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

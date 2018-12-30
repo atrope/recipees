@@ -1,0 +1,36 @@
+{
+    "title": "Simple treacle tart",
+    "ingredients": [
+        {
+            "name": "shortcrust pastry",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "135",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg water",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Cucumber tomato salad with feta and honey",
+    "ingredients": [
+        {
+            "name": "cucumbers",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "rice wine vinegar",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

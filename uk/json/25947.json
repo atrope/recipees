@@ -1,0 +1,41 @@
+{
+    "title": "Ultimate crab sandwich",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "watercress",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

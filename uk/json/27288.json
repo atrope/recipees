@@ -1,0 +1,36 @@
+{
+    "title": "Dandelion greens salad",
+    "ingredients": [
+        {
+            "name": "dandelion greens",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rapeseed olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

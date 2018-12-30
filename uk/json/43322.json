@@ -1,0 +1,41 @@
+{
+    "title": "Crispy sesame feta fingers with honey",
+    "ingredients": [
+        {
+            "name": "feta cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sesame",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Shredded chicken salad with peanut dressing",
+    "ingredients": [
+        {
+            "name": "broccoli",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "orange pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg noodles",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "pinch caster sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

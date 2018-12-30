@@ -1,0 +1,56 @@
+{
+    "title": "Carrot, almond and blue cheese salad",
+    "ingredients": [
+        {
+            "name": "carrots",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "crumbled cheese",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

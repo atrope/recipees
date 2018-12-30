@@ -1,0 +1,31 @@
+{
+    "title": "Buckwheat, asparagus and pesto salad",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "buckwheat",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "pesto",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

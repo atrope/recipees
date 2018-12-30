@@ -1,0 +1,51 @@
+{
+    "title": "Apple and white wine chicken with butternut squash",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "squash",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "330",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Chewy oaty biscuits",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

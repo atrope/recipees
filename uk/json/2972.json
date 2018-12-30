@@ -1,0 +1,101 @@
+{
+    "title": "Beef in beer",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "braising steak",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion wedges",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots total",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsnip",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "stout",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "wholegrain mustard",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "herb bread",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "campagne traditional loaf",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

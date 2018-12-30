@@ -1,0 +1,36 @@
+{
+    "title": "Mushroom, bacon and Stilton baked risotto",
+    "ingredients": [
+        {
+            "name": "mushrooms",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "smoked bacon",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "garlic herb cream cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "rice",
+            "quantity": "180",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

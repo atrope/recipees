@@ -1,0 +1,61 @@
+{
+    "title": "Gingerbread Spiced Pancakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "hazelnuts",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "treacle",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

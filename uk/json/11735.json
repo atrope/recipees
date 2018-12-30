@@ -1,0 +1,61 @@
+{
+    "title": "Fruity lamb curry",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lamb stew meat",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "butter",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "raisins",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

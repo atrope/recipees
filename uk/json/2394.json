@@ -1,0 +1,36 @@
+{
+    "title": "Jen's Miso Soup",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "525",
+            "type": "ml"
+        },
+        {
+            "name": "tofu",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "miso paste",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "barley miso paste",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

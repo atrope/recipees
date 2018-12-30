@@ -1,0 +1,36 @@
+{
+    "title": "Very easy baked cod",
+    "ingredients": [
+        {
+            "name": "cod",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "dill",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

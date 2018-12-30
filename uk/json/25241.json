@@ -1,0 +1,41 @@
+{
+    "title": "Salmon rillettes",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "fish stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salmon",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "dill",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "chives",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

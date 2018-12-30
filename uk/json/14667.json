@@ -1,0 +1,81 @@
+{
+    "title": "Butternut Squash and Pumpkin Soup",
+    "ingredients": [
+        {
+            "name": "squash",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "1.2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sweet potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

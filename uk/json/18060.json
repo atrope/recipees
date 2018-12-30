@@ -1,0 +1,21 @@
+{
+    "title": "Cheddar Cheese Toasties",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

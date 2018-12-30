@@ -1,0 +1,26 @@
+{
+    "title": "Sweet potato cooked in ginger syrup",
+    "ingredients": [
+        {
+            "name": "sweet potatoes",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

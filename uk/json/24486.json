@@ -1,0 +1,21 @@
+{
+    "title": "Peanut butter mashed potatoes",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

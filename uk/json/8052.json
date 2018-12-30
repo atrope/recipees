@@ -1,0 +1,31 @@
+{
+    "title": "Blackberry jam",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "sachet pectin",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

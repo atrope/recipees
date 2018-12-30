@@ -1,0 +1,26 @@
+{
+    "title": "Cranberry Kamikaze",
+    "ingredients": [
+        {
+            "name": "vodka",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "orange liqueur",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "lime cordial",
+            "quantity": "15",
+            "type": "ml"
+        },
+        {
+            "name": "cranberry juice",
+            "quantity": "50",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

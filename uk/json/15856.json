@@ -1,0 +1,31 @@
+{
+    "title": "Basic chocolate mousse",
+    "ingredients": [
+        {
+            "name": "egg eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "300",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

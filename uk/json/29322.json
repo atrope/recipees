@@ -1,0 +1,46 @@
+{
+    "title": "Peanut butter cookies with oats",
+    "ingredients": [
+        {
+            "name": "porridge oats",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "smooth peanut butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

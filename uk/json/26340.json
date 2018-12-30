@@ -1,0 +1,36 @@
+{
+    "title": "Pear chocolate loaf cake",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Welsh Welsh rarebit",
+    "ingredients": [
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "ale",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

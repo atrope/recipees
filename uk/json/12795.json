@@ -1,0 +1,61 @@
+{
+    "title": "Creamy chicken curry",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "tandoori paste",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "toasted flaked almonds",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetables",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Cheese and bacon stuffed pasta shells",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "rashers smoked bacon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato tomatoes",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "ball mozzarella cheese",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

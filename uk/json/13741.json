@@ -1,0 +1,51 @@
+{
+    "title": "Cheddar soup with vegetables",
+    "ingredients": [
+        {
+            "name": "celery",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "325",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

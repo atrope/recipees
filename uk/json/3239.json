@@ -1,0 +1,61 @@
+{
+    "title": "Chicken liver and raspberry salad",
+    "ingredients": [
+        {
+            "name": "chicken livers",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "spinach",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "chives",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "shallots",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raspberry vinegar",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

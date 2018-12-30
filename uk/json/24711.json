@@ -1,0 +1,36 @@
+{
+    "title": "Easy Cumberland sauce",
+    "ingredients": [
+        {
+            "name": "orange juice",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "zest orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "redcurrant jelly",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "wholegrain mustard",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Quinoa pancakes",
+    "ingredients": [
+        {
+            "name": "quinoa flour",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk almond",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

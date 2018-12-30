@@ -1,0 +1,46 @@
+{
+    "title": "Ellen's perfect raspberry and white chocolate cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "raspberries",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flake chocolate",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

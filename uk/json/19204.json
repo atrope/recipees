@@ -1,0 +1,46 @@
+{
+    "title": "Crunchy Baked Tilapia",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tilapia fish fillets",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "polenta cornmeal",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

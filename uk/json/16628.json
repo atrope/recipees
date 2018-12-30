@@ -1,0 +1,61 @@
+{
+    "title": "Moroccan veal and lentil soup",
+    "ingredients": [
+        {
+            "name": "veal",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "chickpeas",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "lentils",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "onions minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "650",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "coriander",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

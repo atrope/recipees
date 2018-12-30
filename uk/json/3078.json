@@ -1,0 +1,66 @@
+{
+    "title": "Avocado chicken club sandwich",
+    "ingredients": [
+        {
+            "name": "grain bread",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "chicken meat",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch watercress",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "alfalfa",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "pumpkin toasted",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

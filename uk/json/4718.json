@@ -1,0 +1,41 @@
+{
+    "title": "Smoked Salmon Sushi Roll",
+    "ingredients": [
+        {
+            "name": "sushi rice",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "rice wine vinegar",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "nori seaweed",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "wasabi paste",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Cranberry, orange and walnut oatmeal cookies",
+    "ingredients": [
+        {
+            "name": "butter temperature",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "orange zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

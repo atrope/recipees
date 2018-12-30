@@ -1,0 +1,21 @@
+{
+    "title": "Diabetic dog treats",
+    "ingredients": [
+        {
+            "name": "beef liver",
+            "quantity": "680",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

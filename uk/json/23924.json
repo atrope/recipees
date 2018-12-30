@@ -1,0 +1,21 @@
+{
+    "title": "Peanut butter popcorn sauce",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

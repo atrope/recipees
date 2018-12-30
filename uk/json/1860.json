@@ -1,0 +1,46 @@
+{
+    "title": "Mexican chicken with black beans",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "salsa",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

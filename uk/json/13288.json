@@ -1,0 +1,36 @@
+{
+    "title": "Chilli Cheese Canap\u00e9s",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "green",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

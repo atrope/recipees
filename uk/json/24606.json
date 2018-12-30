@@ -1,0 +1,26 @@
+{
+    "title": "Mama's chicken soup",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pasta",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

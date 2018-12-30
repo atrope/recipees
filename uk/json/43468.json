@@ -1,0 +1,36 @@
+{
+    "title": "Sponge cake base for layering",
+    "ingredients": [
+        {
+            "name": "eggs temperature",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "vanilla sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

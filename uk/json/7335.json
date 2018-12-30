@@ -1,0 +1,26 @@
+{
+    "title": "Strawberry orange coconut smoothie",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

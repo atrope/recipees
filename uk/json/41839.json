@@ -1,0 +1,41 @@
+{
+    "title": "Apple crumble with oat crumble topping",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "270",
+            "type": "g"
+        },
+        {
+            "name": "apples",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oats",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

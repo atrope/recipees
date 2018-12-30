@@ -1,0 +1,56 @@
+{
+    "title": "Spaghetti Carbonara with Extras",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

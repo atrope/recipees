@@ -1,0 +1,21 @@
+{
+    "title": "Berry Vinegar",
+    "ingredients": [
+        {
+            "name": "cider vinegar",
+            "quantity": "675",
+            "type": "ml"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

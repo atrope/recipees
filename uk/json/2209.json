@@ -1,0 +1,36 @@
+{
+    "title": "Prawn cream cheese spread",
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "prawns",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "seafood sauce",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Beetroot soup",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "beetroot",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bunch dill",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Yummy lemon cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemons",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

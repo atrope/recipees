@@ -1,0 +1,51 @@
+{
+    "title": "Qin Cold Noodles",
+    "ingredients": [
+        {
+            "name": "soybean",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cucumber julienned",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

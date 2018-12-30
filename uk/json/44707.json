@@ -1,0 +1,71 @@
+{
+    "title": "Oxtail soup",
+    "ingredients": [
+        {
+            "name": "beef oxtail",
+            "quantity": "3",
+            "type": "kg"
+        },
+        {
+            "name": "salt",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsnip",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "turnip",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "savory thyme",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "barley",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

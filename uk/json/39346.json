@@ -1,0 +1,51 @@
+{
+    "title": "Hatching Easter chick devilled eggs",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "yellow mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "dill pickle",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "horseradish",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pickle juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "12",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

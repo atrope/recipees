@@ -1,0 +1,36 @@
+{
+    "title": "April's quick and easy popular flapjacks",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "fruit banana",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "sugar caster",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

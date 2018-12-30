@@ -1,0 +1,41 @@
+{
+    "title": "Russell's easy baked tinned potatoes",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "5-6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

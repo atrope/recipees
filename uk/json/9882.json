@@ -1,0 +1,36 @@
+{
+    "title": "Best Mud Pie",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "fruit",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

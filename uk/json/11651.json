@@ -1,0 +1,46 @@
+{
+    "title": "Yellow Turmeric Rice",
+    "ingredients": [
+        {
+            "name": "grain rice",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "raisins",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "600",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

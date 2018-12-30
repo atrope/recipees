@@ -1,0 +1,36 @@
+{
+    "title": "Apple and goat cheese bruschetta",
+    "ingredients": [
+        {
+            "name": "goat cheese crumbled",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baguette",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

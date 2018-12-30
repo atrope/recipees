@@ -1,0 +1,21 @@
+{
+    "title": "Lemon sorbet with vodka",
+    "ingredients": [
+        {
+            "name": "lemon sorbet",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vodka",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

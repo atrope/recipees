@@ -1,0 +1,36 @@
+{
+    "title": "Pea and Mushroom Soup",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "cream mushroom soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "green peas",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

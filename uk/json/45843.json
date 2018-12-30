@@ -1,0 +1,46 @@
+{
+    "title": "Steak and ale pie with puff pastry",
+    "ingredients": [
+        {
+            "name": "beef",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "roll pastry",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "egg water",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

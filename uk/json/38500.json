@@ -1,0 +1,41 @@
+{
+    "title": "Simple oaty cookies",
+    "ingredients": [
+        {
+            "name": "margarine butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "raisins sultanas",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

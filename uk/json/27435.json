@@ -1,0 +1,36 @@
+{
+    "title": "Asparagus and prawns",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "prawns",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pesto sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Baklava",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "filo pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "lemon peel",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

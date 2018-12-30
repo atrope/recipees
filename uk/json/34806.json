@@ -1,0 +1,51 @@
+{
+    "title": "Banana loaf cake",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fruit nuts",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

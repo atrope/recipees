@@ -1,0 +1,91 @@
+{
+    "title": "Not your typical challah",
+    "ingredients": [
+        {
+            "name": "baking yeast",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "poppy",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "minced onion",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "sesame",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "poppy",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "minced onion",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

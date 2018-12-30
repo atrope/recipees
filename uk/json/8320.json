@@ -1,0 +1,41 @@
+{
+    "title": "My lazy corned silverside",
+    "ingredients": [
+        {
+            "name": "silverside",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "bayleaves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beer",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

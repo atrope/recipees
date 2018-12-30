@@ -1,0 +1,71 @@
+{
+    "title": "Macaroni and mushroom cheese",
+    "ingredients": [
+        {
+            "name": "macaroni rigatoni",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "cheese",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

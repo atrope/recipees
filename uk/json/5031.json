@@ -1,0 +1,51 @@
+{
+    "title": "Pressure cooker beef stew",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef stewing meat",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "carrots",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "baking potatoes",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

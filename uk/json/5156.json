@@ -1,0 +1,36 @@
+{
+    "title": "Irish bacon and cabbage soup",
+    "ingredients": [
+        {
+            "name": "bacon",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "green cabbage",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

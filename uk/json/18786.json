@@ -1,0 +1,56 @@
+{
+    "title": "Saves the day chocolate chip cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "310",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "90",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

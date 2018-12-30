@@ -1,0 +1,86 @@
+{
+    "title": "Ultimate Classic Christmas Cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "peel",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "zest juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "treacle syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "brandy cognac rum cake",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

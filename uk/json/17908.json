@@ -1,0 +1,86 @@
+{
+    "title": "The Ultimate Paella",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "460",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "saffron",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "255",
+            "type": "g"
+        },
+        {
+            "name": "lobster",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "clams",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "mussels",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

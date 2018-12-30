@@ -1,0 +1,56 @@
+{
+    "title": "Fiery cream of chicken soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "green",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream chicken soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

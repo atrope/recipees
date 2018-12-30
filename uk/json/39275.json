@@ -1,0 +1,46 @@
+{
+    "title": "Spanish style omelette with olives",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green olives",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

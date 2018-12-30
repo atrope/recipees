@@ -1,0 +1,36 @@
+{
+    "title": "BBQ pork belly ribs",
+    "ingredients": [
+        {
+            "name": "pork ribs",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "plum sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

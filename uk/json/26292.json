@@ -1,0 +1,46 @@
+{
+    "title": "Easy ratatouille",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "herbes",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

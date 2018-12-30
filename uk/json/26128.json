@@ -1,0 +1,36 @@
+{
+    "title": "Ham and cheese mini quiches",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

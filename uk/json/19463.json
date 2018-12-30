@@ -1,0 +1,46 @@
+{
+    "title": "Cheesy chicken enchiladas",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "corn tortillas",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

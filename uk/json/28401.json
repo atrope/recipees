@@ -1,0 +1,46 @@
+{
+    "title": "Perfect blue cheese dip",
+    "ingredients": [
+        {
+            "name": "cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese crumbled",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

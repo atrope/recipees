@@ -1,0 +1,46 @@
+{
+    "title": "Vegan apple and banana muffins",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "banana",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "255",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "almond milk",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "apple",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Quick and easy chocolate mousse",
+    "ingredients": [
+        {
+            "name": "chocolate cocoa",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "cherry syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "flaked chocolate",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

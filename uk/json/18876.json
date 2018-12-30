@@ -1,0 +1,76 @@
+{
+    "title": "Pecan Chocolate Biscotti",
+    "ingredients": [
+        {
+            "name": "baking yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coffee",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate hazelnut spread",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pecans",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

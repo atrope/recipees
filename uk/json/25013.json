@@ -1,0 +1,51 @@
+{
+    "title": "Smoked salmon bagel toastie",
+    "ingredients": [
+        {
+            "name": "goats cheese",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "smoked cheese",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "bagel",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

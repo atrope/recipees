@@ -1,0 +1,51 @@
+{
+    "title": "Triple Chocolate Brownies",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "nuts",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

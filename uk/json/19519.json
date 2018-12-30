@@ -1,0 +1,41 @@
+{
+    "title": "Light and creamy pepper sauce pasta",
+    "ingredients": [
+        {
+            "name": "tagliatelle fettuccine pasta",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Seasoned rice and lentils",
+    "ingredients": [
+        {
+            "name": "basmati rice",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "beans",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cassia",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cardamom",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

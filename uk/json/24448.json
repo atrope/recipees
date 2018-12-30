@@ -1,0 +1,41 @@
+{
+    "title": "Indian basmati rice",
+    "ingredients": [
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cardamom",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basmati rice",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock water",
+            "quantity": "1L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

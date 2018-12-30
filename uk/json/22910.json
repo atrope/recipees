@@ -1,0 +1,36 @@
+{
+    "title": "Lunchbox Salmon Salad",
+    "ingredients": [
+        {
+            "name": "salad",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cashew nuts",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "salmon",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "pomegranate",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

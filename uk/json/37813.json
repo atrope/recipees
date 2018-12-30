@@ -1,0 +1,56 @@
+{
+    "title": "Banana and coconut fairy cakes with a hint of lemon",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

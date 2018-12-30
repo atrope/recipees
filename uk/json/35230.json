@@ -1,0 +1,26 @@
+{
+    "title": "Coulis",
+    "ingredients": [
+        {
+            "name": "summer fruits strawberries raspberries cherries",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "fruit liqueur",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

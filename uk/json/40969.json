@@ -1,0 +1,31 @@
+{
+    "title": "Rich and creamy lemon curd",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

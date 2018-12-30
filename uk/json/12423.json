@@ -1,0 +1,51 @@
+{
+    "title": "Chinese soy sauce chicken",
+    "ingredients": [
+        {
+            "name": "ginger",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "410",
+            "type": "ml"
+        },
+        {
+            "name": "anise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spice powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "cooking wine",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

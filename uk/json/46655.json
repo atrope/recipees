@@ -1,0 +1,46 @@
+{
+    "title": "Crustless courgette bacon quiche",
+    "ingredients": [
+        {
+            "name": "courgette",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

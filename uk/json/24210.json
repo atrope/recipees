@@ -1,0 +1,51 @@
+{
+    "title": "Spinach and feta filo tart",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "filo pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "feta cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "300",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

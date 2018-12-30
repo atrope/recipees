@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate toothpaste tart",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "chocolate powder",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "cocoa",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "230",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "sweet pastry",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

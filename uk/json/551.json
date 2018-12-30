@@ -1,0 +1,41 @@
+{
+    "title": "Yummy cauliflower cheese",
+    "ingredients": [
+        {
+            "name": "cauliflower",
+            "quantity": "2-3",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "sausages",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

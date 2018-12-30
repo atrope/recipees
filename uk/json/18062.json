@@ -1,0 +1,41 @@
+{
+    "title": "Chicken and pasta salad",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "steak seasoning",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fusilli pasta",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

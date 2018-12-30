@@ -1,0 +1,31 @@
+{
+    "title": "Vanilla cake pops",
+    "ingredients": [
+        {
+            "name": "vanilla sponge cake",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "jam strawberry apricot",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar nuts sprinkles",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Coconut Curry Pumpkin Soup",
+    "ingredients": [
+        {
+            "name": "coconut oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

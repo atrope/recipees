@@ -1,0 +1,41 @@
+{
+    "title": "Easy Tiramisu",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mascarpone cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "biscuits ladyfingers",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "coffee",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

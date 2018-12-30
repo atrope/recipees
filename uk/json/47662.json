@@ -1,0 +1,36 @@
+{
+    "title": "Aniskipferl (Austrian aniseed crescents)",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "aniseed",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

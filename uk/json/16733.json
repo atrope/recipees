@@ -1,0 +1,26 @@
+{
+    "title": "Dark chocolate and banana ice-lollies",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "hazelnuts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "lollipop",
+            "quantity": "7",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

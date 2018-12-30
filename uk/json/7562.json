@@ -1,0 +1,36 @@
+{
+    "title": "Spicy Mexican Artichoke Dip",
+    "ingredients": [
+        {
+            "name": "parmesan cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "artichoke hearts",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

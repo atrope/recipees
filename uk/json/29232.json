@@ -1,0 +1,31 @@
+{
+    "title": "Sweet pastry",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

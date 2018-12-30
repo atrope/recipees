@@ -1,0 +1,51 @@
+{
+    "title": "Classic Treacle tart",
+    "ingredients": [
+        {
+            "name": "shortcrust pastry",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Simple Casserole",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "6-8",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef braising steak cube meat",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "bisto power gravy meat juices",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

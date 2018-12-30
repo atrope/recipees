@@ -1,0 +1,56 @@
+{
+    "title": "Best baked French toast",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bread ciabatta",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "orange zest",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Mexican corn bread",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "gluten baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cornmeal polenta",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

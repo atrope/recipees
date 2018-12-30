@@ -1,0 +1,61 @@
+{
+    "title": "Double chocolate fudge cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "fudge",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

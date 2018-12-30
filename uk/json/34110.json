@@ -1,0 +1,46 @@
+{
+    "title": "Stewed lamb kidneys",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "lamb kidneys",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,121 @@
+{
+    "title": "Traditional Christmas cake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "spice",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "treacle",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "marmalade",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "peel",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "marzipan",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "apricot jam",
+            "quantity": "1-2",
+            "type": "-"
+        },
+        {
+            "name": "icing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "550",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

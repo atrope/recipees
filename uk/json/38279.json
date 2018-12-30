@@ -1,0 +1,56 @@
+{
+    "title": "Frank's slow cooker peanut chicken",
+    "ingredients": [
+        {
+            "name": "salsa",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

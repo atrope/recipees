@@ -1,0 +1,26 @@
+{
+    "title": "Fig smoothie",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "figs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "180",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

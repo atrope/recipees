@@ -1,0 +1,26 @@
+{
+    "title": "Fabulous chocolate fudge",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nuts",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

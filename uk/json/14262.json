@@ -1,0 +1,36 @@
+{
+    "title": "Prawn and avocado dip",
+    "ingredients": [
+        {
+            "name": "avocados",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "olives",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "prawns",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

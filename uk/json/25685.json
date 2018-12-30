@@ -1,0 +1,61 @@
+{
+    "title": "Chinese chicken and mushroom soup",
+    "ingredients": [
+        {
+            "name": "stock",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "soup",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions garnish",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

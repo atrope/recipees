@@ -1,0 +1,71 @@
+{
+    "title": "Vanilla cupcakes with buttercream",
+    "ingredients": [
+        {
+            "name": "cupcakes",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "temperature",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "icing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "temperature",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

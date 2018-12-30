@@ -1,0 +1,81 @@
+{
+    "title": "Honey apple cake",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "165",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coffee",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "wheat flour",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "apples",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

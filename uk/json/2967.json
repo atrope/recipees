@@ -1,0 +1,81 @@
+{
+    "title": "Steak and kidney pies",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "rump steak",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "kidneys",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "shallots",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "stout",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "filo pastry",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

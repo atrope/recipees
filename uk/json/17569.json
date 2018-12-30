@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate Truffles with Orange",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "orange peel",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "orange liqueur",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

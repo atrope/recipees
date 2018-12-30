@@ -1,0 +1,21 @@
+{
+    "title": "Homemade brandy butter",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": "90",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

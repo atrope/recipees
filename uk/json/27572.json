@@ -1,0 +1,41 @@
+{
+    "title": "Apple and flaked almond muffins",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "255",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

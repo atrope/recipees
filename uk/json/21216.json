@@ -1,0 +1,31 @@
+{
+    "title": "Grilled garlic and butter prawns",
+    "ingredients": [
+        {
+            "name": "prawns",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Homemade bratwurst",
+    "ingredients": [
+        {
+            "name": "pork",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "veal",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard seed",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "300",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

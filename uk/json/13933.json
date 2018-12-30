@@ -1,0 +1,66 @@
+{
+    "title": "Cranberry, apple and sausage stuffing",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "550",
+            "type": "g"
+        },
+        {
+            "name": "sausage casings",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "leeks",
+            "quantity": "535",
+            "type": "g"
+        },
+        {
+            "name": "chicken seasoning",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "tart apples",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "325",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

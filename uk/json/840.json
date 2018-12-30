@@ -1,0 +1,36 @@
+{
+    "title": "Bahama Mama",
+    "ingredients": [
+        {
+            "name": "rum",
+            "quantity": "15",
+            "type": "ml"
+        },
+        {
+            "name": "rum",
+            "quantity": "15",
+            "type": "ml"
+        },
+        {
+            "name": "syrup",
+            "quantity": "15",
+            "type": "ml"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

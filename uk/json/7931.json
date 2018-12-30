@@ -1,0 +1,66 @@
+{
+    "title": "Courgette quiche",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "courgette",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "basil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

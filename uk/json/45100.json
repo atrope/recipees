@@ -1,0 +1,31 @@
+{
+    "title": "Spinach and pomegranate salad",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "mandarins mandarin",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pomegranate",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

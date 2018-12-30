@@ -1,0 +1,56 @@
+{
+    "title": "Risotto with Beetroot Greens",
+    "ingredients": [
+        {
+            "name": "beetroots",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock simmering",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "shallot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

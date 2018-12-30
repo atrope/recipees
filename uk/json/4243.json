@@ -1,0 +1,41 @@
+{
+    "title": "Quickie Quiche",
+    "ingredients": [
+        {
+            "name": "shortcrust pastry",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "whipping cream milk",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

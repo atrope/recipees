@@ -1,0 +1,56 @@
+{
+    "title": "Oat, date and orange cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "peel",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "allspice",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "zest clementine satsuma",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Three Fruit Cocktail",
+    "ingredients": [
+        {
+            "name": "melon liqueur",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "banana liqueur",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vodka",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

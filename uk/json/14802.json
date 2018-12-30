@@ -1,0 +1,56 @@
+{
+    "title": "Cheesy Sweetcorn and Potato Soup",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "310",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "280",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

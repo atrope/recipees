@@ -1,0 +1,46 @@
+{
+    "title": "Walnut and apricot loaf cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "apricots",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

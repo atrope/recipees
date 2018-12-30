@@ -1,0 +1,66 @@
+{
+    "title": "Chicken with apricot sauce",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apricot juice",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "seasoning",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "apricot juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil cooking",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,81 @@
+{
+    "title": "BBQ chicken with beans",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "marjoram",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken drumsticks",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "beans",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "wholegrain mustard",
+            "quantity": "2",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

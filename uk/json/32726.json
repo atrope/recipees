@@ -1,0 +1,36 @@
+{
+    "title": "Sweet pastry case",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "50",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

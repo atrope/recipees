@@ -1,0 +1,41 @@
+{
+    "title": "Date Walnut Cake",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Chocolate heavenly cheesecake",
+    "ingredients": [
+        {
+            "name": "chocolate bonbon biscuits",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "chocolate cream cheese",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

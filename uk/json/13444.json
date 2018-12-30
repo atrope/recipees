@@ -1,0 +1,51 @@
+{
+    "title": "Prawn salad with avocado and lime",
+    "ingredients": [
+        {
+            "name": "prawns",
+            "quantity": "570",
+            "type": "g"
+        },
+        {
+            "name": "avocados",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bunch onions",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "yellow tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch coriander",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

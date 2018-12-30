@@ -1,0 +1,41 @@
+{
+    "title": "Italian chicken with smoky bacon and mushrooms",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chestnut mushrooms",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bacon sauce",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

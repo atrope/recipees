@@ -1,0 +1,21 @@
+{
+    "title": "Snowball truffles",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

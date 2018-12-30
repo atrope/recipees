@@ -1,0 +1,76 @@
+{
+    "title": "Creamy Chicken and Sweetcorn Chowder",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cumin",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cream",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "corn",
+            "quantity": "420",
+            "type": "g"
+        },
+        {
+            "name": "green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch coriander garnish",
+            "quantity": "1/4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

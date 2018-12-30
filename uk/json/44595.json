@@ -1,0 +1,56 @@
+{
+    "title": "Cider and maple syrup roasted roots",
+    "ingredients": [
+        {
+            "name": "carrots",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "parsnips",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "apple cider juice",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "apple cider vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme garnish",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

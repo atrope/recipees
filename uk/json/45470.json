@@ -1,0 +1,56 @@
+{
+    "title": "Bok choi and kale green smoothie",
+    "ingredients": [
+        {
+            "name": "pear",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green grapes",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "banana",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "kale",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

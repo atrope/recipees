@@ -1,0 +1,31 @@
+{
+    "title": "Apple and apricot jam",
+    "ingredients": [
+        {
+            "name": "apricots",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "cooking apples",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "35",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

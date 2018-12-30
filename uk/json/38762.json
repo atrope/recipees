@@ -1,0 +1,36 @@
+{
+    "title": "Tasty houmous wrap",
+    "ingredients": [
+        {
+            "name": "wrap",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salad tomato",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

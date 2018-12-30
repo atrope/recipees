@@ -1,0 +1,36 @@
+{
+    "title": "Jade's sausage rolls",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sausage meat",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "milk egg glaze",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

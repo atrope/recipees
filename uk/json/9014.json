@@ -1,0 +1,26 @@
+{
+    "title": "Pea and Asparagus Soup",
+    "ingredients": [
+        {
+            "name": "peas",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "bacon lardons",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

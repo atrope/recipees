@@ -1,0 +1,31 @@
+{
+    "title": "Everton toffee",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "nuts",
+            "quantity": "100's",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

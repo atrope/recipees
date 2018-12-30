@@ -1,0 +1,51 @@
+{
+    "title": "Sangria melon chiller",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "mint",
+            "quantity": "5",
+            "type": "g"
+        },
+        {
+            "name": "mint garnish",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "liqueur",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "wedges cantaloupe",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "wedges watermelon",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

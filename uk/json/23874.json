@@ -1,0 +1,36 @@
+{
+    "title": "Pistachio shortbread biscuits",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "95",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pistachios toasted",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

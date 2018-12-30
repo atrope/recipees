@@ -1,0 +1,51 @@
+{
+    "title": "Thai BBQ pork",
+    "ingredients": [
+        {
+            "name": "pork",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "whiskey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

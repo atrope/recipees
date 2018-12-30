@@ -1,0 +1,36 @@
+{
+    "title": "Potato latkes",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "groundnut oil",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

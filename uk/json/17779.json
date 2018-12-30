@@ -1,0 +1,36 @@
+{
+    "title": "Easy White Bread",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "rapeseed oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "275",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

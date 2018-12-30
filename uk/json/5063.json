@@ -1,0 +1,21 @@
+{
+    "title": "Wasabi mayonnaise",
+    "ingredients": [
+        {
+            "name": "wasabi powder",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

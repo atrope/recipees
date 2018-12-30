@@ -1,0 +1,66 @@
+{
+    "title": "Syd's plum chutney",
+    "ingredients": [
+        {
+            "name": "plums",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "fennel",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fenugreek",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "minced ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mace",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "masala",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper minced",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

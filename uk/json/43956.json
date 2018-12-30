@@ -1,0 +1,26 @@
+{
+    "title": "Strawberry smoothie ice lollies",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

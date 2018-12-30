@@ -1,0 +1,41 @@
+{
+    "title": "Cinnamon-spiced Ice Cream",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

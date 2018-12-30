@@ -1,0 +1,46 @@
+{
+    "title": "Toasted turkey and pastrami bagels",
+    "ingredients": [
+        {
+            "name": "bagels poppy seed onion",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "6",
+            "type": "tbsp"
+        },
+        {
+            "name": "cocktail gherkins",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "beef tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "roast turkey total",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "pastrami total",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

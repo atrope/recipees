@@ -1,0 +1,36 @@
+{
+    "title": "Amaretto Vodka",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "vodka",
+            "quantity": "550",
+            "type": "ml"
+        },
+        {
+            "name": "almond",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

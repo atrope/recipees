@@ -1,0 +1,36 @@
+{
+    "title": "Tomato and Feta Pasta",
+    "ingredients": [
+        {
+            "name": "farfalle pasta",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "360",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

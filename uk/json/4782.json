@@ -1,0 +1,41 @@
+{
+    "title": "White Sangria",
+    "ingredients": [
+        {
+            "name": "peach schnapps",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cognac",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "oranges",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "ginger ale",
+            "quantity": "1L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Spelt protein bread",
+    "ingredients": [
+        {
+            "name": "organic wholegrain spelt flour",
+            "quantity": "370",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "pea protein",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sachet yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "vanilla casein",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "400",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

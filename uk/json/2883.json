@@ -1,0 +1,56 @@
+{
+    "title": "Fruit and malt bread pudding",
+    "ingredients": [
+        {
+            "name": "malt loaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "apricots",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "apples",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "vanilla",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster icing sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

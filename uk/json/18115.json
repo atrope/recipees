@@ -1,0 +1,26 @@
+{
+    "title": "Baked spaghetti Bolognese",
+    "ingredients": [
+        {
+            "name": "minced beef",
+            "quantity": "335",
+            "type": "g"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "spaghetti",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "140",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Tiramisu with a Christmassy twist",
+    "ingredients": [
+        {
+            "name": "boiling water",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "coffee",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sweet sherry",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mascarpone cheese",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "finger biscuits",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Easy spelt scones",
+    "ingredients": [
+        {
+            "name": "spelt flour",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

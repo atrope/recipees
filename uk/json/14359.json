@@ -1,0 +1,41 @@
+{
+    "title": "Sausage and cream cheese dip",
+    "ingredients": [
+        {
+            "name": "sausages casings",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Authentic French onion soup",
+    "ingredients": [
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cognac",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "2L",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "baguette",
+            "quantity": "16",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "16",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "No bake cherry cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuit",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "biscuit",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "double cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cherry fruit filling",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

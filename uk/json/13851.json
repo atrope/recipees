@@ -1,0 +1,36 @@
+{
+    "title": "Ham and Cheese Toastie",
+    "ingredients": [
+        {
+            "name": "wholegrain bread",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sandwich ham",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "wholegrain mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

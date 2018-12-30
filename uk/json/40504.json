@@ -1,0 +1,81 @@
+{
+    "title": "My BBQ slow cooker chicken",
+    "ingredients": [
+        {
+            "name": "tomato sauce",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

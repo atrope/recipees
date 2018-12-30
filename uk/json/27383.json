@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate hazelnut spread",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "vanilla sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "hazelnut butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

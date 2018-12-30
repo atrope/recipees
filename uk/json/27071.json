@@ -1,0 +1,36 @@
+{
+    "title": "Spanish stuffed pork",
+    "ingredients": [
+        {
+            "name": "pork",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil frying",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

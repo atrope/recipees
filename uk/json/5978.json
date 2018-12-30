@@ -1,0 +1,21 @@
+{
+    "title": "Cheesy Chilli Mashed Potato",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

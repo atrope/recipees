@@ -1,0 +1,51 @@
+{
+    "title": "Chocolate chip cookies in a jar gift",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "rice cereal",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

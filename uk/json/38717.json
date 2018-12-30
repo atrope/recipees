@@ -1,0 +1,36 @@
+{
+    "title": "Peppered smoked mackerel p\u00e2t\u00e9",
+    "ingredients": [
+        {
+            "name": "smoked mackerel",
+            "quantity": "200",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "horseradish sauce",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

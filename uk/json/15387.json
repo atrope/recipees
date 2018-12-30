@@ -1,0 +1,61 @@
+{
+    "title": "Basil and parsley pesto",
+    "ingredients": [
+        {
+            "name": "walnuts",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Haggis, neeps and tatties",
+    "ingredients": [
+        {
+            "name": "haggis casing",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "swede yellow turnip",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Roasted Asparagus with Crispy Parmesan",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

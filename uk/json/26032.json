@@ -1,0 +1,41 @@
+{
+    "title": "White chocolate and lime cheesecake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "3/4",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "juiced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese temperature",
+            "quantity": "3/4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

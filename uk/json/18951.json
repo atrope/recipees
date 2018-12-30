@@ -1,0 +1,31 @@
+{
+    "title": "Best Macaroni Cheese",
+    "ingredients": [
+        {
+            "name": "macaroni pasta",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "340",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

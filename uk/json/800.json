@@ -1,0 +1,36 @@
+{
+    "title": "Aubergine Rounds",
+    "ingredients": [
+        {
+            "name": "polenta cornmeal",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "1L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

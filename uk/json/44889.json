@@ -1,0 +1,56 @@
+{
+    "title": "Baked salmon with lemony orzo, peas and bacon",
+    "ingredients": [
+        {
+            "name": "orzo",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salmon fillet",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "bacon",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

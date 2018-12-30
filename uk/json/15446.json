@@ -1,0 +1,81 @@
+{
+    "title": "Tuna and vegetable pasta bake",
+    "ingredients": [
+        {
+            "name": "penne pasta",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sherry",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "kale",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "potato leek soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "tuna water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "herb breadcrumbs",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Chocolate covered Easter eggs",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "creamy peanut butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

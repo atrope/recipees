@@ -1,0 +1,26 @@
+{
+    "title": "Cheesy garlic mashed potatoes",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

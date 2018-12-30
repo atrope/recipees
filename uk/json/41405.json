@@ -1,0 +1,56 @@
+{
+    "title": "Banana chocolate chip oat muffins",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "applesauce",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "banana",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

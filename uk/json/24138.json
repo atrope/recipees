@@ -1,0 +1,56 @@
+{
+    "title": "Sausage and tomato casserole",
+    "ingredients": [
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "28",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "green peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pork sausages",
+            "quantity": "680",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

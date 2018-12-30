@@ -1,0 +1,31 @@
+{
+    "title": "Lovely lemon curd",
+    "ingredients": [
+        {
+            "name": "lemon juice",
+            "quantity": "355",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

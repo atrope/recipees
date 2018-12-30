@@ -1,0 +1,106 @@
+{
+    "title": "Slow and Hearty Soup",
+    "ingredients": [
+        {
+            "name": "lentils",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "barley",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cube spinach",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves minced garlic",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "pork",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "apple cider vinegar",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "parmesan cheese",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

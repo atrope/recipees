@@ -1,0 +1,71 @@
+{
+    "title": "Shepherd's pie with curried mash",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lamb mince",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "lamb chicken stock",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "tbsp"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "3",
+            "type": "kg"
+        },
+        {
+            "name": "milk butter salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

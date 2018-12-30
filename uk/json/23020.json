@@ -1,0 +1,21 @@
+{
+    "title": "Yoghurt with Granola and Berries",
+    "ingredients": [
+        {
+            "name": "berry jam",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "granola",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

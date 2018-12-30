@@ -1,0 +1,61 @@
+{
+    "title": "Beef stroganoff",
+    "ingredients": [
+        {
+            "name": "rump steak",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "meat stock sherry",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sour cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garnish parsley",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

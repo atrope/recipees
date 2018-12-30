@@ -1,0 +1,51 @@
+{
+    "title": "Gianduja Chocolate Mascarpone Cheesecake",
+    "ingredients": [
+        {
+            "name": "filo pastry",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "gianduja chocolate",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cooking chocolate",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "mascarpone cheese",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "hazelnut liqueur",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

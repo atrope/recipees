@@ -1,0 +1,21 @@
+{
+    "title": "Rhubarb Sauce",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "rhubarb",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

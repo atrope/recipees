@@ -1,0 +1,41 @@
+{
+    "title": "Rhubarb and orange crumble",
+    "ingredients": [
+        {
+            "name": "rhubarb",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

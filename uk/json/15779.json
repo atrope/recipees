@@ -1,0 +1,46 @@
+{
+    "title": "Pesto alla tagliatelle",
+    "ingredients": [
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tagliatelle",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil pesto",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

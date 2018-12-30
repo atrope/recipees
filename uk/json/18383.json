@@ -1,0 +1,46 @@
+{
+    "title": "Burgundy pork fillet",
+    "ingredients": [
+        {
+            "name": "pork fillet",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "gravy",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

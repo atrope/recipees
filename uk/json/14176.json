@@ -1,0 +1,71 @@
+{
+    "title": "Vegan friendly coleslaw",
+    "ingredients": [
+        {
+            "name": "green cabbage",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "vegetable juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salsa",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

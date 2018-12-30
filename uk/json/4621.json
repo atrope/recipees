@@ -1,0 +1,26 @@
+{
+    "title": "Martini",
+    "ingredients": [
+        {
+            "name": "gin",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green olive",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

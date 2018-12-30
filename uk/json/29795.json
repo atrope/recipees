@@ -1,0 +1,31 @@
+{
+    "title": "Straight pumpkin soup",
+    "ingredients": [
+        {
+            "name": "pumpkin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Sambar",
+    "ingredients": [
+        {
+            "name": "dal yellow lentils",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "tamarind",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "channa dal",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coconut",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard seed",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cumin seed",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "asafoetida",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

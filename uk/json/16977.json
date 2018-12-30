@@ -1,0 +1,41 @@
+{
+    "title": "Pan-Fried Turkey with Mushrooms",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "turkey fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

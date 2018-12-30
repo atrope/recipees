@@ -1,0 +1,36 @@
+{
+    "title": "BBQ Chicken Wings",
+    "ingredients": [
+        {
+            "name": "chicken drumsticks",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "plum sauce",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

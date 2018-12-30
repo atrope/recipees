@@ -1,0 +1,41 @@
+{
+    "title": "Midnight Hour",
+    "ingredients": [
+        {
+            "name": "ice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "115",
+            "type": "ml"
+        },
+        {
+            "name": "rum",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla schnapps",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "triple",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lime wedge",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cocktail cherries",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

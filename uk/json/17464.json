@@ -1,0 +1,46 @@
+{
+    "title": "Pumpkin soup with chestnuts",
+    "ingredients": [
+        {
+            "name": "pumpkin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "chestnut puree",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "cognac",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

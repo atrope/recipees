@@ -1,0 +1,31 @@
+{
+    "title": "Coconut Mithai",
+    "ingredients": [
+        {
+            "name": "coconut",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "jaggery sugar",
+            "quantity": "145",
+            "type": "g"
+        },
+        {
+            "name": "milk powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cardamom",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ghee butter",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

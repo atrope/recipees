@@ -1,0 +1,26 @@
+{
+    "title": "Fried plantain chips",
+    "ingredients": [
+        {
+            "name": "oil frying",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "plantain",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

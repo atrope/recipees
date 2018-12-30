@@ -1,0 +1,41 @@
+{
+    "title": "Original Irish cream liqueur",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "whisky",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "coffee",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "almond",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

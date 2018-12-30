@@ -1,0 +1,61 @@
+{
+    "title": "Ganache brownies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cake flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "225",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

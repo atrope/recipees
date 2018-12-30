@@ -1,0 +1,36 @@
+{
+    "title": "Orange cr\u00e8me caramel",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "oranges",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "orange liqueur",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

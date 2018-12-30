@@ -1,0 +1,16 @@
+{
+    "title": "My amazing meringues",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

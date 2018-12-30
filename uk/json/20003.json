@@ -1,0 +1,46 @@
+{
+    "title": "Easy peasy chicken noodle soup",
+    "ingredients": [
+        {
+            "name": "cream chicken soup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream mushroom soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.25",
+            "type": "-"
+        },
+        {
+            "name": "chicken meat",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "seasoning salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tagliatelle pasta",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

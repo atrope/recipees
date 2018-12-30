@@ -1,0 +1,81 @@
+{
+    "title": "Apple and sultana tarte tatin",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "sultana filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "dessert apples total",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey yogurt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,106 @@
+{
+    "title": "Lamb and barley soup",
+    "ingredients": [
+        {
+            "name": "soup",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "lamb",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "turnip swede",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "barley",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "lamb chicken stock",
+            "quantity": "1.2",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "herb scones",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "chives",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

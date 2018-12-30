@@ -1,0 +1,56 @@
+{
+    "title": "Greek salad with tahini dressing",
+    "ingredients": [
+        {
+            "name": "feta cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "tahini",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "parsley",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

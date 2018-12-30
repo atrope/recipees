@@ -1,0 +1,56 @@
+{
+    "title": "Satay Chicken Skewers",
+    "ingredients": [
+        {
+            "name": "coconut milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yellow curry powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oil",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "skewers water",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "peanut sauce",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

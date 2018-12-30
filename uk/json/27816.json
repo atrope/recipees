@@ -1,0 +1,36 @@
+{
+    "title": "P\u00e3o de queijo (Brazilian cheese bread)",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tapioca flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

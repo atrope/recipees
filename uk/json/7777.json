@@ -1,0 +1,66 @@
+{
+    "title": "Dad's corned beef",
+    "ingredients": [
+        {
+            "name": "beef silverside",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cloves",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1-2",
+            "type": "-"
+        },
+        {
+            "name": "mustard sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour wheat",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "milk",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "juices sauce",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

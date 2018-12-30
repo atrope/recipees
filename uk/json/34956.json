@@ -1,0 +1,41 @@
+{
+    "title": "Aunty Em's tuna and avocado salad",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tuna oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

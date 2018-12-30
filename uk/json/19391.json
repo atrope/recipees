@@ -1,0 +1,56 @@
+{
+    "title": "Super-easy beef lasagne",
+    "ingredients": [
+        {
+            "name": "minced beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "550",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lasagne",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

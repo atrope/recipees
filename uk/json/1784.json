@@ -1,0 +1,31 @@
+{
+    "title": "Lemon and thyme lamb chops",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lamb",
+            "quantity": "12",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

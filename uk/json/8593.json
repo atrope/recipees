@@ -1,0 +1,61 @@
+{
+    "title": "Mediterranean Bruschetta",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "garlic oil bread",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green olives",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mozzarella",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

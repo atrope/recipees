@@ -1,0 +1,26 @@
+{
+    "title": "Gluten free millet flour blend",
+    "ingredients": [
+        {
+            "name": "sorghum flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "rice flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "millet flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "potato starch",
+            "quantity": "300",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

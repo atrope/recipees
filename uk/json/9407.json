@@ -1,0 +1,56 @@
+{
+    "title": "Layered meat and potato pie",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "beef steak",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "pork fillet",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "shortcrust pastry",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

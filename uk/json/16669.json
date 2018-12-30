@@ -1,0 +1,51 @@
+{
+    "title": "Posh fruit skewers with chocolate",
+    "ingredients": [
+        {
+            "name": "cooking chocolate",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "skewers",
+            "quantity": "24",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

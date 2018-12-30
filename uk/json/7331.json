@@ -1,0 +1,31 @@
+{
+    "title": "Mango papaya smoothie",
+    "ingredients": [
+        {
+            "name": "mango",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "papaya",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

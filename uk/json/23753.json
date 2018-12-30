@@ -1,0 +1,36 @@
+{
+    "title": "High Tea Cucumber, Mint & Cream Cheese Sandwich",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "mint jelly",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "margarine butter spread",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "seasoning",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Roast beef with broad beans and mushrooms",
+    "ingredients": [
+        {
+            "name": "beef",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms oysters shiitake",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sherry wine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "meat stock",
+            "quantity": "150-200",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

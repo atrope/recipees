@@ -1,0 +1,36 @@
+{
+    "title": "Honey and garlic slow cooker chicken",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "255",
+            "type": "ml"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "255",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

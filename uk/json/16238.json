@@ -1,0 +1,26 @@
+{
+    "title": "Sponge cupcakes",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "margarine temperature",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "eggs temperature",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Berry ice cream",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "115",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

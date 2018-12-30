@@ -1,0 +1,21 @@
+{
+    "title": "Chocolate cornflake buns",
+    "ingredients": [
+        {
+            "name": "milk chocolate",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cornflakes",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

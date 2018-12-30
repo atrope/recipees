@@ -1,0 +1,51 @@
+{
+    "title": "Pasta with tomatoes, sausage and mushrooms",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pork sausage",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch flakes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "penne pasta",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

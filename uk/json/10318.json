@@ -1,0 +1,21 @@
+{
+    "title": "BBQ Baked Salami",
+    "ingredients": [
+        {
+            "name": "salamis casings",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "barbecue sauce",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

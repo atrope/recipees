@@ -1,0 +1,26 @@
+{
+    "title": "Strawberry melon smoothie",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "cantaloupe melon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

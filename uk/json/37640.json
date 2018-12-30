@@ -1,0 +1,61 @@
+{
+    "title": "Italian pesto lasagne",
+    "ingredients": [
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lasagne",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lasagne",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "basil pesto",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

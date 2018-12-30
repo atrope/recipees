@@ -1,0 +1,36 @@
+{
+    "title": "Cauliflower and Stilton soup",
+    "ingredients": [
+        {
+            "name": "cauliflower",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cheese crumbled",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "130",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

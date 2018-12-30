@@ -1,0 +1,46 @@
+{
+    "title": "Italian Sandwich",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepperoni",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "kale",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ciabatta",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Dairy and egg free pancake",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chickpea flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "gluten flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "oat milk dairy",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Baked squash and maple syrup",
+    "ingredients": [
+        {
+            "name": "squash",
+            "quantity": "6",
+            "type": "kg"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "75",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Energy giving cereal flapjacks",
+    "ingredients": [
+        {
+            "name": "porridge oats",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "nuts",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "cereal",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

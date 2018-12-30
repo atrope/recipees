@@ -1,0 +1,56 @@
+{
+    "title": "Easy beef stew",
+    "ingredients": [
+        {
+            "name": "stewing beef",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "gravy",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "leek",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "turnip",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Delicious Easter nests",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cornflakes",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

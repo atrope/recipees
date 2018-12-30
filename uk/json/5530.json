@@ -1,0 +1,41 @@
+{
+    "title": "Easy one-step spinach lasagne",
+    "ingredients": [
+        {
+            "name": "ricotta cheese",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg lasagne",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "spinach",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

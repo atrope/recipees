@@ -1,0 +1,61 @@
+{
+    "title": "Spinach and Ricotta Ham Rolls",
+    "ingredients": [
+        {
+            "name": "ham",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "185",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch mustard powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream mushroom soup",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

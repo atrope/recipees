@@ -1,0 +1,36 @@
+{
+    "title": "Egg Fried Rice with Cucumber",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "glutamate",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Buttermilk American-style pancakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oil butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk yoghurt milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oil butter frying",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

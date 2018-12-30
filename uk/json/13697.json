@@ -1,0 +1,36 @@
+{
+    "title": "Perfect caramel sauce",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "double cream",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

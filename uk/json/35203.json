@@ -1,0 +1,36 @@
+{
+    "title": "Strawberry, raspberry and banana smoothie",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "banana",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

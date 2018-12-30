@@ -1,0 +1,31 @@
+{
+    "title": "Shakeaway chocolate milkshake",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "46",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "12",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla ice cream",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "600",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

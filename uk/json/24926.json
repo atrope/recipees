@@ -1,0 +1,36 @@
+{
+    "title": "Broccoli and almond soup",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "vegetable bouillon powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "almonds",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

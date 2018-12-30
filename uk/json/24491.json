@@ -1,0 +1,41 @@
+{
+    "title": "Carrot and parsnip soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "parsnip",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "marjoram parsley thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

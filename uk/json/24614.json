@@ -1,0 +1,46 @@
+{
+    "title": "Slow cooker baked beans",
+    "ingredients": [
+        {
+            "name": "beans",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Summer Fruit Crumble",
+    "ingredients": [
+        {
+            "name": "nectarines",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tart plums",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

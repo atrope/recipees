@@ -1,0 +1,51 @@
+{
+    "title": "Blue cheese and cucumber salad",
+    "ingredients": [
+        {
+            "name": "cucumbers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "crumbled cheese",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

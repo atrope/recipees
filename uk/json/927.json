@@ -1,0 +1,51 @@
+{
+    "title": "Barbecued swordfish with rosemary",
+    "ingredients": [
+        {
+            "name": "wine",
+            "quantity": "110",
+            "type": "ml"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "swordfish steaks",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon garnish",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

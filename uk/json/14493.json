@@ -1,0 +1,46 @@
+{
+    "title": "Strawberry and rhubarb tart",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "rhubarb",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

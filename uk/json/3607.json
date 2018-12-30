@@ -1,0 +1,36 @@
+{
+    "title": "Fennel, pea and mint soup",
+    "ingredients": [
+        {
+            "name": "fennel",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "900",
+            "type": "ml"
+        },
+        {
+            "name": "mint",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garnish lettuce herbs chervil mint",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

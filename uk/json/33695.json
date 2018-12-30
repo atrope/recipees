@@ -1,0 +1,61 @@
+{
+    "title": "Goat's cheese and asparagus tart",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "goats cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

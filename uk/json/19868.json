@@ -1,0 +1,36 @@
+{
+    "title": "Orange Sweets",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "525",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

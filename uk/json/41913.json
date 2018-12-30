@@ -1,0 +1,51 @@
+{
+    "title": "Greek green bean salad",
+    "ingredients": [
+        {
+            "name": "green beans",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "shallots minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

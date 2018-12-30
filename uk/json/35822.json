@@ -1,0 +1,41 @@
+{
+    "title": "Carrot 'n turnip soup",
+    "ingredients": [
+        {
+            "name": "oil cooking",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "1lb",
+            "type": "-"
+        },
+        {
+            "name": "turnips",
+            "quantity": "1lb",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "2L",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

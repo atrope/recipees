@@ -1,0 +1,51 @@
+{
+    "title": "Sausage and oyster stuffing",
+    "ingredients": [
+        {
+            "name": "pork",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "bread stuffing",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "oyster",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "turkey stock",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "seasoning",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

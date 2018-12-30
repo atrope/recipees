@@ -1,0 +1,101 @@
+{
+    "title": "Maria's classic paella",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "saffron",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "chicken",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chorizo sausage",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "paella rice",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "sweet paprika",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "clams",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "mussels",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "wedges lemon",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "baguette",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

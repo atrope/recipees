@@ -1,0 +1,51 @@
+{
+    "title": "Warm egg salad",
+    "ingredients": [
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "3-4",
+            "type": "-"
+        },
+        {
+            "name": "carrot vegetable",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green beans",
+            "quantity": "5-8",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Fabulous tomato chutney",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "75",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "775",
+            "type": "g"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

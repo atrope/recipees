@@ -1,0 +1,51 @@
+{
+    "title": "Spaghetti alla puttanesca",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "anchovy fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "capers",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

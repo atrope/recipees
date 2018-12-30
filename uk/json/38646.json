@@ -1,0 +1,26 @@
+{
+    "title": "Strawberry ice-cream",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "marscarpone cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "sprinkles",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

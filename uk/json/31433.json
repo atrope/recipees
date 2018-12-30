@@ -1,0 +1,36 @@
+{
+    "title": "Pan-fried duck breast and noodles",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "duck",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg noodles",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "stirfry vegetables",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "plum sauce",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

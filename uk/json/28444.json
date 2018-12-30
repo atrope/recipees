@@ -1,0 +1,36 @@
+{
+    "title": "Cripsy rice apricot crumble",
+    "ingredients": [
+        {
+            "name": "apricots",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "rice cereal",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

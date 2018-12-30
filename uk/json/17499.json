@@ -1,0 +1,46 @@
+{
+    "title": "Baked Apples with Pecans and Maple Syrup",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "oatmeal",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

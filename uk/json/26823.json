@@ -1,0 +1,81 @@
+{
+    "title": "Chocolate mousse with mango swirls and fruit salad",
+    "ingredients": [
+        {
+            "name": "chocolate mousse",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate cocoa",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "fruit salad",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pink grapefruit",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "5cm",
+            "type": "-"
+        },
+        {
+            "name": "vanilla bean",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mango",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "250m",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "mango",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "agar",
+            "quantity": "5",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

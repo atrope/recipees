@@ -1,0 +1,46 @@
+{
+    "title": "Limoncello and strawberry summer dessert",
+    "ingredients": [
+        {
+            "name": "cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mascarpone cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "organic strawberries",
+            "quantity": "40",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "limoncello",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "savoiardi biscuits sponge fingers",
+            "quantity": "12",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

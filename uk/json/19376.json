@@ -1,0 +1,31 @@
+{
+    "title": "Easy Brownie Bars",
+    "ingredients": [
+        {
+            "name": "chocolate dessert",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate cake",
+            "quantity": "520",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "210",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

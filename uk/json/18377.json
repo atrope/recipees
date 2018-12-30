@@ -1,0 +1,61 @@
+{
+    "title": "Bryce's Barbecue Sauce",
+    "ingredients": [
+        {
+            "name": "lemon juice",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "steak sauce",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "170",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

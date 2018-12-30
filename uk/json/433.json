@@ -1,0 +1,51 @@
+{
+    "title": "Guinness casserole",
+    "ingredients": [
+        {
+            "name": "braising steak",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "beans tomato sauce",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

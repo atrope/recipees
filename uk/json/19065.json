@@ -1,0 +1,66 @@
+{
+    "title": "Beef and turkey meatloaf",
+    "ingredients": [
+        {
+            "name": "minced beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "minced turkey",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "courgette",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "steak sauce",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

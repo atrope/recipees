@@ -1,0 +1,26 @@
+{
+    "title": "Spiked Berry Lemonade",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "citron vodka",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "lemonade",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

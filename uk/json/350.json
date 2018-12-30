@@ -1,0 +1,36 @@
+{
+    "title": "Curried BBQ lamb chops with mint yoghurt",
+    "ingredients": [
+        {
+            "name": "lamb",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "curry paste",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mint garnish",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

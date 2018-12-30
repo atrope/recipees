@@ -1,0 +1,51 @@
+{
+    "title": "Simple Spotted Dick",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "95",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spice",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

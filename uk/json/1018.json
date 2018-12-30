@@ -1,0 +1,26 @@
+{
+    "title": "Sweet and tart strawberry salad",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Poor man's black Russian",
+    "ingredients": [
+        {
+            "name": "ice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vodka",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla cola",
+            "quantity": "115",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

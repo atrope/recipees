@@ -1,0 +1,16 @@
+{
+    "title": "Basic strawberry jam",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "7",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "8",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Marinated BBQ pork belly",
+    "ingredients": [
+        {
+            "name": "pork",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "seasoning paste",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon basil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rock salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

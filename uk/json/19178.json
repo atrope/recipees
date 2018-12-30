@@ -1,0 +1,61 @@
+{
+    "title": "Chicken with Mustard and Tarragon Sauce",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt chicken stock",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tarragon",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

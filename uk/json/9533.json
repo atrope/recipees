@@ -1,0 +1,61 @@
+{
+    "title": "Barbecue Chicken Pizza",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "pizza dough",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "barbecue sauce",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "crumbled cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "1-2",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

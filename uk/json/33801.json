@@ -1,0 +1,41 @@
+{
+    "title": "Baked stuffed mushrooms",
+    "ingredients": [
+        {
+            "name": "chestnut mushrooms",
+            "quantity": "16",
+            "type": "-"
+        },
+        {
+            "name": "stuffing",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

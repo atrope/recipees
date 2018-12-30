@@ -1,0 +1,36 @@
+{
+    "title": "Caprese salad with aged balsamic vinegar",
+    "ingredients": [
+        {
+            "name": "salad tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vinegar glaze",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Pan-fried Chicken with Mushrooms and Blueberries",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "bacon rashers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chestnut mushrooms",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "lemon wedges garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

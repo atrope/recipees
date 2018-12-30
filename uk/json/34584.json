@@ -1,0 +1,51 @@
+{
+    "title": "Slimming World banoffee pie",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sachets gelatine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "quark",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "toffee yoghurt",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

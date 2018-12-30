@@ -1,0 +1,21 @@
+{
+    "title": "Curried Baked Salmon",
+    "ingredients": [
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "curry paste",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fillets salmon",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

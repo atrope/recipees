@@ -1,0 +1,41 @@
+{
+    "title": "Santa cupcakes",
+    "ingredients": [
+        {
+            "name": "cupcakes",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "buttercream icing",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "chocolates",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "candy chocolate",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "coconut",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

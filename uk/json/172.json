@@ -1,0 +1,81 @@
+{
+    "title": "Indian chicken curry",
+    "ingredients": [
+        {
+            "name": "oil",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "masala",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cardamoms",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ginger garlic paste",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "water cooking",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "coriander garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

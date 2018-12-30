@@ -1,0 +1,66 @@
+{
+    "title": "Chicken and avocado soup with lime",
+    "ingredients": [
+        {
+            "name": "tortillas julienned",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "900",
+            "type": "ml"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch coriander",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

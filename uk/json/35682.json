@@ -1,0 +1,51 @@
+{
+    "title": "Healthy chocolate cheesecake",
+    "ingredients": [
+        {
+            "name": "chocolate biscuits",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "flax",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "almond butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "quark",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sachet gelatine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

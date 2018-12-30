@@ -1,0 +1,41 @@
+{
+    "title": "Fresh herb vinaigrette",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard wholegrain",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme tarragon chives",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

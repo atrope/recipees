@@ -1,0 +1,26 @@
+{
+    "title": "Peanut Butter Banana Smoothie",
+    "ingredients": [
+        {
+            "name": "smooth peanut butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla ice cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

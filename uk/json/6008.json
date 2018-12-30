@@ -1,0 +1,96 @@
+{
+    "title": "Julia's easy surprise cake",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "nuts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pumpkin seed",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sunflower seed",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "hazelnuts",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "almonds",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pistachio nuts",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "peanuts",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cashews",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "amaranth seed",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

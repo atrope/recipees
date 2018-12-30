@@ -1,0 +1,51 @@
+{
+    "title": "Cheesy spinach filo pie",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "575",
+            "type": "g"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "filo pastry",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Pizza bianca with pancetta and apple",
+    "ingredients": [
+        {
+            "name": "dough",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "yeast",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "durum semolina",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pancetta bacon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "apple wedges",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

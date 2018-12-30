@@ -1,0 +1,36 @@
+{
+    "title": "My savoury French toast",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "100",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

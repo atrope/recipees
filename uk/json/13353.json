@@ -1,0 +1,96 @@
+{
+    "title": "Panetonne",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fruit pineapple cherries papaya",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "egg temperature",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

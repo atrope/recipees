@@ -1,0 +1,41 @@
+{
+    "title": "Tasty sesame sole",
+    "ingredients": [
+        {
+            "name": "orange juice",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sole fillets fish",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Groovie green vitamin smoothie",
+    "ingredients": [
+        {
+            "name": "kale",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "coconut water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1/3",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Sausage and apple casserole",
+    "ingredients": [
+        {
+            "name": "pork apple sausages",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "onion wedges",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apples wedges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cranberry sauce",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "wholegrain mustard",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

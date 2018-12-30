@@ -1,0 +1,61 @@
+{
+    "title": "Chicken Thai Green Curry",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "green curry paste",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2-3",
+            "type": "tbsp"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "aubergines",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

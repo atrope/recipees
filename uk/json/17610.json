@@ -1,0 +1,51 @@
+{
+    "title": "Chicken Chasseur",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "shallots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

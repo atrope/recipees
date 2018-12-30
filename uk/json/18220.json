@@ -1,0 +1,36 @@
+{
+    "title": "Tomato, basil and vermouth pasta sauce",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "16",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "basil",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

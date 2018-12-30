@@ -1,0 +1,41 @@
+{
+    "title": "Bacon club sandwich",
+    "ingredients": [
+        {
+            "name": "rasher bacon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "toasted bread",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

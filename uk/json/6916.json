@@ -1,0 +1,26 @@
+{
+    "title": "Irish Spritzer",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "amaretto liqueur",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "cream liqueur",
+            "quantity": "30",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

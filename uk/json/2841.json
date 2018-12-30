@@ -1,0 +1,66 @@
+{
+    "title": "Squash and taleggio risotto",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "shallots",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "squash",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "risotto rice",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "chestnut mushrooms",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "taleggio cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rosemary garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Roast Potatoes with Greens",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

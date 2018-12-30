@@ -1,0 +1,46 @@
+{
+    "title": "Simple fish cakes",
+    "ingredients": [
+        {
+            "name": "fish fillets cod tilapia haddock pollock",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fish seasoning",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "buttery crackers",
+            "quantity": "550",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

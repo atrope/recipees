@@ -1,0 +1,36 @@
+{
+    "title": "Garlic mayo chicken wraps",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic mayonnaise",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tortilla",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

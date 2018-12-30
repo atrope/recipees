@@ -1,0 +1,51 @@
+{
+    "title": "Potato tart with tuna, chorizo and black olives",
+    "ingredients": [
+        {
+            "name": "potato pastry basil recipe",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chorizo filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "shallots",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "chorizo sausage",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "tuna water flaked",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

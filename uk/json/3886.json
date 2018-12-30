@@ -1,0 +1,41 @@
+{
+    "title": "Strawberry yoghurt smoothie",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "zest juice orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "garnish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Rua's Drop Scones",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "butter frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter jam honey",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

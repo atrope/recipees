@@ -1,0 +1,26 @@
+{
+    "title": "Strawberry mint sauce",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "330",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "mint",
+            "quantity": "5",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Panna cotta with super strawberry sauce",
+    "ingredients": [
+        {
+            "name": "gelatine",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "mint garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

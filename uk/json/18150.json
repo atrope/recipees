@@ -1,0 +1,76 @@
+{
+    "title": "Cheesy mince pasta bake",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pepperoni",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "tomato juice",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "oregano",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "celery salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "basil",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

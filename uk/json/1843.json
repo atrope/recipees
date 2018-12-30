@@ -1,0 +1,36 @@
+{
+    "title": "Heather's Greek salad",
+    "ingredients": [
+        {
+            "name": "cucumbers",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "crumbled feta cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "olives",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "oil tomatoes",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

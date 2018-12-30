@@ -1,0 +1,41 @@
+{
+    "title": "Mammy's fabulous fruit crumble",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "fruit",
+            "quantity": "450",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

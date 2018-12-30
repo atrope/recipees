@@ -1,0 +1,26 @@
+{
+    "title": "Apple and beetroot salad",
+    "ingredients": [
+        {
+            "name": "beetroot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "creamy salad",
+            "quantity": "175",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

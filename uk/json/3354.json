@@ -1,0 +1,51 @@
+{
+    "title": "Mediterranean roast chicken salad",
+    "ingredients": [
+        {
+            "name": "conchiglie pasta",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "roast chicken meat",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "grapes",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "mint",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "feta cheese",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

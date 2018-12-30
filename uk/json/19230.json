@@ -1,0 +1,36 @@
+{
+    "title": "Easy peasy spag bol",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "cream tomato soup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "600",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

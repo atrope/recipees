@@ -1,0 +1,41 @@
+{
+    "title": "Keema (Indian lamb mince curry)",
+    "ingredients": [
+        {
+            "name": "minced lamb",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "masala",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "180",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

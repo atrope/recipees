@@ -1,0 +1,26 @@
+{
+    "title": "Creamy cauliflower cheese with Dijon",
+    "ingredients": [
+        {
+            "name": "cauliflower",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "mustard",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

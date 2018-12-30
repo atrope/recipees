@@ -1,0 +1,76 @@
+{
+    "title": "Chicken fried rice with egg",
+    "ingredients": [
+        {
+            "name": "grain rice",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "rapeseed oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrot pea",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch onions",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock crumbled",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

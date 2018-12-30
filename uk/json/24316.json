@@ -1,0 +1,41 @@
+{
+    "title": "Marie Rose seafood sauce",
+    "ingredients": [
+        {
+            "name": "mayonnaise",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "brandy",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper paprika",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

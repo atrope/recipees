@@ -1,0 +1,51 @@
+{
+    "title": "Soft cheese and smoked trout wraps",
+    "ingredients": [
+        {
+            "name": "cucumber",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour tortillas",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "chives",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "dill",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "smoked trout fillets flaked",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "bean",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "leaf herb salad",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

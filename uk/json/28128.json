@@ -1,0 +1,21 @@
+{
+    "title": "Mirabelle plum jam",
+    "ingredients": [
+        {
+            "name": "plums",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "jam sugar",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

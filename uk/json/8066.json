@@ -1,0 +1,26 @@
+{
+    "title": "Strawberry preserves",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "White bread (French)",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "312",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

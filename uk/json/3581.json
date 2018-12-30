@@ -1,0 +1,46 @@
+{
+    "title": "Breakfast fruit cocktail",
+    "ingredients": [
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange flower water rosewater",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pink grapefruit",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "papaya",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "garnish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

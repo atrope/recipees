@@ -1,0 +1,36 @@
+{
+    "title": "Super rich chocolate ice cream",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

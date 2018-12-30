@@ -1,0 +1,41 @@
+{
+    "title": "Cheese and Peperami\u00ae muffins",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

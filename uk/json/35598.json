@@ -1,0 +1,51 @@
+{
+    "title": "Tomato, lentil and spinach soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lentils",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "stock chicken vegetable",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "spinach",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

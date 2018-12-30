@@ -1,0 +1,61 @@
+{
+    "title": "Sausage, pepper and potato bake",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sausages",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "green peppers wedges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peppers wedges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions wedges",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

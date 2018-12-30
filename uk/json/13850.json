@@ -1,0 +1,46 @@
+{
+    "title": "Jalapeno relish",
+    "ingredients": [
+        {
+            "name": "pickled",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "cucumber dill",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "tequila",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

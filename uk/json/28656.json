@@ -1,0 +1,66 @@
+{
+    "title": "Pumpkin and carrot soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "raspberry vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

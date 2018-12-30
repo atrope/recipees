@@ -1,0 +1,41 @@
+{
+    "title": "Cheesy Vegetable and Potato Soup",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "315",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "vegetables",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cream chicken soup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

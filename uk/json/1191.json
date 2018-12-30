@@ -1,0 +1,41 @@
+{
+    "title": "Chicken with salsa and lime",
+    "ingredients": [
+        {
+            "name": "salsa",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "dijon mustard",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "lime",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Chilled summer soup starter",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "2.5L",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "leek",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garden peas",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt peper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

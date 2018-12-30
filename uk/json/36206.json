@@ -1,0 +1,31 @@
+{
+    "title": "Simple sourdough loaf",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sourdough",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "275",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "10",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Pesto and ricotta pizza",
+    "ingredients": [
+        {
+            "name": "ricotta cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pizza",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pesto",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

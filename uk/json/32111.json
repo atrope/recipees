@@ -1,0 +1,31 @@
+{
+    "title": "Simple no bake lemon cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

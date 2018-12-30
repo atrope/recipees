@@ -1,0 +1,56 @@
+{
+    "title": "Potato, olive and goat's cheese pie",
+    "ingredients": [
+        {
+            "name": "leeks",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "green olives",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "goats cheese",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "marjoram",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "shortcrust pastry",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

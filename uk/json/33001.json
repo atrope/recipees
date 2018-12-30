@@ -1,0 +1,21 @@
+{
+    "title": "Swiss Chris's chocolate mousse",
+    "ingredients": [
+        {
+            "name": "dessert chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

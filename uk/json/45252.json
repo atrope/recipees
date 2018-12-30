@@ -1,0 +1,56 @@
+{
+    "title": "Braised lamb with plum sauce and broad beans",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lamb loin fillet",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "plum sauce",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "beans",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

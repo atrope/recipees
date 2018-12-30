@@ -1,0 +1,41 @@
+{
+    "title": "Feta spinach pear salad",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "diet drink",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "spinach",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "shallot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "pine nuts toasted",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "raspberry vinaigrette salad",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

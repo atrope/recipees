@@ -1,0 +1,36 @@
+{
+    "title": "Rocky road delight",
+    "ingredients": [
+        {
+            "name": "milk chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

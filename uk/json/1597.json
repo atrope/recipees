@@ -1,0 +1,36 @@
+{
+    "title": "Greek Pork Fillets",
+    "ingredients": [
+        {
+            "name": "lemon juice",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "pork fillets",
+            "quantity": "900",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

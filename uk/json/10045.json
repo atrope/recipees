@@ -1,0 +1,26 @@
+{
+    "title": "Chocolate and Guinness\u00ae ice cream",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "cooking chocolate",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "stout",
+            "quantity": "475",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

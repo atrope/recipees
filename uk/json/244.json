@@ -1,0 +1,36 @@
+{
+    "title": "Mozzarella chicken in tomato cream sauce",
+    "ingredients": [
+        {
+            "name": "mozzarella",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper pasta sauce",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

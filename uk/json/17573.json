@@ -1,0 +1,76 @@
+{
+    "title": "Tomato soup with vegetables",
+    "ingredients": [
+        {
+            "name": "butter olive oil",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetables green beans asparagus broccoli cabbage mushrooms parsnips carrots spinach",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock boiling water",
+            "quantity": "900",
+            "type": "ml"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rosemary thyme basil parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beans chickpeas butter kidney",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

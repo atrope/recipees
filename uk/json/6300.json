@@ -1,0 +1,36 @@
+{
+    "title": "Hot Spiced Punch",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "tea",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "rum",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

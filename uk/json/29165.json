@@ -1,0 +1,21 @@
+{
+    "title": "Strawberry shake",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "strawberry ice cream",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

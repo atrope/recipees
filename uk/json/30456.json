@@ -1,0 +1,31 @@
+{
+    "title": "Quick chocolate truffles",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "chocolate vermicelli",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

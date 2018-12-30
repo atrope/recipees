@@ -1,0 +1,36 @@
+{
+    "title": "Sesame and sunflower seed flapjacks",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "sesame",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

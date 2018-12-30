@@ -1,0 +1,61 @@
+{
+    "title": "Tahini rolls",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "8",
+            "type": "g"
+        },
+        {
+            "name": "cooking oil",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tahini",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "honey glaze",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

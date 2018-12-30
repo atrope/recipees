@@ -1,0 +1,21 @@
+{
+    "title": "Apple and chocolate pop bites",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "25",
+            "type": "-"
+        },
+        {
+            "name": "nuts sprinkles popcorn",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

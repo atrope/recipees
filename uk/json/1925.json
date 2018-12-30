@@ -1,0 +1,31 @@
+{
+    "title": "Mushy peas",
+    "ingredients": [
+        {
+            "name": "peas",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

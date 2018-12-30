@@ -1,0 +1,31 @@
+{
+    "title": "Prawn and pineapple salad",
+    "ingredients": [
+        {
+            "name": "prawns",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

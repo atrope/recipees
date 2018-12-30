@@ -1,0 +1,26 @@
+{
+    "title": "Easy strawberry jam",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "sachet pectin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "180",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

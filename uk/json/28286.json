@@ -1,0 +1,61 @@
+{
+    "title": "Vegetarian pasta salad with rocket",
+    "ingredients": [
+        {
+            "name": "farfalle pasta",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Dead easy cottage pie",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "coconut oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "beef mince",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "cream milk",
+            "quantity": "25",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

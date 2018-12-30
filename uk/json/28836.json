@@ -1,0 +1,41 @@
+{
+    "title": "Bruschetta with olives and cherry tomatoes",
+    "ingredients": [
+        {
+            "name": "cherry tomatoes",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "green olives",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

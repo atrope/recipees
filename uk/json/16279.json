@@ -1,0 +1,31 @@
+{
+    "title": "Easy sausage, potato and bean casserole",
+    "ingredients": [
+        {
+            "name": "sausages",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "baking potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Spicy Pumpkin Soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin puree",
+            "quantity": "825",
+            "type": "g"
+        },
+        {
+            "name": "chipotle adobo sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "sofrito",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

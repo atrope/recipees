@@ -1,0 +1,61 @@
+{
+    "title": "Tomato and red rice soup",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "shallots",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oregano basil",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "frache",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "basil oregano",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

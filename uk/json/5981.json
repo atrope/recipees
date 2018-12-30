@@ -1,0 +1,41 @@
+{
+    "title": "Potatoes Hamilton",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garlic salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "saffron",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cheese",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

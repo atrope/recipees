@@ -1,0 +1,56 @@
+{
+    "title": "Weetabix biscuits",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "oats",
+            "quantity": "10",
+            "type": "tbsp"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "5",
+            "type": "tbsp"
+        },
+        {
+            "name": "apricots",
+            "quantity": "10",
+            "type": "tbsp"
+        },
+        {
+            "name": "margarine",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

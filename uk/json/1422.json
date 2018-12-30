@@ -1,0 +1,26 @@
+{
+    "title": "Easy salsa cod",
+    "ingredients": [
+        {
+            "name": "cod fillets",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "tomato salsa",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "parsley",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

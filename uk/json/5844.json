@@ -1,0 +1,26 @@
+{
+    "title": "Zesty pineapple and kiwi salad",
+    "ingredients": [
+        {
+            "name": "pineapple",
+            "quantity": "410",
+            "type": "g"
+        },
+        {
+            "name": "fruit",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lychees",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "lime",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

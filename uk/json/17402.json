@@ -1,0 +1,86 @@
+{
+    "title": "Fruit cake",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "apricots",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "peel",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": "115",
+            "type": "ml"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

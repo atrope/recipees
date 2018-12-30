@@ -1,0 +1,66 @@
+{
+    "title": "Lentil meatloaf",
+    "ingredients": [
+        {
+            "name": "lentils",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic puree",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

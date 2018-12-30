@@ -1,0 +1,66 @@
+{
+    "title": "Parmesan Rice with Peppers and Spinach",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "spinach",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "garlic salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "savoury salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinaigrette salad",
+            "quantity": "230",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

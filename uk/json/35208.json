@@ -1,0 +1,31 @@
+{
+    "title": "Potato cakes with leeks",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potato",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "85",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

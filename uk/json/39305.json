@@ -1,0 +1,46 @@
+{
+    "title": "Gran's chocolate biscuit cake",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

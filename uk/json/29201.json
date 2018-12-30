@@ -1,0 +1,61 @@
+{
+    "title": "Indian chutney",
+    "ingredients": [
+        {
+            "name": "cooking apples",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "malt vinegar",
+            "quantity": "580",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

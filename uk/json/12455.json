@@ -1,0 +1,41 @@
+{
+    "title": "Beer BBQ Sauce",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "beer",
+            "quantity": "110",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

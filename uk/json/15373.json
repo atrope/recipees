@@ -1,0 +1,71 @@
+{
+    "title": "Texas hurricane cocktail",
+    "ingredients": [
+        {
+            "name": "ice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coconut rum",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vodka",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "gin",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "triple orange liqueur",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cocktail cherry",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

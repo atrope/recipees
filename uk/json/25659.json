@@ -1,0 +1,51 @@
+{
+    "title": "Lemon and raspberry cupcakes",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "lemon curd",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

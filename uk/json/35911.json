@@ -1,0 +1,26 @@
+{
+    "title": "My ginger shortbread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Easy mushroom risotto for one",
+    "ingredients": [
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "mushroom sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "steam vegetables",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

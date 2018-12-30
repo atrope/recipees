@@ -1,0 +1,56 @@
+{
+    "title": "Four cheese and tomato pasta bake",
+    "ingredients": [
+        {
+            "name": "macaroni pasta",
+            "quantity": "315",
+            "type": "g"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "seasoning",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "205",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "crumbled feta cheese",
+            "quantity": "65",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Broccoli and Garlic Side Dish",
+    "ingredients": [
+        {
+            "name": "broccoli",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

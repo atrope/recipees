@@ -1,0 +1,31 @@
+{
+    "title": "Oaty Cereal Squares",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "toasted oat cereal",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

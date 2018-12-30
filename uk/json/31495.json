@@ -1,0 +1,31 @@
+{
+    "title": "Plain chocolate truffles",
+    "ingredients": [
+        {
+            "name": "mascarpone cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Parmesan and garlic prawns with pasta",
+    "ingredients": [
+        {
+            "name": "vermicelli pasta",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cloves minced garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cheese",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

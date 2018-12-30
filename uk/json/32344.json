@@ -1,0 +1,21 @@
+{
+    "title": "Lemon jelly",
+    "ingredients": [
+        {
+            "name": "lemons",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1.8",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1.5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

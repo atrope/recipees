@@ -1,0 +1,71 @@
+{
+    "title": "Curried rice salad",
+    "ingredients": [
+        {
+            "name": "grain rice",
+            "quantity": "550",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cauliflower",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

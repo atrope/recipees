@@ -1,0 +1,36 @@
+{
+    "title": "Tasty fruit scones",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "255",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

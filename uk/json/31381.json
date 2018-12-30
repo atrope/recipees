@@ -1,0 +1,26 @@
+{
+    "title": "Apple sauce with cardamom",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cardamom",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

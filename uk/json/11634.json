@@ -1,0 +1,36 @@
+{
+    "title": "Superb smoked salmon spread",
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

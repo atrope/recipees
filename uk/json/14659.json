@@ -1,0 +1,51 @@
+{
+    "title": "Quick and easy jambalaya",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken meat",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sausage casings",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "rice",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "prawns",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Ultimate prawn cocktail",
+    "ingredients": [
+        {
+            "name": "lettuce",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch cayenne pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cocktail sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Chicken and bacon tortilla wraps",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "aniseseed",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salad",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter oil frying",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "tortilla",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

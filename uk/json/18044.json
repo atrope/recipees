@@ -1,0 +1,36 @@
+{
+    "title": "Banana Chimichangas",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "bananas",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "spiced rum",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour tortillas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

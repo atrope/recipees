@@ -1,0 +1,21 @@
+{
+    "title": "Easy peasy strawberry jam",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

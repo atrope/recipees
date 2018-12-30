@@ -1,0 +1,61 @@
+{
+    "title": "Tropical banana loaf cake",
+    "ingredients": [
+        {
+            "name": "coconut oil",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "toasted coconut flakes",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

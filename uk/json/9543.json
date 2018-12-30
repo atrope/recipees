@@ -1,0 +1,46 @@
+{
+    "title": "One-pot chicken and tomato pasta",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pasta",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "spinach",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

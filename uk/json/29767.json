@@ -1,0 +1,51 @@
+{
+    "title": "Delicious pumpkin scones",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sultanas",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

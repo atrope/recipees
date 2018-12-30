@@ -1,0 +1,36 @@
+{
+    "title": "Bread machine pizza dough",
+    "ingredients": [
+        {
+            "name": "beer",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "310",
+            "type": "g"
+        },
+        {
+            "name": "yeast",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Devilled eggs with mushrooms",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cumin curry powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

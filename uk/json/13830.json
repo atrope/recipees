@@ -1,0 +1,51 @@
+{
+    "title": "Chicken Vegetable and Rice Soup",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "1.2",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "415",
+            "type": "ml"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Egg-free carrot cake",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "carrots",
+            "quantity": "230",
+            "type": "g"
+        },
+        {
+            "name": "walnuts sultanas",
+            "quantity": "180",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

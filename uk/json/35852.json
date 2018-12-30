@@ -1,0 +1,36 @@
+{
+    "title": "Quick beetroot chutney",
+    "ingredients": [
+        {
+            "name": "beetroot",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "cooking apples",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "malt vinegar",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

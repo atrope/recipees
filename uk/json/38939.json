@@ -1,0 +1,71 @@
+{
+    "title": "Banana and oat chocolate brownies",
+    "ingredients": [
+        {
+            "name": "cooking porridge oats",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "145",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "apple sauce",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

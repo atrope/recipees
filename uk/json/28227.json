@@ -1,0 +1,61 @@
+{
+    "title": "Seafood couscous salad",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "270",
+            "type": "ml"
+        },
+        {
+            "name": "fish stock flavour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wholegrain couscous",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "leek",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "seafood surimi",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "dill",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

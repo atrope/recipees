@@ -1,0 +1,41 @@
+{
+    "title": "Fruity Green Punch",
+    "ingredients": [
+        {
+            "name": "lime tablet jelly",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "1.25",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "675",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger ale",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

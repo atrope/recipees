@@ -1,0 +1,71 @@
+{
+    "title": "Chicken Stew with Dumplings",
+    "ingredients": [
+        {
+            "name": "cream chicken soup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "celery",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken seasoning",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "dumpling",
+            "quantity": "360",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "325",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

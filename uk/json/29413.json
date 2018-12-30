@@ -1,0 +1,56 @@
+{
+    "title": "Mary's hot cross buns",
+    "ingredients": [
+        {
+            "name": "baking yeast",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": "2/3",
+            "type": "teaspoon"
+        },
+        {
+            "name": "peel",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Sauerkraut relish",
+    "ingredients": [
+        {
+            "name": "sauerkraut",
+            "quantity": "550",
+            "type": "g"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

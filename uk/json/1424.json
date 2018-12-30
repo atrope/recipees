@@ -1,0 +1,26 @@
+{
+    "title": "Easy scones",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

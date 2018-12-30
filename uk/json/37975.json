@@ -1,0 +1,56 @@
+{
+    "title": "Greek salad couscous",
+    "ingredients": [
+        {
+            "name": "couscous",
+            "quantity": "780",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "45",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "crumbled feta",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

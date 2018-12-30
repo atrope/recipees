@@ -1,0 +1,41 @@
+{
+    "title": "Brown rice with sunflower seeds and courgette",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

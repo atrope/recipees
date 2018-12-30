@@ -1,0 +1,26 @@
+{
+    "title": "BBQ Ribs",
+    "ingredients": [
+        {
+            "name": "pork ribs",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

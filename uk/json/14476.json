@@ -1,0 +1,31 @@
+{
+    "title": "Luscious lynchburg lemonade",
+    "ingredients": [
+        {
+            "name": "ice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "whisky",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sweet sour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "triple liqueur",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "drink",
+            "quantity": "175",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

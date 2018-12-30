@@ -1,0 +1,31 @@
+{
+    "title": "Pots de Cr\u00e8me au Chocolat",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cooking chocolate",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "coffee espresso",
+            "quantity": "110",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

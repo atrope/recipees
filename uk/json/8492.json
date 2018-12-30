@@ -1,0 +1,26 @@
+{
+    "title": "Peanut Butter Fudge",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "marshmallow",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "smooth peanut butter",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

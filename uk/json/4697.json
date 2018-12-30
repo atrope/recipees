@@ -1,0 +1,36 @@
+{
+    "title": "Easy three cheese pasta bake",
+    "ingredients": [
+        {
+            "name": "rigatoni penne pasta",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

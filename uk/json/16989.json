@@ -1,0 +1,36 @@
+{
+    "title": "Butternut squash and sweet potato soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweet potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "squash",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "900",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Tropical mango cheesecake",
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "biscuit",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mango juice",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "325",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

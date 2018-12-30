@@ -1,0 +1,51 @@
+{
+    "title": "Deluxe Tuna Salad",
+    "ingredients": [
+        {
+            "name": "tuna water flaked",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green olives",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "capers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Winter greens salad with walnuts and feta",
+    "ingredients": [
+        {
+            "name": "bunch chard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch kale",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "feta",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "walnut",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

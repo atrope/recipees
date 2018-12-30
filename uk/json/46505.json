@@ -1,0 +1,31 @@
+{
+    "title": "Blueberry and pineapple fruit salad",
+    "ingredients": [
+        {
+            "name": "pineapple juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lime zest",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

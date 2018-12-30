@@ -1,0 +1,46 @@
+{
+    "title": "Banana fritters in coconut batter",
+    "ingredients": [
+        {
+            "name": "rice flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "sesame",
+            "quantity": "1\u00bc",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "bananas",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

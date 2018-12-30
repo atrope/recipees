@@ -1,0 +1,46 @@
+{
+    "title": "Fruit and nut mix",
+    "ingredients": [
+        {
+            "name": "almonds",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "goji",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

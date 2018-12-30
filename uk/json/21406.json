@@ -1,0 +1,41 @@
+{
+    "title": "Mince and mozzarella pasta bake",
+    "ingredients": [
+        {
+            "name": "penne pasta",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "mince",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pasta sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "335",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

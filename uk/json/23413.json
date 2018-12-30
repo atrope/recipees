@@ -1,0 +1,56 @@
+{
+    "title": "Ronnie's chicken and couscous salad",
+    "ingredients": [
+        {
+            "name": "couscous",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic herb salad",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

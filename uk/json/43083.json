@@ -1,0 +1,46 @@
+{
+    "title": "Mashed potatoes and celeriac",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "25",
+            "type": "kg"
+        },
+        {
+            "name": "celeriac",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "almond milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "minced chives",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

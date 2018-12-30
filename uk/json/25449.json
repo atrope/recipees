@@ -1,0 +1,46 @@
+{
+    "title": "Spicy breaded chicken pieces",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "semolina",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

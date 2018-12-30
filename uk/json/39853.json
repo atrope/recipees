@@ -1,0 +1,66 @@
+{
+    "title": "Chocolate fudge cake with chocolate ganache",
+    "ingredients": [
+        {
+            "name": "cake",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar caster",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate ganache",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate cocoa",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "alcohol wine whisky brandy",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

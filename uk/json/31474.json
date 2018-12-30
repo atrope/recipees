@@ -1,0 +1,31 @@
+{
+    "title": "Mini potato canapes baked on salt",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "rock salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "cod salmon roe",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

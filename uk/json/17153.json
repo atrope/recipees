@@ -1,0 +1,46 @@
+{
+    "title": "Celery, Apricot and Walnut Stuffing",
+    "ingredients": [
+        {
+            "name": "apricots",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs bread",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

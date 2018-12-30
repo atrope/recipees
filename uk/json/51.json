@@ -1,0 +1,91 @@
+{
+    "title": "Steak and three mushroom pie",
+    "ingredients": [
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "steak",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "oyster mushrooms",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "shortcrust pastry recipe pie",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg milk",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

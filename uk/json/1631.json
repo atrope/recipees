@@ -1,0 +1,36 @@
+{
+    "title": "Halloween witches brew",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cranberry juice",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "gelatine",
+            "quantity": "14",
+            "type": "g"
+        },
+        {
+            "name": "ginger ale",
+            "quantity": "2L",
+            "type": "-"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "2L",
+            "type": "-"
+        },
+        {
+            "name": "snakes",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

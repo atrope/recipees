@@ -1,0 +1,36 @@
+{
+    "title": "Tender Chicken Skewers",
+    "ingredients": [
+        {
+            "name": "yoghurt",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

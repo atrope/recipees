@@ -1,0 +1,21 @@
+{
+    "title": "Gooseberry Jam",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "kg"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "3",
+            "type": "kg"
+        },
+        {
+            "name": "pectin",
+            "quantity": "75",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

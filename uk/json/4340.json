@@ -1,0 +1,41 @@
+{
+    "title": "Chicken Tikka with Mushrooms and Peppers",
+    "ingredients": [
+        {
+            "name": "chicken total",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "tandoori spice",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "550",
+            "type": "g"
+        },
+        {
+            "name": "green peppers",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "lemon wedges garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

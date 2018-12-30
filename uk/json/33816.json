@@ -1,0 +1,51 @@
+{
+    "title": "Pork meatloaf",
+    "ingredients": [
+        {
+            "name": "minced pork",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "smoked bacon",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "apples minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

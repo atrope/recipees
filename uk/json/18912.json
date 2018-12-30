@@ -1,0 +1,51 @@
+{
+    "title": "Spiced Bread Pudding",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch cloves",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bread toasted",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "170",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

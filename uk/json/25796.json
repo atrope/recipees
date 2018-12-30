@@ -1,0 +1,41 @@
+{
+    "title": "Mum's beef in ale in the slow cooker",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "stewing beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "gravy",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ale",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

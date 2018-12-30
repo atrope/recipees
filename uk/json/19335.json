@@ -1,0 +1,51 @@
+{
+    "title": "Yeasted Corn Bread",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "480",
+            "type": "g"
+        },
+        {
+            "name": "polenta cornmeal",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Poppy Seed Swirl Bread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "sachets baking yeast",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "poppy",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

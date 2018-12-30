@@ -1,0 +1,66 @@
+{
+    "title": "Chicken curry with apricots",
+    "ingredients": [
+        {
+            "name": "apricots",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chickens",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "3-4",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "2-3",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "powder",
+            "quantity": "1\u00bc",
+            "type": "teaspoon"
+        },
+        {
+            "name": "turmeric",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cardamom",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

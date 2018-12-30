@@ -1,0 +1,51 @@
+{
+    "title": "Plum sponge pudding",
+    "ingredients": [
+        {
+            "name": "plums syrup fruit",
+            "quantity": "570",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "baking powder flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "almonds",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

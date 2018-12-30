@@ -1,0 +1,91 @@
+{
+    "title": "Red lentil curry",
+    "ingredients": [
+        {
+            "name": "basmati rice",
+            "quantity": "185",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1.7L",
+            "type": "-"
+        },
+        {
+            "name": "lentils",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

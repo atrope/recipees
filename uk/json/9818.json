@@ -1,0 +1,46 @@
+{
+    "title": "Tomato Chicken and Vegetables",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "vegetables",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

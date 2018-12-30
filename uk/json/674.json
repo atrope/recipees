@@ -1,0 +1,61 @@
+{
+    "title": "Ultimate triple chocolate muffins",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "365",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

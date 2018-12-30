@@ -1,0 +1,66 @@
+{
+    "title": "Quick cinnamon rolls",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "yeast",
+            "quantity": "7",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "sultanas raisins",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

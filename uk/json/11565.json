@@ -1,0 +1,36 @@
+{
+    "title": "Sweet Sake Salmon",
+    "ingredients": [
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sake",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mirin rice wine",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salmon fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

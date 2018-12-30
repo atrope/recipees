@@ -1,0 +1,31 @@
+{
+    "title": "Jill's strawberry ice cream",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

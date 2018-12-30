@@ -1,0 +1,36 @@
+{
+    "title": "Rhubarb fool",
+    "ingredients": [
+        {
+            "name": "rhubarb",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

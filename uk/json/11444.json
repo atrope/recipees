@@ -1,0 +1,51 @@
+{
+    "title": "Puerto rican meat parcels",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "coriander",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "wonton",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

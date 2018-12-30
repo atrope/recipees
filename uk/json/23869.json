@@ -1,0 +1,46 @@
+{
+    "title": "Chicken pesto pasta",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pesto sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

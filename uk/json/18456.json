@@ -1,0 +1,36 @@
+{
+    "title": "Avocado and mushroom toastie",
+    "ingredients": [
+        {
+            "name": "bread toasted",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flaked almonds toasted",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

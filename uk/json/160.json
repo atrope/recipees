@@ -1,0 +1,91 @@
+{
+    "title": "Veggie Cobbler",
+    "ingredients": [
+        {
+            "name": "bulb garlic",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "swede",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sweet potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cauliflower",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "stock water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "cheese",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

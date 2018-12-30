@@ -1,0 +1,36 @@
+{
+    "title": "Pickled jalapeno chilli peppers",
+    "ingredients": [
+        {
+            "name": "vinegar",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

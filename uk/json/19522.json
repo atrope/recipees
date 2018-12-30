@@ -1,0 +1,41 @@
+{
+    "title": "Fresh Parmesan fettuccine",
+    "ingredients": [
+        {
+            "name": "fettuccine pasta",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

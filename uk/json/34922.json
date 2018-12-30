@@ -1,0 +1,46 @@
+{
+    "title": "Chocolatey biscuit fridge cake",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

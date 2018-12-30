@@ -1,0 +1,31 @@
+{
+    "title": "Garlic and herb salmon",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "chives",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salmon fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "garlic herb cream cheese",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

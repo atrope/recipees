@@ -1,0 +1,46 @@
+{
+    "title": "Tomato and red pepper soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "55",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

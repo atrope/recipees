@@ -1,0 +1,41 @@
+{
+    "title": "Barbecue Chicken Quesadillas",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "barbecue sauce",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour tortillas",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Chilli Penne with Butternut Squash",
+    "ingredients": [
+        {
+            "name": "penne",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "squash",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "goats cheese crumbled",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

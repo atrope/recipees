@@ -1,0 +1,36 @@
+{
+    "title": "Gran's Easy Greek Chicken",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cream chicken soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine water chicken stock",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

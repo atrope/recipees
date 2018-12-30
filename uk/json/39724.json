@@ -1,0 +1,36 @@
+{
+    "title": "Lamb kebabs",
+    "ingredients": [
+        {
+            "name": "lamb fillet",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppers green yellow",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "mint sauce",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "breads",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Red lentil soup with a kick",
+    "ingredients": [
+        {
+            "name": "olive oil bran",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "leek",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lentils",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "powder",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.5L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

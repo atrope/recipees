@@ -1,0 +1,86 @@
+{
+    "title": "Best Baked Jambalaya",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "seasoning",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.7",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "smoked sausage",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "prawns",
+            "quantity": "385",
+            "type": "g"
+        },
+        {
+            "name": "rice",
+            "quantity": "750",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

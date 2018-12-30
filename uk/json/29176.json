@@ -1,0 +1,26 @@
+{
+    "title": "3 ingredient peanut butter cookies",
+    "ingredients": [
+        {
+            "name": "peanut butter smooth",
+            "quantity": "260",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Mascarpone dates",
+    "ingredients": [
+        {
+            "name": "mascarpone cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "horseradish",
+            "quantity": "2-3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

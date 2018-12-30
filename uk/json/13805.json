@@ -1,0 +1,66 @@
+{
+    "title": "Cheesy chicken pasta bake",
+    "ingredients": [
+        {
+            "name": "fusilli pasta",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "35",
+            "type": "kg"
+        },
+        {
+            "name": "wine",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

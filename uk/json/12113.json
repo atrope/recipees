@@ -1,0 +1,41 @@
+{
+    "title": "Lemon chicken pasta salad",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "9",
+            "type": "kg"
+        },
+        {
+            "name": "celery",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "penne pasta",
+            "quantity": "25",
+            "type": "kg"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "lemons zest",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "dill",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Dorset apple cake",
+    "ingredients": [
+        {
+            "name": "margarine butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "apple",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

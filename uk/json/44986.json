@@ -1,0 +1,51 @@
+{
+    "title": "Pumpkin-shaped wholemeal bread rolls",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "yeast",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "herbs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pecans",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

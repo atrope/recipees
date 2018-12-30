@@ -1,0 +1,46 @@
+{
+    "title": "Heavenly devilled eggs",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "paprika",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Sam's Apple Crumble",
+    "ingredients": [
+        {
+            "name": "cooking apples",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Raspberry and chocolate tart",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "cooking chocolate",
+            "quantity": "145",
+            "type": "g"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

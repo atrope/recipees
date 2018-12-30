@@ -1,0 +1,51 @@
+{
+    "title": "Raisin bread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "360",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "260",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "raisins",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

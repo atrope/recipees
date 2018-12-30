@@ -1,0 +1,76 @@
+{
+    "title": "Perfect cannoli",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "margarine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "oil frying",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "peel",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

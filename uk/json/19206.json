@@ -1,0 +1,61 @@
+{
+    "title": "Wholemeal Rye Bread",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "320",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "135",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "rye flour",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "yeast",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cereal",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

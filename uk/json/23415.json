@@ -1,0 +1,51 @@
+{
+    "title": "Chicken risotto",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "smoked lardons",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken fillet",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "risotto rice",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "375",
+            "type": "ml"
+        },
+        {
+            "name": "pecorino",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Cucumber salad with borage flowers",
+    "ingredients": [
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "borage minced",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "borage flowers",
+            "quantity": "12",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

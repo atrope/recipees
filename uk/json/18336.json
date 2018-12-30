@@ -1,0 +1,36 @@
+{
+    "title": "Brandy or rum balls",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "brandy rum",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla almond biscuits",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

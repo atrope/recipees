@@ -1,0 +1,51 @@
+{
+    "title": "Mona's fruit cake",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fruit",
+            "quantity": "525",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

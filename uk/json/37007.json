@@ -1,0 +1,56 @@
+{
+    "title": "Poochie meat cakes",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "710",
+            "type": "ml"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beef mince",
+            "quantity": "7",
+            "type": "kg"
+        },
+        {
+            "name": "eggs",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "oats",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

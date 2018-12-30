@@ -1,0 +1,46 @@
+{
+    "title": "Savoury rhubarb and ginger jam",
+    "ingredients": [
+        {
+            "name": "rhubarb",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "shallots minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

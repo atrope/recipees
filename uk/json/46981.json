@@ -1,0 +1,51 @@
+{
+    "title": "Pomegranate tequila cocktail",
+    "ingredients": [
+        {
+            "name": "smoked salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime wedges",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tequila",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "20",
+            "type": "ml"
+        },
+        {
+            "name": "mezcal",
+            "quantity": "20",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "pomegranate syrup",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

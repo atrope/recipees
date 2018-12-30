@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate Chip Peanut Butter Cookies",
+    "ingredients": [
+        {
+            "name": "peanut butter smooth",
+            "quantity": "260",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

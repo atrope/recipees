@@ -1,0 +1,21 @@
+{
+    "title": "Delicious lemonade",
+    "ingredients": [
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "600",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

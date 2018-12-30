@@ -1,0 +1,46 @@
+{
+    "title": "Bacon, Prawn and Sweetcorn Chowder",
+    "ingredients": [
+        {
+            "name": "cream corn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream chicken soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "crumbled bacon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "prawns",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

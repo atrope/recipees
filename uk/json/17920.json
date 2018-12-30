@@ -1,0 +1,56 @@
+{
+    "title": "Turkey and Avocado Sandwich",
+    "ingredients": [
+        {
+            "name": "bread toasted",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "smoked turkey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "guacamole",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salad greens",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "alfalfa",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "tomato",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

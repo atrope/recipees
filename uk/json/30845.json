@@ -1,0 +1,46 @@
+{
+    "title": "Top of the range kedgeree",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "grain rice",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "smoked salmon flaked",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry paste",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

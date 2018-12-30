@@ -1,0 +1,41 @@
+{
+    "title": "Orange Juice Tzimmes",
+    "ingredients": [
+        {
+            "name": "carrots",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "prunes",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

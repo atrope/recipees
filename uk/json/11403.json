@@ -1,0 +1,41 @@
+{
+    "title": "Sweet cured pork",
+    "ingredients": [
+        {
+            "name": "pork",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "garlic salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curing salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cooking oil",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

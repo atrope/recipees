@@ -1,0 +1,71 @@
+{
+    "title": "Beef and vegetable pie",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "mince beef",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "herbs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "suet",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "baking",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "2-3",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

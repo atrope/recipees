@@ -1,0 +1,46 @@
+{
+    "title": "Buttermilk pikelets",
+    "ingredients": [
+        {
+            "name": "buttermilk",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "oil cooking",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "My Nana's stew",
+    "ingredients": [
+        {
+            "name": "minced beef",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peas sweetcorn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "gravy",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "dumpling",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

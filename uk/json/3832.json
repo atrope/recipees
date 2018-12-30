@@ -1,0 +1,46 @@
+{
+    "title": "Barbecued fruit",
+    "ingredients": [
+        {
+            "name": "zest lemon juice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "honey sugar",
+            "quantity": "2-3",
+            "type": "-"
+        },
+        {
+            "name": "bitters",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

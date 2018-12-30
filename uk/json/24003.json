@@ -1,0 +1,41 @@
+{
+    "title": "Cheese and garlic stuffed mushrooms",
+    "ingredients": [
+        {
+            "name": "mushrooms",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "270",
+            "type": "g"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

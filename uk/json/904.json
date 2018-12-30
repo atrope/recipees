@@ -1,0 +1,46 @@
+{
+    "title": "Barbecued Chicken Adobo",
+    "ingredients": [
+        {
+            "name": "sauce",
+            "quantity": "340",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "340",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken",
+            "quantity": "5",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

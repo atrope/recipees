@@ -1,0 +1,26 @@
+{
+    "title": "Spelt pasta",
+    "ingredients": [
+        {
+            "name": "spelt flour",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

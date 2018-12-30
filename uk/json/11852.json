@@ -1,0 +1,46 @@
+{
+    "title": "Easy Vanilla Ice Cream",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "675",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla dessert",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "950",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

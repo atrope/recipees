@@ -1,0 +1,41 @@
+{
+    "title": "Spaghetti with Garlic, Parsley and Chilli",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bunch parsley",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

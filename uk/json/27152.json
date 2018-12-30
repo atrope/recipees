@@ -1,0 +1,36 @@
+{
+    "title": "Cheese caraway biscuits",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caraway garnish",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Simple banana dessert",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cake",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

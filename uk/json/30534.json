@@ -1,0 +1,21 @@
+{
+    "title": "Frozen nutty nana's",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "creamy peanut butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla yoghurt",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

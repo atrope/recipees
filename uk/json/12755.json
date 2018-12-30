@@ -1,0 +1,51 @@
+{
+    "title": "Courgette Bran Muffins",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "wheat bran",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "courgette",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "poppy",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

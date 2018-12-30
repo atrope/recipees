@@ -1,0 +1,56 @@
+{
+    "title": "Seafood enchiladas",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "pinch powder",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "seafood",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "flour corn tortillas",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "pickled",
+            "quantity": "2",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

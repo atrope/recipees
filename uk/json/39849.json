@@ -1,0 +1,26 @@
+{
+    "title": "Strawberry frozen yogurt",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

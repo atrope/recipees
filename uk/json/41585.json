@@ -1,0 +1,31 @@
+{
+    "title": "Pesto puff pastry swirls",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "230",
+            "type": "g"
+        },
+        {
+            "name": "pesto",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

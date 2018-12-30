@@ -1,0 +1,21 @@
+{
+    "title": "Mac and cheese in tomato juice",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomato juice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

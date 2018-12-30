@@ -1,0 +1,21 @@
+{
+    "title": "Jade's chocolate mousse",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "140",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

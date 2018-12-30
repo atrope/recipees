@@ -1,0 +1,46 @@
+{
+    "title": "Pineapple and black cherry cheesecake",
+    "ingredients": [
+        {
+            "name": "pineapple jelly",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "dream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "cherry filling",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Paradise traybake cake",
+    "ingredients": [
+        {
+            "name": "cooking chocolate",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Kimchi fried rice",
+    "ingredients": [
+        {
+            "name": "rapeseed oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef mince",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "onion green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "kimchi",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "gochujang paste",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "560",
+            "type": "g"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

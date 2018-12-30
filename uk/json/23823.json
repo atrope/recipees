@@ -1,0 +1,51 @@
+{
+    "title": "Simple roast goose",
+    "ingredients": [
+        {
+            "name": "goose",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

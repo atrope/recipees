@@ -1,0 +1,51 @@
+{
+    "title": "Green salad with nasturtium flowers",
+    "ingredients": [
+        {
+            "name": "green salad",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sunflower",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "nasturtium flowers",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

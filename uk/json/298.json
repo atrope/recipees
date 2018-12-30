@@ -1,0 +1,51 @@
+{
+    "title": "Scouse",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "braising steak",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "lamb",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "3-4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

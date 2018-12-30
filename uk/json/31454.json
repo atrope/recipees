@@ -1,0 +1,46 @@
+{
+    "title": "Coconut and marzipan macaroons",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "marzipan",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rum",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cooking chocolate",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

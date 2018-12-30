@@ -1,0 +1,56 @@
+{
+    "title": "Sausage stroganoff",
+    "ingredients": [
+        {
+            "name": "pork sausages",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bacon rashers",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "smoked paprika",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

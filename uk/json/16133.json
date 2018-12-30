@@ -1,0 +1,66 @@
+{
+    "title": "Simple chicken curry",
+    "ingredients": [
+        {
+            "name": "ginger puree paste",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic puree paste",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "stock water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "masala",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

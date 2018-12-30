@@ -1,0 +1,61 @@
+{
+    "title": "Spinach and ricotta filo pie",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "filo pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

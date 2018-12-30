@@ -1,0 +1,26 @@
+{
+    "title": "Breaded Fish and Chips",
+    "ingredients": [
+        {
+            "name": "vegetable oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fillets",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

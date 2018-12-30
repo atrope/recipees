@@ -1,0 +1,26 @@
+{
+    "title": "Sweet chestnut puree",
+    "ingredients": [
+        {
+            "name": "chestnuts",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla bean",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

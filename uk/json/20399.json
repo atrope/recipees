@@ -1,0 +1,51 @@
+{
+    "title": "Fried bananas with maple rum sauce and ice cream",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "rum",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "fruit cocktail juice",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "fruit cocktail juice",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "vanilla ice cream",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

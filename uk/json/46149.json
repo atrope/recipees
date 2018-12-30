@@ -1,0 +1,46 @@
+{
+    "title": "Slow cooker barbecued beef ribs",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef ribs",
+            "quantity": "900",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Fresh Herb Bread Machine Bread",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "410",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "marjoram",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "margarine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yeast",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

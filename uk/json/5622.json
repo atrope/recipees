@@ -1,0 +1,41 @@
+{
+    "title": "Sticky baked pork spare ribs",
+    "ingredients": [
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pork ribs",
+            "quantity": "1",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

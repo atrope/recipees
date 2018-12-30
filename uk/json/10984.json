@@ -1,0 +1,41 @@
+{
+    "title": "Honey Ginger BBQ Salmon",
+    "ingredients": [
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salmon fillet",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

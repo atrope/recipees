@@ -1,0 +1,26 @@
+{
+    "title": "Mustard and apricot chicken",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "mustard",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "apricot jam",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

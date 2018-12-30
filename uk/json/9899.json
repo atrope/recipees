@@ -1,0 +1,26 @@
+{
+    "title": "Best Lavender Lemonade",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "875",
+            "type": "ml"
+        },
+        {
+            "name": "lavender flowers",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

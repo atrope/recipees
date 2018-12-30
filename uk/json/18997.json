@@ -1,0 +1,41 @@
+{
+    "title": "Tuna and Pasta Salad",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "macaroni",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "tuna",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

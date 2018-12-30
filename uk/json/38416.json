@@ -1,0 +1,41 @@
+{
+    "title": "Pickled blueberries",
+    "ingredients": [
+        {
+            "name": "cinnamon",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "allspice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "blueberries picked",
+            "quantity": "4",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

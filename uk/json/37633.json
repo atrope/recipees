@@ -1,0 +1,41 @@
+{
+    "title": "Egg free strawberry tiramisu",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "sponge fingers",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Mustard mash",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "grain mustard",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Sesame tofu dressing",
+    "ingredients": [
+        {
+            "name": "tofu",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "toasted sesame",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

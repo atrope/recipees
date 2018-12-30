@@ -1,0 +1,51 @@
+{
+    "title": "No-bake cheesecake for a crowd",
+    "ingredients": [
+        {
+            "name": "biscuit",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cream",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "fruit filling compote",
+            "quantity": "1",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

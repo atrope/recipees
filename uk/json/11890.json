@@ -1,0 +1,36 @@
+{
+    "title": "Salmon Filo Parcels",
+    "ingredients": [
+        {
+            "name": "fillets salmon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "filo pastry",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

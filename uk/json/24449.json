@@ -1,0 +1,21 @@
+{
+    "title": "Carribean roti",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

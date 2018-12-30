@@ -1,0 +1,41 @@
+{
+    "title": "Shepherd's pie with haggis, neeps and tatties",
+    "ingredients": [
+        {
+            "name": "leftover haggis",
+            "quantity": "450",
+            "type": "-"
+        },
+        {
+            "name": "leftover swede",
+            "quantity": "300",
+            "type": "-"
+        },
+        {
+            "name": "leftover potato",
+            "quantity": "300",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

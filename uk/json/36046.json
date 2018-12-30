@@ -1,0 +1,31 @@
+{
+    "title": "Delicious peppermint creams",
+    "ingredients": [
+        {
+            "name": "icing sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peppermint",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Green tomato chutney",
+    "ingredients": [
+        {
+            "name": "green tomatoes",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "green peppers",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "celery seed",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard seed",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

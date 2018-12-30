@@ -1,0 +1,51 @@
+{
+    "title": "Best turkey gravy",
+    "ingredients": [
+        {
+            "name": "giblets turkey",
+            "quantity": "570",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "roast turkey gravy",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.2L",
+            "type": "-"
+        },
+        {
+            "name": "turkey",
+            "quantity": "410",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

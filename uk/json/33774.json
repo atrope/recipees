@@ -1,0 +1,26 @@
+{
+    "title": "Party punch",
+    "ingredients": [
+        {
+            "name": "cranberry juice",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "ginger ale",
+            "quantity": "2L",
+            "type": "-"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Orange Chicken with Grand Marnier",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "parmigiano parmesan",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "orange liqueur",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

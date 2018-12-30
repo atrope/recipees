@@ -1,0 +1,56 @@
+{
+    "title": "All day breakfast pie",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sausages",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beans tomato sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

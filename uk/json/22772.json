@@ -1,0 +1,21 @@
+{
+    "title": "Belfast Bailey's Irish coffee",
+    "ingredients": [
+        {
+            "name": "coffee",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "liqueur",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

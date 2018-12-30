@@ -1,0 +1,36 @@
+{
+    "title": "Spiced marrow and ginger jam",
+    "ingredients": [
+        {
+            "name": "marrow",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "juice zest lemons",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "root ginger minced",
+            "quantity": "3cm",
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

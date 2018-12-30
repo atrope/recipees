@@ -1,0 +1,46 @@
+{
+    "title": "Best Thai chicken stock",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "galangal",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "lime",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon grass",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "shallot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2.5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

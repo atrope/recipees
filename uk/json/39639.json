@@ -1,0 +1,21 @@
+{
+    "title": "Beans on toast",
+    "ingredients": [
+        {
+            "name": "beans",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

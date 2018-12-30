@@ -1,0 +1,26 @@
+{
+    "title": "Classic Champagne Cocktail",
+    "ingredients": [
+        {
+            "name": "sugar cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bitters",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "lemon garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

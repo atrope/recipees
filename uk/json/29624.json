@@ -1,0 +1,36 @@
+{
+    "title": "Fudgy walnut brownies",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

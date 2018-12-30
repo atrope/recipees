@@ -1,0 +1,46 @@
+{
+    "title": "Sausage and pepper casserole",
+    "ingredients": [
+        {
+            "name": "pork sausages",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

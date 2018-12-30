@@ -1,0 +1,36 @@
+{
+    "title": "Avocado, smoked tofu and red pepper wraps",
+    "ingredients": [
+        {
+            "name": "smoked tofu",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper julienned",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "avocado peel",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tortillas",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

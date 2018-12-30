@@ -1,0 +1,36 @@
+{
+    "title": "Tangy blue cheese salad dressing",
+    "ingredients": [
+        {
+            "name": "mayonnaise",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "crumbled cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch garlic powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

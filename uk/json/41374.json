@@ -1,0 +1,36 @@
+{
+    "title": "Pickled eggs with garlic",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "10",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

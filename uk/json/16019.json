@@ -1,0 +1,61 @@
+{
+    "title": "Russian apple cake",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "5-6",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "40",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cocoa",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nuts",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

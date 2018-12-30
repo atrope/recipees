@@ -1,0 +1,51 @@
+{
+    "title": "Bistro classic steak with peppercorn sauce",
+    "ingredients": [
+        {
+            "name": "peppercorns",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "steaks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

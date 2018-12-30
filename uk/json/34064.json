@@ -1,0 +1,51 @@
+{
+    "title": "Coffee loaf cake",
+    "ingredients": [
+        {
+            "name": "coffee",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Barm Brack",
+    "ingredients": [
+        {
+            "name": "tea",
+            "quantity": "425",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "candied citron",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

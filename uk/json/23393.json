@@ -1,0 +1,41 @@
+{
+    "title": "Coffee Mousse",
+    "ingredients": [
+        {
+            "name": "gelatine",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "coffee",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "110",
+            "type": "ml"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "220",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

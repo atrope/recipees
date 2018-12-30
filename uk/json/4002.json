@@ -1,0 +1,41 @@
+{
+    "title": "Caramelised banana crumpets",
+    "ingredients": [
+        {
+            "name": "crumpets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "cardamom",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cinnamon sprinkle",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

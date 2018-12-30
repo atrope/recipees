@@ -1,0 +1,51 @@
+{
+    "title": "Simple raw tuna ahi with soy sauce and sesame",
+    "ingredients": [
+        {
+            "name": "tuna steaks",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "avocados",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "toasted sesame oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ginger paste root",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lime juice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

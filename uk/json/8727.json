@@ -1,0 +1,26 @@
+{
+    "title": "Blackberry Liqueur",
+    "ingredients": [
+        {
+            "name": "vodka",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

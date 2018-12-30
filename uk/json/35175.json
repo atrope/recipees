@@ -1,0 +1,26 @@
+{
+    "title": "Quick mango ice cream",
+    "ingredients": [
+        {
+            "name": "mango",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "50",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garnish mint",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

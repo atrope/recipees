@@ -1,0 +1,36 @@
+{
+    "title": "Harvey Wallbanger",
+    "ingredients": [
+        {
+            "name": "vodka",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Green bean salad with feta cheese",
+    "ingredients": [
+        {
+            "name": "green beans",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "feta cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "bunch",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine apple cider vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

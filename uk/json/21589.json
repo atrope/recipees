@@ -1,0 +1,36 @@
+{
+    "title": "Quick Steak Stew",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "steaks",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

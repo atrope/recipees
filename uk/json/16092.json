@@ -1,0 +1,26 @@
+{
+    "title": "Banana blitz smoothie",
+    "ingredients": [
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "20",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "5",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

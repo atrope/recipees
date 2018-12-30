@@ -1,0 +1,61 @@
+{
+    "title": "Easy split pea soup",
+    "ingredients": [
+        {
+            "name": "yellow green peas",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1.25L",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

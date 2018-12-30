@@ -1,0 +1,26 @@
+{
+    "title": "Raspberry blueberry smoothie",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "vanilla yoghurt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Chocolate dipped marshmallows",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "sprinkles sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Cheesy beef and vegetable soup",
+    "ingredients": [
+        {
+            "name": "minced beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cheese sauce",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

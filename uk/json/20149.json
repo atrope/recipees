@@ -1,0 +1,86 @@
+{
+    "title": "No-Mess Burritos",
+    "ingredients": [
+        {
+            "name": "flour tortillas",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion flakes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "225",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

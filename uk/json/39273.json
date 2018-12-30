@@ -1,0 +1,46 @@
+{
+    "title": "Olive and basil naan bread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "yeast",
+            "quantity": "7",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "olives",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "butter ghee",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

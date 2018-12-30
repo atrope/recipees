@@ -1,0 +1,31 @@
+{
+    "title": "Strawberry tarts",
+    "ingredients": [
+        {
+            "name": "shortcrust pastry",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

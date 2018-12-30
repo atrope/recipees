@@ -1,0 +1,56 @@
+{
+    "title": "Coleslaw with hazelnuts and yogurt dressing",
+    "ingredients": [
+        {
+            "name": "cabbage",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "roast hazelnuts",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "dijon mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonaise",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

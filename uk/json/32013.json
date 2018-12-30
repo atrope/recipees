@@ -1,0 +1,51 @@
+{
+    "title": "Chocolate pyramid cake",
+    "ingredients": [
+        {
+            "name": "chocolate milk",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "rice cereal",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "popcorn",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "nuts",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "candy",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

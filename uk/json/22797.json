@@ -1,0 +1,36 @@
+{
+    "title": "Juicy steak with brandy peppercorn sauce",
+    "ingredients": [
+        {
+            "name": "steaks fillet",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green peppercorns brine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Ultimate chocolate brownies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

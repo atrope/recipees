@@ -1,0 +1,71 @@
+{
+    "title": "Beef Barley and Mushroom Soup",
+    "ingredients": [
+        {
+            "name": "stewing beef steak",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "margarine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "barley",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

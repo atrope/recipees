@@ -1,0 +1,51 @@
+{
+    "title": "Superfood green smoothie",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "kale",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "pear",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "banana",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flax",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green tea",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

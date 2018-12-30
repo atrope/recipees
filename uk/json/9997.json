@@ -1,0 +1,36 @@
+{
+    "title": "Millionaire shortbread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "379",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "325",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

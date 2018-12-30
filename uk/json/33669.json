@@ -1,0 +1,51 @@
+{
+    "title": "Lemon meringue cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "mascarpone cheese",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "zest juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon curd",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "meringue",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Simple Rocky Road",
+    "ingredients": [
+        {
+            "name": "marshmallows",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "375",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

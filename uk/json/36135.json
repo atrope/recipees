@@ -1,0 +1,56 @@
+{
+    "title": "Crab strudel",
+    "ingredients": [
+        {
+            "name": "cooking",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "crab meat",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "juice lime",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "filo pastry",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

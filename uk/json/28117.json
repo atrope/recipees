@@ -1,0 +1,86 @@
+{
+    "title": "Classic seafood paella",
+    "ingredients": [
+        {
+            "name": "olive oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "squid",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mussels",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "clams",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "sweet paprika",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rice",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "fish stock",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "saffron",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "crayfish",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

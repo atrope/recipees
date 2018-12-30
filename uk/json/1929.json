@@ -1,0 +1,51 @@
+{
+    "title": "Curried mussels",
+    "ingredients": [
+        {
+            "name": "shallots minced",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mussels",
+            "quantity": "32",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "minced parsley",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

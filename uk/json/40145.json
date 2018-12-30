@@ -1,0 +1,46 @@
+{
+    "title": "Ricotta and spinach Christmas tree",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pastry total",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

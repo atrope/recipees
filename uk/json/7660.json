@@ -1,0 +1,36 @@
+{
+    "title": "Club Sandwich",
+    "ingredients": [
+        {
+            "name": "rashers bacon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bread toasted",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "turkey chicken",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Carrots with Balsamic Vinegar",
+    "ingredients": [
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "shallot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

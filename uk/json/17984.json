@@ -1,0 +1,51 @@
+{
+    "title": "Beef spaghetti bake",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream mushroom soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "cream tomato soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "275",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

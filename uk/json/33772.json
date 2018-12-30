@@ -1,0 +1,56 @@
+{
+    "title": "American-style chicken salad",
+    "ingredients": [
+        {
+            "name": "mayonnaise",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "root ginger minced",
+            "quantity": "1cm",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "water chestnuts",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pecan nuts",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "grapes",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

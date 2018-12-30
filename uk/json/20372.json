@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate walnut traybake treats",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "biscuit",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "300",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

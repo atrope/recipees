@@ -1,0 +1,51 @@
+{
+    "title": "Salmon tabbouleh",
+    "ingredients": [
+        {
+            "name": "bulgur wheat",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "juice lemons",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "salmon fillet",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

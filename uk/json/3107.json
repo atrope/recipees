@@ -1,0 +1,131 @@
+{
+    "title": "Pizza tart with cherry tomatoes",
+    "ingredients": [
+        {
+            "name": "pizza dough",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "yeast",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "oregano",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "olives",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salad",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "poppy",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "walnut oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salad spinach lettuce",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

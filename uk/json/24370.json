@@ -1,0 +1,21 @@
+{
+    "title": "Bacon bites",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "cocktail cherries",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "10",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Roasted butternut squash with pine nuts and feta",
+    "ingredients": [
+        {
+            "name": "squash",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "grapes",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "herbes",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

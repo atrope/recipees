@@ -1,0 +1,51 @@
+{
+    "title": "Indian peanut curry",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1.4L",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "275",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

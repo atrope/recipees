@@ -1,0 +1,61 @@
+{
+    "title": "Asparagus and broccoli salad",
+    "ingredients": [
+        {
+            "name": "green asparagus",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "hazelnuts",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sherry vinegar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

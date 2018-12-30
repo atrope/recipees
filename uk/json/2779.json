@@ -1,0 +1,51 @@
+{
+    "title": "Cereal bars",
+    "ingredients": [
+        {
+            "name": "sunflower",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "bananas total",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "honey maple syrup",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "millet flakes",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,101 @@
+{
+    "title": "Jamaican Beef Patties",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

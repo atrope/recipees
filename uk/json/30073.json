@@ -1,0 +1,46 @@
+{
+    "title": "Broad bean and bacon pasta",
+    "ingredients": [
+        {
+            "name": "beans",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "pasta",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "140",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "55",
+            "type": "ml"
+        },
+        {
+            "name": "bacon",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chives garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Cheesy haddock and potato bake",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "smoked haddock fillets",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "chives",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "fish stock",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "peas",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "leeks total",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

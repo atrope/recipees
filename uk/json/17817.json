@@ -1,0 +1,46 @@
+{
+    "title": "Apple and cranberry pie",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "allspice",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "apples",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "brandy",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "shortcrust pastry",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Easy Fisherman's Pie",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salmon",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cod",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "prawns",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "tubes smokey cheese",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

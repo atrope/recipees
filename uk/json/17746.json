@@ -1,0 +1,36 @@
+{
+    "title": "Spinach and mushroom pizza",
+    "ingredients": [
+        {
+            "name": "pizza",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "spinach",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

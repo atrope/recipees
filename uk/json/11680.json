@@ -1,0 +1,51 @@
+{
+    "title": "Pasta Stuffed with Spinach and Ricotta",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "32",
+            "type": "-"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "575",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "fennel",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pasta sauce",
+            "quantity": "825",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

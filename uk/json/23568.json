@@ -1,0 +1,41 @@
+{
+    "title": "Salmon tartare",
+    "ingredients": [
+        {
+            "name": "salmon",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "shallots",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "leaf parsley",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chives",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "gherkin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Roast goose with apple sultana stuffing",
+    "ingredients": [
+        {
+            "name": "goose",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "bread",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

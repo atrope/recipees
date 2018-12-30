@@ -1,0 +1,46 @@
+{
+    "title": "Granny's red tomato chutney",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "7",
+            "type": "kg"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "paprika powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pickling spices",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "300",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

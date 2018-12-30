@@ -1,0 +1,81 @@
+{
+    "title": "Cream cheese French toast",
+    "ingredients": [
+        {
+            "name": "mozzarella cheese",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apricot jam",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "cornflakes cereal",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "apricot juice",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

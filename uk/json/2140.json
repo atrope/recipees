@@ -1,0 +1,41 @@
+{
+    "title": "Rainbow Trout with Yoghurt-Cucumber Sauce",
+    "ingredients": [
+        {
+            "name": "yoghurt",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "fillets trout",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

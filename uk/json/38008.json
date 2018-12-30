@@ -1,0 +1,66 @@
+{
+    "title": "Make ahead turkey gravy",
+    "ingredients": [
+        {
+            "name": "turkey",
+            "quantity": "3",
+            "type": "kg"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "355",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "950",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "950",
+            "type": "ml"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

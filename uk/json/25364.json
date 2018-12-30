@@ -1,0 +1,46 @@
+{
+    "title": "Wild mushroom soup",
+    "ingredients": [
+        {
+            "name": "mushrooms",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "porcini mushrooms",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "frache",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

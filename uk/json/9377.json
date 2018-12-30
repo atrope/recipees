@@ -1,0 +1,41 @@
+{
+    "title": "Chicken stuffed chillies",
+    "ingredients": [
+        {
+            "name": "green",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "enchilada sauce",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "olives",
+            "quantity": "1/3",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "225",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

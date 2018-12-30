@@ -1,0 +1,31 @@
+{
+    "title": "Raisin cookies",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "raisins sultanas peanut butter",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

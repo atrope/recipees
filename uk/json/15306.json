@@ -1,0 +1,51 @@
+{
+    "title": "Meaty acorn squash",
+    "ingredients": [
+        {
+            "name": "acorn squash",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cooking",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "pork",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

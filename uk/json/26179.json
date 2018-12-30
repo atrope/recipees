@@ -1,0 +1,26 @@
+{
+    "title": "Marinated sirloin steak",
+    "ingredients": [
+        {
+            "name": "steak",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "herbes",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

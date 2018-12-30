@@ -1,0 +1,51 @@
+{
+    "title": "Potato and Mushroom Pie",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "1.35",
+            "type": "kg"
+        },
+        {
+            "name": "mushrooms oyster shiitake",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

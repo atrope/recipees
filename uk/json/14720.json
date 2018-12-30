@@ -1,0 +1,81 @@
+{
+    "title": "Chicken Vegetable and Peanut Soup",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken meat",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "courgette",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

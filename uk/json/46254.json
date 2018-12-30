@@ -1,0 +1,41 @@
+{
+    "title": "Mulled white wine",
+    "ingredients": [
+        {
+            "name": "wine",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "550",
+            "type": "ml"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "3cm",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Roast Rib of Beef with Horseradish Cream",
+    "ingredients": [
+        {
+            "name": "beef",
+            "quantity": "6",
+            "type": "kg"
+        },
+        {
+            "name": "mustard",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bunch kale",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "horseradish",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "toasted walnuts",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

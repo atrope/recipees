@@ -1,0 +1,56 @@
+{
+    "title": "Chocolate covered digestive biscuits",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oats",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "wheat bran",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

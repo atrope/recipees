@@ -1,0 +1,41 @@
+{
+    "title": "Easy Chicken Cacciatore",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "5",
+            "type": "tbsp"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "5",
+            "type": "tbsp"
+        },
+        {
+            "name": "chicken",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "green beans",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

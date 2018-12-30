@@ -1,0 +1,16 @@
+{
+    "title": "Bavarian Beans",
+    "ingredients": [
+        {
+            "name": "beans",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "smoked bacon",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

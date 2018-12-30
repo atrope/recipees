@@ -1,0 +1,66 @@
+{
+    "title": "Tex-mex bean burritos",
+    "ingredients": [
+        {
+            "name": "sunflower oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "420",
+            "type": "g"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "flour tortilla",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "tomato salsa",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

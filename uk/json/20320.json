@@ -1,0 +1,81 @@
+{
+    "title": "Lord Baltimore cake",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coconut macaroons",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "recipe",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

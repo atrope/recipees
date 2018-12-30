@@ -1,0 +1,61 @@
+{
+    "title": "Carrot Halwa",
+    "ingredients": [
+        {
+            "name": "organic carrots",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "nuts cashews pistachios",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "green cardamoms",
+            "quantity": "5-6",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "5-6",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg powder",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "ghee butter",
+            "quantity": "5",
+            "type": "tbsp"
+        },
+        {
+            "name": "milk",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

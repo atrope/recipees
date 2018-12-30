@@ -1,0 +1,41 @@
+{
+    "title": "Duck and Walnut Salad",
+    "ingredients": [
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sherry vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "chives",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "duck smoked",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "10",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

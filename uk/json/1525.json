@@ -1,0 +1,31 @@
+{
+    "title": "Fried Tempeh",
+    "ingredients": [
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tempeh",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

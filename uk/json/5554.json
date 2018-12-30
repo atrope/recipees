@@ -1,0 +1,66 @@
+{
+    "title": "Salmon cakes with mustard and dill sauce",
+    "ingredients": [
+        {
+            "name": "baking potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "pink salmon",
+            "quantity": "420",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "1",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

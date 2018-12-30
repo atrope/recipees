@@ -1,0 +1,71 @@
+{
+    "title": "Italian bread salad with sweet pepper and tuna",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tuna",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "capers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bunch basil",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

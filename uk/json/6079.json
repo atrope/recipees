@@ -1,0 +1,66 @@
+{
+    "title": "Chocolate pumpkin bread",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "pumpkin puree",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

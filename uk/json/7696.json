@@ -1,0 +1,31 @@
+{
+    "title": "Black Bean Quesadillas",
+    "ingredients": [
+        {
+            "name": "beans",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salsa",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "flour tortillas",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

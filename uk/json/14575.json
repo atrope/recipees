@@ -1,0 +1,51 @@
+{
+    "title": "Mincemeat and Pumpkin Pie",
+    "ingredients": [
+        {
+            "name": "pumpkin puree",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "mincemeat filling",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

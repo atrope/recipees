@@ -1,0 +1,31 @@
+{
+    "title": "Crab and Ham Cornets",
+    "ingredients": [
+        {
+            "name": "vegetables",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "crab",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "fish caviar",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

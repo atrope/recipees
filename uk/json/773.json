@@ -1,0 +1,36 @@
+{
+    "title": "Chinese-inspired chicken noodle soup",
+    "ingredients": [
+        {
+            "name": "egg noodles",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "organic chicken stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillet",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

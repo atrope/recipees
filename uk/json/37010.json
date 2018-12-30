@@ -1,0 +1,36 @@
+{
+    "title": "The best doggy biscuits",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "polenta",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "235",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

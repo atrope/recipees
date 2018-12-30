@@ -1,0 +1,66 @@
+{
+    "title": "Dark chocolate mousse with blood orange sauce",
+    "ingredients": [
+        {
+            "name": "mousse",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oranges juiced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "liqueur",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "oranges",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

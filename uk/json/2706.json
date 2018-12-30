@@ -1,0 +1,81 @@
+{
+    "title": "Tomato and red pepper warmer",
+    "ingredients": [
+        {
+            "name": "loaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pesto",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garnish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "frache",
+            "quantity": "6",
+            "type": "tbsp"
+        },
+        {
+            "name": "basil",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Cucumber Sandwich",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "alfalfa",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leaf lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepperoncini",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

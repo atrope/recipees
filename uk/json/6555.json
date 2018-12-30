@@ -1,0 +1,56 @@
+{
+    "title": "Farfalle with Italian sausage, tomatoes and cream",
+    "ingredients": [
+        {
+            "name": "farfalle pasta",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sausage casings",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "minced parsley",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Microwaved Apple and Pumpkin",
+    "ingredients": [
+        {
+            "name": "granular",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin pie spice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin puree",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

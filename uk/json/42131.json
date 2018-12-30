@@ -1,0 +1,26 @@
+{
+    "title": "Community house Yorkshire pudding",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "12",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Pasta, tuna and sweetcorn",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "3/4",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tuna",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Apple and plum chutney",
+    "ingredients": [
+        {
+            "name": "plums",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "apples",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "shallots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

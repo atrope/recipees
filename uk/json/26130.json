@@ -1,0 +1,21 @@
+{
+    "title": "Strawberry compote",
+    "ingredients": [
+        {
+            "name": "icing sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

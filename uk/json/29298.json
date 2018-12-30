@@ -1,0 +1,31 @@
+{
+    "title": "Easiest rocky road",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "marshmallow",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

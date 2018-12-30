@@ -1,0 +1,36 @@
+{
+    "title": "Our favourite cranberry sauce",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "cloves",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "allspice",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

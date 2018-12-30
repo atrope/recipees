@@ -1,0 +1,46 @@
+{
+    "title": "Delicious Crab Stuffed Mushrooms",
+    "ingredients": [
+        {
+            "name": "mushrooms",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "salad",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "crab meat",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "minced onion",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

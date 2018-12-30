@@ -1,0 +1,36 @@
+{
+    "title": "Clapshot",
+    "ingredients": [
+        {
+            "name": "floury potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "yellow turnip",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

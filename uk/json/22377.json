@@ -1,0 +1,71 @@
+{
+    "title": "Rice Krispie Chocolate Chip Cookies",
+    "ingredients": [
+        {
+            "name": "butter cooking margarine",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rice",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "180",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

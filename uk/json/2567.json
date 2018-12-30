@@ -1,0 +1,51 @@
+{
+    "title": "Summer salmon and asparagus",
+    "ingredients": [
+        {
+            "name": "salmon fillet",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "asparagus",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sugar peas",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "fish vegetable stock",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chives garnish",
+            "quantity": "1",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

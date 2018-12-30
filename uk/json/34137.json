@@ -1,0 +1,26 @@
+{
+    "title": "Simple but scrumptious white chocolate cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "230",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

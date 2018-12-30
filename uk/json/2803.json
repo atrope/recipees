@@ -1,0 +1,26 @@
+{
+    "title": "Custard",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "milk",
+            "quantity": "600",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

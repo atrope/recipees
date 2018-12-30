@@ -1,0 +1,61 @@
+{
+    "title": "Pork fried rice",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pork",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "185",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

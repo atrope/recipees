@@ -1,0 +1,61 @@
+{
+    "title": "Butterfly Buns",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "cherry jam",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

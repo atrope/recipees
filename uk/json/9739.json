@@ -1,0 +1,36 @@
+{
+    "title": "Rosemary watermelon lemonade",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "watermelon flesh",
+            "quantity": "8",
+            "type": "kg"
+        },
+        {
+            "name": "ice",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

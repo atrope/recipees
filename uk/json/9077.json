@@ -1,0 +1,66 @@
+{
+    "title": "Kimchi jun (Kimchi pancake)",
+    "ingredients": [
+        {
+            "name": "kimchi",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "juice kimchi",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rice vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "toasted sesame",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

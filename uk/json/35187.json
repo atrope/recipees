@@ -1,0 +1,36 @@
+{
+    "title": "Piri piri potato salad",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "seasoning",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Crab and avocado pasta salad",
+    "ingredients": [
+        {
+            "name": "linguine pasta",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "malt vinegar",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "sesame",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salad greens",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "bunch coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

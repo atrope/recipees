@@ -1,0 +1,61 @@
+{
+    "title": "Fresh peach trifle",
+    "ingredients": [
+        {
+            "name": "trifle sponge cake",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "almond",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "toasted almond flakes",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

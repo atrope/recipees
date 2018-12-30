@@ -1,0 +1,51 @@
+{
+    "title": "Gluten free crackers",
+    "ingredients": [
+        {
+            "name": "gram flour",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "sorghum flour",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "rice bran",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "herb seasoning",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

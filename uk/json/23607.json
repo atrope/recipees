@@ -1,0 +1,51 @@
+{
+    "title": "Chocolate brownie trifle",
+    "ingredients": [
+        {
+            "name": "recipe chocolate",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mascarpone cheese temperature",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "raspberries cherries strawberries",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "amaretto rum",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

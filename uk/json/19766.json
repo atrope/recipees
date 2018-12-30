@@ -1,0 +1,46 @@
+{
+    "title": "Minced beef goulash",
+    "ingredients": [
+        {
+            "name": "minced beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "macaroni",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "paprika",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "170",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

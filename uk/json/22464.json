@@ -1,0 +1,51 @@
+{
+    "title": "Beef stew and dumplings for the slow cooker",
+    "ingredients": [
+        {
+            "name": "stewing steak",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "swede",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "parsnips",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "dumpling",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

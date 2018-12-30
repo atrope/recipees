@@ -1,0 +1,51 @@
+{
+    "title": "Fresh Fruit with Mango Sorbet",
+    "ingredients": [
+        {
+            "name": "mango sorbet",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "grapefruit",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "grapes",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

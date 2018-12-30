@@ -1,0 +1,46 @@
+{
+    "title": "Scallop and Prawn Salad",
+    "ingredients": [
+        {
+            "name": "cloves garlic",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "corn oil",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "scallops",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "prawns",
+            "quantity": "900",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Breaded balsamic halibut",
+    "ingredients": [
+        {
+            "name": "olive oil frying",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "215",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "fillets halibut",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

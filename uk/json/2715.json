@@ -1,0 +1,41 @@
+{
+    "title": "Blackcurrant teabread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "blackcurrants",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "mint",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "150",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

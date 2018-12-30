@@ -1,0 +1,36 @@
+{
+    "title": "Chewy almond macaroons",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vanilla sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "almond oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "almonds",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

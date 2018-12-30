@@ -1,0 +1,41 @@
+{
+    "title": "Cheesy barbecued portabello mushrooms",
+    "ingredients": [
+        {
+            "name": "mushroom",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salad",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "peppers",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "basil",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

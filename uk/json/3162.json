@@ -1,0 +1,76 @@
+{
+    "title": "Russian bean salad",
+    "ingredients": [
+        {
+            "name": "beans",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "shallots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beetroot pickled",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "bulb fennel",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sweet sour gherkins",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "horseradish",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

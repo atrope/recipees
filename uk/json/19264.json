@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate Trifle",
+    "ingredients": [
+        {
+            "name": "chocolate sponge cake",
+            "quantity": "520",
+            "type": "g"
+        },
+        {
+            "name": "coffee liqueur",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate mousse",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "11",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "900",
+            "type": "ml"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

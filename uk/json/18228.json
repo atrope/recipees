@@ -1,0 +1,46 @@
+{
+    "title": "Italian sausage pasta bake",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sausage casings",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "seasoning",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

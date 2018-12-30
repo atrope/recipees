@@ -1,0 +1,76 @@
+{
+    "title": "Perfect paella",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "chorizo sausage",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "rice",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "clams",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "garden peas",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "pinch saffron",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "boiling chicken stock",
+            "quantity": "1.2L",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

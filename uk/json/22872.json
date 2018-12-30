@@ -1,0 +1,36 @@
+{
+    "title": "Easy layered dessert",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple compote sauce",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "toffee sauce caramel",
+            "quantity": "7",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

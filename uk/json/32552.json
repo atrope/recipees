@@ -1,0 +1,66 @@
+{
+    "title": "Jamaican goat curry",
+    "ingredients": [
+        {
+            "name": "goat meat",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "spice",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "coconut oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "root ginger minced",
+            "quantity": "2.5cm",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sweet potatoes",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

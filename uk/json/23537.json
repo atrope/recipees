@@ -1,0 +1,36 @@
+{
+    "title": "Vegan whipped cream",
+    "ingredients": [
+        {
+            "name": "milk almond oat rice",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "agar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tapioca starch",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "agave",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "325",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

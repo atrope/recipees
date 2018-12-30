@@ -1,0 +1,36 @@
+{
+    "title": "Homemade salami smoked",
+    "ingredients": [
+        {
+            "name": "beef pork mince",
+            "quantity": "7",
+            "type": "kg"
+        },
+        {
+            "name": "mustard seed",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "garlic salt",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "kosher salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

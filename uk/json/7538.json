@@ -1,0 +1,81 @@
+{
+    "title": "Sweet and spicy BBQ sauce",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "habanero",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "whisky",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

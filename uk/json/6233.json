@@ -1,0 +1,31 @@
+{
+    "title": "Goat Cheese Croque Madame",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "goat cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "bread",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

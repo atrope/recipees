@@ -1,0 +1,36 @@
+{
+    "title": "Mixed green leaves Parmesan salad",
+    "ingredients": [
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salad",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

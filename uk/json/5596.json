@@ -1,0 +1,56 @@
+{
+    "title": "Turkey and vegetable pasta bake",
+    "ingredients": [
+        {
+            "name": "penne",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced turkey",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes herbs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green beans",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

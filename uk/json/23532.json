@@ -1,0 +1,41 @@
+{
+    "title": "Aioli",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "150",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

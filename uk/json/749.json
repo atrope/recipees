@@ -1,0 +1,71 @@
+{
+    "title": "Apple, beetroot and avocado salad",
+    "ingredients": [
+        {
+            "name": "beetroots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "celery seed salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salad",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "toasted walnuts",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

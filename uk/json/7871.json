@@ -1,0 +1,71 @@
+{
+    "title": "Chicken and mushroom lasagne rolls",
+    "ingredients": [
+        {
+            "name": "lasagne",
+            "quantity": "18",
+            "type": "-"
+        },
+        {
+            "name": "pasta sauce",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

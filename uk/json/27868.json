@@ -1,0 +1,46 @@
+{
+    "title": "Smoked salmon and egg pasta salad",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine apple vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sweet mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

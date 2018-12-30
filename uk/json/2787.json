@@ -1,0 +1,56 @@
+{
+    "title": "Gluten-free loaf",
+    "ingredients": [
+        {
+            "name": "rice flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "potato starch",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sachet yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1\u00bd",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream tartar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

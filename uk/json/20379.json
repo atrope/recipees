@@ -1,0 +1,56 @@
+{
+    "title": "Spinach and ricotta filled cannelloni",
+    "ingredients": [
+        {
+            "name": "ricotta cheese",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cannelloni pasta tubes",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "900",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Banana and hazelnut chocolate muffins",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "210",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "hazelnut chocolate spread",
+            "quantity": "12",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

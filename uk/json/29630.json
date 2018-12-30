@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate biscuits",
+    "ingredients": [
+        {
+            "name": "butter cooking margarine",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cocoa",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar nuts",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

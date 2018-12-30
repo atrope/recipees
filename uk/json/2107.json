@@ -1,0 +1,31 @@
+{
+    "title": "Blueberry Smoothie",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Tea bread",
+    "ingredients": [
+        {
+            "name": "sultanas",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "tea",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

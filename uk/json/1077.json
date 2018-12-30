@@ -1,0 +1,46 @@
+{
+    "title": "Rice and raisin breakfast pudding",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "rice",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "toasted almonds",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cardamom",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Basil and Spinach Summer Pesto",
+    "ingredients": [
+        {
+            "name": "garlic cloves minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "spinach",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "oregano",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "toasted pine nuts",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "180",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

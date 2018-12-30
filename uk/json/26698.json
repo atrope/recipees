@@ -1,0 +1,61 @@
+{
+    "title": "Quenched cabbage with smoked gammon",
+    "ingredients": [
+        {
+            "name": "gammon",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "beef stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato paste",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "borscht lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

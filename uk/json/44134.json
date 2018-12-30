@@ -1,0 +1,61 @@
+{
+    "title": "Sweet chilli jam",
+    "ingredients": [
+        {
+            "name": "sweet",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "40",
+            "type": "ml"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "puree",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

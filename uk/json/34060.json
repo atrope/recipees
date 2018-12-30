@@ -1,0 +1,66 @@
+{
+    "title": "Easter Simnel cake",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "candied peel",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "zest orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "spice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "marzipan",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

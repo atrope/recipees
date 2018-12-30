@@ -1,0 +1,21 @@
+{
+    "title": "Summer Tomatoes with Basil Salad",
+    "ingredients": [
+        {
+            "name": "summer tomatoes",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "basil",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

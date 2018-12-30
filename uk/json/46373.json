@@ -1,0 +1,36 @@
+{
+    "title": "Pickled onion and raisin coleslaw",
+    "ingredients": [
+        {
+            "name": "green cabbage",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "leek",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pickled onions",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salad vinaigrette",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

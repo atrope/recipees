@@ -1,0 +1,46 @@
+{
+    "title": "Espresso bean ice cream",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "espresso temperature",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate espresso coffee beans",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "toffee sauce",
+            "quantity": "180",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

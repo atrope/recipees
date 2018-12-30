@@ -1,0 +1,66 @@
+{
+    "title": "Fruit and chicken curry",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mango",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "shallots onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "coconut",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

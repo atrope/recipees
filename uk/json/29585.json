@@ -1,0 +1,51 @@
+{
+    "title": "Beef and tomato casserole",
+    "ingredients": [
+        {
+            "name": "oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "stewing beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch herbs",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "chutney",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

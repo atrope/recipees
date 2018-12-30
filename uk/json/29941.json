@@ -1,0 +1,21 @@
+{
+    "title": "Best chocolate buttercream",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

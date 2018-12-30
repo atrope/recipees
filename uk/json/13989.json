@@ -1,0 +1,56 @@
+{
+    "title": "Sausage, chicken and prawn gumbo",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "smoked sausages",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "prawns",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "seasoning",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

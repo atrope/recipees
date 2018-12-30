@@ -1,0 +1,26 @@
+{
+    "title": "Basic plain or chocolate cupcakes",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "110",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

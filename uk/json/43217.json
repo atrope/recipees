@@ -1,0 +1,36 @@
+{
+    "title": "Pickled tomatoes",
+    "ingredients": [
+        {
+            "name": "plum tomatoes",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "horseradish",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

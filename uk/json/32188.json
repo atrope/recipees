@@ -1,0 +1,41 @@
+{
+    "title": "Autumn apple jam",
+    "ingredients": [
+        {
+            "name": "cooking apples",
+            "quantity": "35",
+            "type": "kg"
+        },
+        {
+            "name": "water",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "10",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,86 @@
+{
+    "title": "Black Forest Trifle",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cocoa",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "cherries syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "kirsch",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "sachet blackcurrant jelly",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cocoa",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "double cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

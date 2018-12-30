@@ -1,0 +1,31 @@
+{
+    "title": "Juji's vegan green smoothie",
+    "ingredients": [
+        {
+            "name": "coconut water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "spinach",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

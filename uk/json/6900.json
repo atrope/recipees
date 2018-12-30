@@ -1,0 +1,31 @@
+{
+    "title": "Basil and Lime Chicken",
+    "ingredients": [
+        {
+            "name": "fillets chicken",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lime",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "1/2",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

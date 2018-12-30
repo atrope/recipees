@@ -1,0 +1,26 @@
+{
+    "title": "Chocolate cups with raspberry coulis",
+    "ingredients": [
+        {
+            "name": "chocolate dessert",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "vanilla sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

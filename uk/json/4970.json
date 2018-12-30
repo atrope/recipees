@@ -1,0 +1,21 @@
+{
+    "title": "Gooey caramel sauce",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cream milk",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

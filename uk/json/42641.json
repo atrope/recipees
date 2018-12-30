@@ -1,0 +1,26 @@
+{
+    "title": "Chapati (Roti)",
+    "ingredients": [
+        {
+            "name": "chapati flour",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "butter ghee",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

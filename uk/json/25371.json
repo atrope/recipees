@@ -1,0 +1,46 @@
+{
+    "title": "Makki ki roti",
+    "ingredients": [
+        {
+            "name": "cornmeal polenta",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cornmeal polenta",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ajwain",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wheat flour",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil ghee butter",
+            "quantity": "7",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

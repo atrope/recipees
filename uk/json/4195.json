@@ -1,0 +1,46 @@
+{
+    "title": "Carrot, Orange and Feta Soup",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "juice orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tarragon garnish",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

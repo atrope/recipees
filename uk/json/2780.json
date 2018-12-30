@@ -1,0 +1,46 @@
+{
+    "title": "Fudgy brownies",
+    "ingredients": [
+        {
+            "name": "chocolate cocoa",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs egg yolk temperature",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "3",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

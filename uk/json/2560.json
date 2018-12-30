@@ -1,0 +1,51 @@
+{
+    "title": "Pimm's melon cup",
+    "ingredients": [
+        {
+            "name": "melon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cantaloupe melon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pear",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "carambola fruit",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "6",
+            "type": "tbsp"
+        },
+        {
+            "name": "mint lemon",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "borage flowers",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

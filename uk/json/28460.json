@@ -1,0 +1,36 @@
+{
+    "title": "Peach and strawberry crumble",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "16",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "granola muesli",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

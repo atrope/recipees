@@ -1,0 +1,36 @@
+{
+    "title": "Korean vegetable and egg sandwich",
+    "ingredients": [
+        {
+            "name": "cabbage",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "bread toasted",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

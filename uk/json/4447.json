@@ -1,0 +1,36 @@
+{
+    "title": "Hot Banana and Walnut Sundae",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "walnut",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "bananas",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "zest juice orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vanilla ice cream",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

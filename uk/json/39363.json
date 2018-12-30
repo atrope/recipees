@@ -1,0 +1,81 @@
+{
+    "title": "Nice 'n' spicy chicken wraps",
+    "ingredients": [
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "juice lime",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sourdough",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "feta cheese",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

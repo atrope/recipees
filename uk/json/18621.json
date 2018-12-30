@@ -1,0 +1,61 @@
+{
+    "title": "Hot and Sour BBQ Sauce",
+    "ingredients": [
+        {
+            "name": "cider vinegar",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

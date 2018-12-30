@@ -1,0 +1,41 @@
+{
+    "title": "Grand Marnier apples with ice cream",
+    "ingredients": [
+        {
+            "name": "orange juice",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla ice cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "orange liqueur",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "amaretto liqueur",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate wafers",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

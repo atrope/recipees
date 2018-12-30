@@ -1,0 +1,66 @@
+{
+    "title": "Mushroom and winter vegetable soup",
+    "ingredients": [
+        {
+            "name": "shiitake mushrooms",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsnip",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green cabbage",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "tomato",
+            "quantity": "5",
+            "type": "tbsp"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

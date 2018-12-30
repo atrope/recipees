@@ -1,0 +1,36 @@
+{
+    "title": "Creamy Cucumber and Dill Canapes",
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "salad",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "baguette circles",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

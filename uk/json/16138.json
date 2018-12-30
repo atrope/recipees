@@ -1,0 +1,51 @@
+{
+    "title": "Corned beef shepherd's pie",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter milk",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef gravy",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "peas",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

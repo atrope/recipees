@@ -1,0 +1,41 @@
+{
+    "title": "Kisir (bulgur cracked wheat salad)",
+    "ingredients": [
+        {
+            "name": "bulgur wheat",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "vegetable chicken stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "bunch onions",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

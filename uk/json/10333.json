@@ -1,0 +1,41 @@
+{
+    "title": "Banana Split Ice Cream Torte",
+    "ingredients": [
+        {
+            "name": "biscuit",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "strawberry ice cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pineapple pureed",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

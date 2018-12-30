@@ -1,0 +1,51 @@
+{
+    "title": "Teriyaki sauce",
+    "ingredients": [
+        {
+            "name": "mirin",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "rice vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "67",
+            "type": "g"
+        },
+        {
+            "name": "garlic cloves minced",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "minced root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper flakes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

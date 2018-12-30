@@ -1,0 +1,31 @@
+{
+    "title": "Cardamom rice",
+    "ingredients": [
+        {
+            "name": "basmati rice",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green cardamom",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

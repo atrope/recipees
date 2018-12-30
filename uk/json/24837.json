@@ -1,0 +1,56 @@
+{
+    "title": "Mushroom and white wine gravy",
+    "ingredients": [
+        {
+            "name": "mushrooms",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "chestnut mushrooms",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "thyme",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

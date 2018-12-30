@@ -1,0 +1,51 @@
+{
+    "title": "Creamy ginger ice cream",
+    "ingredients": [
+        {
+            "name": "ginger root",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "custard",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "ginger",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Easy coriander chutney",
+    "ingredients": [
+        {
+            "name": "coriander",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "green",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pinch caster sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch cumin",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

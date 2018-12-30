@@ -1,0 +1,51 @@
+{
+    "title": "Chard and Mozzarella Lasagne",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chard",
+            "quantity": "8-10",
+            "type": "-"
+        },
+        {
+            "name": "mozarella cheese",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "lasagne",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

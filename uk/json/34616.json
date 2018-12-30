@@ -1,0 +1,51 @@
+{
+    "title": "Slow cooker lamb stock",
+    "ingredients": [
+        {
+            "name": "lamb",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fennel",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

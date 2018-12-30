@@ -1,0 +1,31 @@
+{
+    "title": "Rhubarb and raspberry jam",
+    "ingredients": [
+        {
+            "name": "rhubarb",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "orange zest juice water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "sachet pectin",
+            "quantity": "13",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

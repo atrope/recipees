@@ -1,0 +1,31 @@
+{
+    "title": "Lemon meringue ice cream",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "zest juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon curd",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "meringue",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "rose lemon",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

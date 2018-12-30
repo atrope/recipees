@@ -1,0 +1,26 @@
+{
+    "title": "Cheesy mushrooms",
+    "ingredients": [
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

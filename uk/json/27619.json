@@ -1,0 +1,66 @@
+{
+    "title": "Roast pork loin stuffed with mushrooms",
+    "ingredients": [
+        {
+            "name": "pork loin",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mushroom stuffing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "smoked bacon rashers",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

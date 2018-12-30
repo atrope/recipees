@@ -1,0 +1,36 @@
+{
+    "title": "Basic white bread",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "425",
+            "type": "ml"
+        },
+        {
+            "name": "yeast",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

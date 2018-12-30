@@ -1,0 +1,46 @@
+{
+    "title": "Simple soft chocolate chip cookies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "85",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

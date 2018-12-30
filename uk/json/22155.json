@@ -1,0 +1,31 @@
+{
+    "title": "Tuna and Pea Salad",
+    "ingredients": [
+        {
+            "name": "tuna water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

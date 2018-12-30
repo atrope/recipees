@@ -1,0 +1,66 @@
+{
+    "title": "Chicken and mushroom rice",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "bacon",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "cooking wine",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1-2",
+            "type": "-"
+        },
+        {
+            "name": "tarragon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "360",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

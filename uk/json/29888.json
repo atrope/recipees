@@ -1,0 +1,26 @@
+{
+    "title": "Basic banana smoothie",
+    "ingredients": [
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

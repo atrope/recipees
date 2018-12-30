@@ -1,0 +1,31 @@
+{
+    "title": "Indian Naan",
+    "ingredients": [
+        {
+            "name": "baking yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "140",
+            "type": "ml"
+        },
+        {
+            "name": "butter ghee",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

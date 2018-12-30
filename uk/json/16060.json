@@ -1,0 +1,56 @@
+{
+    "title": "Apricot and pecan tea loaf",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "170",
+            "type": "ml"
+        },
+        {
+            "name": "pecans",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "apricots",
+            "quantity": "175",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

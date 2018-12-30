@@ -1,0 +1,76 @@
+{
+    "title": "Panzerotti (fried Italian calzone)",
+    "ingredients": [
+        {
+            "name": "yeast",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sunflower oil frying",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

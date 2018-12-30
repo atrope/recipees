@@ -1,0 +1,86 @@
+{
+    "title": "Chettinad Chicken",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "poppy",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fennel seed",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coriander seed",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cumin seed",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onions minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "curry",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ginger paste",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic paste",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

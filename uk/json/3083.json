@@ -1,0 +1,21 @@
+{
+    "title": "Choux pastry",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "eggs pinch salt",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Quick coconut ice cream",
+    "ingredients": [
+        {
+            "name": "coconut",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

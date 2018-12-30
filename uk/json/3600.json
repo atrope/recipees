@@ -1,0 +1,36 @@
+{
+    "title": "Smoked salmon bagel with quark",
+    "ingredients": [
+        {
+            "name": "quark",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bagel",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garnish dill",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

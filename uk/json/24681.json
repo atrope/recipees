@@ -1,0 +1,26 @@
+{
+    "title": "Oven roasted parsnips",
+    "ingredients": [
+        {
+            "name": "parsnips",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "stock lamb chicken",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Fabulous chilli jam",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "2cm",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "50",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

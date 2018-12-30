@@ -1,0 +1,36 @@
+{
+    "title": "Red pepper houmous",
+    "ingredients": [
+        {
+            "name": "chickpeas",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tahini sesame seed paste",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "peppers",
+            "quantity": "70",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

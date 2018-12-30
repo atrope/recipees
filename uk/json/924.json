@@ -1,0 +1,26 @@
+{
+    "title": "Barbecued Garlic Orange Sirloin Steak",
+    "ingredients": [
+        {
+            "name": "steak",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "minced ginger root",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oranges juiced",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

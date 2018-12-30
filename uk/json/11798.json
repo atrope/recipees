@@ -1,0 +1,31 @@
+{
+    "title": "Garlic Sauce",
+    "ingredients": [
+        {
+            "name": "garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "235",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

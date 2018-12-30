@@ -1,0 +1,61 @@
+{
+    "title": "Divine excuse fruit crumble",
+    "ingredients": [
+        {
+            "name": "fruit",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "fruit apples",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "caster",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "spices",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "crumble",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spices",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Filipino Chicken and Noodles (Pancit)",
+    "ingredients": [
+        {
+            "name": "rice noodles",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chicken meat",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemons wedges garnish",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

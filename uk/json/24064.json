@@ -1,0 +1,36 @@
+{
+    "title": "Chris and Suzie's white fish delight",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "fish fillets",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Fabulous fruit leather",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "650",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

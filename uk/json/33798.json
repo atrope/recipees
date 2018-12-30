@@ -1,0 +1,41 @@
+{
+    "title": "Leek and goat's cheese croustades",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "leek",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "crumbled goats cheese",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "parsley garnish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "croustades",
+            "quantity": "24",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

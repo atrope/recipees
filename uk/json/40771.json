@@ -1,0 +1,26 @@
+{
+    "title": "Classic caipirinha",
+    "ingredients": [
+        {
+            "name": "lime",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cachaa",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

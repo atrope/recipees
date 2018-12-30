@@ -1,0 +1,51 @@
+{
+    "title": "Pork and Prawn Wonton Soup",
+    "ingredients": [
+        {
+            "name": "pork loin",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "prawns",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rice wine sake",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bunch onions",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wonton",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "750",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

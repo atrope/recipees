@@ -1,0 +1,26 @@
+{
+    "title": "Beer BBQ steak",
+    "ingredients": [
+        {
+            "name": "steaks steak",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon pepper seasoning",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beer",
+            "quantity": "650",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

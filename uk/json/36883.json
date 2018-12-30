@@ -1,0 +1,21 @@
+{
+    "title": "Banana hot dog sandwich",
+    "ingredients": [
+        {
+            "name": "bun",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "banana",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

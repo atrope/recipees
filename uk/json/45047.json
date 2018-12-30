@@ -1,0 +1,31 @@
+{
+    "title": "Pink gin prosecco cocktail",
+    "ingredients": [
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pink gin",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "lemonade",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "prosecco",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "strawberries garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Curried pumpkin fritters",
+    "ingredients": [
+        {
+            "name": "puree pumpkin",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

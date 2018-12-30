@@ -1,0 +1,31 @@
+{
+    "title": "Christmas peppermint bark",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "candy",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

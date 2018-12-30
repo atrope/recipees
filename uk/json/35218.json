@@ -1,0 +1,51 @@
+{
+    "title": "Herby tuna and giant couscous salad",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "couscous",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "mint",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "dill",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "albacore tuna",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Mint Chutney",
+    "ingredients": [
+        {
+            "name": "mint",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "green",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

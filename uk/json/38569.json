@@ -1,0 +1,101 @@
+{
+    "title": "Indian vegetable biryani",
+    "ingredients": [
+        {
+            "name": "ghee butter olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin seed",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "ginger garlic paste",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "peas",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "carrot",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "potato",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "masala",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "950",
+            "type": "ml"
+        },
+        {
+            "name": "basmati rice",
+            "quantity": "370",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

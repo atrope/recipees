@@ -1,0 +1,21 @@
+{
+    "title": "Orange and goji berry smoothie",
+    "ingredients": [
+        {
+            "name": "orange juice",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "goji",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

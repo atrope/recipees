@@ -1,0 +1,56 @@
+{
+    "title": "Stuffed Crimini Mushrooms with Gruyere",
+    "ingredients": [
+        {
+            "name": "mushrooms",
+            "quantity": "36",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "onion",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "minced shallot",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "leaf parsley",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

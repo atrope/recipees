@@ -1,0 +1,46 @@
+{
+    "title": "Garlic prawns with linguine",
+    "ingredients": [
+        {
+            "name": "linguine pasta",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

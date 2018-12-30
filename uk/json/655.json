@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate flapjacks",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

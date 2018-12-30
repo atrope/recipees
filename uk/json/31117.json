@@ -1,0 +1,51 @@
+{
+    "title": "Valencian chicken",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "chicken",
+            "quantity": "4",
+            "type": "kg"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "tomato sauce",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "rice",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

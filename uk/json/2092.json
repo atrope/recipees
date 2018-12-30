@@ -1,0 +1,46 @@
+{
+    "title": "Portuguese rabbit casserole",
+    "ingredients": [
+        {
+            "name": "rabbit",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "shallots",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Grilled Salmon with Pesto Crust",
+    "ingredients": [
+        {
+            "name": "salmon fillets",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "lemons",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pesto",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

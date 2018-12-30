@@ -1,0 +1,31 @@
+{
+    "title": "Marquisette punch",
+    "ingredients": [
+        {
+            "name": "lemons",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

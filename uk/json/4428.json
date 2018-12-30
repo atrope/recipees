@@ -1,0 +1,31 @@
+{
+    "title": "Sherry Fruit Trifle",
+    "ingredients": [
+        {
+            "name": "almond macaroons",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sweet sherry",
+            "quantity": "9",
+            "type": "tbsp"
+        },
+        {
+            "name": "fruit syrup",
+            "quantity": "440",
+            "type": "g"
+        },
+        {
+            "name": "custard",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "200",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

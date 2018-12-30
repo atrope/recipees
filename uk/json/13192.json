@@ -1,0 +1,41 @@
+{
+    "title": "Curried Tuna Salad",
+    "ingredients": [
+        {
+            "name": "tuna flaked",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cashews",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

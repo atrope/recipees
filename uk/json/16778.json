@@ -1,0 +1,56 @@
+{
+    "title": "No-fuss macaroni and cheese",
+    "ingredients": [
+        {
+            "name": "macaroni",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "seasoning",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

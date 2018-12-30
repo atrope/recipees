@@ -1,0 +1,36 @@
+{
+    "title": "Cheddar cheese tortillas",
+    "ingredients": [
+        {
+            "name": "cheese",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour tortillas",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

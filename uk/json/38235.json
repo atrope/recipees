@@ -1,0 +1,66 @@
+{
+    "title": "Apple cake with a twist",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "pecans walnuts",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caramel chocolate glaze",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "double cream glaze",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

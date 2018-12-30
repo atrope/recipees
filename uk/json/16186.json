@@ -1,0 +1,51 @@
+{
+    "title": "Tandoori Chicken Skewers",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "tandoori masala spice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ginger root",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1/2-1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "skewers",
+            "quantity": "6-8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

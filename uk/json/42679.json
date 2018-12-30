@@ -1,0 +1,61 @@
+{
+    "title": "Golden parsnip soup",
+    "ingredients": [
+        {
+            "name": "ghee butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "banana shallots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "kashmiri powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "parsnips",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "vegetable stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "150",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

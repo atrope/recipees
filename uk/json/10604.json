@@ -1,0 +1,31 @@
+{
+    "title": "Potato Lefse",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "25",
+            "type": "kg"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Coffee and walnut biscuits",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "coffee",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

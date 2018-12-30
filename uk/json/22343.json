@@ -1,0 +1,41 @@
+{
+    "title": "Wholemeal bread for the bread machine",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "275",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "360",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "milk powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "margarine butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Marshmallow icing",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "345",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "55",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

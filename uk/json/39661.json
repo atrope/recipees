@@ -1,0 +1,26 @@
+{
+    "title": "Janet's lemon ice cream cake",
+    "ingredients": [
+        {
+            "name": "whipping cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "lemons",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

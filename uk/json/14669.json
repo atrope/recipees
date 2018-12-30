@@ -1,0 +1,31 @@
+{
+    "title": "Pumpkin and poppy seed cake",
+    "ingredients": [
+        {
+            "name": "lemon sponge cake",
+            "quantity": "520",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "pumpkin puree",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "poppy",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

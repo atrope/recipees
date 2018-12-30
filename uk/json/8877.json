@@ -1,0 +1,26 @@
+{
+    "title": "Champagne Grand Marnier cocktail",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "sugar syrup",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "champagne",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

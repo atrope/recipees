@@ -1,0 +1,46 @@
+{
+    "title": "Australian BLT",
+    "ingredients": [
+        {
+            "name": "focaccia bread",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch herbs",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "grilled chicken",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "guacamole",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "My Thai dipping sauce",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "coconut vinegar",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweet sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch coriander",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

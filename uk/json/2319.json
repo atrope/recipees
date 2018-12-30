@@ -1,0 +1,41 @@
+{
+    "title": "Steak with Roasted Garlic and Red Wine Reduction",
+    "ingredients": [
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef rump steak",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "bunch onions",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "1/3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

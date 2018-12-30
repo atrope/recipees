@@ -1,0 +1,26 @@
+{
+    "title": "Simple stir fry sauce",
+    "ingredients": [
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "3cm",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic ginger",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

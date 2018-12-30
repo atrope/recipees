@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate sponge delicious cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

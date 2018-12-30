@@ -1,0 +1,51 @@
+{
+    "title": "Grapefruit and avocado salad",
+    "ingredients": [
+        {
+            "name": "salad greens",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "coriander",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "grapefruit",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch sugar honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Basic polenta",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "polenta",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

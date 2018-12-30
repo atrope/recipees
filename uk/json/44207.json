@@ -1,0 +1,36 @@
+{
+    "title": "Caribbean mango chutney",
+    "ingredients": [
+        {
+            "name": "mango",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "habanero pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

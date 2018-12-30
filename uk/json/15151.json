@@ -1,0 +1,56 @@
+{
+    "title": "Fruity Paralysis",
+    "ingredients": [
+        {
+            "name": "ice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vodka",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "amaretto liqueur",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peach schnapps",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut rum",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "melon liqueur",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cranberry juice",
+            "quantity": "85",
+            "type": "ml"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

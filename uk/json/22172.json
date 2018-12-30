@@ -1,0 +1,46 @@
+{
+    "title": "Tuna and caper pasta salad",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "tuna",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "capers",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

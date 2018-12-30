@@ -1,0 +1,31 @@
+{
+    "title": "Ginger lemonade",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "3.5L",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "14",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "lemons",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

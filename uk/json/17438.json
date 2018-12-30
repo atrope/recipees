@@ -1,0 +1,31 @@
+{
+    "title": "Chocolate Nut Clusters",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "almonds nuts",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

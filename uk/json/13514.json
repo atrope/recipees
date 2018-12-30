@@ -1,0 +1,26 @@
+{
+    "title": "Sweet and Savoury Chicken Wings",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "900",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

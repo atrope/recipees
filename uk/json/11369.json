@@ -1,0 +1,46 @@
+{
+    "title": "Fried Polenta Chips",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "polenta cornmeal",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

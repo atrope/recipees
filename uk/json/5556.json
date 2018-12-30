@@ -1,0 +1,51 @@
+{
+    "title": "Salmon and leek parcels",
+    "ingredients": [
+        {
+            "name": "leeks",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pinch sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salmon fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garnish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

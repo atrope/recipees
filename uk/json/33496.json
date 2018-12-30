@@ -1,0 +1,41 @@
+{
+    "title": "Apple layer cake",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bramley apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

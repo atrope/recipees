@@ -1,0 +1,26 @@
+{
+    "title": "Easy cauliflower cheese",
+    "ingredients": [
+        {
+            "name": "cauliflower",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

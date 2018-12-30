@@ -1,0 +1,31 @@
+{
+    "title": "Pineapple Upside-down Cake Martini",
+    "ingredients": [
+        {
+            "name": "pineapple juice",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla vodka",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pineapple wedges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

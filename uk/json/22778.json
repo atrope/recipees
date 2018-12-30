@@ -1,0 +1,31 @@
+{
+    "title": "Yorkshire Puddings",
+    "ingredients": [
+        {
+            "name": "vegetable oil lard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "280",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

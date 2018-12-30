@@ -1,0 +1,31 @@
+{
+    "title": "Asparagus in puff pastry",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

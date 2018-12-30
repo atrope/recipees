@@ -1,0 +1,46 @@
+{
+    "title": "Wholewheat pasta salad",
+    "ingredients": [
+        {
+            "name": "wholewheat fusilli penne pasta",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella bocconcini",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "lemon olive oil",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "parsley",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "zest juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

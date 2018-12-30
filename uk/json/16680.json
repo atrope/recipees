@@ -1,0 +1,41 @@
+{
+    "title": "Strawberry trifles",
+    "ingredients": [
+        {
+            "name": "cream",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "sponge fingers",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "strawberry raspberry coulis",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "strawberries raspberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "custard",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

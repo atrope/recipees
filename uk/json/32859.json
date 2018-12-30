@@ -1,0 +1,51 @@
+{
+    "title": "Traditional roast beef fillet",
+    "ingredients": [
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "onion wedges",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beef fillet",
+            "quantity": "25",
+            "type": "kg"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "200",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

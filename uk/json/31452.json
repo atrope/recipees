@@ -1,0 +1,36 @@
+{
+    "title": "Original cr\u00e8me br\u00fbl\u00e9e",
+    "ingredients": [
+        {
+            "name": "cream",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Delicious chocolate buttercream",
+    "ingredients": [
+        {
+            "name": "icing sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

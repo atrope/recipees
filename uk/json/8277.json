@@ -1,0 +1,31 @@
+{
+    "title": "BLT tortilla wraps",
+    "ingredients": [
+        {
+            "name": "bacon rashers",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "flour tortillas",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salad cream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

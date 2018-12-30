@@ -1,0 +1,56 @@
+{
+    "title": "Froggy cakes",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raspberry jam",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "green roll icing",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "roll icing",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "roll icing",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "roll icing",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

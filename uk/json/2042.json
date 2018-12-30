@@ -1,0 +1,36 @@
+{
+    "title": "Pickled Chillies",
+    "ingredients": [
+        {
+            "name": "yellow",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "green",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1.4L",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

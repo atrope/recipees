@@ -1,0 +1,26 @@
+{
+    "title": "Limoncello",
+    "ingredients": [
+        {
+            "name": "lemons",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "vodka",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

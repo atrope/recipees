@@ -1,0 +1,26 @@
+{
+    "title": "Apple and cranberry preserve",
+    "ingredients": [
+        {
+            "name": "dessert apples",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

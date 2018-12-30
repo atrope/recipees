@@ -1,0 +1,51 @@
+{
+    "title": "Pears in spiced red wine",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "anise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt frache",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

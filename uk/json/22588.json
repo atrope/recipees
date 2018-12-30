@@ -1,0 +1,21 @@
+{
+    "title": "Soda bread farls",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

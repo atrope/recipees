@@ -1,0 +1,26 @@
+{
+    "title": "Tomato-free pizza style wraps",
+    "ingredients": [
+        {
+            "name": "pepperoni",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tortilla wrap",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

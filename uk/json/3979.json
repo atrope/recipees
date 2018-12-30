@@ -1,0 +1,46 @@
+{
+    "title": "Leek and ham pizza muffins",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "leeks total",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "muffins",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "ham total",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

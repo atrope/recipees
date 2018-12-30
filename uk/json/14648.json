@@ -1,0 +1,71 @@
+{
+    "title": "Bean and rice salad",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "kidney beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

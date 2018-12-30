@@ -1,0 +1,36 @@
+{
+    "title": "Cherry crumble squares",
+    "ingredients": [
+        {
+            "name": "porridge oats",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cherry fruit filling",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

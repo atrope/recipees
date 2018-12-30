@@ -1,0 +1,111 @@
+{
+    "title": "Chicken shawarma",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "malt vinegar",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cardamom",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "tahini sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tahini",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "breads",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

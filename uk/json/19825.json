@@ -1,0 +1,41 @@
+{
+    "title": "Creamy herb salad dressing",
+    "ingredients": [
+        {
+            "name": "mayonnaise",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "anchovy fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tarragon vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tarragon",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

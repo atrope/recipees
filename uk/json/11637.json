@@ -1,0 +1,66 @@
+{
+    "title": "Homemade spicy sausages",
+    "ingredients": [
+        {
+            "name": "sausage casing",
+            "quantity": "1.35m",
+            "type": "-"
+        },
+        {
+            "name": "pork meat",
+            "quantity": "8",
+            "type": "kg"
+        },
+        {
+            "name": "pork",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "smoke",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

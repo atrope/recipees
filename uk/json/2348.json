@@ -1,0 +1,26 @@
+{
+    "title": "Sunday roast beef",
+    "ingredients": [
+        {
+            "name": "beef",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

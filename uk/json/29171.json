@@ -1,0 +1,31 @@
+{
+    "title": "Bircher with kefir",
+    "ingredients": [
+        {
+            "name": "kefir",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "oats",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

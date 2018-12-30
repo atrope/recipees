@@ -1,0 +1,21 @@
+{
+    "title": "Quick lemonade",
+    "ingredients": [
+        {
+            "name": "lemon juice lemons",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "800",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

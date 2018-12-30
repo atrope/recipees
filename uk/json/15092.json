@@ -1,0 +1,31 @@
+{
+    "title": "Watermelon, rocket and feta salad",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "watermelon",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "crumbled feta cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vinaigrette",
+            "quantity": "350",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

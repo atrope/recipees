@@ -1,0 +1,56 @@
+{
+    "title": "Tomato, salami and mozzarella tart",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "salami",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "herbes provence herbs",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vine tomato",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "egg milk glaze",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

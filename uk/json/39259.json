@@ -1,0 +1,36 @@
+{
+    "title": "The best gluten free flour blend",
+    "ingredients": [
+        {
+            "name": "rice flour",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "arrowroot flour",
+            "quantity": "830",
+            "type": "g"
+        },
+        {
+            "name": "rice flour",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "sorghum flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

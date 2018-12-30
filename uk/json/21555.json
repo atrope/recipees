@@ -1,0 +1,56 @@
+{
+    "title": "Turkey cottage pie with cauliflower mash",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cauliflower",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "minced turkey",
+            "quantity": "680",
+            "type": "g"
+        },
+        {
+            "name": "garden peas",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

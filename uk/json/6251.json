@@ -1,0 +1,46 @@
+{
+    "title": "Maple and pecan apple crumble",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pecans",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Chicken Sausage Rolls",
+    "ingredients": [
+        {
+            "name": "minced chicken",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ginger root",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pastry",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sesame",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweet sauce",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

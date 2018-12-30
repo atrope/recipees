@@ -1,0 +1,31 @@
+{
+    "title": "Chocolate Oreo\u00ae fudge",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "397",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cookies",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

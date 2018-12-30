@@ -1,0 +1,41 @@
+{
+    "title": "Cajun spiced meatballs",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1/2",
+            "type": "tbsp"
+        },
+        {
+            "name": "minced pork beef",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

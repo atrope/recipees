@@ -1,0 +1,61 @@
+{
+    "title": "Chocolate brownie cheesecake",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mascarpone cheese",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

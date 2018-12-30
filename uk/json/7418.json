@@ -1,0 +1,51 @@
+{
+    "title": "Hot cross buns!",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "yeast",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "fruits sultanas rum",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "215",
+            "type": "ml"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Japanese Steamed Fish",
+    "ingredients": [
+        {
+            "name": "fish fillets mackerel",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "stock",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "ginger",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sake",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mirin sweet cooking rice wine",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

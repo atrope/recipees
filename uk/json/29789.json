@@ -1,0 +1,21 @@
+{
+    "title": "Red cooler",
+    "ingredients": [
+        {
+            "name": "pomegranate cordial",
+            "quantity": "25",
+            "type": "ml"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "25",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Polly's bread and butter pudding",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "275",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fruit raisins sultanas peel",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

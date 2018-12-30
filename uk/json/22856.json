@@ -1,0 +1,36 @@
+{
+    "title": "Crepes filled with Creamy Smoked Salmon",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "crepes",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "dill chives",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

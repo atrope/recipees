@@ -1,0 +1,41 @@
+{
+    "title": "Fruit salad with lime and creme fraiche",
+    "ingredients": [
+        {
+            "name": "cantaloupe",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "lime zest",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

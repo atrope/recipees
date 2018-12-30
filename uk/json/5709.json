@@ -1,0 +1,41 @@
+{
+    "title": "Squidgy chocolate muffins",
+    "ingredients": [
+        {
+            "name": "chocolate cocoa",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "brandy",
+            "quantity": "1",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

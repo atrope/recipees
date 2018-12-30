@@ -1,0 +1,56 @@
+{
+    "title": "Strawberry banana protein smoothie",
+    "ingredients": [
+        {
+            "name": "almond milk",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "ice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla protein powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

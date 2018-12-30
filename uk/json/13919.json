@@ -1,0 +1,66 @@
+{
+    "title": "Cream of Courgette Soup",
+    "ingredients": [
+        {
+            "name": "courgette",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "425",
+            "type": "ml"
+        },
+        {
+            "name": "cream mushroom soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

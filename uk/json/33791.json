@@ -1,0 +1,56 @@
+{
+    "title": "Spicy Mexican rice",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basmati rice",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "pinch flakes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic paste",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch oregano",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "550",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

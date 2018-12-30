@@ -1,0 +1,61 @@
+{
+    "title": "Hearty Chicken Soup with Horseradish Dumplings",
+    "ingredients": [
+        {
+            "name": "sunflower oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "vegetable suet",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "chives parsley garnish",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "horseradish",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "peas",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

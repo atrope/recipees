@@ -1,0 +1,86 @@
+{
+    "title": "Tomato, Garlic and Basil Pasta",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pepper green orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "green olives",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch paprika",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic puree",
+            "quantity": "30",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

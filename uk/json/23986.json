@@ -1,0 +1,26 @@
+{
+    "title": "Strawberries in Pimm's",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "mint garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

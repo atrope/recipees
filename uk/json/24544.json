@@ -1,0 +1,56 @@
+{
+    "title": "Dulce de leche bread",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "625",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caramel",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "yolk",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

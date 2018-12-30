@@ -1,0 +1,21 @@
+{
+    "title": "Mozzarella and Pesto Panini",
+    "ingredients": [
+        {
+            "name": "ciabatta loaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil pesto",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese mozzarella",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Italian ciabatta",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "320",
+            "type": "ml"
+        },
+        {
+            "name": "yeast",
+            "quantity": "2",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "9",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "semolina corn meal",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

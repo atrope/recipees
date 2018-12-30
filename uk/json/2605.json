@@ -1,0 +1,66 @@
+{
+    "title": "American-style Pork and beans",
+    "ingredients": [
+        {
+            "name": "beans water",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "pork total",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beer ale lager cider",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "allspice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "smoked bacon rashers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

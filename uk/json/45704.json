@@ -1,0 +1,46 @@
+{
+    "title": "Apple mango pie",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "wheat flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "shortcrust pastry",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Pea salad",
+    "ingredients": [
+        {
+            "name": "garden peas",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

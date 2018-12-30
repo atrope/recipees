@@ -1,0 +1,56 @@
+{
+    "title": "Beef and beer puffs",
+    "ingredients": [
+        {
+            "name": "salt beef brisket",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "horseradish",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "beer",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

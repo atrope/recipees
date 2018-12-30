@@ -1,0 +1,41 @@
+{
+    "title": "Smoked salmon salad",
+    "ingredients": [
+        {
+            "name": "green salad",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "cashew nuts",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

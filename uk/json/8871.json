@@ -1,0 +1,31 @@
+{
+    "title": "Champagne fruit cups",
+    "ingredients": [
+        {
+            "name": "peel",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "champagne",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

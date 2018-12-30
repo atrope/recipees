@@ -1,0 +1,56 @@
+{
+    "title": "Spicy tofu salad bowl",
+    "ingredients": [
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "toasted sesame",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "toasted sesame oil",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rice",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "lettuce heart",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "tofu",
+            "quantity": "340",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

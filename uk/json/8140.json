@@ -1,0 +1,51 @@
+{
+    "title": "Curry chicken fajitas",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salsa",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate chilli ice cream",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "225m",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "480",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Chocolate amaretto icing",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "amaretto liqueur",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

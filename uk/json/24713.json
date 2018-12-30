@@ -1,0 +1,21 @@
+{
+    "title": "Fresh raspberry cordial",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "550",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "400",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

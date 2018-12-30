@@ -1,0 +1,56 @@
+{
+    "title": "Spiced seasonal fruit salad",
+    "ingredients": [
+        {
+            "name": "mango",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "grapes",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "green grapes",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "pinch cayenne pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch mustard powder",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

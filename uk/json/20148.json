@@ -1,0 +1,91 @@
+{
+    "title": "Fiery BBQ Sauce",
+    "ingredients": [
+        {
+            "name": "apple cider",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "honey mustard",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "yellow mustard",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "wholegrain mustard",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "treacle",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "beer",
+            "quantity": "340",
+            "type": "ml"
+        },
+        {
+            "name": "coffee",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "celery salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "habanero pepper",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

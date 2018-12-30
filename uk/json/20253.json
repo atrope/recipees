@@ -1,0 +1,41 @@
+{
+    "title": "Poppy seed and cranberry chicken pasta salad",
+    "ingredients": [
+        {
+            "name": "penne pasta",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "creamy poppy seed salad",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

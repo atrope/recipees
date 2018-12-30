@@ -1,0 +1,21 @@
+{
+    "title": "Quinoa and Vegetable Salad",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

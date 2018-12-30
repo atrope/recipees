@@ -1,0 +1,56 @@
+{
+    "title": "Simple spicy sausage stuffing",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "wine",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

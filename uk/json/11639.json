@@ -1,0 +1,76 @@
+{
+    "title": "Smoky Barbecue Sauce",
+    "ingredients": [
+        {
+            "name": "ketchup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chipotle peppers adobo sauce",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "apple cider vinegar",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "treacle",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "smoked paprika",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "whisky",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "hickory smoke",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

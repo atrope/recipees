@@ -1,0 +1,41 @@
+{
+    "title": "Cider sourdough bread \"Scrumpers loaf\"",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "grain flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sourdough",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "cider",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "15",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

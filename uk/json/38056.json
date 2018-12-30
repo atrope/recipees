@@ -1,0 +1,61 @@
+{
+    "title": "Kale coleslaw",
+    "ingredients": [
+        {
+            "name": "bunch kale",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green cabbage",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

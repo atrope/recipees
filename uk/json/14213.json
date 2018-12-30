@@ -1,0 +1,46 @@
+{
+    "title": "Gorgonzola Pear and Walnut Pasta",
+    "ingredients": [
+        {
+            "name": "penne pasta",
+            "quantity": "260",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "crumbled cheese",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "pear",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "toasted walnuts",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

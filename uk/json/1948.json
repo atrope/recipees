@@ -1,0 +1,21 @@
+{
+    "title": "Strawberry Daiquiri",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemonade",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Spicy Asian coleslaw",
+    "ingredients": [
+        {
+            "name": "green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "wholegrain mustard",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "agave syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch ginger",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

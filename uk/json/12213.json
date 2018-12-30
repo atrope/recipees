@@ -1,0 +1,31 @@
+{
+    "title": "Digestive Biscuit Ice Cream",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla bean",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

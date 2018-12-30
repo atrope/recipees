@@ -1,0 +1,41 @@
+{
+    "title": "Best Italian tiramisu",
+    "ingredients": [
+        {
+            "name": "mascarpone cheese",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "fingers",
+            "quantity": "30",
+            "type": "-"
+        },
+        {
+            "name": "espresso coffee",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cognac brandy",
+            "quantity": "50",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

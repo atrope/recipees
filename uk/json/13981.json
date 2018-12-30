@@ -1,0 +1,31 @@
+{
+    "title": "Creamy Leek and Potato Soup",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "415",
+            "type": "ml"
+        },
+        {
+            "name": "leeks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "350",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

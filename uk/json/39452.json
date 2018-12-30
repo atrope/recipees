@@ -1,0 +1,46 @@
+{
+    "title": "Cloud bread sandwich",
+    "ingredients": [
+        {
+            "name": "eggs temperature",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cream cheese temperature",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "seasoning",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

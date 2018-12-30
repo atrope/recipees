@@ -1,0 +1,26 @@
+{
+    "title": "Cheat's Rum Raisin Ice Cream",
+    "ingredients": [
+        {
+            "name": "raisins",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla ice cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

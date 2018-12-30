@@ -1,0 +1,26 @@
+{
+    "title": "Peanut butter and jam wrap",
+    "ingredients": [
+        {
+            "name": "flour tortilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberry jam",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

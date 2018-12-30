@@ -1,0 +1,36 @@
+{
+    "title": "Lentil and olive salad",
+    "ingredients": [
+        {
+            "name": "lentils",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green olives",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

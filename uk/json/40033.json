@@ -1,0 +1,56 @@
+{
+    "title": "Gluten free lemon cupcakes",
+    "ingredients": [
+        {
+            "name": "milk temperature",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "egg temperature",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemons",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "gluten flour",
+            "quantity": "155",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "gluten baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

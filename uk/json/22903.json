@@ -1,0 +1,21 @@
+{
+    "title": "Foie gras with apples",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "apples",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

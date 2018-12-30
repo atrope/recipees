@@ -1,0 +1,36 @@
+{
+    "title": "Pineapple, strawberry, mango and chilli fruit salad",
+    "ingredients": [
+        {
+            "name": "pineapple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "mango",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch powder lime",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

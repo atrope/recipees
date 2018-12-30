@@ -1,0 +1,46 @@
+{
+    "title": "Bamptons feel good ginger biscuits",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "oatmeal",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

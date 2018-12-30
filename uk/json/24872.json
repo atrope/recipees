@@ -1,0 +1,46 @@
+{
+    "title": "Basic pumpkin risotto",
+    "ingredients": [
+        {
+            "name": "pumpkin",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "shallot minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "230",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.2L",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

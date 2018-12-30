@@ -1,0 +1,41 @@
+{
+    "title": "Deluxe chocolate tiffin",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

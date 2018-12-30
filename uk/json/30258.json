@@ -1,0 +1,36 @@
+{
+    "title": "Mixed fruit loaf",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "lard",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "700",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

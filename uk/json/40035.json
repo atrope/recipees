@@ -1,0 +1,31 @@
+{
+    "title": "Spinach and kiwi green smoothie",
+    "ingredients": [
+        {
+            "name": "almond milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "spinach",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

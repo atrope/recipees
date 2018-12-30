@@ -1,0 +1,71 @@
+{
+    "title": "Marinated tomato salad",
+    "ingredients": [
+        {
+            "name": "tomatoes wedges",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "onions wedges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions wedges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cucumbers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "anchovy fillets",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

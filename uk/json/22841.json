@@ -1,0 +1,26 @@
+{
+    "title": "Apple Mint Jelly",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Chloe's chocolate brownies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "320",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder chocolate",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "walnut",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

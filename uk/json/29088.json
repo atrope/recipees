@@ -1,0 +1,36 @@
+{
+    "title": "Easy turkey wraps",
+    "ingredients": [
+        {
+            "name": "flour tortilla",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "roast turkey",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

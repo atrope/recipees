@@ -1,0 +1,81 @@
+{
+    "title": "Pizza with squash and rocket",
+    "ingredients": [
+        {
+            "name": "pizza dough",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "yeast",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "330",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "wheat flour",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "450",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "squash",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "prosciutto",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "bunch",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

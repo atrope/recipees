@@ -1,0 +1,36 @@
+{
+    "title": "Chicken tikka pockets",
+    "ingredients": [
+        {
+            "name": "wheat breads",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken tikka",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "lettuce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mayonnise",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

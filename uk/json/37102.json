@@ -1,0 +1,51 @@
+{
+    "title": "Easy and tasty BBQ ribs",
+    "ingredients": [
+        {
+            "name": "pork ribs",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves smoked garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fruity sauce",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "smoked paprika",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bourbon whiskey",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

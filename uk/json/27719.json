@@ -1,0 +1,51 @@
+{
+    "title": "Quick lentil and spinach soup",
+    "ingredients": [
+        {
+            "name": "vegetable stock",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "green lentils",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch spinach",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

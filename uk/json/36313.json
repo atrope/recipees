@@ -1,0 +1,41 @@
+{
+    "title": "Eggless chewy chocolate chip cookies",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

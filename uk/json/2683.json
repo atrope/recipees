@@ -1,0 +1,81 @@
+{
+    "title": "Melon, feta and orange salad",
+    "ingredients": [
+        {
+            "name": "oranges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honeydew melon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "olives",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "cucumber",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "ham total",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "feta cheese",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange zest",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "toasted sesame oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

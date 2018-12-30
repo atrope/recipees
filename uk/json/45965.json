@@ -1,0 +1,71 @@
+{
+    "title": "Chicken curry with a Scottish twist",
+    "ingredients": [
+        {
+            "name": "ghee vegetable oil",
+            "quantity": "70",
+            "type": "ml"
+        },
+        {
+            "name": "chicken",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic cloves minced",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "root ginger paste",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "green",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "masala",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "haggis",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

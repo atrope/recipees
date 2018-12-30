@@ -1,0 +1,26 @@
+{
+    "title": "Spiced vegan hot chocolate",
+    "ingredients": [
+        {
+            "name": "coconut milk",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

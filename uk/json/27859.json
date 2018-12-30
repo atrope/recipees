@@ -1,0 +1,36 @@
+{
+    "title": "Cucumber and feta cheese salad",
+    "ingredients": [
+        {
+            "name": "feta cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cucumbers",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

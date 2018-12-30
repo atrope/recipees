@@ -1,0 +1,61 @@
+{
+    "title": "Italian style bread",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "310",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "560",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "7",
+            "type": "g"
+        },
+        {
+            "name": "olives",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

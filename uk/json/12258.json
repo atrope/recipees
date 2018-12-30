@@ -1,0 +1,36 @@
+{
+    "title": "Cherry compote",
+    "ingredients": [
+        {
+            "name": "wine",
+            "quantity": "2L",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

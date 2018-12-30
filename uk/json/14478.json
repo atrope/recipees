@@ -1,0 +1,21 @@
+{
+    "title": "Mad dog cocktail",
+    "ingredients": [
+        {
+            "name": "rum",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vodka",
+            "quantity": "85",
+            "type": "ml"
+        },
+        {
+            "name": "drink",
+            "quantity": "115",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

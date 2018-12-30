@@ -1,0 +1,31 @@
+{
+    "title": "Chocolate cracknell cakes",
+    "ingredients": [
+        {
+            "name": "cornflakes",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "milk powder",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

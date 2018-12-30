@@ -1,0 +1,26 @@
+{
+    "title": "Delicious fresh lemonade",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "cucumber",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Simple caramel sauce",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "200",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

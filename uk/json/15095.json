@@ -1,0 +1,31 @@
+{
+    "title": "Rocky road popcorn balls",
+    "ingredients": [
+        {
+            "name": "marshmallows",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "popcorn",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "85",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

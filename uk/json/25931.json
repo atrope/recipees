@@ -1,0 +1,46 @@
+{
+    "title": "Luscious quiche Lorraine",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "double cream milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "onion",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

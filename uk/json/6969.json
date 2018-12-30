@@ -1,0 +1,26 @@
+{
+    "title": "Simply Steamed Asparagus",
+    "ingredients": [
+        {
+            "name": "bunch asparagus",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "750",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

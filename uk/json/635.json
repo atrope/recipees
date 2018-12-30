@@ -1,0 +1,41 @@
+{
+    "title": "Double chocolate brownies",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Easiest ever crab cakes",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tarragon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "minced onions",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "crab meat",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "crackers",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

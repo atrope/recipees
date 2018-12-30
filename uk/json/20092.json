@@ -1,0 +1,46 @@
+{
+    "title": "Chocolate and coffee brownies",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "coffee liqueur",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "230",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

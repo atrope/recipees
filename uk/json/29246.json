@@ -1,0 +1,36 @@
+{
+    "title": "Indian mince",
+    "ingredients": [
+        {
+            "name": "beef mince",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "spice paste",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "quark",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

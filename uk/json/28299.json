@@ -1,0 +1,41 @@
+{
+    "title": "Homemade easy chicken noodle soup",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "spaghetti",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "satchet potato",
+            "quantity": "1/4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

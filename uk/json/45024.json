@@ -1,0 +1,46 @@
+{
+    "title": "Vegan Bolognese sauce",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mince",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "tomato",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "oregano",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "polenta",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

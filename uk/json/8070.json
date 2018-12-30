@@ -1,0 +1,31 @@
+{
+    "title": "Best plum jam",
+    "ingredients": [
+        {
+            "name": "plums",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "water",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "sachets pectin",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

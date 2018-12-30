@@ -1,0 +1,41 @@
+{
+    "title": "Roasted asparagus with caramelised shallot dressing",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "shallots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "thyme rosemary",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

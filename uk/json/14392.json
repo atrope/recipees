@@ -1,0 +1,36 @@
+{
+    "title": "BBQ corn on the cob",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "3.75",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "145",
+            "type": "g"
+        },
+        {
+            "name": "sweetcorn silk",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

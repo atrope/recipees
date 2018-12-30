@@ -1,0 +1,36 @@
+{
+    "title": "Pizza dough by hand",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "sachets yeast",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

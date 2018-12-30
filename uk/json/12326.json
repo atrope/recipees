@@ -1,0 +1,46 @@
+{
+    "title": "Fresh strawberry tiramisu",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "mascarpone",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "gelatine",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "sponge fingers",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "400",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Perfect white bread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "13",
+            "type": "g"
+        },
+        {
+            "name": "lard",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "yeast",
+            "quantity": "7",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

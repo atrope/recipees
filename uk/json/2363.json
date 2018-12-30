@@ -1,0 +1,26 @@
+{
+    "title": "Energy bites",
+    "ingredients": [
+        {
+            "name": "sultanas",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

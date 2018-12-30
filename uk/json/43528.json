@@ -1,0 +1,61 @@
+{
+    "title": "Delicious chocolate chip banana bread",
+    "ingredients": [
+        {
+            "name": "butter temperature",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "bananas",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt flakes",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

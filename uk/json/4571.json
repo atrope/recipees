@@ -1,0 +1,51 @@
+{
+    "title": "Mac 'n' cheese",
+    "ingredients": [
+        {
+            "name": "macaroni",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "pinch paprika",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

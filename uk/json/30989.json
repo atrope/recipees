@@ -1,0 +1,26 @@
+{
+    "title": "Homemade strawberry jam",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "1.5lb",
+            "type": "-"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

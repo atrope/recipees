@@ -1,0 +1,26 @@
+{
+    "title": "Chocolate pecan tart",
+    "ingredients": [
+        {
+            "name": "shortcrust pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "pecan nuts",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "400",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Easy key lime pie",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "lime",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Japanese onigiri (Rice balls)",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1.1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flakes fish",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "nori seaweed",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sesame",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

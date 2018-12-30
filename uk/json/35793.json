@@ -1,0 +1,26 @@
+{
+    "title": "Choco prince biscuit cake",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "370",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

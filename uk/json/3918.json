@@ -1,0 +1,86 @@
+{
+    "title": "Spiced fruits, nuts and seeds",
+    "ingredients": [
+        {
+            "name": "cardamom",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2.5cm",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oats",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "pecan nut",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "nuts",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

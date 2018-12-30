@@ -1,0 +1,21 @@
+{
+    "title": "Roast pumpkin seeds",
+    "ingredients": [
+        {
+            "name": "pumpkin",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

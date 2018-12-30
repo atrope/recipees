@@ -1,0 +1,51 @@
+{
+    "title": "Levi Roots Mango Nut Bread",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mango",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

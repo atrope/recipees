@@ -1,0 +1,21 @@
+{
+    "title": "Green tomato jam",
+    "ingredients": [
+        {
+            "name": "green tomatoes",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "jam sugar",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "lemons juice",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Barbecued Sweet Teriyaki Chicken",
+    "ingredients": [
+        {
+            "name": "pineapple juice",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Cheesy Chicken and Broccoli Pasta Bake",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pasta sauce mushrooms",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

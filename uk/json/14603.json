@@ -1,0 +1,36 @@
+{
+    "title": "Prosciutto, tomato, mozzarella and basil skewers",
+    "ingredients": [
+        {
+            "name": "skewers",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "cherry plum tomatoes",
+            "quantity": "48",
+            "type": "-"
+        },
+        {
+            "name": "prosciutto",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "marinated mozzarella",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "salad",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

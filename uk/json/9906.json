@@ -1,0 +1,36 @@
+{
+    "title": "Vicky's Mozzarella & Pesto Stuffed Chicken wrapped in Parma Ham",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pesto pepper",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "ball mozzarella",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ham chicken",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "sprinkle flakes",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

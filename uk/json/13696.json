@@ -1,0 +1,46 @@
+{
+    "title": "Best-Ever Hazelnut Biscotti",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "hazelnut liqueur",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "almond",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "hazelnuts toasted",
+            "quantity": "275",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Chocolate fudge trifle",
+    "ingredients": [
+        {
+            "name": "chocolate roll",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "custard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk cooking chocolate",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "liqueur",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "double cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate sprinkles",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

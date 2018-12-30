@@ -1,0 +1,56 @@
+{
+    "title": "Vietnamese Chicken and Noodle Soup - Pho",
+    "ingredients": [
+        {
+            "name": "egg noodles",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon grass",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "beansprouts",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "70",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

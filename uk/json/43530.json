@@ -1,0 +1,61 @@
+{
+    "title": "Watermelon and tomato chutney",
+    "ingredients": [
+        {
+            "name": "oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "watermelon",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch sugar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

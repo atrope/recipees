@@ -1,0 +1,51 @@
+{
+    "title": "Buttermilk blueberry pancakes",
+    "ingredients": [
+        {
+            "name": "oats",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

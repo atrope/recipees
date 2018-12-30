@@ -1,0 +1,26 @@
+{
+    "title": "Chilled Cantaloupe Soup",
+    "ingredients": [
+        {
+            "name": "cantaloupe",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "lime juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

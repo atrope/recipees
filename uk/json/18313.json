@@ -1,0 +1,36 @@
+{
+    "title": "Cheap eats pasta salad",
+    "ingredients": [
+        {
+            "name": "farfalle pasta",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "salad",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

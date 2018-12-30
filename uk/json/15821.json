@@ -1,0 +1,51 @@
+{
+    "title": "Red wine braised beef",
+    "ingredients": [
+        {
+            "name": "bunch soup vegetables carrot celery leek celeriac",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

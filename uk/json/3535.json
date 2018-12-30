@@ -1,0 +1,51 @@
+{
+    "title": "Scottish stovies with lamb",
+    "ingredients": [
+        {
+            "name": "lamb",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "floury potatoes",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "turnips swede",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "leeks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lamb vegetable stock",
+            "quantity": "900",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

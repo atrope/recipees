@@ -1,0 +1,76 @@
+{
+    "title": "Steak and kidney pudding",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "beef stewing steak",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "beef kidney",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "swede",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "thyme",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetable suet",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

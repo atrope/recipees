@@ -1,0 +1,41 @@
+{
+    "title": "Chinese mushroom noodle soup",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper flakes",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "egg noodles",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

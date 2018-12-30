@@ -1,0 +1,26 @@
+{
+    "title": "Christmas tree cupcakes",
+    "ingredients": [
+        {
+            "name": "cupcakes",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "buttercream icing",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "green",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sweets sprinkles",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

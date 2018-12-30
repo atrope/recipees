@@ -1,0 +1,36 @@
+{
+    "title": "Cheats' chocolate tart",
+    "ingredients": [
+        {
+            "name": "gingernut biscuits",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "300",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

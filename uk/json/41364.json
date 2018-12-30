@@ -1,0 +1,41 @@
+{
+    "title": "Raw chocolate dessert",
+    "ingredients": [
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "agave",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coconut flakes",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

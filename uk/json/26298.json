@@ -1,0 +1,36 @@
+{
+    "title": "Grandma Fisher's chocolate truffle torte",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "570",
+            "type": "ml"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Easy apple turnovers",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "apple sauce",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

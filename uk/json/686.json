@@ -1,0 +1,31 @@
+{
+    "title": "Apple and Citrus Smoothie",
+    "ingredients": [
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemonade",
+            "quantity": "150",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

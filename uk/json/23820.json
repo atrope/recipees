@@ -1,0 +1,26 @@
+{
+    "title": "Strawberry Ice Pops",
+    "ingredients": [
+        {
+            "name": "strawberry jelly",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "strawberries pureed",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vanilla strawberry yogurt",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

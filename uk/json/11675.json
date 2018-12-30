@@ -1,0 +1,51 @@
+{
+    "title": "Spicy strawberry and chilli jam",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "sweet wine",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple cider vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

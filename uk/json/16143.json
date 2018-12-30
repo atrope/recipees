@@ -1,0 +1,71 @@
+{
+    "title": "Delicious Eggless Chocolate Cake",
+    "ingredients": [
+        {
+            "name": "cake",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "cocoa",
+            "quantity": "1-2",
+            "type": "-"
+        },
+        {
+            "name": "icing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cocoa",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "coffee",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

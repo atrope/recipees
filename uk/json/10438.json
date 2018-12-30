@@ -1,0 +1,46 @@
+{
+    "title": "Broccoli with Cashews and Garlic Butter",
+    "ingredients": [
+        {
+            "name": "broccoli",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cashews",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

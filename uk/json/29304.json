@@ -1,0 +1,36 @@
+{
+    "title": "Sausage rolls",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "chipolata sausages",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

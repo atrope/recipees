@@ -1,0 +1,66 @@
+{
+    "title": "Devilled chicken drumsticks",
+    "ingredients": [
+        {
+            "name": "chicken drumsticks",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "sherry wine vinegar",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

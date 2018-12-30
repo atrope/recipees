@@ -1,0 +1,46 @@
+{
+    "title": "Curried turkey and apple pitta",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "turkey",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "breads",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

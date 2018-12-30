@@ -1,0 +1,31 @@
+{
+    "title": "Spaghetti alla Carbonara",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "115",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

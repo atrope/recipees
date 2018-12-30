@@ -1,0 +1,21 @@
+{
+    "title": "Cranberry sauce",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Salmon and Pea Quinoa",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "quinoa",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "fish stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salmon steaks",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

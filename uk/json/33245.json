@@ -1,0 +1,36 @@
+{
+    "title": "The very berry smoothie",
+    "ingredients": [
+        {
+            "name": "berry",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "raspberry yoghurt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Turkey dog food",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "minced turkey",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "rice",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "broccoli carrots cauliflower",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

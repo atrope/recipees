@@ -1,0 +1,46 @@
+{
+    "title": "Tropical fruit punch",
+    "ingredients": [
+        {
+            "name": "ice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "375",
+            "type": "ml"
+        },
+        {
+            "name": "grapefruit juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vodka",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

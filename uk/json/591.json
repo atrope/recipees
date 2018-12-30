@@ -1,0 +1,26 @@
+{
+    "title": "Simple and delicious sponge cake",
+    "ingredients": [
+        {
+            "name": "margarine butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

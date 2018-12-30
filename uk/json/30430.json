@@ -1,0 +1,36 @@
+{
+    "title": "Homemade chocolate with nuts",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "nuts",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

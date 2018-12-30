@@ -1,0 +1,46 @@
+{
+    "title": "Baked ham and cheese frittata",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "135",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

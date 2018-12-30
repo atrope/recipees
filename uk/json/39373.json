@@ -1,0 +1,26 @@
+{
+    "title": "Simple cheese and grape sandwich",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "grapes",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

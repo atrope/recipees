@@ -1,0 +1,36 @@
+{
+    "title": "Cherry crumble",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "poridge oats",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cherry fruit filling",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

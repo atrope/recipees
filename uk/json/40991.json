@@ -1,0 +1,21 @@
+{
+    "title": "Chocolate banana fool",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "custard",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

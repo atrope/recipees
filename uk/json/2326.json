@@ -1,0 +1,21 @@
+{
+    "title": "Strawberries in white wine",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

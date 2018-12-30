@@ -1,0 +1,36 @@
+{
+    "title": "Tomato and spinach quinoa",
+    "ingredients": [
+        {
+            "name": "chicken vegetable stock",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "quinoa",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pesto",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "20",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

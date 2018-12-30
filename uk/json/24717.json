@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate Meringue Mushrooms",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "cream tartar",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate sauce",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Pineapple and pecan cake",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cream tartar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "crackers",
+            "quantity": "36",
+            "type": "-"
+        },
+        {
+            "name": "pecans",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "225",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

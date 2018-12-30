@@ -1,0 +1,36 @@
+{
+    "title": "Berry Fruity Sangria",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "lemonade",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rose wine",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Blackberry and apple jam",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "6",
+            "type": "kg"
+        },
+        {
+            "name": "water",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "cooking apples",
+            "quantity": "35",
+            "type": "kg"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "5",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

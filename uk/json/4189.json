@@ -1,0 +1,51 @@
+{
+    "title": "Spiced Beetroot and Apple Soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "beetroot",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "dessert apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "frache",
+            "quantity": "4",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

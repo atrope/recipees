@@ -1,0 +1,36 @@
+{
+    "title": "Wheatgerm and Banana Breakfast Smoothie",
+    "ingredients": [
+        {
+            "name": "pineapple juice",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla yoghurt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "wheatgerm",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

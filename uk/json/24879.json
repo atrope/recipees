@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate topped flapjacks",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "fruit peel",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

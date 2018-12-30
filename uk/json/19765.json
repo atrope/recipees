@@ -1,0 +1,96 @@
+{
+    "title": "Beef and vegetable pasta",
+    "ingredients": [
+        {
+            "name": "macaroni",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "3/4",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "3/4",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "685",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "850",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "685",
+            "type": "ml"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

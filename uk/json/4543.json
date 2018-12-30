@@ -1,0 +1,36 @@
+{
+    "title": "Coquito",
+    "ingredients": [
+        {
+            "name": "coconut milk",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

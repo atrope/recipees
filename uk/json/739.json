@@ -1,0 +1,51 @@
+{
+    "title": "Apple bran muffins",
+    "ingredients": [
+        {
+            "name": "bran flakes cereal",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "285",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

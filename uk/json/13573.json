@@ -1,0 +1,26 @@
+{
+    "title": "Blueberry and raspberry compote",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "185",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

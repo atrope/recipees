@@ -1,0 +1,31 @@
+{
+    "title": "Healthy oatmeal banana pancakes",
+    "ingredients": [
+        {
+            "name": "oats",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

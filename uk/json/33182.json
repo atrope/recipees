@@ -1,0 +1,36 @@
+{
+    "title": "Simple loaf of bread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sachet yeast",
+            "quantity": "7",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "40",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "290",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

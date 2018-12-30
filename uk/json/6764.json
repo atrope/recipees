@@ -1,0 +1,36 @@
+{
+    "title": "True Lancashire Hot Pot",
+    "ingredients": [
+        {
+            "name": "rashers bacon",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lamb meat",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "beef gravy",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

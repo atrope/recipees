@@ -1,0 +1,51 @@
+{
+    "title": "Pumpkin croquettes",
+    "ingredients": [
+        {
+            "name": "pumpkin squash puree",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "minced onion",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "carrot",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "breadcrumbs polenta",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

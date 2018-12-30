@@ -1,0 +1,66 @@
+{
+    "title": "Choco-coco cupcakes",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "310",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": "220",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "coconut",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ganache",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate cocoa",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

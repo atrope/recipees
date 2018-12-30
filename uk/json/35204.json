@@ -1,0 +1,51 @@
+{
+    "title": "Cherry almond loaf cake",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "nuts",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "candied peel",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

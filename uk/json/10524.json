@@ -1,0 +1,36 @@
+{
+    "title": "Cheesy Baked Salmon",
+    "ingredients": [
+        {
+            "name": "salmon fillets",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

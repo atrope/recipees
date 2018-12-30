@@ -1,0 +1,41 @@
+{
+    "title": "Best lamb burgers",
+    "ingredients": [
+        {
+            "name": "minced lamb",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger paste",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic paste",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "masala",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "toasted",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

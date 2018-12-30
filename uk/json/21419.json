@@ -1,0 +1,31 @@
+{
+    "title": "Rum and ginger fruity cocktail",
+    "ingredients": [
+        {
+            "name": "pineapple juice",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "rum",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "ginger ale",
+            "quantity": "170",
+            "type": "ml"
+        },
+        {
+            "name": "syrup",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

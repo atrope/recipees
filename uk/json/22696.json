@@ -1,0 +1,31 @@
+{
+    "title": "Orange sauce for crepes",
+    "ingredients": [
+        {
+            "name": "orange juice",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "orange marmalade",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Chocolate Strawberry Smoothie",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "chocolate sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

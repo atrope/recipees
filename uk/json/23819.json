@@ -1,0 +1,31 @@
+{
+    "title": "Fruity Ice Lollies",
+    "ingredients": [
+        {
+            "name": "bluberries raspberries strawberries banana",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

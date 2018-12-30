@@ -1,0 +1,51 @@
+{
+    "title": "White asparagus and smoked salmon soup",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

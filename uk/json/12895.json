@@ -1,0 +1,36 @@
+{
+    "title": "Simple Marshmallows",
+    "ingredients": [
+        {
+            "name": "gelatine powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "toasted coconut",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Four cheese pasta bake",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "basil",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "165",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "135",
+            "type": "g"
+        },
+        {
+            "name": "cheesee",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "penne pasta",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Broccoli and pearl barley salad",
+    "ingredients": [
+        {
+            "name": "barley",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "apricots",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "juice lime",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coriander parsley",
+            "quantity": "2",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

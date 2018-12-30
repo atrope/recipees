@@ -1,0 +1,61 @@
+{
+    "title": "Duck breast \u00e0 l'orange",
+    "ingredients": [
+        {
+            "name": "duck",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "orange liqueur",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sherry vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange marmalade",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange zest",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch cayenne pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "duck cooking vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

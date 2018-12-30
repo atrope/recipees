@@ -1,0 +1,76 @@
+{
+    "title": "Hot cabbage and grape coleslaw",
+    "ingredients": [
+        {
+            "name": "salad",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "herbs chives tarragon parsley",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "walnut oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "celeriac",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "pear",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "shallots",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "green grapes",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "grapes",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "walnut",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

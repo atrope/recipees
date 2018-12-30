@@ -1,0 +1,16 @@
+{
+    "title": "Green tea ice cream",
+    "ingredients": [
+        {
+            "name": "vanilla ice cream",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "green tea powder matcha",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

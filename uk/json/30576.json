@@ -1,0 +1,56 @@
+{
+    "title": "Paella with chicken and chorizo",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "1.25",
+            "type": "-"
+        },
+        {
+            "name": "pinch saffron",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "smoked paprika",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "cooking chorizo",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "paella rice",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

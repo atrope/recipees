@@ -1,0 +1,46 @@
+{
+    "title": "Sweet and tangy beetroot",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "beetroots",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

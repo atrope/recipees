@@ -1,0 +1,36 @@
+{
+    "title": "Matzo rolls",
+    "ingredients": [
+        {
+            "name": "matzo meal",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

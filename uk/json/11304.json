@@ -1,0 +1,31 @@
+{
+    "title": "Blue Cheese Walnut Pasta",
+    "ingredients": [
+        {
+            "name": "walnuts",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese crumbled",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "spaghetti",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

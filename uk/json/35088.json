@@ -1,0 +1,21 @@
+{
+    "title": "Basic shortbread biscuits",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

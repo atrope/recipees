@@ -1,0 +1,26 @@
+{
+    "title": "Lemon Verbena Apricot Jam",
+    "ingredients": [
+        {
+            "name": "apricots",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "650",
+            "type": "g"
+        },
+        {
+            "name": "lemon verbena",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "juice lemons",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

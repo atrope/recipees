@@ -1,0 +1,51 @@
+{
+    "title": "Easy beef stew in the slow cooker",
+    "ingredients": [
+        {
+            "name": "stewing beef",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "swede",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "stock beef meat",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "400",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

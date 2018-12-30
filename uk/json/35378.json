@@ -1,0 +1,36 @@
+{
+    "title": "Goat's cheese and roasted garlic crostini",
+    "ingredients": [
+        {
+            "name": "garlic cloves",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "goats cheese",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

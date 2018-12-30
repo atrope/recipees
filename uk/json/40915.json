@@ -1,0 +1,31 @@
+{
+    "title": "Cherry berry coconut smoothie",
+    "ingredients": [
+        {
+            "name": "cherries",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "banana",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "lime juiced",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

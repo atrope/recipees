@@ -1,0 +1,41 @@
+{
+    "title": "Peary Pork Chops",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pear juice",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pork",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

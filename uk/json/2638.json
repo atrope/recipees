@@ -1,0 +1,71 @@
+{
+    "title": "Piquant pasta and tuna salad",
+    "ingredients": [
+        {
+            "name": "fusilli pasta",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pesto sauce",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "capers",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "tomatoes wedges",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "tuna brine flaked",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "parsley garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

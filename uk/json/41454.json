@@ -1,0 +1,41 @@
+{
+    "title": "Spiced plum fruit topping",
+    "ingredients": [
+        {
+            "name": "plums",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "almonds",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cardamom",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

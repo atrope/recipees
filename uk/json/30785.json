@@ -1,0 +1,26 @@
+{
+    "title": "Cheesy scones",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "85",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

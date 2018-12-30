@@ -1,0 +1,61 @@
+{
+    "title": "Chicken, Thyme and Mushroom Soup",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "thyme garnish",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "sherry",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "frache",
+            "quantity": "4",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

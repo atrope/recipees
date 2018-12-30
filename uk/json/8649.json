@@ -1,0 +1,76 @@
+{
+    "title": "Sausage Meatballs and Macaroni",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "parsley",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beef mince",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sausages meat",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "macaroni",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "pasta sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

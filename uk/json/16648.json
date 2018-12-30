@@ -1,0 +1,16 @@
+{
+    "title": "Quick blueberry jam",
+    "ingredients": [
+        {
+            "name": "blueberries",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "750",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

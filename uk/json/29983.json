@@ -1,0 +1,41 @@
+{
+    "title": "Fenland celery soup with crumbled Stilton",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "stock",
+            "quantity": "570",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "cheese crumbled",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

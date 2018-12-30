@@ -1,0 +1,36 @@
+{
+    "title": "Very chocolatey chocolate mousse cake",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "coffee",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "10",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Portuguese licoro",
+    "ingredients": [
+        {
+            "name": "whisky",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "vanilla beans",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

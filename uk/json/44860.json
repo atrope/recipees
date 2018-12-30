@@ -1,0 +1,86 @@
+{
+    "title": "Vietnamese pork kebabs",
+    "ingredients": [
+        {
+            "name": "kebabs",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pork",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "pepper minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemongrass minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "fivespice powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bamboo skewers",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pepper minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "225",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

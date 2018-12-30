@@ -1,0 +1,36 @@
+{
+    "title": "Salmon fillet with goat's cheese and basil",
+    "ingredients": [
+        {
+            "name": "salmon fillet",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "goats cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "bunch basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Gran's chocolate covered honeycomb",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

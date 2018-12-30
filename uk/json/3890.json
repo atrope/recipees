@@ -1,0 +1,46 @@
+{
+    "title": "Potato, sweetcorn and pepper frittata",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "yellow orange pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

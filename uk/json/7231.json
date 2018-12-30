@@ -1,0 +1,51 @@
+{
+    "title": "Sweet Thai Salmon",
+    "ingredients": [
+        {
+            "name": "salmon fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "wok noodles",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

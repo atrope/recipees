@@ -1,0 +1,21 @@
+{
+    "title": "Two-ingredient pizza dough",
+    "ingredients": [
+        {
+            "name": "flour kneading",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cooking",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

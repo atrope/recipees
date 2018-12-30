@@ -1,0 +1,51 @@
+{
+    "title": "Spinach and mango salad",
+    "ingredients": [
+        {
+            "name": "flaked almonds",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tarragon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mangos",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

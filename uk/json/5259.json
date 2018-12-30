@@ -1,0 +1,36 @@
+{
+    "title": "Paula's slow cooker chicken and mushroom casserole",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mushroom sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "spinach",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

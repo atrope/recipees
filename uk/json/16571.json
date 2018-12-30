@@ -1,0 +1,31 @@
+{
+    "title": "Cuban cranberry cocktail",
+    "ingredients": [
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cranberry juice",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "rum",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "grapefruit juice",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "lime",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

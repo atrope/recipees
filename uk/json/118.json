@@ -1,0 +1,71 @@
+{
+    "title": "Curried chicken salad on naan bread",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "lime zest",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "green onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cashews",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "naan breads",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Plum and ginger chutney",
+    "ingredients": [
+        {
+            "name": "plums",
+            "quantity": "35",
+            "type": "kg"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "almonds",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

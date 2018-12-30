@@ -1,0 +1,51 @@
+{
+    "title": "Easy rice pudding",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "475",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg cinnamon",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

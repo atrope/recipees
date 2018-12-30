@@ -1,0 +1,86 @@
+{
+    "title": "Scottish Dundee cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "zest orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "peel",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "almonds",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "almonds",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

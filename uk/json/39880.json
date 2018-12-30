@@ -1,0 +1,36 @@
+{
+    "title": "Moroccan beetroot salad",
+    "ingredients": [
+        {
+            "name": "beetroot",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

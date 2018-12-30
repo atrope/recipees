@@ -1,0 +1,46 @@
+{
+    "title": "Stout gravy",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch allspice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "stout wine",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

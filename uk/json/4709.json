@@ -1,0 +1,36 @@
+{
+    "title": "Pineapple and cherry sangria",
+    "ingredients": [
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemonade",
+            "quantity": "1L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

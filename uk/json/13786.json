@@ -1,0 +1,61 @@
+{
+    "title": "Cheesy Chicken Soup",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "275",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

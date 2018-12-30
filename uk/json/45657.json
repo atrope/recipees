@@ -1,0 +1,41 @@
+{
+    "title": "Spelt sourdough bread",
+    "ingredients": [
+        {
+            "name": "spelt flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sourdough temperature",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "buttermilk temperature",
+            "quantity": "450",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bread spice nigella",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Creamy pasta salad",
+    "ingredients": [
+        {
+            "name": "macaroni pasta",
+            "quantity": "210",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salad",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

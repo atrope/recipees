@@ -1,0 +1,51 @@
+{
+    "title": "Peanut butter oat crunch biscuits",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "hazelnut chocolate spread",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Broccoli Stilton soup",
+    "ingredients": [
+        {
+            "name": "rapeseed oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leek",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt chicken vegetable stock",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese crumbled",
+            "quantity": "140",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

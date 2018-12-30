@@ -1,0 +1,36 @@
+{
+    "title": "Buckwheat biscuits",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch cloves",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "buckwheat flour",
+            "quantity": "220",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

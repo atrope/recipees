@@ -1,0 +1,51 @@
+{
+    "title": "Bacon Sausage and Kale Soup",
+    "ingredients": [
+        {
+            "name": "smoked sausage",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "kale",
+            "quantity": "135",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "75",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

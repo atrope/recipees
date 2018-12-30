@@ -1,0 +1,31 @@
+{
+    "title": "Scottish raspberry cranachan",
+    "ingredients": [
+        {
+            "name": "porridge oats",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "whisky",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

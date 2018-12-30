@@ -1,0 +1,31 @@
+{
+    "title": "Cucumber Honeydew Smoothie",
+    "ingredients": [
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honeydew melon",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "fruit juice",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "mint",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

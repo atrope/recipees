@@ -1,0 +1,56 @@
+{
+    "title": "Banana wheat bread",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bananas",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "255",
+            "type": "g"
+        },
+        {
+            "name": "wheatgerm",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pecans",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

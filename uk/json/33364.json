@@ -1,0 +1,26 @@
+{
+    "title": "Yoghurt maker honey yoghurt",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "900",
+            "type": "ml"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

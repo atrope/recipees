@@ -1,0 +1,51 @@
+{
+    "title": "Orange ginger sponge pudding",
+    "ingredients": [
+        {
+            "name": "syrup",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "oranges",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "egg orange juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pudding",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

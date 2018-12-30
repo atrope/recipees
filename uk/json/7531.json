@@ -1,0 +1,36 @@
+{
+    "title": "Amazing BBQ Ribs",
+    "ingredients": [
+        {
+            "name": "pork ribs",
+            "quantity": "75",
+            "type": "kg"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "stout temperature",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

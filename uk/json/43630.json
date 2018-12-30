@@ -1,0 +1,61 @@
+{
+    "title": "Brandied cherry clafouti",
+    "ingredients": [
+        {
+            "name": "cherries",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "allspice",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

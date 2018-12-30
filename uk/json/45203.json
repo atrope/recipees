@@ -1,0 +1,86 @@
+{
+    "title": "Brodetto (Italian fish stew)",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "flakes",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fillets",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "vinegar wine",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "fish stock",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "clams",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "prawns",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "bread toasted",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

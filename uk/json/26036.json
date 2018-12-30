@@ -1,0 +1,41 @@
+{
+    "title": "Mozzarella-stuffed risotto balls",
+    "ingredients": [
+        {
+            "name": "mushroom risotto",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "freerange eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon pepper breadcrumbs",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon wedges tomato salsa",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

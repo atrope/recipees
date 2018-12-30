@@ -1,0 +1,51 @@
+{
+    "title": "Umm ali",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "pistachio nuts",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1.2L",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Bill's Smoked BBQ Ribs",
+    "ingredients": [
+        {
+            "name": "pork ribs",
+            "quantity": "25",
+            "type": "kg"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "2L",
+            "type": "-"
+        },
+        {
+            "name": "bulb garlic cloves",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

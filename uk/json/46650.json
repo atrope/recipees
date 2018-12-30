@@ -1,0 +1,21 @@
+{
+    "title": "Plum jam with cinnamon",
+    "ingredients": [
+        {
+            "name": "plums",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "jam sugar",
+            "quantity": "1",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

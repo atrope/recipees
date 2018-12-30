@@ -1,0 +1,46 @@
+{
+    "title": "Apricot Clafoutis",
+    "ingredients": [
+        {
+            "name": "oil dish",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "apricots",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

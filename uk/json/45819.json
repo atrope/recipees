@@ -1,0 +1,46 @@
+{
+    "title": "Salmon with quinoa and spinach",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salmon fillet",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "shallot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "quinoa",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon wedge",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

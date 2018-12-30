@@ -1,0 +1,31 @@
+{
+    "title": "Christmas punch",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "cranberry juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "almond",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ginger ale",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

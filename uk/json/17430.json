@@ -1,0 +1,66 @@
+{
+    "title": "Chocolate Rum Truffles",
+    "ingredients": [
+        {
+            "name": "sponge cake",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "rum alcohol",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

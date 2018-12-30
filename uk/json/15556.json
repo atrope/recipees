@@ -1,0 +1,56 @@
+{
+    "title": "Pumpkin and White Chocolate Chip Cookies",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "pumpkin pie spice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "330",
+            "type": "g"
+        },
+        {
+            "name": "pumpkin puree",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "360",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

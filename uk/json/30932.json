@@ -1,0 +1,51 @@
+{
+    "title": "Rachel allen's poached eggs benedict with quick hollandaise",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "toast",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon grilled",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "sauce recipe",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "chives",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

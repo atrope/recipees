@@ -1,0 +1,21 @@
+{
+    "title": "Chocolate Martini a la Laren",
+    "ingredients": [
+        {
+            "name": "chocolate liqueur",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "vodka",
+            "quantity": "90",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

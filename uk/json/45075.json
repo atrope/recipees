@@ -1,0 +1,16 @@
+{
+    "title": "Chocolate walnut sweets",
+    "ingredients": [
+        {
+            "name": "chocolate cocoa",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Spiced Pumpkin Spread",
+    "ingredients": [
+        {
+            "name": "pumpkin puree",
+            "quantity": "825",
+            "type": "g"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

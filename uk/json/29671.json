@@ -1,0 +1,51 @@
+{
+    "title": "Chunky chocolate fudge",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cocoa",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "tea biscuits",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "nuts",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

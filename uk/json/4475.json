@@ -1,0 +1,36 @@
+{
+    "title": "Saffron rice",
+    "ingredients": [
+        {
+            "name": "basmati rice",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch saffron",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock boiling",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

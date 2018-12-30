@@ -1,0 +1,46 @@
+{
+    "title": "Ricotta herb scones",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "milk glaze",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "sesame",
+            "quantity": "1",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

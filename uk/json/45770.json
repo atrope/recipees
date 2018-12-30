@@ -1,0 +1,61 @@
+{
+    "title": "Classic steak and kidney pie",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "braising steak",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "ox kidney",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "flour salt pepper",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "625",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "pastry",
+            "quantity": "625",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

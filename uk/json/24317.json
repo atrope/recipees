@@ -1,0 +1,46 @@
+{
+    "title": "Bacon quiche",
+    "ingredients": [
+        {
+            "name": "shortcrust pastry",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "bacon",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

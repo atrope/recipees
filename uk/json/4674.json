@@ -1,0 +1,26 @@
+{
+    "title": "Roomali Roti",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "150",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Coconut Banana Ice Pops",
+    "ingredients": [
+        {
+            "name": "yoghurt",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "coconut",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

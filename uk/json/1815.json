@@ -1,0 +1,46 @@
+{
+    "title": "Tomato and peach chutney",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pickling spice cheesecloth",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

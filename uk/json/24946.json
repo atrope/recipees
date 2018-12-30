@@ -1,0 +1,51 @@
+{
+    "title": "Brie's sunny day sunflower dog treats",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oats",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "sunflower seed",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken broth",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

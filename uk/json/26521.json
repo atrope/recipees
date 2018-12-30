@@ -1,0 +1,36 @@
+{
+    "title": "Fruit salad with homemade peaches in syrup",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "peach syrup",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

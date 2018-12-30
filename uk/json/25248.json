@@ -1,0 +1,31 @@
+{
+    "title": "Chocolate-dipped shortbread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "165",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

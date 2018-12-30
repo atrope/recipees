@@ -1,0 +1,36 @@
+{
+    "title": "Slow cooker hot cross bun loaf pudding",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bun loaf",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

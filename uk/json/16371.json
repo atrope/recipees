@@ -1,0 +1,46 @@
+{
+    "title": "Stir-Fried Celery and Tofu",
+    "ingredients": [
+        {
+            "name": "celery",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tofu",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "glutamate",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

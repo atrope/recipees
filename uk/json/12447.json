@@ -1,0 +1,41 @@
+{
+    "title": "Easy sausage and bacon spaghetti",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "bacon",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sausages",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "olive oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

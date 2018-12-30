@@ -1,0 +1,41 @@
+{
+    "title": "Linguine pasta with tuna, leek and capers",
+    "ingredients": [
+        {
+            "name": "leeks",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "capers",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tuna",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "linguine pasta",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

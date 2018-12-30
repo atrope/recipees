@@ -1,0 +1,51 @@
+{
+    "title": "Anzac coconut biscuits",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "toasted macadamia nuts",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

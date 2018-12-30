@@ -1,0 +1,56 @@
+{
+    "title": "Marbled almond and chocolate cheesecake",
+    "ingredients": [
+        {
+            "name": "chocolate biscuit",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "almond",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cream temperature",
+            "quantity": "450",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

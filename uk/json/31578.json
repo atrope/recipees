@@ -1,0 +1,41 @@
+{
+    "title": "Hank's leek and potato soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "leeks",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.8L",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "chives",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Wassail",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "allspice",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "2L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

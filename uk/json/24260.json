@@ -1,0 +1,21 @@
+{
+    "title": "Orange Rhubarb Marmalade",
+    "ingredients": [
+        {
+            "name": "rhubarb",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "oranges",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Ham Hock and Butter Bean Soup",
+    "ingredients": [
+        {
+            "name": "butter beans",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tamarind soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

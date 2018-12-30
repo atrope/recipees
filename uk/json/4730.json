@@ -1,0 +1,56 @@
+{
+    "title": "Welsh Tea Loaf",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "650",
+            "type": "ml"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "treacle",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

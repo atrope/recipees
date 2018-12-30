@@ -1,0 +1,26 @@
+{
+    "title": "Salmon baked in salt crust",
+    "ingredients": [
+        {
+            "name": "salmon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "25",
+            "type": "kg"
+        },
+        {
+            "name": "egg",
+            "quantity": "9",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Chicken Adobo",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "rice vinegar",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "peppers green",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "corn",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

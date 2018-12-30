@@ -1,0 +1,36 @@
+{
+    "title": "Fresh Raspberry Vinaigrette",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "165",
+            "type": "g"
+        },
+        {
+            "name": "salt chicken stock",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

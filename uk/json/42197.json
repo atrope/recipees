@@ -1,0 +1,21 @@
+{
+    "title": "Chambord(R) champagne cocktail",
+    "ingredients": [
+        {
+            "name": "liqueur",
+            "quantity": "45",
+            "type": "ml"
+        },
+        {
+            "name": "agave",
+            "quantity": "45",
+            "type": "ml"
+        },
+        {
+            "name": "champagne",
+            "quantity": "115",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

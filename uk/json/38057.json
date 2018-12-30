@@ -1,0 +1,46 @@
+{
+    "title": "Curry chicken salad",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken",
+            "quantity": "560",
+            "type": "g"
+        },
+        {
+            "name": "grapes",
+            "quantity": "320",
+            "type": "g"
+        },
+        {
+            "name": "flaked almonds toasted",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

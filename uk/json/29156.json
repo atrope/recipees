@@ -1,0 +1,36 @@
+{
+    "title": "One pot pork chops with apples and sweet potatoes",
+    "ingredients": [
+        {
+            "name": "pork",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "sweet potatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

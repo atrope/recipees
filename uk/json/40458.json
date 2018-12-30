@@ -1,0 +1,36 @@
+{
+    "title": "Raspberry and pistachio semifreddo",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "pistachio nuts",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

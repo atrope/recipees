@@ -1,0 +1,36 @@
+{
+    "title": "No-bake peanut butter cookies",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "440",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "113",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "255",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "255",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

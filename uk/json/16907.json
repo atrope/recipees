@@ -1,0 +1,26 @@
+{
+    "title": "Mini sausage rolls",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pork sausages",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

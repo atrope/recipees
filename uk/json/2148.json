@@ -1,0 +1,41 @@
+{
+    "title": "Raw houmous",
+    "ingredients": [
+        {
+            "name": "chickpeas",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "tahini",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "pinch paprika",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

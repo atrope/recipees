@@ -1,0 +1,46 @@
+{
+    "title": "Jim's cheese and onion soda bread",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "550",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "caster icing sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "85",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Easy Carrot Soup",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley thyme leaf",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

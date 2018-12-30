@@ -1,0 +1,56 @@
+{
+    "title": "The Particular Kitchen banana bread",
+    "ingredients": [
+        {
+            "name": "spelt flour",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rice milk",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "margarine sunflower",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "agave",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "bananas",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coconut",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "New and improved cookies and cream chocolate fudge brownies",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "185",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "185",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "flavour",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

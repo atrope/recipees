@@ -1,0 +1,31 @@
+{
+    "title": "Banana Strawberry Smoothie",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla yoghurt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

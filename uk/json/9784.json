@@ -1,0 +1,51 @@
+{
+    "title": "Slow cooker beef mince stew",
+    "ingredients": [
+        {
+            "name": "minced beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pasta sauce",
+            "quantity": "850",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "850",
+            "type": "ml"
+        },
+        {
+            "name": "vegetables",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "beef stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

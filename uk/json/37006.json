@@ -1,0 +1,36 @@
+{
+    "title": "Bacon-flavoured dog biscuits",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bacon",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "600",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

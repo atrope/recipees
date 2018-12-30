@@ -1,0 +1,16 @@
+{
+    "title": "Amaretto champagne cocktail",
+    "ingredients": [
+        {
+            "name": "amaretto liqueur",
+            "quantity": "45",
+            "type": "ml"
+        },
+        {
+            "name": "champagne",
+            "quantity": "115",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

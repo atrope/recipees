@@ -1,0 +1,31 @@
+{
+    "title": "Spiced hot apple punch",
+    "ingredients": [
+        {
+            "name": "oranges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "2L",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

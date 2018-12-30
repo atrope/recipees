@@ -1,0 +1,26 @@
+{
+    "title": "Citrus summer",
+    "ingredients": [
+        {
+            "name": "limeade concentrate",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "beer",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vodka",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "lime wedges garnish",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

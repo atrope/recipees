@@ -1,0 +1,36 @@
+{
+    "title": "Peach and apricot crumble",
+    "ingredients": [
+        {
+            "name": "apricots",
+            "quantity": "16",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

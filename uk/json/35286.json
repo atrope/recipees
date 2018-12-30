@@ -1,0 +1,31 @@
+{
+    "title": "Warm potato salad with mackerel",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "650",
+            "type": "g"
+        },
+        {
+            "name": "smoked mackerel fillets",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "zest juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

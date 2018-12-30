@@ -1,0 +1,36 @@
+{
+    "title": "My Gran's Apple Pie",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "14",
+            "type": "-"
+        },
+        {
+            "name": "margarine butter",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "egg milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apples cooking",
+            "quantity": "4-5",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

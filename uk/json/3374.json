@@ -1,0 +1,106 @@
+{
+    "title": "Four seasons party pizza",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "sachet yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "artichokes",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive anchovy tapenade",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "ham",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "olives",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "oregano",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

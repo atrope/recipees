@@ -1,0 +1,86 @@
+{
+    "title": "Three meat chilli",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "minced venison",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "beef stewing steak",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "pork",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "beef stock crumbled",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "bourbon whiskey",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lager",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "475",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

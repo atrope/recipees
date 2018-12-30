@@ -1,0 +1,76 @@
+{
+    "title": "Oat Bran Blueberry Muffins",
+    "ingredients": [
+        {
+            "name": "oat bran",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "apple sauce",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "rapeseed oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "muesli granola",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

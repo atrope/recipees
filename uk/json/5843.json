@@ -1,0 +1,51 @@
+{
+    "title": "Warm salad with spicy tuna and feta",
+    "ingredients": [
+        {
+            "name": "basmati rice",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "plum cherry tomatoes",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "tuna",
+            "quantity": "185",
+            "type": "g"
+        },
+        {
+            "name": "root ginger",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "feta cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pinch powder",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

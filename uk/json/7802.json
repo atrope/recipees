@@ -1,0 +1,46 @@
+{
+    "title": "Jordan's Chocolate Brownies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "chocolate cocoa",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "nuts",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1tsp",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

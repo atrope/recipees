@@ -1,0 +1,36 @@
+{
+    "title": "Light Panna Cotta",
+    "ingredients": [
+        {
+            "name": "gelatine",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla bean",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coulis",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

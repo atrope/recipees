@@ -1,0 +1,51 @@
+{
+    "title": "Barbecue T-Bone Steaks",
+    "ingredients": [
+        {
+            "name": "salt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "steaks temperature",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

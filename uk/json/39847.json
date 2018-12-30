@@ -1,0 +1,31 @@
+{
+    "title": "Cherry cheesecake frozen yogurt",
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "300",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

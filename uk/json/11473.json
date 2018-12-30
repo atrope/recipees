@@ -1,0 +1,41 @@
+{
+    "title": "Raspberry cheesecake cupcakes",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "raspberries pureed",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "75",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

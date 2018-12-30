@@ -1,0 +1,46 @@
+{
+    "title": "Cheddar chicken breasts with wine and mushroom sauce",
+    "ingredients": [
+        {
+            "name": "cheese",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "rose wine",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Lemon cream cheese icing",
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

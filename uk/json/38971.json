@@ -1,0 +1,46 @@
+{
+    "title": "Glorious fruit cake",
+    "ingredients": [
+        {
+            "name": "cherries",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "fruit",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

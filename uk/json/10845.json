@@ -1,0 +1,41 @@
+{
+    "title": "Fresh strawberry tart",
+    "ingredients": [
+        {
+            "name": "shortcrust pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "orange liqueur",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

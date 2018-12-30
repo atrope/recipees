@@ -1,0 +1,61 @@
+{
+    "title": "New-style chicken salad",
+    "ingredients": [
+        {
+            "name": "chicken fillets total",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "yellow green peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "basil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salad",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

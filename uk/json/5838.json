@@ -1,0 +1,46 @@
+{
+    "title": "Tuna and cheese melt flatbreads",
+    "ingredients": [
+        {
+            "name": "tuna",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "tomato",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flatbreads focaccias",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "cheese",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

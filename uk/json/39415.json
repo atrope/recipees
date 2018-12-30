@@ -1,0 +1,26 @@
+{
+    "title": "Easy homemade flapjack",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "250",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

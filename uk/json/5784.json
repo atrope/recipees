@@ -1,0 +1,31 @@
+{
+    "title": "Maple walnut cream sauce",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "walnut",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "rum brandy",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "6",
+            "type": "tbsp"
+        },
+        {
+            "name": "double cream",
+            "quantity": "150",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

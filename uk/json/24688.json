@@ -1,0 +1,51 @@
+{
+    "title": "Flourless simple coffee cake",
+    "ingredients": [
+        {
+            "name": "almond flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "coffee",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cream tartar",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

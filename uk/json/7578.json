@@ -1,0 +1,56 @@
+{
+    "title": "Penne, tomato and mozzarella salad",
+    "ingredients": [
+        {
+            "name": "penne pasta",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "bunch onions",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "12",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

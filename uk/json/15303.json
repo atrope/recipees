@@ -1,0 +1,66 @@
+{
+    "title": "Stromboli Morsels",
+    "ingredients": [
+        {
+            "name": "sausage casings",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "bread dough",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "pepperoni sausage",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "salami",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "polenta",
+            "quantity": "45",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

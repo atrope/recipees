@@ -1,0 +1,66 @@
+{
+    "title": "Plum cobbler",
+    "ingredients": [
+        {
+            "name": "plums",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "zest juice orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

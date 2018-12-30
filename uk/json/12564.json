@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate rum balls",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vanilla biscuits",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cocoa",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Apple and rhubarb crumble with oats",
+    "ingredients": [
+        {
+            "name": "rhubarb",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cooking apples",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "crumble",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "185",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

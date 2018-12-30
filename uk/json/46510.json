@@ -1,0 +1,41 @@
+{
+    "title": "Barbecued honey pork chops",
+    "ingredients": [
+        {
+            "name": "lemon juice",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pork",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

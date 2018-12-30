@@ -1,0 +1,51 @@
+{
+    "title": "Gluten free banana muffins",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "rice flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "corn flour",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "gluten baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

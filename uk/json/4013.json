@@ -1,0 +1,41 @@
+{
+    "title": "Smoked salmon and melon",
+    "ingredients": [
+        {
+            "name": "melons",
+            "quantity": "1\u00bd",
+            "type": "-"
+        },
+        {
+            "name": "lime",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "lime wedges",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

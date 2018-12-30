@@ -1,0 +1,21 @@
+{
+    "title": "Candy-coated strawberry",
+    "ingredients": [
+        {
+            "name": "candy",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

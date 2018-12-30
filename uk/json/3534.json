@@ -1,0 +1,66 @@
+{
+    "title": "Peppers stuffed with beef and tomatoes",
+    "ingredients": [
+        {
+            "name": "breadcrumbs",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "yellow peppers",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "fennel",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

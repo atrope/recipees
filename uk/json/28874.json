@@ -1,0 +1,41 @@
+{
+    "title": "Stuffed Italian swordfish",
+    "ingredients": [
+        {
+            "name": "swordfish",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "capers",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

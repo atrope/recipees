@@ -1,0 +1,41 @@
+{
+    "title": "Scottish Empire Biscuits",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "raspberry jam",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "24",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "950",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

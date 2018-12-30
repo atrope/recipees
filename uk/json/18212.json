@@ -1,0 +1,56 @@
+{
+    "title": "Best ever tuna sandwich filling",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tuna steak",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "crab meat",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "dill",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon pepper seasoning",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "gherkin relish",
+            "quantity": "2-4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

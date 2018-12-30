@@ -1,0 +1,26 @@
+{
+    "title": "Creamy chicken bake",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cream celery soup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "75",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

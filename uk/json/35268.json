@@ -1,0 +1,46 @@
+{
+    "title": "No bake vanilla cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "145",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Bacon and kale quiche",
+    "ingredients": [
+        {
+            "name": "shortcrust pastry recipe pie",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "kale",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "bacon",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

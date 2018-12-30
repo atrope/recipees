@@ -1,0 +1,21 @@
+{
+    "title": "Rich and Creamy Chocolate Truffles",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "cocoa",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

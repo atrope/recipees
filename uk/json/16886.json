@@ -1,0 +1,36 @@
+{
+    "title": "Smoked salmon amuse bouche",
+    "ingredients": [
+        {
+            "name": "horseradish sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "double cream",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "capers parsley garnish",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

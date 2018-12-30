@@ -1,0 +1,26 @@
+{
+    "title": "Baked new potatoes with rosemary",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "2-3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

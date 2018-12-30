@@ -1,0 +1,21 @@
+{
+    "title": "3 ingredient chocolate fudge",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "397",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "400",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

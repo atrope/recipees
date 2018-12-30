@@ -1,0 +1,26 @@
+{
+    "title": "Russian hot chocolate",
+    "ingredients": [
+        {
+            "name": "vanilla vodka",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "amaretto liqueur",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

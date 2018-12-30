@@ -1,0 +1,21 @@
+{
+    "title": "Watermelon slushies",
+    "ingredients": [
+        {
+            "name": "ice",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "watermelon",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

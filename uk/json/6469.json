@@ -1,0 +1,46 @@
+{
+    "title": "Berry Punch",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "carbonated apple juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cranberry raspberry juice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "ginger beer",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "strawberry sherbet",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

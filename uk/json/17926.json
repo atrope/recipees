@@ -1,0 +1,76 @@
+{
+    "title": "Spanish Cod Stew",
+    "ingredients": [
+        {
+            "name": "cod fish",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "capers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green olives",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

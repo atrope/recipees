@@ -1,0 +1,31 @@
+{
+    "title": "Keri's chicken noodle soup",
+    "ingredients": [
+        {
+            "name": "chicken giblets",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg noodles",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "bunch onions",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

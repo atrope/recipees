@@ -1,0 +1,31 @@
+{
+    "title": "Broccoli and green grape smoothie",
+    "ingredients": [
+        {
+            "name": "broccoli",
+            "quantity": "185",
+            "type": "g"
+        },
+        {
+            "name": "green grapes",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "lime juiced",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

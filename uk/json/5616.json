@@ -1,0 +1,66 @@
+{
+    "title": "Lamb and aubergine bake",
+    "ingredients": [
+        {
+            "name": "minced lamb",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lamb vegetable stock",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "spaghetti",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

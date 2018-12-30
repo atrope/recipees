@@ -1,0 +1,41 @@
+{
+    "title": "Prosciutto wrapped goat cheese rolls",
+    "ingredients": [
+        {
+            "name": "goat cheese",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "prosciutto",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "toasted pine nuts",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

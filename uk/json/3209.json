@@ -1,0 +1,56 @@
+{
+    "title": "Trout with green beans and pesto",
+    "ingredients": [
+        {
+            "name": "trout fillets",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "green beans",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "capers",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "wine",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "fish stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pesto",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "dill garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

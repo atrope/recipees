@@ -1,0 +1,46 @@
+{
+    "title": "Banana and plum loaf",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bananas",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "plums",
+            "quantity": "2-3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

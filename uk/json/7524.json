@@ -1,0 +1,31 @@
+{
+    "title": "Tangy BBQ Ribs",
+    "ingredients": [
+        {
+            "name": "pork ribs",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "treacle",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

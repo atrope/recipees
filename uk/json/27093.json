@@ -1,0 +1,36 @@
+{
+    "title": "Chicken salad with prunes",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "prunes",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

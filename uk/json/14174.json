@@ -1,0 +1,41 @@
+{
+    "title": "Chicken Spinach and Noodle Soup",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "courgette",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "bean noodles",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "spinach",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

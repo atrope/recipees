@@ -1,0 +1,66 @@
+{
+    "title": "Special Scorpion Bowl",
+    "ingredients": [
+        {
+            "name": "ice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "gin",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vodka",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "285",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "85",
+            "type": "ml"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cocktail cherries",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Veggie macaroni salad",
+    "ingredients": [
+        {
+            "name": "macaroni",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "julienned carrots",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "tomato",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "mustard",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salad",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vinaigrette salad",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery seed",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Oreo\u00ae and white chocolate cheesecake",
+    "ingredients": [
+        {
+            "name": "cookies centre filling",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cookie",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Four cheese lasagne",
+    "ingredients": [
+        {
+            "name": "pumpkin",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "475",
+            "type": "g"
+        },
+        {
+            "name": "crumbled feta cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "pesto",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "lasagne",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

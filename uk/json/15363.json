@@ -1,0 +1,26 @@
+{
+    "title": "Vodka jelly shots",
+    "ingredients": [
+        {
+            "name": "fruit tablet jelly",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "vodka",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "175",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

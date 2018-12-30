@@ -1,0 +1,26 @@
+{
+    "title": "Hazelnut and coffee meringues",
+    "ingredients": [
+        {
+            "name": "hazelnuts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "coffee",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "egg temperature",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Salmon and Artichoke Open Omelette",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "cream",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "butter",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "artichokes",
+            "quantity": "395",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

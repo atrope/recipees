@@ -1,0 +1,51 @@
+{
+    "title": "Stuffed roast pork",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pork roasting",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "smoked ham",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "herbes",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "200",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

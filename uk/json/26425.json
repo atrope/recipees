@@ -1,0 +1,41 @@
+{
+    "title": "Ham and asparagus quiche",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "shortcrust pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

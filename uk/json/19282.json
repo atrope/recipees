@@ -1,0 +1,36 @@
+{
+    "title": "Quick and easy sloppy joes",
+    "ingredients": [
+        {
+            "name": "minced beef",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "tomato soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "malt vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "toasted",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Tofu vindaloo",
+    "ingredients": [
+        {
+            "name": "tofu",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cauliflower",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "5cm",
+            "type": "-"
+        },
+        {
+            "name": "chickpeas",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "paste",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

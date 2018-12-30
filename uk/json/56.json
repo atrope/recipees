@@ -1,0 +1,41 @@
+{
+    "title": "Liverpudlian scouse",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lamb",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "turnip swede",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lamb stock",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

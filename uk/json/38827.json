@@ -1,0 +1,46 @@
+{
+    "title": "Cucumber smoked salmon bites",
+    "ingredients": [
+        {
+            "name": "cucumbers",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "dill",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "dill",
+            "quantity": "24",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

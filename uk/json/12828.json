@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate, Rum and Hazelnut Balls",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "coconut",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "hazelnuts",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

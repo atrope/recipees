@@ -1,0 +1,71 @@
+{
+    "title": "Mediterranean spiral loaf",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sachet yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "fennel",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "yellow peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato paste",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "onion",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

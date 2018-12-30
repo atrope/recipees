@@ -1,0 +1,41 @@
+{
+    "title": "Grilled tuna with roast tomatoes",
+    "ingredients": [
+        {
+            "name": "cherry tomatoes",
+            "quantity": "16",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "oregano marjoram",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "capers",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "26",
+            "type": "-"
+        },
+        {
+            "name": "tuna steaks",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

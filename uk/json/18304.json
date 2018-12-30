@@ -1,0 +1,36 @@
+{
+    "title": "Quick and Easy BBQ Sauce",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "horseradish sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

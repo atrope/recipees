@@ -1,0 +1,36 @@
+{
+    "title": "Yummy rice pudding",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "pudding rice",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sultanas raisins",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

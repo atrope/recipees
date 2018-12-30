@@ -1,0 +1,26 @@
+{
+    "title": "Super easy turkey gravy",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "turkey",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "470",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

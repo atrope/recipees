@@ -1,0 +1,41 @@
+{
+    "title": "Creamy citrus and vanilla rice pudding",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange zest",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lime zest",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pudding rice",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Sweet potato mash with cinnamon and maple syrup",
+    "ingredients": [
+        {
+            "name": "sweet potatoes",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter vegetable oil",
+            "quantity": "1\u00bd",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

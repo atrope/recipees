@@ -1,0 +1,41 @@
+{
+    "title": "Raspberry and white chocolate tart",
+    "ingredients": [
+        {
+            "name": "mascarpone cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "sweet shortcrust pastry",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

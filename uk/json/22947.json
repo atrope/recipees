@@ -1,0 +1,41 @@
+{
+    "title": "My Sister's Duck \u00e0 l'orange",
+    "ingredients": [
+        {
+            "name": "duck",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "oranges juiced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

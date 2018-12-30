@@ -1,0 +1,31 @@
+{
+    "title": "Creamy Haddock Bake",
+    "ingredients": [
+        {
+            "name": "haddock fillets",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream mushroom soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "115",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

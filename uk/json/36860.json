@@ -1,0 +1,41 @@
+{
+    "title": "Party size Nomis's tacky rocky road",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "pink marshmallows",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "330",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "240",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Anytime Bran Muffins",
+    "ingredients": [
+        {
+            "name": "sultana bran cereal",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "allbran cereal",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "margarine",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "950",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "625",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

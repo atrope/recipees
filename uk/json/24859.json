@@ -1,0 +1,21 @@
+{
+    "title": "Easy peasy shortbread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

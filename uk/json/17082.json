@@ -1,0 +1,41 @@
+{
+    "title": "Green herb sauce",
+    "ingredients": [
+        {
+            "name": "herbs parsley chives chervil watercress alfalfa pimpernel sorrel borage tarragon lemon",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

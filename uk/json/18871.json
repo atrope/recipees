@@ -1,0 +1,31 @@
+{
+    "title": "No Bake Chocolate Peanut Butter Squares",
+    "ingredients": [
+        {
+            "name": "biscuit",
+            "quantity": "210",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "330",
+            "type": "g"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "260",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "340",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

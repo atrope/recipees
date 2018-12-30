@@ -1,0 +1,31 @@
+{
+    "title": "Easy Christmas Fruit Cake",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "coffee",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "fruit",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

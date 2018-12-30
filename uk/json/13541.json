@@ -1,0 +1,36 @@
+{
+    "title": "Beetroot walnut and prune salad",
+    "ingredients": [
+        {
+            "name": "beetroot",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "55",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "prunes",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Delicious Detox Smoothie",
+    "ingredients": [
+        {
+            "name": "oranges juiced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": "4-5",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "3-4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

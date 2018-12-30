@@ -1,0 +1,31 @@
+{
+    "title": "Broccoli with lemon almond butter",
+    "ingredients": [
+        {
+            "name": "broccoli",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

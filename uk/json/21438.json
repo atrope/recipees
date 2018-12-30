@@ -1,0 +1,51 @@
+{
+    "title": "Slow Cooked Beef Tomato Stew",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "beef stew meat",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "tomato",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "pinch parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch fennel seed",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

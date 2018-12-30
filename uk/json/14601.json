@@ -1,0 +1,56 @@
+{
+    "title": "Chunky potato salad",
+    "ingredients": [
+        {
+            "name": "piper potatoes",
+            "quantity": "25",
+            "type": "kg"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sweet gherkins",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "green olives",
+            "quantity": "25",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

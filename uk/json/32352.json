@@ -1,0 +1,41 @@
+{
+    "title": "Chinese oil",
+    "ingredients": [
+        {
+            "name": "rapeseed oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion peel",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic peel",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "anise",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

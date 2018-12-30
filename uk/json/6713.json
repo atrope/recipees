@@ -1,0 +1,41 @@
+{
+    "title": "Egg Mayo and Chicory",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "dill",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicory",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green olives",
+            "quantity": "10",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

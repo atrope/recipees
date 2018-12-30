@@ -1,0 +1,21 @@
+{
+    "title": "Refreshing strawberry smoothie",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "grapes",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

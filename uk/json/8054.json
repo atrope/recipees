@@ -1,0 +1,31 @@
+{
+    "title": "Rose petal jam",
+    "ingredients": [
+        {
+            "name": "rose",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sachet pectin",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

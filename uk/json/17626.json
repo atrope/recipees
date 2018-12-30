@@ -1,0 +1,41 @@
+{
+    "title": "Monkey Bread",
+    "ingredients": [
+        {
+            "name": "scone",
+            "quantity": "640",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pecans",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

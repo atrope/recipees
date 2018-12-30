@@ -1,0 +1,26 @@
+{
+    "title": "Minecraft Creeper cake",
+    "ingredients": [
+        {
+            "name": "chocolate cake",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "marzipan",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "green",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

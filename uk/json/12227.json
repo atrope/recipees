@@ -1,0 +1,66 @@
+{
+    "title": "Healthy seafood chowder",
+    "ingredients": [
+        {
+            "name": "smoked haddock",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "haddock",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leek",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweet potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lentils",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

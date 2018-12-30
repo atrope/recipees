@@ -1,0 +1,21 @@
+{
+    "title": "Ice cream with only 2 ingredients",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "flavour cookies vanilla cinnamon strawberry",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

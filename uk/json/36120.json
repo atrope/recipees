@@ -1,0 +1,36 @@
+{
+    "title": "Easy peasy stir fry satay chicken",
+    "ingredients": [
+        {
+            "name": "oil cooking",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "fry vegetables",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweet sauce",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "peanut butter smooth",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

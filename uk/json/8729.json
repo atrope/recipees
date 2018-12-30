@@ -1,0 +1,41 @@
+{
+    "title": "Easy banana cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

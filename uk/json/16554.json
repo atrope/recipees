@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate cake with strawberry and mint",
+    "ingredients": [
+        {
+            "name": "cooking chocolate",
+            "quantity": "230",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "strawberry coulis",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "mint",
+            "quantity": "10",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

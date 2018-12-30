@@ -1,0 +1,31 @@
+{
+    "title": "Chocolate marshmallow crispy cakes",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "rice cereal",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

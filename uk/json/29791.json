@@ -1,0 +1,61 @@
+{
+    "title": "Tasty cottage pie",
+    "ingredients": [
+        {
+            "name": "vegetable stew",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweet potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "grain mustard",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheddar cheese",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Spiced Oat and Raisin Cookies",
+    "ingredients": [
+        {
+            "name": "ginger cake",
+            "quantity": "520",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "raisins",
+            "quantity": "70",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

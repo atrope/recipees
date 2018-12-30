@@ -1,0 +1,26 @@
+{
+    "title": "Banana kiwifruit milkshake",
+    "ingredients": [
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "kiwifruit",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar sprinkles",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

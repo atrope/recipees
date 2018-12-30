@@ -1,0 +1,56 @@
+{
+    "title": "Sirloin steak with mushrooms",
+    "ingredients": [
+        {
+            "name": "shiitake mushrooms",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "tarragon",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "steak",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "shallot",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

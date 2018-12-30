@@ -1,0 +1,31 @@
+{
+    "title": "Gracie's barnbrack",
+    "ingredients": [
+        {
+            "name": "fruit",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "tea",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "340",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

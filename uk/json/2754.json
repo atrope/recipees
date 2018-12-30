@@ -1,0 +1,46 @@
+{
+    "title": "Banana cake",
+    "ingredients": [
+        {
+            "name": "bananas total",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

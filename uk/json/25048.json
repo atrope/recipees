@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate Victoria sandwich",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

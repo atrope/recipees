@@ -1,0 +1,26 @@
+{
+    "title": "Tropical banana smoothie",
+    "ingredients": [
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "coconut cream",
+            "quantity": "85",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Mocha buttercream icing",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "coffee",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

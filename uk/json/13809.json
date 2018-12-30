@@ -1,0 +1,61 @@
+{
+    "title": "Chicken and pasta soup",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fusilli pasta",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "3.1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "garlic",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

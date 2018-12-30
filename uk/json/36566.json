@@ -1,0 +1,36 @@
+{
+    "title": "Authentic Italian basil pesto",
+    "ingredients": [
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Easy Vegetable Soup",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato juice",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green beans",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "150",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "seasoning",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

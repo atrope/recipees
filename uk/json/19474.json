@@ -1,0 +1,66 @@
+{
+    "title": "Bread Machine Rye Bread",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "rye flour",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "oat bran",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caraway",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "minced onion",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

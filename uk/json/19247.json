@@ -1,0 +1,56 @@
+{
+    "title": "Yummy rye bread",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "275",
+            "type": "ml"
+        },
+        {
+            "name": "treacle",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "rye flour",
+            "quantity": "155",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caraway",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "yeast",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Bacon Wrapped Chilli Prawns",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime wedges",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

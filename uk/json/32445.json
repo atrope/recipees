@@ -1,0 +1,46 @@
+{
+    "title": "Chinese chilli beef",
+    "ingredients": [
+        {
+            "name": "beef steak",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "noodles",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "sweet stirfry sauce",
+            "quantity": "200",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

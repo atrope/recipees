@@ -1,0 +1,36 @@
+{
+    "title": "Vanilla cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Feta and olive meatballs",
+    "ingredients": [
+        {
+            "name": "minced lamb",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "crumbled feta cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "green olives",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

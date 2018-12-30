@@ -1,0 +1,21 @@
+{
+    "title": "Three ingredient fruit cake",
+    "ingredients": [
+        {
+            "name": "fruit",
+            "quantity": "320",
+            "type": "g"
+        },
+        {
+            "name": "fruit juice",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "255",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

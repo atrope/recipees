@@ -1,0 +1,61 @@
+{
+    "title": "Cream of Fresh Asparagus Soup",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tamari sauce",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

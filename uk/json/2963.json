@@ -1,0 +1,81 @@
+{
+    "title": "Sunday special roast beef",
+    "ingredients": [
+        {
+            "name": "beef",
+            "quantity": "1.5",
+            "type": "kg"
+        },
+        {
+            "name": "mustard",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "puddings",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetables",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "floury potatoes",
+            "quantity": "1.35",
+            "type": "kg"
+        },
+        {
+            "name": "parsnips",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "675",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

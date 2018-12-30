@@ -1,0 +1,56 @@
+{
+    "title": "Key lime pie ice cream",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "lemon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lime jelly",
+            "quantity": "2/3",
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

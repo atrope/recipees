@@ -1,0 +1,46 @@
+{
+    "title": "Cheesy garlic bread",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "garlic salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "basil",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "loaf bread",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

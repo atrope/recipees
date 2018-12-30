@@ -1,0 +1,51 @@
+{
+    "title": "Minted Asparagus and Garden Pea Soup",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "shallots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "650",
+            "type": "ml"
+        },
+        {
+            "name": "mint",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "toasted pine nuts",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

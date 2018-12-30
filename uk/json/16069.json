@@ -1,0 +1,51 @@
+{
+    "title": "Lemon and herb Greek salad",
+    "ingredients": [
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "4-5",
+            "type": "-"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "leaf parsley mint",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

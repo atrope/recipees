@@ -1,0 +1,36 @@
+{
+    "title": "Salsa verde potatoes",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "650",
+            "type": "g"
+        },
+        {
+            "name": "capers brine",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "leaf parsley",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "zest juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

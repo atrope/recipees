@@ -1,0 +1,36 @@
+{
+    "title": "Lobster tails in Champagne",
+    "ingredients": [
+        {
+            "name": "lobster",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "onions minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

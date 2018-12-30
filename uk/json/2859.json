@@ -1,0 +1,66 @@
+{
+    "title": "Blueberry and cranberry granola",
+    "ingredients": [
+        {
+            "name": "oats",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "wheatgerm",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "millet flakes",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "sesame",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "almonds",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "2",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

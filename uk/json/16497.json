@@ -1,0 +1,41 @@
+{
+    "title": "Best homemade burgers",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oil vegetable olive",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bread loaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced turkey beef",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

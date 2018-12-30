@@ -1,0 +1,36 @@
+{
+    "title": "Beef and bean cobbler",
+    "ingredients": [
+        {
+            "name": "bacon",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "minced beef",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beans sausages",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "barbecue sauce",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "scone milk dough shaped scones",
+            "quantity": "145",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

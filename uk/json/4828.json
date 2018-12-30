@@ -1,0 +1,61 @@
+{
+    "title": "Chocolate caramel cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuit",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "toffees",
+            "quantity": "30",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "45",
+            "type": "ml"
+        },
+        {
+            "name": "pecans",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

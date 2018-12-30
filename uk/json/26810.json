@@ -1,0 +1,41 @@
+{
+    "title": "Kheer (Indian rice pudding)",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "rice",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "saffron water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cardamom",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Cheesy Ham and Bean Soup",
+    "ingredients": [
+        {
+            "name": "boiling water",
+            "quantity": "3.75",
+            "type": "-"
+        },
+        {
+            "name": "beans",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "cream mushroom soup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Apricot Anzac Biscuits",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oats",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "apricots",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

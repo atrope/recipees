@@ -1,0 +1,56 @@
+{
+    "title": "Sauerkraut Rye Bread",
+    "ingredients": [
+        {
+            "name": "sauerkraut",
+            "quantity": "235",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "treacle",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caraway",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rye flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

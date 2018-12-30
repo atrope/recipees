@@ -1,0 +1,36 @@
+{
+    "title": "Lemon souffle",
+    "ingredients": [
+        {
+            "name": "gelatine",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "235",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

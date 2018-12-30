@@ -1,0 +1,56 @@
+{
+    "title": "Fresh Muesli",
+    "ingredients": [
+        {
+            "name": "porridge oats",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "oat bran",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "wheatgerm",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "nuts",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "fruit juice milk",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "green apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

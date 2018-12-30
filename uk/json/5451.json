@@ -1,0 +1,51 @@
+{
+    "title": "Tomato and apple chutney",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "cooking apples",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "onions",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "malt cider vinegar",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pickling spices allspice ginger celery peppercorns",
+            "quantity": "15",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

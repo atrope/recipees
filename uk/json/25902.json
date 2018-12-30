@@ -1,0 +1,56 @@
+{
+    "title": "Susie's special shepherd's pie",
+    "ingredients": [
+        {
+            "name": "potatoes mashing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "minced meat",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "gravy flavour",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "butter milk mashing potato",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

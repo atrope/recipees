@@ -1,0 +1,26 @@
+{
+    "title": "Fluff sandwich",
+    "ingredients": [
+        {
+            "name": "wholegrain bread",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "creamy peanut butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "marshmallow",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

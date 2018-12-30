@@ -1,0 +1,56 @@
+{
+    "title": "Chocolate toffee cake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cooking chocolate",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "coffee",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "dairy toffees",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

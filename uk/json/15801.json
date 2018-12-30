@@ -1,0 +1,61 @@
+{
+    "title": "Banana strawberry trifle",
+    "ingredients": [
+        {
+            "name": "sponge fingers",
+            "quantity": "10-12",
+            "type": "-"
+        },
+        {
+            "name": "sherry",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sachet custard powder",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sherry",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "strawberries",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

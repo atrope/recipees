@@ -1,0 +1,46 @@
+{
+    "title": "Christmas Club Sandwich",
+    "ingredients": [
+        {
+            "name": "turkey",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "stuffing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rashers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "loaf whitebread",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

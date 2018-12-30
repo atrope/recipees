@@ -1,0 +1,66 @@
+{
+    "title": "Rich chocolate cup cakes",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "113",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "113",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "113",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "icing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "water milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "170",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Smoked Salmon and Pesto Spaghetti",
+    "ingredients": [
+        {
+            "name": "smoked salmon",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "basil pesto",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "spaghetti",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Top beef stew",
+    "ingredients": [
+        {
+            "name": "beef",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "garden peas",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "swede",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "850",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "350",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

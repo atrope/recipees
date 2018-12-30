@@ -1,0 +1,61 @@
+{
+    "title": "Bread machine pumpernickel loaf",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "260",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "treacle",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cocoa",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caraway seed",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "rye flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "wheat gluten",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bread yeast",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

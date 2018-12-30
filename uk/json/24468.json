@@ -1,0 +1,36 @@
+{
+    "title": "Walnut cheese biscuits",
+    "ingredients": [
+        {
+            "name": "walnuts",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

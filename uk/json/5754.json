@@ -1,0 +1,46 @@
+{
+    "title": "Curried veggies with chapattis",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "curry powder paste",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "vegetables",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "beans",
+            "quantity": "420",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt mango chutney",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

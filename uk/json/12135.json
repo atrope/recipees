@@ -1,0 +1,51 @@
+{
+    "title": "Lois' wholemeal seeded bread",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "margarine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "milk powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bread yeast",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin sunflower seed",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

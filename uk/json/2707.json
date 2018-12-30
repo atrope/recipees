@@ -1,0 +1,76 @@
+{
+    "title": "Garden of Eden soup",
+    "ingredients": [
+        {
+            "name": "boiling water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable stock cube crumbled bouillon powder paste",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "green beans",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "beans",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

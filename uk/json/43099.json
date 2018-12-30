@@ -1,0 +1,31 @@
+{
+    "title": "Heavenly hot chocolate",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pinch cayenne pepper",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

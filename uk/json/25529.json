@@ -1,0 +1,36 @@
+{
+    "title": "Roly poly loaf",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "strawberry jam",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

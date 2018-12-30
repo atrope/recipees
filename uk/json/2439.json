@@ -1,0 +1,61 @@
+{
+    "title": "Vegetarian Nori Rolls",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "550",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tofu",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "rice vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "nori seaweed",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cucumber julienned",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "avocado julienned",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "carrot julienned",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

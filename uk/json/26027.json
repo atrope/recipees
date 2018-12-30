@@ -1,0 +1,81 @@
+{
+    "title": "Apple and pear salad",
+    "ingredients": [
+        {
+            "name": "apples wedges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wedges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salad",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "spinach",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "walnut toasted",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "beetroots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "walnut oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pinch caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

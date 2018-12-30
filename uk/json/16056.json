@@ -1,0 +1,46 @@
+{
+    "title": "Sweet and sour broccoli salad",
+    "ingredients": [
+        {
+            "name": "broccoli",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "120",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

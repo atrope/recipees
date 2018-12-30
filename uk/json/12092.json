@@ -1,0 +1,41 @@
+{
+    "title": "French bean, tomato and cucumber salad",
+    "ingredients": [
+        {
+            "name": "beans",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

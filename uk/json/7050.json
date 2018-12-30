@@ -1,0 +1,51 @@
+{
+    "title": "Thai mussels",
+    "ingredients": [
+        {
+            "name": "mussels",
+            "quantity": "25",
+            "type": "kg"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "curry paste",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "90",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

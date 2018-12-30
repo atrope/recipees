@@ -1,0 +1,26 @@
+{
+    "title": "Quick turkey gravy",
+    "ingredients": [
+        {
+            "name": "roast turkey gravy",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "470",
+            "type": "ml"
+        },
+        {
+            "name": "turkey",
+            "quantity": "470",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

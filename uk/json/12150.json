@@ -1,0 +1,51 @@
+{
+    "title": "Low fat sugarless fruit loaf",
+    "ingredients": [
+        {
+            "name": "raisins sultanas",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "banana",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "wheat bran",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "spice cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

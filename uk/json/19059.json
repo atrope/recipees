@@ -1,0 +1,36 @@
+{
+    "title": "Courgette and Tomato Bake",
+    "ingredients": [
+        {
+            "name": "courgettes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

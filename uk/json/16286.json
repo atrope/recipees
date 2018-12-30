@@ -1,0 +1,26 @@
+{
+    "title": "Hot Apple and Cinnamon Drink",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "13",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "3-4",
+            "type": "-"
+        },
+        {
+            "name": "sugar caster",
+            "quantity": "1-2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

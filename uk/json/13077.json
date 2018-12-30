@@ -1,0 +1,41 @@
+{
+    "title": "Sausage, Bacon and Vegetable Bake",
+    "ingredients": [
+        {
+            "name": "sausages",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "vegetables",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

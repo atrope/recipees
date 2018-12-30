@@ -1,0 +1,51 @@
+{
+    "title": "Chilled summer courgette soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "courgette",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chervil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "280",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

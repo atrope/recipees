@@ -1,0 +1,41 @@
+{
+    "title": "Crunchy ice cream treat",
+    "ingredients": [
+        {
+            "name": "rice cereal",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "coconut",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "nuts",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "vanilla ice cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Sangria as nature intended",
+    "ingredients": [
+        {
+            "name": "fruit oranges apples pear banana lemons",
+            "quantity": "1cm",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "liqueur",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "liqueur",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vodka",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "lemonade",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

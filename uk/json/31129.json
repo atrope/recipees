@@ -1,0 +1,101 @@
+{
+    "title": "Mariam's meat curry",
+    "ingredients": [
+        {
+            "name": "cooking oil",
+            "quantity": "2-3",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "3-4",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "3-4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "ginger paste",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic paste",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "meat beef mutton chicken",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "turmeric powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "masala",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

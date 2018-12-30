@@ -1,0 +1,21 @@
+{
+    "title": "Homemade Peanut Butter",
+    "ingredients": [
+        {
+            "name": "peanuts",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

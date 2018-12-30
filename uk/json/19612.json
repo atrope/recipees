@@ -1,0 +1,31 @@
+{
+    "title": "Warm bacon, beetroot and pea salad",
+    "ingredients": [
+        {
+            "name": "beetroots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "bunch chard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "crumbled feta cheese",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

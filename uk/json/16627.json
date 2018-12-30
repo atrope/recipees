@@ -1,0 +1,46 @@
+{
+    "title": "Baked cauliflower and ham pots",
+    "ingredients": [
+        {
+            "name": "cauliflower",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

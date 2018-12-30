@@ -1,0 +1,21 @@
+{
+    "title": "Raspberry frozen yoghurt",
+    "ingredients": [
+        {
+            "name": "raspberries strawberries",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

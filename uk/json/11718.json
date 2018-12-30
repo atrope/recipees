@@ -1,0 +1,31 @@
+{
+    "title": "Italian Cheese Sandwich",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pesto sauce",
+            "quantity": "165",
+            "type": "g"
+        },
+        {
+            "name": "fontina cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

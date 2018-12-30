@@ -1,0 +1,61 @@
+{
+    "title": "Olive and Cheese Swirl Bread Rolls",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "yeast",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "pinch sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "almonds",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "bunch parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "165",
+            "type": "g"
+        },
+        {
+            "name": "eggs glaze",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Apple, Banana and Sultana Porridge",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "apple",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "banana",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "oat bran",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

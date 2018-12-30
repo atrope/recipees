@@ -1,0 +1,26 @@
+{
+    "title": "Simple flapjacks",
+    "ingredients": [
+        {
+            "name": "sunflower margarine",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

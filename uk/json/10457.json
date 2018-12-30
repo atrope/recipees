@@ -1,0 +1,36 @@
+{
+    "title": "Chicken, Cherry and Walnut Salad",
+    "ingredients": [
+        {
+            "name": "salad greens",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "raspberry vinaigrette",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "walnut",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "goat cheese",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

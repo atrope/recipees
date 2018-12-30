@@ -1,0 +1,81 @@
+{
+    "title": "Chicken vegetable and noodle soup",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "julienned carrots",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "leek",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "spinach",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "egg noodles",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

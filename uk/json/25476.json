@@ -1,0 +1,41 @@
+{
+    "title": "Leek, ham and potato gratin",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "leeks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "ham",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

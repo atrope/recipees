@@ -1,0 +1,41 @@
+{
+    "title": "Wheatgerm Breakfast Pancakes",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rapeseed oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wheatgerm",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Ham, broccoli and tomato pasta salad",
+    "ingredients": [
+        {
+            "name": "fusilli pasta",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "malt vinegar",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

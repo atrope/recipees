@@ -1,0 +1,31 @@
+{
+    "title": "Easter Egg Surprise",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "9",
+            "type": "-"
+        },
+        {
+            "name": "frache",
+            "quantity": "1.5L",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "165",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "165",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "165",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

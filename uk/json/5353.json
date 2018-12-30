@@ -1,0 +1,61 @@
+{
+    "title": "Costa's French Market Doughnuts (Beignets)",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter lard",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "950",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

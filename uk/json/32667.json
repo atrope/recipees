@@ -1,0 +1,51 @@
+{
+    "title": "Bread pudding",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "fruit",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "vegetable suet",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "zest orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

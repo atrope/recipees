@@ -1,0 +1,41 @@
+{
+    "title": "Castagnaccio (Italian chestnut cake)",
+    "ingredients": [
+        {
+            "name": "raisins",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "pinenuts",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "chestnut flour",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cocoa",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk water",
+            "quantity": "800",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

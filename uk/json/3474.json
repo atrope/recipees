@@ -1,0 +1,36 @@
+{
+    "title": "Skewered swordfish with charred courgettes",
+    "ingredients": [
+        {
+            "name": "swordfish steaks",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "lemons",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

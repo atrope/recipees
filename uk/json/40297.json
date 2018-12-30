@@ -1,0 +1,31 @@
+{
+    "title": "Fancy French macarons",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "210",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "165",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

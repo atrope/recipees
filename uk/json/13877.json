@@ -1,0 +1,36 @@
+{
+    "title": "Mexican prawn cocktail",
+    "ingredients": [
+        {
+            "name": "prawns",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch coriander",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "drink",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "crackers",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

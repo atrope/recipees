@@ -1,0 +1,61 @@
+{
+    "title": "Quick fish soup",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "shallots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fish chicken stock",
+            "quantity": "900",
+            "type": "ml"
+        },
+        {
+            "name": "pinch saffron",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "vegetables",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes total",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cod fillet",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "seafood cocktail mussels squid prawns",
+            "quantity": "340",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

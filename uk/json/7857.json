@@ -1,0 +1,66 @@
+{
+    "title": "Vegetable lasagne",
+    "ingredients": [
+        {
+            "name": "lasagne",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pasta sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

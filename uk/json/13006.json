@@ -1,0 +1,31 @@
+{
+    "title": "Chocolate Easter eggs",
+    "ingredients": [
+        {
+            "name": "milk chocolate",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "egg moulds",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

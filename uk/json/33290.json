@@ -1,0 +1,36 @@
+{
+    "title": "Quick pep to an old snack (or tuna sandwhich)",
+    "ingredients": [
+        {
+            "name": "tuna oil water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "guacamole",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "grain bread",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

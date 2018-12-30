@@ -1,0 +1,46 @@
+{
+    "title": "Slow Cooker Bananas Foster",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

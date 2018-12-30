@@ -1,0 +1,46 @@
+{
+    "title": "Ginger Pear Trifle",
+    "ingredients": [
+        {
+            "name": "ginger cake",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cider",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "custard",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "glazed ginger",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flaked almonds toasted",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

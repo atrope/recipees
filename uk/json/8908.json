@@ -1,0 +1,46 @@
+{
+    "title": "Trishie's Mushroom Risotto",
+    "ingredients": [
+        {
+            "name": "mushrooms",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "onion wedges",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "risotto rice",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "mushroom soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

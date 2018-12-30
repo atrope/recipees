@@ -1,0 +1,31 @@
+{
+    "title": "Classic mint jelly",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "gelatine",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "mint",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

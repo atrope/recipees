@@ -1,0 +1,41 @@
+{
+    "title": "World's Best Butter Chicken",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "sachet",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree brand",
+            "quantity": "135",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "300",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

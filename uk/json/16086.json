@@ -1,0 +1,36 @@
+{
+    "title": "Courgette Gratin",
+    "ingredients": [
+        {
+            "name": "courgettes",
+            "quantity": "4-6",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "grating nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "dish",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

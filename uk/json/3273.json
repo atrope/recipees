@@ -1,0 +1,41 @@
+{
+    "title": "Tossed leaf and herb salad",
+    "ingredients": [
+        {
+            "name": "lettuces",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "tarragon",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "onions",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "vinaigrette",
+            "quantity": "6",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

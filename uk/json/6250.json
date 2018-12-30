@@ -1,0 +1,41 @@
+{
+    "title": "Maple apple crumble",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

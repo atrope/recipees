@@ -1,0 +1,41 @@
+{
+    "title": "Creamy goat's cheese tagliatelle with toasted hazelnuts",
+    "ingredients": [
+        {
+            "name": "tagliatelle",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "90",
+            "type": "ml"
+        },
+        {
+            "name": "goats cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "tarragon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "toasted hazelnuts",
+            "quantity": "2\u20133",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

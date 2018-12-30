@@ -1,0 +1,71 @@
+{
+    "title": "Herb and spiced lamb salad",
+    "ingredients": [
+        {
+            "name": "lamb fillet",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "toasted coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "breads",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bunch mint",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch dill",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch coriander",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pomegranate",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

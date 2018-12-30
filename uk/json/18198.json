@@ -1,0 +1,46 @@
+{
+    "title": "BBQ chicken pasta salad",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "steak sauce",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "fusilli pasta",
+            "quantity": "380",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "avocados",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "salad",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

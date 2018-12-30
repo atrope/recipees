@@ -1,0 +1,36 @@
+{
+    "title": "Venia's tuna salad",
+    "ingredients": [
+        {
+            "name": "mayonnaise",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tuna flaked",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

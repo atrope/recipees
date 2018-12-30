@@ -1,0 +1,46 @@
+{
+    "title": "Broccoli and bacon salad",
+    "ingredients": [
+        {
+            "name": "bacon",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

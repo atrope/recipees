@@ -1,0 +1,26 @@
+{
+    "title": "Mad, mad, mad chocolate drink",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "caramel",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate milk",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

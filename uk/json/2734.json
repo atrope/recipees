@@ -1,0 +1,41 @@
+{
+    "title": "Frozen pineapple and berry slush",
+    "ingredients": [
+        {
+            "name": "ice",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "milk powder",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "vanilla sugar caster",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "pineapple mint",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

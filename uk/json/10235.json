@@ -1,0 +1,36 @@
+{
+    "title": "Homemade smoked salmon",
+    "ingredients": [
+        {
+            "name": "brine",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salmon fillet",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

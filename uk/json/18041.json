@@ -1,0 +1,51 @@
+{
+    "title": "Banana Split Cheesecake",
+    "ingredients": [
+        {
+            "name": "vanilla biscuits",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

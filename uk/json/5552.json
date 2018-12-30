@@ -1,0 +1,46 @@
+{
+    "title": "Fish souffl\u00e9",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "fillet",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "shallots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "wholegrain mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

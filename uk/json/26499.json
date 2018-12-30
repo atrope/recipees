@@ -1,0 +1,46 @@
+{
+    "title": "Fun food cupcakes",
+    "ingredients": [
+        {
+            "name": "vanilla cupcake",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chocolate truffles",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "stawberry tart sauce jam",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

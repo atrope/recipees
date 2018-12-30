@@ -1,0 +1,41 @@
+{
+    "title": "Tomato and Kalamata olive pasta",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pepperoncini peppers",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "pasta",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

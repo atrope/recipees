@@ -1,0 +1,36 @@
+{
+    "title": "Thai-inspired barbecued steak",
+    "ingredients": [
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "toasted sesame oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ginger root",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "steak",
+            "quantity": "1",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

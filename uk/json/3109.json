@@ -1,0 +1,86 @@
+{
+    "title": "Ham and corn polenta tart",
+    "ingredients": [
+        {
+            "name": "polenta",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "polenta",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "chives",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "corn filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "corn",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chives garnish",
+            "quantity": "2",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

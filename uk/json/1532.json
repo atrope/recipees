@@ -1,0 +1,36 @@
+{
+    "title": "Fruit Trifle",
+    "ingredients": [
+        {
+            "name": "trifle sponges",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fruit cocktail",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sachet fruit jelly",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "custard powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

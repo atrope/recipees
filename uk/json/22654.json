@@ -1,0 +1,46 @@
+{
+    "title": "Chocolate and Irish cream cheesecake",
+    "ingredients": [
+        {
+            "name": "chocolate cookies",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "525",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "635",
+            "type": "ml"
+        },
+        {
+            "name": "cream liqueur",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

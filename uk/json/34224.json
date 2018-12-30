@@ -1,0 +1,31 @@
+{
+    "title": "Grandma's Irish tea loaf",
+    "ingredients": [
+        {
+            "name": "fruit",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "tea",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

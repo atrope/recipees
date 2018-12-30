@@ -1,0 +1,31 @@
+{
+    "title": "Basic Fruit Smoothie",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange peach mango juice",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

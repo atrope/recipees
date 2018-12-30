@@ -1,0 +1,41 @@
+{
+    "title": "Easy mulled wine",
+    "ingredients": [
+        {
+            "name": "wine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "allspice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange pith",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon pith",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

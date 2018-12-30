@@ -1,0 +1,41 @@
+{
+    "title": "Fruity Watermelon Punch",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "185",
+            "type": "g"
+        },
+        {
+            "name": "mint",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "watermelon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "strawberry margarita",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "coconut rum",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mint garnish",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

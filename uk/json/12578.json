@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate Cut-Out Biscuits",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "185",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "185",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Kale salad",
+    "ingredients": [
+        {
+            "name": "lemon juice",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "rapeseed vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bunch kale",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

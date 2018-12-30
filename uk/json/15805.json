@@ -1,0 +1,36 @@
+{
+    "title": "Basic mayonnaise",
+    "ingredients": [
+        {
+            "name": "egg temperature",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg yolk temperature",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice wine vinegar",
+            "quantity": "2-3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

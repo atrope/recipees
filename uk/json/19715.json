@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate Cake Bars",
+    "ingredients": [
+        {
+            "name": "toffees",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "chocolate cake",
+            "quantity": "520",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

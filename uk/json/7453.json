@@ -1,0 +1,51 @@
+{
+    "title": "My own famous dolmades",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "mint",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "2L",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "grape",
+            "quantity": "60",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

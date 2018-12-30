@@ -1,0 +1,41 @@
+{
+    "title": "Spiced Pumpkin Latte",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pumpkin pie spice",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coffee",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pumpkin pie spice",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

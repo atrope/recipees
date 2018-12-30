@@ -1,0 +1,51 @@
+{
+    "title": "Cheesy Turkey Soup",
+    "ingredients": [
+        {
+            "name": "turkey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "230",
+            "type": "g"
+        },
+        {
+            "name": "cream chicken soup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "950",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

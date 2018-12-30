@@ -1,0 +1,46 @@
+{
+    "title": "Papaji spiced plum jam",
+    "ingredients": [
+        {
+            "name": "plums",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "anise",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cardamon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "800",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Breakfast sausage burgers",
+    "ingredients": [
+        {
+            "name": "turkey",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "basmati rice",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "prunes",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rosemary crumbled",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

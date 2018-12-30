@@ -1,0 +1,51 @@
+{
+    "title": "Beef pumpkin and split pea soup",
+    "ingredients": [
+        {
+            "name": "yellow peas",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "sugar pumpkin",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "salt beef brisket",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bitters",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Creamy Halibut Bake",
+    "ingredients": [
+        {
+            "name": "cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "halibut steaks",
+            "quantity": "900",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

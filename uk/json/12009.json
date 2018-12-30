@@ -1,0 +1,61 @@
+{
+    "title": "Chocolate orange cake",
+    "ingredients": [
+        {
+            "name": "chocolate orange milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "345",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mandarins clementines zest",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "orange squash",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "40",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

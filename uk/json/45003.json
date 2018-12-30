@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate pecan fudge",
+    "ingredients": [
+        {
+            "name": "icing sugar",
+            "quantity": "475",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pecans",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

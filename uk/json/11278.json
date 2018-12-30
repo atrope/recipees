@@ -1,0 +1,36 @@
+{
+    "title": "French Toast with Orange",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "orange liqueur",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bread",
+            "quantity": "12",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

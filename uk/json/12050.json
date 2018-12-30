@@ -1,0 +1,21 @@
+{
+    "title": "Tasty health freak banana shake",
+    "ingredients": [
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

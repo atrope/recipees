@@ -1,0 +1,51 @@
+{
+    "title": "Pork chops in mushroom gravy",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "8",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pork",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

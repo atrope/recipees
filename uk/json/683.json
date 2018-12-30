@@ -1,0 +1,46 @@
+{
+    "title": "Mincemeat Christmas Cake",
+    "ingredients": [
+        {
+            "name": "butter temperature",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "mincemeat",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

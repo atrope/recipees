@@ -1,0 +1,36 @@
+{
+    "title": "Fiery fried chicken",
+    "ingredients": [
+        {
+            "name": "chicken drumsticks",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "polenta",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "750",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

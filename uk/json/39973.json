@@ -1,0 +1,51 @@
+{
+    "title": "Fluffy gluten free chocolate chip pancakes",
+    "ingredients": [
+        {
+            "name": "gluten flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "gluten baking powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "gluten chocolate",
+            "quantity": "85",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Italian Roast Pork",
+    "ingredients": [
+        {
+            "name": "dill",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fennel",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pork roast",
+            "quantity": "8",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

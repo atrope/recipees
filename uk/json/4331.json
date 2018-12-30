@@ -1,0 +1,66 @@
+{
+    "title": "Nippy Ni\u00e7oise salad",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "beans",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "anchovy fillets",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "5",
+            "type": "tbsp"
+        },
+        {
+            "name": "tuna",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "12",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

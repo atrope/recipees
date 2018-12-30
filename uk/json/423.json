@@ -1,0 +1,21 @@
+{
+    "title": "Black and white chocolate strawberries",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "20",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

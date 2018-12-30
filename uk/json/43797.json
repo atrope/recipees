@@ -1,0 +1,46 @@
+{
+    "title": "Pesto alla Siciliana",
+    "ingredients": [
+        {
+            "name": "cheese",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

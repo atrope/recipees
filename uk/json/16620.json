@@ -1,0 +1,41 @@
+{
+    "title": "Maple fruit salad",
+    "ingredients": [
+        {
+            "name": "pineapple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "grapes",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

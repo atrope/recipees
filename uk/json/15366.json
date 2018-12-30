@@ -1,0 +1,56 @@
+{
+    "title": "Pear, blue cheese and walnut salad",
+    "ingredients": [
+        {
+            "name": "tomato ketchup",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "malt vinegar",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rapeseed oil",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "crumbled cheese",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "toasted walnuts",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

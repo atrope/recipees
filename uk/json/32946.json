@@ -1,0 +1,71 @@
+{
+    "title": "Rich fruit cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "fruit",
+            "quantity": "4",
+            "type": "kg"
+        },
+        {
+            "name": "cherries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "peel",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

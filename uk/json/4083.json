@@ -1,0 +1,51 @@
+{
+    "title": "Crab and celeriac salad",
+    "ingredients": [
+        {
+            "name": "celeriac",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "crab meat",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "2-3",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley chervil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

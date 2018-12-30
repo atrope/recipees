@@ -1,0 +1,46 @@
+{
+    "title": "Cheesy penne bake",
+    "ingredients": [
+        {
+            "name": "penne pasta",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mince",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "pasta sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

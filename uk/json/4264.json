@@ -1,0 +1,46 @@
+{
+    "title": "Mariners' Lasagne",
+    "ingredients": [
+        {
+            "name": "egg lasagne",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "tuna",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "olives",
+            "quantity": "9",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "cheese",
+            "quantity": "2",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

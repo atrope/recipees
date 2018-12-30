@@ -1,0 +1,71 @@
+{
+    "title": "Chilled summer vegetable soup",
+    "ingredients": [
+        {
+            "name": "sandwich loaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "pinch sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk yoghurt",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "basil garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

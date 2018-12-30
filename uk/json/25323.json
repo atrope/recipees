@@ -1,0 +1,61 @@
+{
+    "title": "Beefburgers with bacon and cheese",
+    "ingredients": [
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef mince",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato sauce ketchup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "sesame seed",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tomato sauce",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

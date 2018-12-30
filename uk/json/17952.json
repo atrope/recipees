@@ -1,0 +1,46 @@
+{
+    "title": "Cod sandwiches",
+    "ingredients": [
+        {
+            "name": "cod fillets",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon wedges",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "steak sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "toasted",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salad",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

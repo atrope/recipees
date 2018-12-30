@@ -1,0 +1,61 @@
+{
+    "title": "Cherry and almond strudel",
+    "ingredients": [
+        {
+            "name": "filo pastry total",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "yogurt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "zest orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "675",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

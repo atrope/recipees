@@ -1,0 +1,41 @@
+{
+    "title": "Linguine with mushrooms and pistachios",
+    "ingredients": [
+        {
+            "name": "mushrooms",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "guanciale",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "pistachios",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "rashers bacon pancetta",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "linguine pasta",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Boozy apple shot",
+    "ingredients": [
+        {
+            "name": "whiskey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Easy creamy chicken bake",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "cream chicken soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onion stuffing",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

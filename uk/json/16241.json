@@ -1,0 +1,46 @@
+{
+    "title": "Orange and Rum Biscotti",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "orange peel zest",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "yeast",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "600",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

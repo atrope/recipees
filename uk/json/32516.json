@@ -1,0 +1,26 @@
+{
+    "title": "A twist to rice crispy cakes",
+    "ingredients": [
+        {
+            "name": "milk chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "rice",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "chocolate eggs",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

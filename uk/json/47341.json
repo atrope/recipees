@@ -1,0 +1,41 @@
+{
+    "title": "Pasta BBQ chicken salad",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "shaped pasta",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "250",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

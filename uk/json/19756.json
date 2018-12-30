@@ -1,0 +1,41 @@
+{
+    "title": "Wholesome wholemeal bread",
+    "ingredients": [
+        {
+            "name": "baking yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "360",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

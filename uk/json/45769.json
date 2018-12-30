@@ -1,0 +1,66 @@
+{
+    "title": "Gluten free banana, oat and chocolate chip cookies",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "gluten oats",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "smooth peanut almond butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "egg temperature",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "walnuts nuts",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

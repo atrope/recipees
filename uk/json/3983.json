@@ -1,0 +1,51 @@
+{
+    "title": "Grilled salmon in ciabatta",
+    "ingredients": [
+        {
+            "name": "juice lime",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "salmon fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "2\u00bd",
+            "type": "tbsp"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "2\u00bd",
+            "type": "tbsp"
+        },
+        {
+            "name": "lime zest",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ciabatta",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salad lettuce spinach chard",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Two ingredient frosting fudge",
+    "ingredients": [
+        {
+            "name": "chocolate milk",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cake flavour",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

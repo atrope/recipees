@@ -1,0 +1,61 @@
+{
+    "title": "Brian's Bran Muffins",
+    "ingredients": [
+        {
+            "name": "wheat bran",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "treacle",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

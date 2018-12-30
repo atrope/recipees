@@ -1,0 +1,61 @@
+{
+    "title": "Spinach soup",
+    "ingredients": [
+        {
+            "name": "beef stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "organic vegetable stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "potato",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "minestrone soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch masala",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "califlower",
+            "quantity": "1/2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

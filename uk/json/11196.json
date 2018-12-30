@@ -1,0 +1,36 @@
+{
+    "title": "Colcannon with ham",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "420",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ham",
+            "quantity": "900",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

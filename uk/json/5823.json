@@ -1,0 +1,31 @@
+{
+    "title": "Spiced orange with pomegranate",
+    "ingredients": [
+        {
+            "name": "oranges",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pomegranate",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cordial",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "mint",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

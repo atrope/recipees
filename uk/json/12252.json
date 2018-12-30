@@ -1,0 +1,26 @@
+{
+    "title": "No-knead bread",
+    "ingredients": [
+        {
+            "name": "baking yeast",
+            "quantity": "3/4",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "340",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "3/4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

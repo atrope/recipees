@@ -1,0 +1,86 @@
+{
+    "title": "Chicken, sausage and prawn gumbo",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "pork sausages",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "beer",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "celery",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "3/4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bunch parsley",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "seasoning",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

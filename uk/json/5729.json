@@ -1,0 +1,36 @@
+{
+    "title": "Californian wraps",
+    "ingredients": [
+        {
+            "name": "flour tortilla",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "spread",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "goats cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sunflower toasted",
+            "quantity": "1",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

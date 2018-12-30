@@ -1,0 +1,31 @@
+{
+    "title": "Cheesy cauliflower and potato",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "8",
+            "type": "kg"
+        },
+        {
+            "name": "cauliflower",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Fennel, apple and pomegranate salad",
+    "ingredients": [
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pomegranate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "bulb fennel",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

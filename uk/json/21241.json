@@ -1,0 +1,41 @@
+{
+    "title": "Pumpkin frozen yogurt",
+    "ingredients": [
+        {
+            "name": "pumpkin puree",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

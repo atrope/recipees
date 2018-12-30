@@ -1,0 +1,36 @@
+{
+    "title": "Super spelt soda bread",
+    "ingredients": [
+        {
+            "name": "spelt flour",
+            "quantity": "960",
+            "type": "g"
+        },
+        {
+            "name": "sesame",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "treacle",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

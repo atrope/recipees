@@ -1,0 +1,81 @@
+{
+    "title": "Turkey and Vegetable Pie",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "turkey",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "water chestnuts",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "poultry seasoning",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

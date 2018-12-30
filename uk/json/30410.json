@@ -1,0 +1,21 @@
+{
+    "title": "Tans Rocky Road",
+    "ingredients": [
+        {
+            "name": "milk chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "marshmellows",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

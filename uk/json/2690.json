@@ -1,0 +1,46 @@
+{
+    "title": "Roast root vegetables with herbs",
+    "ingredients": [
+        {
+            "name": "root vegetables potatoes sweet carrots parsnips swede kohlrabi",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "shallots pickling onions",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "thyme rosemary garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

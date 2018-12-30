@@ -1,0 +1,46 @@
+{
+    "title": "Goat's cheese herb dip",
+    "ingredients": [
+        {
+            "name": "goats cheese",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "chives",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "dill weed",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chervil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Thai Banana Fritters",
+    "ingredients": [
+        {
+            "name": "rice flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "tapioca flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coconut",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "bananas",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "oil frying",
+            "quantity": "750",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

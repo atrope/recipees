@@ -1,0 +1,41 @@
+{
+    "title": "Smoked salmon and caviar pasta",
+    "ingredients": [
+        {
+            "name": "linguine pasta shape",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caviar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch leaf parsley",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

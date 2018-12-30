@@ -1,0 +1,56 @@
+{
+    "title": "Cream cheese and smoked salmon spread",
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "savoury seasoning",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "smoked salmon flaked",
+            "quantity": "160",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

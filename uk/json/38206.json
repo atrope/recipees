@@ -1,0 +1,41 @@
+{
+    "title": "Delicious turkey giblet gravy",
+    "ingredients": [
+        {
+            "name": "giblets turkey gizzard kidneys liver",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "950",
+            "type": "ml"
+        },
+        {
+            "name": "turkey",
+            "quantity": "230",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

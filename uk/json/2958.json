@@ -1,0 +1,56 @@
+{
+    "title": "Irish stew",
+    "ingredients": [
+        {
+            "name": "lamb steaks total steak",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "floury potatoes",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "lamb vegetable stock",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "thyme parsley garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

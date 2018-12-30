@@ -1,0 +1,86 @@
+{
+    "title": "Three cheese spinach lasagne",
+    "ingredients": [
+        {
+            "name": "lasagne",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "165",
+            "type": "g"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "basil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "tomato",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

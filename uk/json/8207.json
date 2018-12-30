@@ -1,0 +1,26 @@
+{
+    "title": "Chicken tikka portions",
+    "ingredients": [
+        {
+            "name": "lemon juice",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "garlic salt pepper cayenne",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oil cooking",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Cheeky chocolate cake",
+    "ingredients": [
+        {
+            "name": "sponge fingers",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "5",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

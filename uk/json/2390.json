@@ -1,0 +1,36 @@
+{
+    "title": "Tofu and Tahini Sandwich Filling",
+    "ingredients": [
+        {
+            "name": "tofu",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "miso",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tahini",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "carrot minced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

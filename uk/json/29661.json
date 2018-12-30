@@ -1,0 +1,46 @@
+{
+    "title": "Gluten free sponge cake",
+    "ingredients": [
+        {
+            "name": "gluten raising flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "gluten flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "gluten baking powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Char-grilled devilled steak combo",
+    "ingredients": [
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch paprika",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "steaks",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "onions wedges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chestnut mushrooms",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

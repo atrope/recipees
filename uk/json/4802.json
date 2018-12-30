@@ -1,0 +1,31 @@
+{
+    "title": "Indian saffron rice",
+    "ingredients": [
+        {
+            "name": "saffron",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "basmati rice",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

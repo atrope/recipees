@@ -1,0 +1,26 @@
+{
+    "title": "Mango jam",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "saffron",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

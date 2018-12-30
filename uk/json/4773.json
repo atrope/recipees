@@ -1,0 +1,36 @@
+{
+    "title": "Real Potato Leek Soup",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "18",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.5L",
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

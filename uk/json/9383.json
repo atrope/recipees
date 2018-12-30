@@ -1,0 +1,41 @@
+{
+    "title": "Baked Chicken with Mushrooms and Mozzarella",
+    "ingredients": [
+        {
+            "name": "mushrooms",
+            "quantity": "210",
+            "type": "g"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "175",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

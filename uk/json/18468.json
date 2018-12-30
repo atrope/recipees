@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate peanut butter biscuit squares",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "syrup",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "10",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

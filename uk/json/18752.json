@@ -1,0 +1,76 @@
+{
+    "title": "Egg Free Chocolate Cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "smooth apple sauce",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cocoa",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sultanas raisins",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

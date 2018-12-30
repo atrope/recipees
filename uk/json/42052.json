@@ -1,0 +1,46 @@
+{
+    "title": "Marshmallow brownies",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chocolate spread",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

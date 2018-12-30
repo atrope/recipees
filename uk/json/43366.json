@@ -1,0 +1,41 @@
+{
+    "title": "No bake white chocolate and raspberry cheesecake",
+    "ingredients": [
+        {
+            "name": "biscuits",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Ruby fruit trifle and watermelon mascarpone",
+    "ingredients": [
+        {
+            "name": "watermelon juice drink",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "sweet sherry",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sponge fingers",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "watermelon",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mascarpone cheese",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "watermelon drink",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

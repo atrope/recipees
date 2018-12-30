@@ -1,0 +1,46 @@
+{
+    "title": "Hot punch",
+    "ingredients": [
+        {
+            "name": "brandy",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "rum",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "sugar sweet",
+            "quantity": "60",
+            "type": "-"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch cloves",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

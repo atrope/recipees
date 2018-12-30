@@ -1,0 +1,81 @@
+{
+    "title": "Veggie bulgur salad",
+    "ingredients": [
+        {
+            "name": "bulgur",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green peppers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "minced parsley",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "minced mint",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pomegranate molasses vinegar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

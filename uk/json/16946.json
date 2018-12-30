@@ -1,0 +1,31 @@
+{
+    "title": "Salmon Mousse Layers",
+    "ingredients": [
+        {
+            "name": "crackers",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "goat cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

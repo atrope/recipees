@@ -1,0 +1,41 @@
+{
+    "title": "Greek lamb burgers",
+    "ingredients": [
+        {
+            "name": "minced lamb",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Creamy Sweetcorn Chowder",
+    "ingredients": [
+        {
+            "name": "onion",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "salsa",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "415",
+            "type": "ml"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

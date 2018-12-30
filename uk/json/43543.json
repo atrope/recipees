@@ -1,0 +1,36 @@
+{
+    "title": "Roast goose with apples and juniper berries",
+    "ingredients": [
+        {
+            "name": "goose",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "marjoram",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "juniper",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "tart apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

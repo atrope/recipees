@@ -1,0 +1,31 @@
+{
+    "title": "Pretzel pecan treats",
+    "ingredients": [
+        {
+            "name": "pretzels",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "toffees",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "pecan",
+            "quantity": "30",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

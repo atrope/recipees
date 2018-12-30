@@ -1,0 +1,46 @@
+{
+    "title": "Pumpkin fudge",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pumpkin puree",
+            "quantity": "185",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

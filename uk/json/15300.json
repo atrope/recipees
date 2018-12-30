@@ -1,0 +1,41 @@
+{
+    "title": "Rhubarb and Strawberry Jam",
+    "ingredients": [
+        {
+            "name": "rhubarb",
+            "quantity": "525",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fruit pectin",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "",
+            "quantity": "12",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

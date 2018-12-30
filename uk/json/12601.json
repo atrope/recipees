@@ -1,0 +1,41 @@
+{
+    "title": "Lemon cream dessert",
+    "ingredients": [
+        {
+            "name": "gelatine",
+            "quantity": "12",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "zest lemons",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "juice lemons",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "berry compote",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

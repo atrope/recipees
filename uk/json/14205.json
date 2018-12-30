@@ -1,0 +1,36 @@
+{
+    "title": "Beetroot and feta salad",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "beetroots",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

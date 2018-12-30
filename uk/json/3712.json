@@ -1,0 +1,41 @@
+{
+    "title": "Super roast partridge",
+    "ingredients": [
+        {
+            "name": "partridges",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch mace",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "blackberry crab apple jelly",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

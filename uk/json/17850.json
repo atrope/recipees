@@ -1,0 +1,76 @@
+{
+    "title": "Fruity fruit cake",
+    "ingredients": [
+        {
+            "name": "apricots",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "green cherries",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "apricot juice",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "pecans",
+            "quantity": "115",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

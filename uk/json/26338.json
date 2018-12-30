@@ -1,0 +1,31 @@
+{
+    "title": "Pork chops with green beans",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pork",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green beans",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "parsley minced",
+            "quantity": "10",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

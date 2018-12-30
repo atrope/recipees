@@ -1,0 +1,36 @@
+{
+    "title": "Basic oatcakes",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oats",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "water dough",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

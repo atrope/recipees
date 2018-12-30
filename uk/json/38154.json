@@ -1,0 +1,81 @@
+{
+    "title": "Wild rice and sausage stuffing",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "230",
+            "type": "ml"
+        },
+        {
+            "name": "rice",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "pork sausage meat",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "cooking apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "430",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Cream soda scones",
+    "ingredients": [
+        {
+            "name": "cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

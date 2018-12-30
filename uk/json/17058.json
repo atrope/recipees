@@ -1,0 +1,51 @@
+{
+    "title": "Cumin-spiced carrot and sultana salad",
+    "ingredients": [
+        {
+            "name": "cumin",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch cayenne pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

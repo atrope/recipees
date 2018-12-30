@@ -1,0 +1,56 @@
+{
+    "title": "Beef stroganoff made easy",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "fillet steaks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch herbs",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "frache cream",
+            "quantity": "400",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

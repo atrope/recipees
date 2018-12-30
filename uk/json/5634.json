@@ -1,0 +1,61 @@
+{
+    "title": "Red, white and green bean salad",
+    "ingredients": [
+        {
+            "name": "grape apple juice",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "3/4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "3/4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green beans",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "kidney beans",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "beans",
+            "quantity": "300",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

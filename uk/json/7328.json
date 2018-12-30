@@ -1,0 +1,26 @@
+{
+    "title": "Banana berry smoothie",
+    "ingredients": [
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla yoghurt",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

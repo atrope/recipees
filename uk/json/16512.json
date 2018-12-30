@@ -1,0 +1,21 @@
+{
+    "title": "Best Rhubarb Compote",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "rhubarb",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Quick Cold Tuna Noodle Salad",
+    "ingredients": [
+        {
+            "name": "egg noodles",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tuna",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Mushroom and Barley Bake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sherry",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "785",
+            "type": "ml"
+        },
+        {
+            "name": "barley",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Amazing pork fillet in the slow cooker",
+    "ingredients": [
+        {
+            "name": "pork fillet",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "sachet onion soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Quick eggs Benedict",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "frache",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "wholegrain muffins",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "ham total",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

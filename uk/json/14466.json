@@ -1,0 +1,36 @@
+{
+    "title": "Spiced Apple Pie Drink",
+    "ingredients": [
+        {
+            "name": "apple juice",
+            "quantity": "3.75",
+            "type": "-"
+        },
+        {
+            "name": "ginger ale",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "whisky",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "spiced rum",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Fish chowder",
+    "ingredients": [
+        {
+            "name": "cod fillet",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "smoked haddock",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "fish stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "prawns",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

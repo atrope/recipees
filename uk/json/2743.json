@@ -1,0 +1,66 @@
+{
+    "title": "Vanilla angel cake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "egg temperature",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cream tartar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "300",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

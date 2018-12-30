@@ -1,0 +1,41 @@
+{
+    "title": "Baked seabass",
+    "ingredients": [
+        {
+            "name": "fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pinch",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

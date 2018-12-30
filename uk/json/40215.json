@@ -1,0 +1,41 @@
+{
+    "title": "White chocolate and coconut tiramisu",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "coconut",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ladyfingers",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "coffee",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

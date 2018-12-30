@@ -1,0 +1,51 @@
+{
+    "title": "Buckwheat breakfast bowl",
+    "ingredients": [
+        {
+            "name": "buckwheat flakes",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coconut",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla powder",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "agave syrup",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

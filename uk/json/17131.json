@@ -1,0 +1,61 @@
+{
+    "title": "Lemon cup cakes",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "113",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "113",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "113",
+            "type": "g"
+        },
+        {
+            "name": "lemon flavouring",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "icing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "lemon flavouring",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk water",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

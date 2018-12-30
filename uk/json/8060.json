@@ -1,0 +1,66 @@
+{
+    "title": "Tomato chutney",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "4",
+            "type": "kg"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "3.75L",
+            "type": "-"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "allspice",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

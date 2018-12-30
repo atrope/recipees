@@ -1,0 +1,51 @@
+{
+    "title": "Gluten-free chocolate chip cookies",
+    "ingredients": [
+        {
+            "name": "butter temperature",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "eggs temperature",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "almond flour",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "coconut flour",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "gluten chocolate",
+            "quantity": "325",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

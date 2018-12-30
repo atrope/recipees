@@ -1,0 +1,36 @@
+{
+    "title": "Egg-free brandy sauce",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "brandy",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

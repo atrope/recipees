@@ -1,0 +1,21 @@
+{
+    "title": "ABC dessert - avocado, banana and chocolate",
+    "ingredients": [
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder garnish",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

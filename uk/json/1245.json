@@ -1,0 +1,51 @@
+{
+    "title": "Cinnamon rolls",
+    "ingredients": [
+        {
+            "name": "baking yeast",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

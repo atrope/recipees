@@ -1,0 +1,31 @@
+{
+    "title": "Lavender biscuits",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "56",
+            "type": "g"
+        },
+        {
+            "name": "lavender flowers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "10",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

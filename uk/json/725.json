@@ -1,0 +1,31 @@
+{
+    "title": "Amy's fruit smoothie",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "110",
+            "type": "ml"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "370",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

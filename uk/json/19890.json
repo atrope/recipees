@@ -1,0 +1,36 @@
+{
+    "title": "Easy Bolognese sauce",
+    "ingredients": [
+        {
+            "name": "minced beef",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

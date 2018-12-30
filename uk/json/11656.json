@@ -1,0 +1,51 @@
+{
+    "title": "Creamy Peanut Butter Spaghetti",
+    "ingredients": [
+        {
+            "name": "creamy peanut butter",
+            "quantity": "130",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spaghetti",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "coriander",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Tiramisu with red berries",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

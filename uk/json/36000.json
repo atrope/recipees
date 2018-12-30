@@ -1,0 +1,41 @@
+{
+    "title": "Puff pastry mince pies",
+    "ingredients": [
+        {
+            "name": "mincemeat",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "marzipan",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

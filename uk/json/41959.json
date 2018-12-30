@@ -1,0 +1,21 @@
+{
+    "title": "Chocolate and hazelnut palmiers",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spread",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "hazelnuts",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

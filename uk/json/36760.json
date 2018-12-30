@@ -1,0 +1,41 @@
+{
+    "title": "Chinese sesame chicken with noodles",
+    "ingredients": [
+        {
+            "name": "sesame oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oyster sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fry noodles",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Steamed quinoa with herbs and veggies",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "leek green",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "thyme basil herb",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "wine",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

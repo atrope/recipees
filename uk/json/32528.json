@@ -1,0 +1,21 @@
+{
+    "title": "Short and sweet chocolate fudge",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

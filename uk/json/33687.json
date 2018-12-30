@@ -1,0 +1,26 @@
+{
+    "title": "Strawberry cream squares",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "strawberry jam",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

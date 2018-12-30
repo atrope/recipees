@@ -1,0 +1,31 @@
+{
+    "title": "Barbecued cantaloupe",
+    "ingredients": [
+        {
+            "name": "cantaloupe",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "mint",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "skewers",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Chicken pasta bake for a crowd",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "cream mushroom soup",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "chicken meat",
+            "quantity": "850",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "475",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

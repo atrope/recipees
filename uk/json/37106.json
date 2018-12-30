@@ -1,0 +1,21 @@
+{
+    "title": "Chocolate balloon bowl with ice cream",
+    "ingredients": [
+        {
+            "name": "milk chocolate",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ice cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

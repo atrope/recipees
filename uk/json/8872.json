@@ -1,0 +1,21 @@
+{
+    "title": "Raspberry champagne cocktail",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raspberry liqueur",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "champagne",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

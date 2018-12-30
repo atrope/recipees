@@ -1,0 +1,86 @@
+{
+    "title": "Springtime spinach salad",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "water",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "croutons",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

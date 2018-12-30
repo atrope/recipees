@@ -1,0 +1,46 @@
+{
+    "title": "Chinese noodle chicken",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "carrots julienned",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "noodles",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "teriyaki sauce",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

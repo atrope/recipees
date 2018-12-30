@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate Walnut Fudge",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

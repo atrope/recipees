@@ -1,0 +1,61 @@
+{
+    "title": "Chicken beetroot and potato salad",
+    "ingredients": [
+        {
+            "name": "baking potatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "dill pickled cucumbers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "dill pickle brine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "beetroot",
+            "quantity": "170",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

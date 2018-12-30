@@ -1,0 +1,41 @@
+{
+    "title": "Creamed salmon pots",
+    "ingredients": [
+        {
+            "name": "bread sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salmon",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

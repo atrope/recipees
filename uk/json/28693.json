@@ -1,0 +1,71 @@
+{
+    "title": "Red pepper soup with feta cheese",
+    "ingredients": [
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peppers",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "1.5L",
+            "type": "-"
+        },
+        {
+            "name": "bunch thyme",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sheeps milk feta cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "olives",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

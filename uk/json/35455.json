@@ -1,0 +1,71 @@
+{
+    "title": "Chicken and vegetable stir fry",
+    "ingredients": [
+        {
+            "name": "oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "bean",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "egg noodles",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

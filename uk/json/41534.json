@@ -1,0 +1,61 @@
+{
+    "title": "Super easy doughnuts",
+    "ingredients": [
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "90",
+            "type": "ml"
+        },
+        {
+            "name": "butter baking",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oil frying",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar icing",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

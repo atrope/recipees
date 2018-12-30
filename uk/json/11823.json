@@ -1,0 +1,56 @@
+{
+    "title": "Coconut and Black Bean Soup",
+    "ingredients": [
+        {
+            "name": "beans",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green peas",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock water",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion powder",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

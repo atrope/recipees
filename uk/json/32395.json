@@ -1,0 +1,41 @@
+{
+    "title": "Rhubarb and fig jam",
+    "ingredients": [
+        {
+            "name": "rhubarb",
+            "quantity": "35",
+            "type": "kg"
+        },
+        {
+            "name": "figs",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "zest juice lemons",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "35",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

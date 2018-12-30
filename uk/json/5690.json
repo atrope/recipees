@@ -1,0 +1,51 @@
+{
+    "title": "Spiced semolina with walnuts",
+    "ingredients": [
+        {
+            "name": "semolina",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "spice",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "walnut",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "maple syrup honey",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Cinnamon Rice Krispies\u00ae bars",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "cereal",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flaked almonds",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

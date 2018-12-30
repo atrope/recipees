@@ -1,0 +1,51 @@
+{
+    "title": "Nutella\u00ae and cherry flapjacks",
+    "ingredients": [
+        {
+            "name": "porridge oats",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Mango, avocado and spinach salad",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "mango",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato wedges",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion julienned",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch caster sugar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

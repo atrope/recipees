@@ -1,0 +1,31 @@
+{
+    "title": "Fruity Halloween Punch",
+    "ingredients": [
+        {
+            "name": "sachet grape drink",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sachet orange drink",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "ginger ale",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

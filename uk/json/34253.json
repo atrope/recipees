@@ -1,0 +1,21 @@
+{
+    "title": "Simple honey flapjacks",
+    "ingredients": [
+        {
+            "name": "porridge oats",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "7",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

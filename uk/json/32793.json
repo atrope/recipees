@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate marshmallow flapjacks",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "330",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "660",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "215",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "700",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

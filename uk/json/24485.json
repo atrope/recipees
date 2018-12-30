@@ -1,0 +1,26 @@
+{
+    "title": "Boiled eggs with cheese and ham soldiers",
+    "ingredients": [
+        {
+            "name": "freerange eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

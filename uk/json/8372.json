@@ -1,0 +1,26 @@
+{
+    "title": "Butternut Squash Mash",
+    "ingredients": [
+        {
+            "name": "squash",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

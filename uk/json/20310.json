@@ -1,0 +1,56 @@
+{
+    "title": "Three cheese macaroni pasta bake",
+    "ingredients": [
+        {
+            "name": "macaroni pasta",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

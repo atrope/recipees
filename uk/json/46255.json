@@ -1,0 +1,31 @@
+{
+    "title": "Mulled wine with oranges",
+    "ingredients": [
+        {
+            "name": "oranges",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

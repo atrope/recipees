@@ -1,0 +1,51 @@
+{
+    "title": "Chicken chorizo paella",
+    "ingredients": [
+        {
+            "name": "chorizo",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "smoked paprika",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "paella rice",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "peas",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

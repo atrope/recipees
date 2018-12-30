@@ -1,0 +1,71 @@
+{
+    "title": "Veggie pasta salad",
+    "ingredients": [
+        {
+            "name": "broccoli",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "penne pasta",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "seasoning",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

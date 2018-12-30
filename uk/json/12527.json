@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate Cherry Royales",
+    "ingredients": [
+        {
+            "name": "margarine",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cooking chocolate",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "biscuits",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "cherry brandy",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coconut",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

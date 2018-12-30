@@ -1,0 +1,46 @@
+{
+    "title": "Gluten free cinnamon, raisin and guava biscotti",
+    "ingredients": [
+        {
+            "name": "plantain flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "gluten flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "raisins",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "guava paste",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Raspberry Jam",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

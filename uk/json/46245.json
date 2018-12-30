@@ -1,0 +1,86 @@
+{
+    "title": "Stollen without yeast",
+    "ingredients": [
+        {
+            "name": "raisins",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "lemon peel",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "orange peel",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vanilla sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "almonds",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "almond",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rum",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "margarine",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "quark",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Pork Chops with Honey and Pecans",
+    "ingredients": [
+        {
+            "name": "pork loin",
+            "quantity": "565",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pecans",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

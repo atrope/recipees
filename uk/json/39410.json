@@ -1,0 +1,36 @@
+{
+    "title": "Stuffed chicken meatballs",
+    "ingredients": [
+        {
+            "name": "chicken mince",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "bread",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

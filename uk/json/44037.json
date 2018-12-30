@@ -1,0 +1,51 @@
+{
+    "title": "Buckwheat cake with rosehip jam",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "rosehip jam",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "hazelnuts",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "buckwheat flour",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "vanilla sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "rosehip jam filling",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

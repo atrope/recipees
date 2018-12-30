@@ -1,0 +1,56 @@
+{
+    "title": "Tasty chicken pie",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "leeks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chestnut mushrooms",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "roast chicken picked leftover",
+            "quantity": "400",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "milk flour double cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "tarragon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

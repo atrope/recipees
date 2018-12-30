@@ -1,0 +1,26 @@
+{
+    "title": "Real strawberry buttercream icing",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

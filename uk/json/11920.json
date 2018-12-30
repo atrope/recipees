@@ -1,0 +1,46 @@
+{
+    "title": "Feta and Sun-dried Tomato Spaghetti",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "bunch basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

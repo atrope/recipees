@@ -1,0 +1,26 @@
+{
+    "title": "Jam sandwich biscuits",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "plum jam",
+            "quantity": "4-5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

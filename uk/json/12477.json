@@ -1,0 +1,61 @@
+{
+    "title": "Chinese chicken",
+    "ingredients": [
+        {
+            "name": "mushrooms",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3-4",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "4cm",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "spice powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken",
+            "quantity": "4",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

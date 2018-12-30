@@ -1,0 +1,26 @@
+{
+    "title": "Chicken Satay Kebabs",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "satay sauce",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "vegetables chicken",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "skewers",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

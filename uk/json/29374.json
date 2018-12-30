@@ -1,0 +1,31 @@
+{
+    "title": "Chocolate banana spread",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "70",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate milk",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "amaretto rum",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Raspberry fizz cocktail",
+    "ingredients": [
+        {
+            "name": "vodka",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "raspberry liquor",
+            "quantity": "25",
+            "type": "ml"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "sugar syrup",
+            "quantity": "15",
+            "type": "ml"
+        },
+        {
+            "name": "lemonade",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mint garnish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "raspberries garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

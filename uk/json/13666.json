@@ -1,0 +1,56 @@
+{
+    "title": "Spicy cabbage and tomato salad",
+    "ingredients": [
+        {
+            "name": "cabbage",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ghee butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

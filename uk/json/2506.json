@@ -1,0 +1,51 @@
+{
+    "title": "Dried fruit compote",
+    "ingredients": [
+        {
+            "name": "orange juice",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "orange zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch cloves",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "fruit prunes apricots apples",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

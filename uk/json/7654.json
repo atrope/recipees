@@ -1,0 +1,36 @@
+{
+    "title": "Fresh cherry ice cream",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "almond",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cherries",
+            "quantity": "300",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

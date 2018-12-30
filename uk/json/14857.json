@@ -1,0 +1,41 @@
+{
+    "title": "Pumpkin spread",
+    "ingredients": [
+        {
+            "name": "pumpkin puree",
+            "quantity": "875",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "allspice cloves",
+            "quantity": "1/8",
+            "type": "-"
+        },
+        {
+            "name": "sachet gelatine",
+            "quantity": "2/3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

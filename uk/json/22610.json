@@ -1,0 +1,51 @@
+{
+    "title": "Christmas eggs Benedict",
+    "ingredients": [
+        {
+            "name": "wine vinegar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "eggs freerange",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "ham gammon freerange organic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "muffins toasted",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

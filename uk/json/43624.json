@@ -1,0 +1,26 @@
+{
+    "title": "Kiwi banana smoothie",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water milk",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

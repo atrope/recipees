@@ -1,0 +1,56 @@
+{
+    "title": "Best spring rolls",
+    "ingredients": [
+        {
+            "name": "minced pork",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "groundnut oil frying",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "roll",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "sesame",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

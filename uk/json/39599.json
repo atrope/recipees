@@ -1,0 +1,71 @@
+{
+    "title": "Italian aubergine parmigiana",
+    "ingredients": [
+        {
+            "name": "aubergines total",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "1.2L",
+            "type": "-"
+        },
+        {
+            "name": "tomato sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tomato plum tomatoes",
+            "quantity": "1.4L",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella scamorza cheese",
+            "quantity": "650",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

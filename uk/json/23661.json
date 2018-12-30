@@ -1,0 +1,61 @@
+{
+    "title": "Aussie apricot chicken",
+    "ingredients": [
+        {
+            "name": "apricot syrup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sachets onion soup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sherry wine",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "60",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

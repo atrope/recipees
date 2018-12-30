@@ -1,0 +1,46 @@
+{
+    "title": "My chocolate and mango cupcakes",
+    "ingredients": [
+        {
+            "name": "raising flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "255",
+            "type": "g"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "eggs temperature",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "130",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mango",
+            "quantity": "115",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

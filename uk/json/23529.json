@@ -1,0 +1,51 @@
+{
+    "title": "Vegan Mayonnaise",
+    "ingredients": [
+        {
+            "name": "organic cashews",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "65",
+            "type": "ml"
+        },
+        {
+            "name": "cauliflower",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "agave",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "apple cider vinegar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

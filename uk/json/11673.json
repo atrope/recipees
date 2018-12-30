@@ -1,0 +1,51 @@
+{
+    "title": "Barbecued prawn skewers",
+    "ingredients": [
+        {
+            "name": "lime juice",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "seasoning",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "skewers",
+            "quantity": "12",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

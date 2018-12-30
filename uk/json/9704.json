@@ -1,0 +1,61 @@
+{
+    "title": "Quick Chicken Noodle Soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1.5L",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "chicken",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "egg noodles",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

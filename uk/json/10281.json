@@ -1,0 +1,26 @@
+{
+    "title": "Baked asparagus with Parmesan crumbs",
+    "ingredients": [
+        {
+            "name": "bunch asparagus",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

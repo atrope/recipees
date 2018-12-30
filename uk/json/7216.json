@@ -1,0 +1,41 @@
+{
+    "title": "Italian pesto pizza",
+    "ingredients": [
+        {
+            "name": "pizza",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pesto",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "prosciutto",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "basil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

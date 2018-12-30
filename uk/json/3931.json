@@ -1,0 +1,61 @@
+{
+    "title": "Chicken with apples",
+    "ingredients": [
+        {
+            "name": "apples",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "shallots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "dessert apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "chicken",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "2",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Vinegar Chilli BBQ Sauce",
+    "ingredients": [
+        {
+            "name": "cider vinegar",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch flakes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

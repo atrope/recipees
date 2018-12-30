@@ -1,0 +1,41 @@
+{
+    "title": "Mincemeat buns",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "270",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mincemeat",
+            "quantity": "400",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Stuffed mushrooms",
+    "ingredients": [
+        {
+            "name": "chestnut mushrooms total",
+            "quantity": "16",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "shallots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spinach garnish",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "hazelnuts",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "cheese",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

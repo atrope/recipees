@@ -1,0 +1,56 @@
+{
+    "title": "Houmous and olive sandwich spread",
+    "ingredients": [
+        {
+            "name": "olives",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "green olives",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "tahini",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leaf parsley",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Tropical fruit yoghurt smoothie",
+    "ingredients": [
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "155",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

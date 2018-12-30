@@ -1,0 +1,21 @@
+{
+    "title": "White chocolate and peanut butter fudge",
+    "ingredients": [
+        {
+            "name": "baking chocolate",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "270",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "140",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

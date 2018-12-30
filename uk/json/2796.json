@@ -1,0 +1,51 @@
+{
+    "title": "Boston brown bread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "rye flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cornmeal polenta",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "molasses",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

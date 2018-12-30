@@ -1,0 +1,41 @@
+{
+    "title": "Beef and kale tacos",
+    "ingredients": [
+        {
+            "name": "oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "beef",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "kale",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "taco seasoning",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "taco",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

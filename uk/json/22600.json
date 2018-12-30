@@ -1,0 +1,56 @@
+{
+    "title": "Pea and ham soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leek",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ham gammon freerange organic",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "peas leftover",
+            "quantity": "455",
+            "type": "g"
+        },
+        {
+            "name": "chicken vegetable stock",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

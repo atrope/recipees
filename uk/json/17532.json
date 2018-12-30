@@ -1,0 +1,21 @@
+{
+    "title": "The best scrambled eggs you will taste, fact!",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

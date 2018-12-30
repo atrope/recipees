@@ -1,0 +1,41 @@
+{
+    "title": "Hot chocolate mud cake",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "6",
+            "type": "tbsp"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate spread",
+            "quantity": "350",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

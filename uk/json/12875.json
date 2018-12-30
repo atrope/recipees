@@ -1,0 +1,46 @@
+{
+    "title": "Chocolate Rice Krispies\u00ae biscuits",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "190",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rice cereal",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "165",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

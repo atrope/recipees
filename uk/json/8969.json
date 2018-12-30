@@ -1,0 +1,51 @@
+{
+    "title": "Cashew nut roast",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cashew nuts",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "pastry",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

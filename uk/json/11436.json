@@ -1,0 +1,36 @@
+{
+    "title": "Smoked salmon stuffed tomatoes",
+    "ingredients": [
+        {
+            "name": "cherry tomatoes",
+            "quantity": "50",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "smoked salmon",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

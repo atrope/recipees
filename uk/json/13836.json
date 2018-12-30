@@ -1,0 +1,71 @@
+{
+    "title": "Chicken Prawn and Rice Soup",
+    "ingredients": [
+        {
+            "name": "prawns",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "water chestnuts",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bamboo shoots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "green beans",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sherry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

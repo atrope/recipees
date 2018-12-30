@@ -1,0 +1,36 @@
+{
+    "title": "Simple mustard and dill dressing",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "wholegrain mustard",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "tbsp"
+        },
+        {
+            "name": "dill",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "capers",
+            "quantity": "2",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

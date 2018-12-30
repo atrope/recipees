@@ -1,0 +1,31 @@
+{
+    "title": "No Alcohol Pina Colada",
+    "ingredients": [
+        {
+            "name": "ice",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

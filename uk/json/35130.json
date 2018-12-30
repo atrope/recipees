@@ -1,0 +1,36 @@
+{
+    "title": "Healthy crunchy oat biscuits",
+    "ingredients": [
+        {
+            "name": "oats",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coconut oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "apricots",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "raisins sultanas",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

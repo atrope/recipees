@@ -1,0 +1,41 @@
+{
+    "title": "Creamy Turkey Pasta Bake",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "turkey chicken stock",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "turkey",
+            "quantity": "550",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

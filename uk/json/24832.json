@@ -1,0 +1,36 @@
+{
+    "title": "Our special almond cake",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "butter margarine",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "almond",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Easy coconut ice cream",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "cream coconut",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "coconut",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

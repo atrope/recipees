@@ -1,0 +1,96 @@
+{
+    "title": "Kathryn's Christmas cake",
+    "ingredients": [
+        {
+            "name": "fruit",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "tea",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "spice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cinamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "alcohol cherry brandy marsala",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "treacle",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "muscovado sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cherries",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "apricots",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "peel",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "lemon orange zest",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Peppa pig car cake",
+    "ingredients": [
+        {
+            "name": "sponge cakes flavour",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "buttercream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "paste",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

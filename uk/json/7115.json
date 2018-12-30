@@ -1,0 +1,36 @@
+{
+    "title": "Rich Chocolate Cake",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "470",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "eggs",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

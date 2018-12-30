@@ -1,0 +1,26 @@
+{
+    "title": "Whiskey glazed carrots",
+    "ingredients": [
+        {
+            "name": "carrots",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "whiskey",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

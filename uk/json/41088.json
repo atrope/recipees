@@ -1,0 +1,26 @@
+{
+    "title": "Fresh lemonade",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "110",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Granary wholemeal bread",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "seed grain bread flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "yeast",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "dough",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "seed grain bread flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sunflower oats",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

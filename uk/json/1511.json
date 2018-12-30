@@ -1,0 +1,36 @@
+{
+    "title": "Creamed Spinach with Nutmeg",
+    "ingredients": [
+        {
+            "name": "double cream",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "spinach",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

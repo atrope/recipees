@@ -1,0 +1,31 @@
+{
+    "title": "Puff pastry mince pies with rum",
+    "ingredients": [
+        {
+            "name": "mincemeat",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "marzipan",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "zest orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rum",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "pastry",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

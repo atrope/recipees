@@ -1,0 +1,26 @@
+{
+    "title": "Vegan chocolate mousse",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tofu",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "agave syrup",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

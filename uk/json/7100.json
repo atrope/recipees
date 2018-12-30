@@ -1,0 +1,91 @@
+{
+    "title": "Myree's Chicken Madras",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "green",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cooking oil",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cardamom",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "2.5cm",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tomatoes pureed",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "masala",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

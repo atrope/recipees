@@ -1,0 +1,51 @@
+{
+    "title": "Smoked chicken and fruit salad",
+    "ingredients": [
+        {
+            "name": "rice",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "smoked chicken",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "melon flesh",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "pineapple flesh",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "zest juice orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tarragon parsley",
+            "quantity": "4",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

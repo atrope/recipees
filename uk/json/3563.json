@@ -1,0 +1,56 @@
+{
+    "title": "Spicy samosas",
+    "ingredients": [
+        {
+            "name": "minced beef",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "cumin",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chickpeas",
+            "quantity": "198",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "coriander",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "filo pastry total",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

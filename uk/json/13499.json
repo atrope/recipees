@@ -1,0 +1,26 @@
+{
+    "title": "BBQ Bacon Wrapped Venison",
+    "ingredients": [
+        {
+            "name": "venison loin",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "apple cider",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bacon",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "barbecue sauce",
+            "quantity": "680",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

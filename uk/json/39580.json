@@ -1,0 +1,46 @@
+{
+    "title": "Healthy high protein oat cake bars",
+    "ingredients": [
+        {
+            "name": "oats",
+            "quantity": "420",
+            "type": "g"
+        },
+        {
+            "name": "whey protein powder vanilla flavour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "pumpkin",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "cashew nuts",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "coconut oil",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

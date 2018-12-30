@@ -1,0 +1,31 @@
+{
+    "title": "Rich shortbread",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "113",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "284",
+            "type": "g"
+        },
+        {
+            "name": "semolina",
+            "quantity": "56",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

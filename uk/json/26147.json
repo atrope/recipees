@@ -1,0 +1,31 @@
+{
+    "title": "Fresh apricot crumble",
+    "ingredients": [
+        {
+            "name": "apricots",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

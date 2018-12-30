@@ -1,0 +1,36 @@
+{
+    "title": "Goat's cheese and cherry tomato clafouti",
+    "ingredients": [
+        {
+            "name": "cherry tomatoes",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "chives",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "goats cheese",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

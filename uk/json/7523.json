@@ -1,0 +1,31 @@
+{
+    "title": "Easy BBQ Ribs",
+    "ingredients": [
+        {
+            "name": "pork ribs",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

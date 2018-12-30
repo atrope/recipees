@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate Cookies",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "170",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

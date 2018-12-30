@@ -1,0 +1,41 @@
+{
+    "title": "Oat so honey biscuits",
+    "ingredients": [
+        {
+            "name": "oats",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sunflower oil spread",
+            "quantity": "85",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Spelt banana cake",
+    "ingredients": [
+        {
+            "name": "margarine butter",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "apple concentrate puree",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "spelt flour",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "spice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "milk",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

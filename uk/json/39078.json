@@ -1,0 +1,31 @@
+{
+    "title": "Cheese puff party nibbles",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "goats cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

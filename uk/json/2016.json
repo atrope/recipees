@@ -1,0 +1,31 @@
+{
+    "title": "Spicy Peanut Soup",
+    "ingredients": [
+        {
+            "name": "chicken vegetable stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

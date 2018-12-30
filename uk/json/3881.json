@@ -1,0 +1,41 @@
+{
+    "title": "Cosmopolitan",
+    "ingredients": [
+        {
+            "name": "vodka",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cranberry juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "orange peel",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "plate sugar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

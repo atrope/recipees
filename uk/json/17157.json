@@ -1,0 +1,51 @@
+{
+    "title": "Stuffed Butternut Squash",
+    "ingredients": [
+        {
+            "name": "squash",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lamb mince",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "couscous",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "goat cheese feta crumbled",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "mint",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

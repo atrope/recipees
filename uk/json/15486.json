@@ -1,0 +1,76 @@
+{
+    "title": "Tom yum soup with vegetables",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "2.5",
+            "type": "-"
+        },
+        {
+            "name": "galangal",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "lime",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "lemon grass",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "paste",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "90",
+            "type": "ml"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "shallots",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "carrot",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "coriander garnish",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

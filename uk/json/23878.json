@@ -1,0 +1,21 @@
+{
+    "title": "Chocolate Nests",
+    "ingredients": [
+        {
+            "name": "wheat cereal",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

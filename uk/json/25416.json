@@ -1,0 +1,31 @@
+{
+    "title": "Mike's perfect white bread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "yeast",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "275",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

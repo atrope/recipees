@@ -1,0 +1,41 @@
+{
+    "title": "Gooey chocolate brownies",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

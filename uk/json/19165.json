@@ -1,0 +1,56 @@
+{
+    "title": "Cheesy chicken and broccoli pasta",
+    "ingredients": [
+        {
+            "name": "spaghetti",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "cream chicken soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "60",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Lemon flapjacks",
+    "ingredients": [
+        {
+            "name": "honey",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "treacle",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "95",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "lemon curd",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice lemony",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "porridge oats",
+            "quantity": "160",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

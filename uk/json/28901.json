@@ -1,0 +1,51 @@
+{
+    "title": "Trout baked in Savoy cabbage leaves",
+    "ingredients": [
+        {
+            "name": "trout",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "15",
+            "type": "g"
+        },
+        {
+            "name": "dill",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pink peppercorns",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

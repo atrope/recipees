@@ -1,0 +1,41 @@
+{
+    "title": "Ken's scallops",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "scallops",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "wedge lemon",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

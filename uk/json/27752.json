@@ -1,0 +1,36 @@
+{
+    "title": "Fig jam biscuits",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "110",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "jam",
+            "quantity": "170",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

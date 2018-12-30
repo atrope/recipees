@@ -1,0 +1,36 @@
+{
+    "title": "Cheesy tomato beef pasta bake",
+    "ingredients": [
+        {
+            "name": "macaroni pasta",
+            "quantity": "700",
+            "type": "g"
+        },
+        {
+            "name": "beef mince",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "tomato juice",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

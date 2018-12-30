@@ -1,0 +1,26 @@
+{
+    "title": "Ice cold lemonade",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

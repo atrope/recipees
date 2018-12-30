@@ -1,0 +1,41 @@
+{
+    "title": "Traditional French apple tart",
+    "ingredients": [
+        {
+            "name": "shortcrust pastry",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "frache",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": "30",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

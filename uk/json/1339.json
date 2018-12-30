@@ -1,0 +1,71 @@
+{
+    "title": "Curried Winter Soup",
+    "ingredients": [
+        {
+            "name": "spaghetti marrow squash",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "turmeric",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "2L",
+            "type": "-"
+        },
+        {
+            "name": "lentils",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "macaroni pasta shape",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

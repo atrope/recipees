@@ -1,0 +1,26 @@
+{
+    "title": "Brandy butter",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

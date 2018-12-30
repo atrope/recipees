@@ -1,0 +1,46 @@
+{
+    "title": "Crusted salmon fillets",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "wholegrain mustard",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "fillets salmon",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "110",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

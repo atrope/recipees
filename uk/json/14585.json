@@ -1,0 +1,26 @@
+{
+    "title": "Beetroot and Pea Salad",
+    "ingredients": [
+        {
+            "name": "garden peas",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beetroot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salad cream",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

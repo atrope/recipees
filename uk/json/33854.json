@@ -1,0 +1,46 @@
+{
+    "title": "Fresh cucumber salad",
+    "ingredients": [
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "shallots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "toasted sesame oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Fish finger wraps",
+    "ingredients": [
+        {
+            "name": "fish fingers",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "tortilla",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garnish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tartare sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon wedges salad",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

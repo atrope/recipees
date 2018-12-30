@@ -1,0 +1,31 @@
+{
+    "title": "Baked Bananas with Chocolate and Ice Cream",
+    "ingredients": [
+        {
+            "name": "bananas",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "ice cream honey",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

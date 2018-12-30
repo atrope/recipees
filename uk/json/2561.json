@@ -1,0 +1,46 @@
+{
+    "title": "Berry salad with passion fruit",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "raspberries",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "blueberries",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "redcurrants blackcurrants",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "fruit",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "juice lemon lime",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

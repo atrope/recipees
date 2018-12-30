@@ -1,0 +1,36 @@
+{
+    "title": "Kinaja",
+    "ingredients": [
+        {
+            "name": "orange juice",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "fruits",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": "10",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

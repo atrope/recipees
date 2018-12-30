@@ -1,0 +1,26 @@
+{
+    "title": "Orange and Chocolate Mousse",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "juice zest orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

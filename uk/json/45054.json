@@ -1,0 +1,56 @@
+{
+    "title": "Vegan coconut brownies",
+    "ingredients": [
+        {
+            "name": "rice flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cocoa powder",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "apple sauce",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "coconut flaked",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "coconut oil",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

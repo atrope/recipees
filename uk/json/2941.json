@@ -1,0 +1,46 @@
+{
+    "title": "Steak sandwich",
+    "ingredients": [
+        {
+            "name": "ciabatta",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sandwich steak total",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive paste tapenade",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "tomatoes total",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

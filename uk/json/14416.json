@@ -1,0 +1,91 @@
+{
+    "title": "Wholesome Bean and Vegetable Soup",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "2.5",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cauliflower",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "parsnip",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green peas",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "green beans",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "butter beans",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "chickpeas",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "beans",
+            "quantity": "90",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

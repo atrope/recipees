@@ -1,0 +1,41 @@
+{
+    "title": "Chocolate overload pudding",
+    "ingredients": [
+        {
+            "name": "chocolate muffins",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "chocolate sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "custard powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

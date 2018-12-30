@@ -1,0 +1,36 @@
+{
+    "title": "Nuttier nut butter",
+    "ingredients": [
+        {
+            "name": "pecans",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cashews",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "peanut oil",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

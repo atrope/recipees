@@ -1,0 +1,36 @@
+{
+    "title": "Puffy apple parcels",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "apples",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pastry",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

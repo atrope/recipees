@@ -1,0 +1,31 @@
+{
+    "title": "Tatty patties or potato cakes",
+    "ingredients": [
+        {
+            "name": "baking potatoes",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "225",
+            "type": "-"
+        },
+        {
+            "name": "vegetables",
+            "quantity": "50",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

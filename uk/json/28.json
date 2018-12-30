@@ -1,0 +1,31 @@
+{
+    "title": "Scottish stovies",
+    "ingredients": [
+        {
+            "name": "potatoes",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "onion",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "beef",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

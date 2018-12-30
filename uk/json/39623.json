@@ -1,0 +1,36 @@
+{
+    "title": "Tomato salad",
+    "ingredients": [
+        {
+            "name": "tomatoes",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

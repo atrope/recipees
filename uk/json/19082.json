@@ -1,0 +1,41 @@
+{
+    "title": "Cheesy crab canapes",
+    "ingredients": [
+        {
+            "name": "crab meat",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "145",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch garlic salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "breakfast muffins",
+            "quantity": "6",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

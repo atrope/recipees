@@ -1,0 +1,21 @@
+{
+    "title": "Polenta squares with blue cheese",
+    "ingredients": [
+        {
+            "name": "polenta",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

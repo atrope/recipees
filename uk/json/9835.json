@@ -1,0 +1,81 @@
+{
+    "title": "Best Pad Thai",
+    "ingredients": [
+        {
+            "name": "rice noodles",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "tamarind paste",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "juiced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "paste sambal",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tofu",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "bean",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Rum eggnog",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "double cream",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "cream",
+            "quantity": "1L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

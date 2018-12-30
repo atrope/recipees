@@ -1,0 +1,36 @@
+{
+    "title": "Tasty tiramisu",
+    "ingredients": [
+        {
+            "name": "sachets coffee",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "loaf cakes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mascarpone cheese",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "double cream",
+            "quantity": "284",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

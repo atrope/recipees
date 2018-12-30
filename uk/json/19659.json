@@ -1,0 +1,56 @@
+{
+    "title": "Vanilla yoghurt fresh fruit salad",
+    "ingredients": [
+        {
+            "name": "strawberries",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "peach",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "plums",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sweet cherries",
+            "quantity": "145",
+            "type": "g"
+        },
+        {
+            "name": "honeydew melon",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "cantaloupe",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "165",
+            "type": "g"
+        },
+        {
+            "name": "grapes",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "vanilla yoghurt",
+            "quantity": "850",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

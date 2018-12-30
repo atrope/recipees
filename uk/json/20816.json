@@ -1,0 +1,46 @@
+{
+    "title": "Microwave chocolate orange fudge",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "pecans",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "orange zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "orange liqueur",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Simple pound cake",
+    "ingredients": [
+        {
+            "name": "eggs temperature",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "525",
+            "type": "g"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

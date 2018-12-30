@@ -1,0 +1,36 @@
+{
+    "title": "Basic barbecue sauce",
+    "ingredients": [
+        {
+            "name": "cider vinegar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

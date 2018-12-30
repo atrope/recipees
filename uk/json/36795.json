@@ -1,0 +1,51 @@
+{
+    "title": "Authentic Korean beef short ribs",
+    "ingredients": [
+        {
+            "name": "beef ribs",
+            "quantity": "8",
+            "type": "kg"
+        },
+        {
+            "name": "salt sauce",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "45",
+            "type": "ml"
+        },
+        {
+            "name": "toasted sesame oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "plum wine",
+            "quantity": "20",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

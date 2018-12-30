@@ -1,0 +1,31 @@
+{
+    "title": "Creamy Coconut Avocado Smoothie",
+    "ingredients": [
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla yoghurt",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "coconut cream",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "ice",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

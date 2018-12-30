@@ -1,0 +1,36 @@
+{
+    "title": "Pesto Chicken Panini",
+    "ingredients": [
+        {
+            "name": "focaccia bread",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "basil pesto",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "120",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

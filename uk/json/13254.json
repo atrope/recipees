@@ -1,0 +1,21 @@
+{
+    "title": "Butter shortbread",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "315",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

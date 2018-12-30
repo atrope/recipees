@@ -1,0 +1,46 @@
+{
+    "title": "Roast potatoes and parsnips",
+    "ingredients": [
+        {
+            "name": "potatoes wedges",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "parsnips",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

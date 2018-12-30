@@ -1,0 +1,31 @@
+{
+    "title": "Coconut, mango and pineapple smoothie",
+    "ingredients": [
+        {
+            "name": "mango",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "banana",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "100",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

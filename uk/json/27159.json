@@ -1,0 +1,36 @@
+{
+    "title": "Feta and prawn filo pouches",
+    "ingredients": [
+        {
+            "name": "feta cheese",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "prawns",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "filo pastry",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

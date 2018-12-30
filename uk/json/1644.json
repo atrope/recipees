@@ -1,0 +1,31 @@
+{
+    "title": "Cream cheese and herb omelette",
+    "ingredients": [
+        {
+            "name": "cream cheese",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "coriander",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

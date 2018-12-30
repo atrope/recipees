@@ -1,0 +1,36 @@
+{
+    "title": "Sandwich with Mexican tofu spread and grilled courgette",
+    "ingredients": [
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tofu spread",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "sandwich roll",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced herbs flakes chives",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

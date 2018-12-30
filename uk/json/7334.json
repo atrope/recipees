@@ -1,0 +1,36 @@
+{
+    "title": "Fresh grapefruit juice smoothie",
+    "ingredients": [
+        {
+            "name": "pink grapefruit juice",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "bananas",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "strawberry yoghurt",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "ice",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

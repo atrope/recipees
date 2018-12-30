@@ -1,0 +1,61 @@
+{
+    "title": "Ultimate club sandwiches",
+    "ingredients": [
+        {
+            "name": "bread",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bacon grilled",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "chicken",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "toothpicks",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

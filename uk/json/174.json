@@ -1,0 +1,36 @@
+{
+    "title": "Celeriac Gratin",
+    "ingredients": [
+        {
+            "name": "celeriac",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "bacon",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "300",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

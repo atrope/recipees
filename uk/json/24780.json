@@ -1,0 +1,86 @@
+{
+    "title": "Easy Spanish paella",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "onion",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "sausage",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "chicken",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rice",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "prawns",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "clams",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "mussels",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "calamari",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "tomato",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "pinch saffron",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweet paprika",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garden peas",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Sharon's toad in the hole",
+    "ingredients": [
+        {
+            "name": "pork sausages",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "100",
+            "type": "ml"
+        },
+        {
+            "name": "salt pepper batter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "oil frying baking",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

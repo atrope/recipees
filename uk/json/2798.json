@@ -1,0 +1,46 @@
+{
+    "title": "Malted sultana bread",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "malt",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "water",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "85",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

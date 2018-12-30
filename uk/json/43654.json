@@ -1,0 +1,46 @@
+{
+    "title": "Hamantaschen (Purim pastries)",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "butter margarine temperature",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "pinch vanilla sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "jam filling",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg yolk",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

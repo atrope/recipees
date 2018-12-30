@@ -1,0 +1,26 @@
+{
+    "title": "Yummy shortbread",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "fructose fruit sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "rice flour",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "375",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

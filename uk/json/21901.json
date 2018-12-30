@@ -1,0 +1,66 @@
+{
+    "title": "Prawn and Veggie Pasta Salad",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "25",
+            "type": "-"
+        },
+        {
+            "name": "prawns",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "creamy mayonnaise",
+            "quantity": "230",
+            "type": "g"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

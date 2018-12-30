@@ -1,0 +1,31 @@
+{
+    "title": "Strawberry lemonade cocktail",
+    "ingredients": [
+        {
+            "name": "ice",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "citron vodka",
+            "quantity": "45",
+            "type": "ml"
+        },
+        {
+            "name": "lemonade",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "strawberry puree",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "lemon",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

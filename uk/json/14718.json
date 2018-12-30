@@ -1,0 +1,26 @@
+{
+    "title": "Peanut power balls",
+    "ingredients": [
+        {
+            "name": "peanut butter",
+            "quantity": "260",
+            "type": "g"
+        },
+        {
+            "name": "milk powder",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "honey",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "85",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

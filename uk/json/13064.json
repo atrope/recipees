@@ -1,0 +1,51 @@
+{
+    "title": "Pork and Beef Meatloaf",
+    "ingredients": [
+        {
+            "name": "minced beef",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "pork",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "courgette",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tomato ketchup",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

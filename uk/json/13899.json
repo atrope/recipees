@@ -1,0 +1,46 @@
+{
+    "title": "Tomato, coriander, avocado and feta salad",
+    "ingredients": [
+        {
+            "name": "plum tomatoes",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "avocados",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

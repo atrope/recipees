@@ -1,0 +1,36 @@
+{
+    "title": "Roast Lamb with Honey Cider Gravy",
+    "ingredients": [
+        {
+            "name": "lamb",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clover honey",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple cider",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Roast beef with beer gravy",
+    "ingredients": [
+        {
+            "name": "bacon",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "beef roasting",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "stout",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

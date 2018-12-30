@@ -1,0 +1,16 @@
+{
+    "title": "Sugar syrup",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

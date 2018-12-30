@@ -1,0 +1,46 @@
+{
+    "title": "Salt and pepper chicken",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "vegetable sunflower oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "green pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic minced",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "green",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "rice wine vinegar",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

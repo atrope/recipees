@@ -1,0 +1,66 @@
+{
+    "title": "Rich Nut and Fruit Cake",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "green cherries",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "nuts",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "walnut",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "pecan",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "900",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

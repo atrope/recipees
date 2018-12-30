@@ -1,0 +1,61 @@
+{
+    "title": "Scrumptious BBQ spare ribs",
+    "ingredients": [
+        {
+            "name": "pork ribs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "tomato sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "paprika",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flakes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "water",
+            "quantity": "50",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Morning coffee buns",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "fruit",
+            "quantity": "55",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Easy Peasy Fruit Cake",
+    "ingredients": [
+        {
+            "name": "fruit",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "fruit nut chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "coffee orange juice",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

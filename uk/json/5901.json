@@ -1,0 +1,76 @@
+{
+    "title": "Salmon with Tomatoes",
+    "ingredients": [
+        {
+            "name": "grain rice",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "450",
+            "type": "ml"
+        },
+        {
+            "name": "garlic oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "fillets salmon",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "paprika",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "parsley",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

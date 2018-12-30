@@ -1,0 +1,41 @@
+{
+    "title": "Whisky rib-eye steak",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "whisky",
+            "quantity": "160",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "beef steaks",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

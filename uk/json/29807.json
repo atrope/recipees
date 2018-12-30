@@ -1,0 +1,46 @@
+{
+    "title": "Rhubarb chutney",
+    "ingredients": [
+        {
+            "name": "rhubarb",
+            "quantity": "8",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "raisins",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "malt vinegar",
+            "quantity": "475",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

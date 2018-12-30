@@ -1,0 +1,56 @@
+{
+    "title": "Bean salad with herrings",
+    "ingredients": [
+        {
+            "name": "butter beans",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "herring fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "480",
+            "type": "ml"
+        },
+        {
+            "name": "apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pickled cucumbers",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pickled mushrooms",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "gherkins",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

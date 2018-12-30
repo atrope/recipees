@@ -1,0 +1,41 @@
+{
+    "title": "Spinach, feta and pomegranate salad",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "walnut",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "crumbled feta",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "alfalfa",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "pomegranate",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinaigrette",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Creamy Cheese Canapes",
+    "ingredients": [
+        {
+            "name": "cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "salad",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "baguette",
+            "quantity": "450",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

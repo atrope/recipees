@@ -1,0 +1,31 @@
+{
+    "title": "Rich chocolate truffle tart",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate biscuit tart",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

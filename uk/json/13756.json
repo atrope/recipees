@@ -1,0 +1,51 @@
+{
+    "title": "Cheesy bacon and potato soup",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "flakes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon crumbled",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Date and apple salad",
+    "ingredients": [
+        {
+            "name": "hazelnuts",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "dessert apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "green grapes",
+            "quantity": "115",
+            "type": "g"
+        },
+        {
+            "name": "chicory",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

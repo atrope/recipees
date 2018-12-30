@@ -1,0 +1,46 @@
+{
+    "title": "Roasted Sweet Potato Soup",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sweet potatoes",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "macadamia nuts",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "macadamia nuts garnish",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

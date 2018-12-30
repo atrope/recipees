@@ -1,0 +1,36 @@
+{
+    "title": "Strawberry fairy cakes",
+    "ingredients": [
+        {
+            "name": "butter temperature",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

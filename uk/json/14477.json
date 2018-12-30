@@ -1,0 +1,46 @@
+{
+    "title": "Tuna pasta salad",
+    "ingredients": [
+        {
+            "name": "macaroni",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "tuna flaked",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "green olives",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Pickled beetroot",
+    "ingredients": [
+        {
+            "name": "beetroots",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "pickling salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

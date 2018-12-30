@@ -1,0 +1,41 @@
+{
+    "title": "Fresh yeast loaf",
+    "ingredients": [
+        {
+            "name": "yeast",
+            "quantity": "35",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "2",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

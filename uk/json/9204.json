@@ -1,0 +1,36 @@
+{
+    "title": "Easy bread machine pizza dough",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "310",
+            "type": "g"
+        },
+        {
+            "name": "yeast",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

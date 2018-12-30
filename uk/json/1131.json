@@ -1,0 +1,81 @@
+{
+    "title": "Chaat dahi batata puri",
+    "ingredients": [
+        {
+            "name": "chickpeas",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cumin",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coriander",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rock salt",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "potato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wheaten crackers panipuris",
+            "quantity": "32",
+            "type": "-"
+        },
+        {
+            "name": "sweet sour chutney",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "potato sev",
+            "quantity": "30",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Japanese kinton",
+    "ingredients": [
+        {
+            "name": "pumpkin puree",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sweet potato puree",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "chestnuts",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "1L",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

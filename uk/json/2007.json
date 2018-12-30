@@ -1,0 +1,36 @@
+{
+    "title": "Stellette and Portobello Mushroom Soup",
+    "ingredients": [
+        {
+            "name": "soup pasta",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "veal stock",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "grilled mushroom",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "wine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

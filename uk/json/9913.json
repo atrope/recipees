@@ -1,0 +1,61 @@
+{
+    "title": "Beef, Noodle and Chinese Mushroom Soup",
+    "ingredients": [
+        {
+            "name": "rump steak",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "buckwheat noodles",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "shiitake mushrooms",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "fish sauce",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

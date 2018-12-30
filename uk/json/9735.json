@@ -1,0 +1,76 @@
+{
+    "title": "Chicken couscous salad",
+    "ingredients": [
+        {
+            "name": "chicken stock",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "135",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "olives",
+            "quantity": "70",
+            "type": "g"
+        },
+        {
+            "name": "cheese crumbled",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

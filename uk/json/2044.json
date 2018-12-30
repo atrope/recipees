@@ -1,0 +1,36 @@
+{
+    "title": "Pickled Green Beans",
+    "ingredients": [
+        {
+            "name": "green beans",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cider vinegar",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "600",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

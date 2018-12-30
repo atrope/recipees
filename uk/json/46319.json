@@ -1,0 +1,36 @@
+{
+    "title": "Injera (Ethiopian teff flatbread)",
+    "ingredients": [
+        {
+            "name": "teff flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "teff flour",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "teff flour",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

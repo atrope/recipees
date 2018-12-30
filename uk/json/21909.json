@@ -1,0 +1,31 @@
+{
+    "title": "Sushi-Inspired Tuna Salad",
+    "ingredients": [
+        {
+            "name": "tuna brine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "wasabi paste",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "minced root ginger",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

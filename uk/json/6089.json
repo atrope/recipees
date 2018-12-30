@@ -1,0 +1,46 @@
+{
+    "title": "Polenta porridge with cr\u00e8me fra\u00eeche and blackberry jam",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "700",
+            "type": "ml"
+        },
+        {
+            "name": "polenta",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "frache",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "blackberry jam",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

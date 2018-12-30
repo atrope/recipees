@@ -1,0 +1,46 @@
+{
+    "title": "Hamantashen",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "560",
+            "type": "g"
+        },
+        {
+            "name": "fruit filling",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

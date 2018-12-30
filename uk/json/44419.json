@@ -1,0 +1,51 @@
+{
+    "title": "Red cabbage and orange salad",
+    "ingredients": [
+        {
+            "name": "cabbage",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "mandarin oranges",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "40",
+            "type": "g"
+        },
+        {
+            "name": "rapeseed oil",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

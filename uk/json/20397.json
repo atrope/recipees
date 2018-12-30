@@ -1,0 +1,46 @@
+{
+    "title": "Cheese and tomato filled cannelloni",
+    "ingredients": [
+        {
+            "name": "cannelloni pasta",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "ricotta cheese",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tomato pasta sauce",
+            "quantity": "3",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

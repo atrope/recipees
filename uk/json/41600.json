@@ -1,0 +1,51 @@
+{
+    "title": "Easy slow cooker pulled pork",
+    "ingredients": [
+        {
+            "name": "celery",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "barbecue sauce",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pork",
+            "quantity": "2",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

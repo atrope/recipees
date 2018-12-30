@@ -1,0 +1,46 @@
+{
+    "title": "Cheesy Italian tortellini",
+    "ingredients": [
+        {
+            "name": "beef mince",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sausage casings",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "pasta sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes herbs",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "refrigerated cheese tortellini",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "70",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

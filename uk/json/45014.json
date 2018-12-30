@@ -1,0 +1,56 @@
+{
+    "title": "Eat next day rich fruit cake",
+    "ingredients": [
+        {
+            "name": "cherries",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "fruit sultanas raisins peel",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "ginger",
+            "quantity": "2cm",
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "treacle",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "spice",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

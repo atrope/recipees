@@ -1,0 +1,36 @@
+{
+    "title": "Classic lemon posset",
+    "ingredients": [
+        {
+            "name": "juice zest lemons",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Fruity and chewy flapjacks",
+    "ingredients": [
+        {
+            "name": "sesame sunflower flax pumpkin",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "oil olive",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "oats",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "280",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "fruit",
+            "quantity": "175",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Tagliatelle with green sauce",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "watercress",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "tagliatelle",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "parsley",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "basil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

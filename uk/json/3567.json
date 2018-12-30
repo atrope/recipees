@@ -1,0 +1,91 @@
+{
+    "title": "Seafood pie with potato pastry",
+    "ingredients": [
+        {
+            "name": "pastry",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "turmeric",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "potato",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "sunflower margarine",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "milk glaze",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "breadcrumbs",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "fish fillets cod haddock",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "prawns seafood mussels squid",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "leeks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "peas",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "thyme",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "500",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

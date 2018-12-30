@@ -1,0 +1,41 @@
+{
+    "title": "Caramelised Chicken Wings",
+    "ingredients": [
+        {
+            "name": "chicken",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "7",
+            "type": "-"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

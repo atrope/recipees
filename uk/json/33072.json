@@ -1,0 +1,21 @@
+{
+    "title": "Golden caramel sauce",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "500",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

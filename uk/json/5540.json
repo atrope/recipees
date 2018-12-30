@@ -1,0 +1,66 @@
+{
+    "title": "Crab and avocado salad",
+    "ingredients": [
+        {
+            "name": "mayonnaise",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "lime zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "crab meat",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "avocados",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "pinch caster sugar",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "salad lettuce mizuna",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lime zest garnish",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

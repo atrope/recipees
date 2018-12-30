@@ -1,0 +1,46 @@
+{
+    "title": "Asparagus and Parma ham bruschetta",
+    "ingredients": [
+        {
+            "name": "asparagus",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "cherry tomatoes",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "ciabatta loaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic clove",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,31 @@
+{
+    "title": "Kale, pineapple and sunflower seed salad",
+    "ingredients": [
+        {
+            "name": "kale",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "sunflower seed oil",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "sunflower",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

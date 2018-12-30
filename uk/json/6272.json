@@ -1,0 +1,81 @@
+{
+    "title": "Maple roast turkey with apple brandy gravy",
+    "ingredients": [
+        {
+            "name": "apple juice",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "marjoram",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "turkey giblets",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "325",
+            "type": "g"
+        },
+        {
+            "name": "celery",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "chicken turkey stock",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple brandy",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

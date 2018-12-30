@@ -1,0 +1,56 @@
+{
+    "title": "Skint Dad's budget stir fry",
+    "ingredients": [
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "turkey meat",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cabbage",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "beansprouts",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "noodles",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "200",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

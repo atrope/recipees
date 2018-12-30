@@ -1,0 +1,41 @@
+{
+    "title": "Marzipan and walnut chocolates",
+    "ingredients": [
+        {
+            "name": "marzipan",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "kirsch",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "walnut",
+            "quantity": "25",
+            "type": "-"
+        },
+        {
+            "name": "baking",
+            "quantity": "25",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Peppered Beef with Pecan Nuts",
+    "ingredients": [
+        {
+            "name": "rump steak",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pecan",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "butter",
+            "quantity": "10",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": "4",
+            "type": "tbsp"
+        },
+        {
+            "name": "cream",
+            "quantity": "150",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

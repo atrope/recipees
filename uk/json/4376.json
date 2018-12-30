@@ -1,0 +1,61 @@
+{
+    "title": "Chilli beef and taco salad",
+    "ingredients": [
+        {
+            "name": "minced steak",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato paste",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "oregano",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "1/4",
+            "type": "-"
+        },
+        {
+            "name": "avocados",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tortilla",
+            "quantity": "75",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

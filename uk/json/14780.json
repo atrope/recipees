@@ -1,0 +1,46 @@
+{
+    "title": "Pomegranate and feta salad",
+    "ingredients": [
+        {
+            "name": "leaf greens",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "pomegranate",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "crumbled feta cheese",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "wine vinegar",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

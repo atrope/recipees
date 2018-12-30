@@ -1,0 +1,31 @@
+{
+    "title": "Pumpkin and red lentil curry soup",
+    "ingredients": [
+        {
+            "name": "pumpkin",
+            "quantity": "5",
+            "type": "kg"
+        },
+        {
+            "name": "leek",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lentils",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "1.2",
+            "type": "-"
+        },
+        {
+            "name": "curry",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

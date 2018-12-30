@@ -1,0 +1,71 @@
+{
+    "title": "Vegetarian tofu vindaloo",
+    "ingredients": [
+        {
+            "name": "vegetable oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "root ginger minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cauliflower",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "vindaloo curry powder",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "coconut milk",
+            "quantity": "425",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "230",
+            "type": "ml"
+        },
+        {
+            "name": "chickpeas",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "tofu",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "95",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

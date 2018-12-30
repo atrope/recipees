@@ -1,0 +1,46 @@
+{
+    "title": "Sweet and sticky BBQ ribs",
+    "ingredients": [
+        {
+            "name": "orange juice",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "pineapple juice",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "10cm",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "ribs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": "125",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Chickpea curry stew",
+    "ingredients": [
+        {
+            "name": "chickpeas",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "boiling water",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "50",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

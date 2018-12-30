@@ -1,0 +1,36 @@
+{
+    "title": "Quick pizza sauce",
+    "ingredients": [
+        {
+            "name": "olive oil",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "onion minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves minced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "herbs basil thyme oregano",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

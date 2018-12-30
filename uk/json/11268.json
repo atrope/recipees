@@ -1,0 +1,66 @@
+{
+    "title": "Zesty noodle salad",
+    "ingredients": [
+        {
+            "name": "soba noodles",
+            "quantity": "425",
+            "type": "g"
+        },
+        {
+            "name": "toasted sesame oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rice vinegar",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "lime zest",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "peanuts",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "coriander",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Mushroom couscous risotto",
+    "ingredients": [
+        {
+            "name": "butter margarine",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "1-2",
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "couscous",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

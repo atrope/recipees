@@ -1,0 +1,61 @@
+{
+    "title": "Cheese Vegetable and Potato Soup",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "1.5",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cube chicken stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream mushroom soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream chicken soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream celery soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "cauliflower",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

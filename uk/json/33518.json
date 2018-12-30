@@ -1,0 +1,31 @@
+{
+    "title": "Rice Krispie Halloween treats",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "marshmallows",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "toffees",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "icing",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

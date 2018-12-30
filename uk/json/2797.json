@@ -1,0 +1,56 @@
+{
+    "title": "Fruit and nut bread",
+    "ingredients": [
+        {
+            "name": "bread flour",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sachet yeast",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apricots",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "prunes",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "figs",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "nuts almonds hazelnuts cashews",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

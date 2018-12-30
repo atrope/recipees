@@ -1,0 +1,31 @@
+{
+    "title": "Neli's green tea ice cream",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "475",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "green tea powder matcha",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

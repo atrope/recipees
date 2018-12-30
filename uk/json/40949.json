@@ -1,0 +1,41 @@
+{
+    "title": "Greek-style lemon roasted potatoes",
+    "ingredients": [
+        {
+            "name": "potatoes wedges",
+            "quantity": "3",
+            "type": "kg"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "80",
+            "type": "ml"
+        },
+        {
+            "name": "lemons juiced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "700",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

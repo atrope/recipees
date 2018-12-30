@@ -1,0 +1,31 @@
+{
+    "title": "Rachel's amazing tuna salad",
+    "ingredients": [
+        {
+            "name": "tuna",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "mayonnaise",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cucumber",
+            "quantity": "1/3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

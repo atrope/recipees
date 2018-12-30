@@ -1,0 +1,36 @@
+{
+    "title": "Simple tomato and avocado summer salad",
+    "ingredients": [
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "avocado",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes wedges",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

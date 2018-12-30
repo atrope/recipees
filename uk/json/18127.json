@@ -1,0 +1,36 @@
+{
+    "title": "Cheat's fudgy brownies",
+    "ingredients": [
+        {
+            "name": "chocolate cake",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

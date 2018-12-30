@@ -1,0 +1,61 @@
+{
+    "title": "Chicken and veggie soup",
+    "ingredients": [
+        {
+            "name": "chickens meat picked",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "2.5L",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock crumbled",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vegetables",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "garden peas",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomato puree",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "minced garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sumac powder",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "gravy",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

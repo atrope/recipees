@@ -1,0 +1,71 @@
+{
+    "title": "Sticky Mackerel",
+    "ingredients": [
+        {
+            "name": "mackerel",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil frying",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sauce",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "ketchup",
+            "quantity": "50",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "cayenne pepper",
+            "quantity": "1\u20444",
+            "type": "teaspoon"
+        },
+        {
+            "name": "smoked paprika",
+            "quantity": "1\u20442",
+            "type": "teaspoon"
+        },
+        {
+            "name": "onion powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "allspice",
+            "quantity": "1\u20442",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1\u20442",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mace",
+            "quantity": "1\u20442",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1\u20442",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

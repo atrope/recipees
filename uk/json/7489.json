@@ -1,0 +1,36 @@
+{
+    "title": "Guilty Pleasure Scrambled Eggs",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "45",
+            "type": "g"
+        },
+        {
+            "name": "cheddar",
+            "quantity": "60",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "toasted bagel",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

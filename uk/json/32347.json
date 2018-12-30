@@ -1,0 +1,46 @@
+{
+    "title": "Christmas cherry and orange jam",
+    "ingredients": [
+        {
+            "name": "oranges",
+            "quantity": "35",
+            "type": "kg"
+        },
+        {
+            "name": "water",
+            "quantity": "1.2",
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "35",
+            "type": "kg"
+        },
+        {
+            "name": "pinch cloves",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "juice lemons",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "8",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

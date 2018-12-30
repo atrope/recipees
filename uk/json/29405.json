@@ -1,0 +1,36 @@
+{
+    "title": "Baked semolina gnocchi with Parmesan",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "600",
+            "type": "ml"
+        },
+        {
+            "name": "semolina",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper nutmeg",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

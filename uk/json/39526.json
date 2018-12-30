@@ -1,0 +1,26 @@
+{
+    "title": "Maple syrup flapjacks",
+    "ingredients": [
+        {
+            "name": "porridge oats",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "5",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

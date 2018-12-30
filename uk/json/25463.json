@@ -1,0 +1,61 @@
+{
+    "title": "Sugar-free mincemeat",
+    "ingredients": [
+        {
+            "name": "vegetable suet",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "fruit sultanas raisins apricots",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "cherries",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "apple",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "orange clementine juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "apple puree concentrate",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "treacle honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "60",
+            "type": "-"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "ginger",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cloves",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

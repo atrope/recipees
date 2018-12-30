@@ -1,0 +1,36 @@
+{
+    "title": "Lamb's lettuce salad with cherry vine tomatoes",
+    "ingredients": [
+        {
+            "name": "lettuce",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "cherry vine tomatoes",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

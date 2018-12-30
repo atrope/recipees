@@ -1,0 +1,41 @@
+{
+    "title": "Bacon wrapped scallop and fruit skewers",
+    "ingredients": [
+        {
+            "name": "lemon juiced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "scallops",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "figs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "strawberries",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "12",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

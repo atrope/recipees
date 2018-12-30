@@ -1,0 +1,31 @@
+{
+    "title": "Fennel and blood orange salad",
+    "ingredients": [
+        {
+            "name": "fennel green",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oranges",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lettuce",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

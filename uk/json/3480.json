@@ -1,0 +1,61 @@
+{
+    "title": "Stuffed roast pork with prunes",
+    "ingredients": [
+        {
+            "name": "pork fillets",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "prunes",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "ginger syrup",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "bacon rashers",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "leeks",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "dessert apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "cider",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "parsley",
+            "quantity": "2",
+            "type": "tbsp"
+        }
+    ],
+    "calories": 0
+}

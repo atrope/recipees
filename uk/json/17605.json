@@ -1,0 +1,51 @@
+{
+    "title": "Roasted Red Pepper Houmous",
+    "ingredients": [
+        {
+            "name": "chickpeas",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "1-2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "tahini sesame paste",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "smoked paprika",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "flakes",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

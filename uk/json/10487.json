@@ -1,0 +1,51 @@
+{
+    "title": "Caribbean fruity salsa",
+    "ingredients": [
+        {
+            "name": "mango",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "pineapple",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "papaya",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "green minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "lime juice",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mint",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Bread machine naan",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "260",
+            "type": "ml"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "butter",
+            "quantity": "30",
+            "type": "g"
+        },
+        {
+            "name": "sachet yeast",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

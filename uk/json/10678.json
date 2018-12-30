@@ -1,0 +1,66 @@
+{
+    "title": "Tarragon vinaigrette",
+    "ingredients": [
+        {
+            "name": "mustard",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "75",
+            "type": "ml"
+        },
+        {
+            "name": "water",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "celery seed",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "tarragon",
+            "quantity": "3/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "mustard seed",
+            "quantity": "3/4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

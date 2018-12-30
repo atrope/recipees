@@ -1,0 +1,51 @@
+{
+    "title": "Aubergine Parmigiana",
+    "ingredients": [
+        {
+            "name": "aubergines total",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "pimento peppers",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "herbs",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cheese",
+            "quantity": "25",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "pine nuts",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

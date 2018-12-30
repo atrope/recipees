@@ -1,0 +1,51 @@
+{
+    "title": "Lemon and herb crusted pork chop",
+    "ingredients": [
+        {
+            "name": "pork",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "bread",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "zest lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch thyme",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pinch tarragon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "seasoning",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetable sunflower oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheddar cheese",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

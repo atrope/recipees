@@ -1,0 +1,36 @@
+{
+    "title": "Baked Brunch Omelette",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "hash",
+            "quantity": "310",
+            "type": "g"
+        },
+        {
+            "name": "ham",
+            "quantity": "135",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Elegant Champagne Cocktail",
+    "ingredients": [
+        {
+            "name": "sugar cube",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bitters",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "150",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

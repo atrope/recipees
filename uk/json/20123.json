@@ -1,0 +1,51 @@
+{
+    "title": "Sausage and red pepper pasta",
+    "ingredients": [
+        {
+            "name": "farfalle pasta",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "sausages casings",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "peppers",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "vodka",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cheese",
+            "quantity": "40",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

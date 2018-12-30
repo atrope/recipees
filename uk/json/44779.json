@@ -1,0 +1,36 @@
+{
+    "title": "Homemade caramel latte",
+    "ingredients": [
+        {
+            "name": "milk",
+            "quantity": "120",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caramel",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caramel sauce",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "coffee",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

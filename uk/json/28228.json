@@ -1,0 +1,31 @@
+{
+    "title": "Duck breast with orange marmalade",
+    "ingredients": [
+        {
+            "name": "duck fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "liqueur",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange marmalade",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

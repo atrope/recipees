@@ -1,0 +1,36 @@
+{
+    "title": "Mini brownies",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "160",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "80",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

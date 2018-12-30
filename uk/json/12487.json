@@ -1,0 +1,36 @@
+{
+    "title": "Brandy custard",
+    "ingredients": [
+        {
+            "name": "egg",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "cream",
+            "quantity": "500",
+            "type": "ml"
+        },
+        {
+            "name": "vanilla bean",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "brandy",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

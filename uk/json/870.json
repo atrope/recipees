@@ -1,0 +1,36 @@
+{
+    "title": "Balsamic Stilton salad",
+    "ingredients": [
+        {
+            "name": "leaf salad",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "crumbled",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

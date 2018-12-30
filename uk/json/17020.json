@@ -1,0 +1,21 @@
+{
+    "title": "Caribbean rum punch",
+    "ingredients": [
+        {
+            "name": "syrup",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rum",
+            "quantity": "40",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

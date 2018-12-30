@@ -1,0 +1,51 @@
+{
+    "title": "Lamb shanks with red wine sauce",
+    "ingredients": [
+        {
+            "name": "lamb",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "thyme",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "375",
+            "type": "ml"
+        },
+        {
+            "name": "wine",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

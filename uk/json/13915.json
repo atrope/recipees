@@ -1,0 +1,51 @@
+{
+    "title": "Crunchy Fried Butternut Squash",
+    "ingredients": [
+        {
+            "name": "squash",
+            "quantity": "7",
+            "type": "kg"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "polenta",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch garlic salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "oil frying",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

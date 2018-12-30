@@ -1,0 +1,26 @@
+{
+    "title": "Crunchy chocolate cornflake buns",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "maple syrup",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cornflakes",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

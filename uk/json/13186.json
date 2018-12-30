@@ -1,0 +1,56 @@
+{
+    "title": "Yummy Sourdough Bread",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "sachets baking yeast",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sourdough recipe",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "egg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "grapes",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

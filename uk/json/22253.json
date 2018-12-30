@@ -1,0 +1,66 @@
+{
+    "title": "Pesto and Mozzarella Grilled Sandwich",
+    "ingredients": [
+        {
+            "name": "bread toasted",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "pesto",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "aubergine",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "mushrooms",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "mozzarella cheese",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pinch oregano",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch basil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt pepper",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

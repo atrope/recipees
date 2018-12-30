@@ -1,0 +1,31 @@
+{
+    "title": "Toy oven cookie mix",
+    "ingredients": [
+        {
+            "name": "porridge oats",
+            "quantity": "120",
+            "type": "g"
+        },
+        {
+            "name": "flour",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "sugar",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

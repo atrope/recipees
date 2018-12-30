@@ -1,0 +1,41 @@
+{
+    "title": "Guacamole with Bacon",
+    "ingredients": [
+        {
+            "name": "avocados",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon crumbled",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "tomato",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper sauce",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

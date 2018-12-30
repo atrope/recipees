@@ -1,0 +1,81 @@
+{
+    "title": "Carrot cake squares",
+    "ingredients": [
+        {
+            "name": "cake",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "nuts",
+            "quantity": "55",
+            "type": "g"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "ginger",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sunflower oil",
+            "quantity": "340",
+            "type": "ml"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch cinnamon",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "cream cheese icing",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cream cheese",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "220",
+            "type": "g"
+        },
+        {
+            "name": "lemon zest",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

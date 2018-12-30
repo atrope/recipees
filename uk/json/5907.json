@@ -1,0 +1,61 @@
+{
+    "title": "Aunt Mary's carrot cake",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "carrots",
+            "quantity": "375",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "sultanas",
+            "quantity": "200",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

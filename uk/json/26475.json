@@ -1,0 +1,46 @@
+{
+    "title": "My sister's homemade gherkins",
+    "ingredients": [
+        {
+            "name": "cucumbers",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "salt",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "onions",
+            "quantity": "75",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "cloves",
+            "quantity": "15",
+            "type": "-"
+        },
+        {
+            "name": "peppercorns",
+            "quantity": "20",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vinegar",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

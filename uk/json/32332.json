@@ -1,0 +1,31 @@
+{
+    "title": "Crab apple and morello cherry jam",
+    "ingredients": [
+        {
+            "name": "crab apples",
+            "quantity": "900",
+            "type": "g"
+        },
+        {
+            "name": "water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "juice lemons",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cherries",
+            "quantity": "8",
+            "type": "kg"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "5",
+            "type": "kg"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Quinoa power-packed lunch",
+    "ingredients": [
+        {
+            "name": "quinoa",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "quinoa",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "vegetable stock powder cube",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "sweet potatoes",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "yellow pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "feta cheese",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pomegranate",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "spinach watercress",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

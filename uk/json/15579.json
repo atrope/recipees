@@ -1,0 +1,41 @@
+{
+    "title": "Classic Chicken Yakitori",
+    "ingredients": [
+        {
+            "name": "sake",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "sauce",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "root ginger",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken meat",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "leeks",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

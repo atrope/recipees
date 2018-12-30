@@ -1,0 +1,56 @@
+{
+    "title": "New York Rye Bread",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "vegetable oil",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "honey",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "caraway seed",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "rye flour",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "bread flour",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "wheat gluten flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk powder",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "baking yeast",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

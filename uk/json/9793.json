@@ -1,0 +1,41 @@
+{
+    "title": "Spinach and Cheddar Stuffed Chicken Breasts",
+    "ingredients": [
+        {
+            "name": "spinach",
+            "quantity": "285",
+            "type": "g"
+        },
+        {
+            "name": "cream",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "cheese",
+            "quantity": "65",
+            "type": "g"
+        },
+        {
+            "name": "cloves garlic",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "pinch pepper",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "rashers bacon",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

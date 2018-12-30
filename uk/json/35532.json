@@ -1,0 +1,46 @@
+{
+    "title": "Creamy potato and leek soup",
+    "ingredients": [
+        {
+            "name": "leeks",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "butter",
+            "quantity": "80",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "vegetable stock",
+            "quantity": "850",
+            "type": "ml"
+        },
+        {
+            "name": "double cream",
+            "quantity": "135",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "135",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

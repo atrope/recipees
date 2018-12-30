@@ -1,0 +1,21 @@
+{
+    "title": "My blueberry jam",
+    "ingredients": [
+        {
+            "name": "blueberries",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Fish batter",
+    "ingredients": [
+        {
+            "name": "eggs",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "beer",
+            "quantity": "175",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "350",
+            "type": "ml"
+        },
+        {
+            "name": "flour",
+            "quantity": "475",
+            "type": "g"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "garlic powder",
+            "quantity": "1/8",
+            "type": "teaspoon"
+        },
+        {
+            "name": "cod lemon sole fillets",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "vegetable oil frying",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

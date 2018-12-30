@@ -1,0 +1,36 @@
+{
+    "title": "Raspberry White Chocolate Mousse",
+    "ingredients": [
+        {
+            "name": "raspberries",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "orange liqueur",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "400",
+            "type": "ml"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "180",
+            "type": "g"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Bruschetta with Italian lardo and cherry tomatoes",
+    "ingredients": [
+        {
+            "name": "cherry tomatoes",
+            "quantity": "250",
+            "type": "g"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "clove garlic",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "loaf bread",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "bunch rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "pinch salt",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "lardo",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "pink peppercorns",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

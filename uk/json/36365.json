@@ -1,0 +1,81 @@
+{
+    "title": "Family coffee and walnut cake",
+    "ingredients": [
+        {
+            "name": "cake",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coffee",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "spread temperature",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "walnuts",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "eggs temperature",
+            "quantity": "6",
+            "type": "-"
+        },
+        {
+            "name": "buttercream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "coffee",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "spread temperature",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "340",
+            "type": "g"
+        },
+        {
+            "name": "caramel",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "walnuts",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

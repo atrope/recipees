@@ -1,0 +1,36 @@
+{
+    "title": "Angela's oriental chicken soup with noodles",
+    "ingredients": [
+        {
+            "name": "water",
+            "quantity": "675",
+            "type": "ml"
+        },
+        {
+            "name": "chicken noodles",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken fillets",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

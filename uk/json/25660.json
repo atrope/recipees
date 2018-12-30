@@ -1,0 +1,41 @@
+{
+    "title": "One-pot Irish stew",
+    "ingredients": [
+        {
+            "name": "lamb",
+            "quantity": "750",
+            "type": "g"
+        },
+        {
+            "name": "water stock",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "potatoes",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "parsley leeks",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Chinese takeaway curry sauce",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "curry powder",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flour",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "milk",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "treacle",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "double cream",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

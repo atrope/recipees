@@ -1,0 +1,51 @@
+{
+    "title": "Quick pasta bake with tuna",
+    "ingredients": [
+        {
+            "name": "pasta",
+            "quantity": "230",
+            "type": "g"
+        },
+        {
+            "name": "cream celery soup",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "200",
+            "type": "ml"
+        },
+        {
+            "name": "tuna water",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "sweetcorn",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "broccoli",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "peas",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

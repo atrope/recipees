@@ -1,0 +1,66 @@
+{
+    "title": "Baked gnocchi with bolognese ragu",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "prosciutto",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "beef mince",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "wine",
+            "quantity": "240",
+            "type": "ml"
+        },
+        {
+            "name": "plum tomatoes",
+            "quantity": "1L",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "potato gnocchi",
+            "quantity": "800",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "cheese",
+            "quantity": "150",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

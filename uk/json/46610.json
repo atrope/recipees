@@ -1,0 +1,36 @@
+{
+    "title": "Fig and ginger jam",
+    "ingredients": [
+        {
+            "name": "green apples",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "water",
+            "quantity": "375",
+            "type": "ml"
+        },
+        {
+            "name": "figs",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "kg"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "ginger",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

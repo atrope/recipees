@@ -1,0 +1,21 @@
+{
+    "title": "Raspberry margarita",
+    "ingredients": [
+        {
+            "name": "tequila",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "sweet sour",
+            "quantity": "125",
+            "type": "ml"
+        },
+        {
+            "name": "raspberry liqueur",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

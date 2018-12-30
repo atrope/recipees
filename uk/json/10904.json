@@ -1,0 +1,51 @@
+{
+    "title": "Gran's Irish Soda Bread",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "eggs",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "buttermilk",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "rapeseed oil",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "raisins",
+            "quantity": "175",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

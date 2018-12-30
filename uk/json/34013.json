@@ -1,0 +1,46 @@
+{
+    "title": "Sunday pork roast",
+    "ingredients": [
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pork loin",
+            "quantity": "35",
+            "type": "kg"
+        },
+        {
+            "name": "juniper",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "cider",
+            "quantity": "55",
+            "type": "ml"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "apple puree",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "parsley",
+            "quantity": "8",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

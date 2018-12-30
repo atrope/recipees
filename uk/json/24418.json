@@ -1,0 +1,46 @@
+{
+    "title": "Tzatziki (Greek cucumber and yoghurt dip)",
+    "ingredients": [
+        {
+            "name": "cucumber",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "garlic cloves minced",
+            "quantity": "3",
+            "type": "-"
+        },
+        {
+            "name": "mint",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "dill",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon juiced",
+            "quantity": "1/2",
+            "type": "-"
+        },
+        {
+            "name": "yogurt",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "salt",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Smoked Sausage and Split Pea Soup",
+    "ingredients": [
+        {
+            "name": "peas",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "beef stock",
+            "quantity": "800",
+            "type": "ml"
+        },
+        {
+            "name": "kielbasa sausages",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "carrot",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

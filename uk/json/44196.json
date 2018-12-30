@@ -1,0 +1,46 @@
+{
+    "title": "Glazed carrots and parsnips with chives",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "60",
+            "type": "g"
+        },
+        {
+            "name": "carrots",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "parsnips",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "orange juice",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "180",
+            "type": "ml"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "chives",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

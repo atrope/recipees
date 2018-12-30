@@ -1,0 +1,41 @@
+{
+    "title": "Grilled chicory, Stilton and walnut salad",
+    "ingredients": [
+        {
+            "name": "chicory",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "oil",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "pear",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "walnut oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "cheese crumbled",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "walnut toasted",
+            "quantity": "25",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Garden pea soup",
+    "ingredients": [
+        {
+            "name": "butter",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "chicken vegetable stock",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "garden peas",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "minced mint",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "4",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Limoncello sponge cake",
+    "ingredients": [
+        {
+            "name": "cake",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "caster sugar",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "eggs temperature",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "limoncello liqueur",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raising flour",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "buttercream",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "icing sugar",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "butter",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "yellow",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "limoncello liqueur",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

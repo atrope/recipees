@@ -1,0 +1,51 @@
+{
+    "title": "Oxford apple pie",
+    "ingredients": [
+        {
+            "name": "fruit",
+            "quantity": "110",
+            "type": "g"
+        },
+        {
+            "name": "brandy",
+            "quantity": "85",
+            "type": "ml"
+        },
+        {
+            "name": "cooking apples",
+            "quantity": "600",
+            "type": "g"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "zest juice orange",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "sugar",
+            "quantity": "85",
+            "type": "g"
+        },
+        {
+            "name": "cinnamon",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "pinch nutmeg",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "shortcrust pastry",
+            "quantity": "1",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

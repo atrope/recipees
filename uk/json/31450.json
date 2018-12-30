@@ -1,0 +1,21 @@
+{
+    "title": "Redcurrant ice cream",
+    "ingredients": [
+        {
+            "name": "redcurrants",
+            "quantity": "500",
+            "type": "g"
+        },
+        {
+            "name": "sugar",
+            "quantity": "100",
+            "type": "g"
+        },
+        {
+            "name": "whipping cream",
+            "quantity": "300",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

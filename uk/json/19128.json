@@ -1,0 +1,26 @@
+{
+    "title": "Chinese grilled chicken",
+    "ingredients": [
+        {
+            "name": "chicken fillets",
+            "quantity": "675",
+            "type": "g"
+        },
+        {
+            "name": "oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "fry sauce",
+            "quantity": "315",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

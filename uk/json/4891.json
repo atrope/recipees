@@ -1,0 +1,36 @@
+{
+    "title": "Rum Truffles",
+    "ingredients": [
+        {
+            "name": "chocolate",
+            "quantity": "240",
+            "type": "g"
+        },
+        {
+            "name": "double cream",
+            "quantity": "60",
+            "type": "ml"
+        },
+        {
+            "name": "butter",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate cake",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "rum",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "100",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

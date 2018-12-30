@@ -1,0 +1,51 @@
+{
+    "title": "Whole-grain griddle cakes with fruit and yoghurt",
+    "ingredients": [
+        {
+            "name": "flour",
+            "quantity": "140",
+            "type": "g"
+        },
+        {
+            "name": "oats",
+            "quantity": "20",
+            "type": "g"
+        },
+        {
+            "name": "wheatgerm toasted",
+            "quantity": "1",
+            "type": "tbsp"
+        },
+        {
+            "name": "sugar",
+            "quantity": "2",
+            "type": "tbsp"
+        },
+        {
+            "name": "baking powder",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "yoghurt",
+            "quantity": "300",
+            "type": "g"
+        },
+        {
+            "name": "egg",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "raspberries blueberries",
+            "quantity": "225",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

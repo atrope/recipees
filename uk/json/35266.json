@@ -1,0 +1,56 @@
+{
+    "title": "Gluten free fruit muffins",
+    "ingredients": [
+        {
+            "name": "lemons juiced",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "milk temperature",
+            "quantity": "250",
+            "type": "ml"
+        },
+        {
+            "name": "fruit",
+            "quantity": "275",
+            "type": "g"
+        },
+        {
+            "name": "almonds",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "butter temperature",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "sugar caster",
+            "quantity": "310",
+            "type": "g"
+        },
+        {
+            "name": "eggs",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "lemon almond vanilla",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "gluten flour",
+            "quantity": "400",
+            "type": "g"
+        },
+        {
+            "name": "gluten baking powder",
+            "quantity": "3",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Feta, olive and sun-dried tomato spread",
+    "ingredients": [
+        {
+            "name": "feta cheese crumbled",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "lemon juice",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "clove garlic minced",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "oregano",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olives",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

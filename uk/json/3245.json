@@ -1,0 +1,101 @@
+{
+    "title": "Marinated duck and buckwheat salad",
+    "ingredients": [
+        {
+            "name": "duck",
+            "quantity": "450",
+            "type": "g"
+        },
+        {
+            "name": "garlic cloves",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "juice lemon",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "3",
+            "type": "tbsp"
+        },
+        {
+            "name": "buckwheat kasha",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "chicken stock",
+            "quantity": "750",
+            "type": "ml"
+        },
+        {
+            "name": "green beans",
+            "quantity": "125",
+            "type": "g"
+        },
+        {
+            "name": "salad lettuce mizuna",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "basil",
+            "quantity": "5",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "green olives",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "olives",
+            "quantity": "8",
+            "type": "-"
+        },
+        {
+            "name": "courgettes",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onions",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "tomatoes",
+            "quantity": "12",
+            "type": "-"
+        },
+        {
+            "name": "wine vinegar sherry vinegars",
+            "quantity": "1\u00bd",
+            "type": "tbsp"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

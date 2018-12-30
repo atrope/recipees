@@ -1,0 +1,26 @@
+{
+    "title": "Beetroot and goat's cheese stacks",
+    "ingredients": [
+        {
+            "name": "beetroots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "goats cheese",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "olive oil",
+            "quantity": "1",
+            "type": "teaspoon"
+        }
+    ],
+    "calories": 0
+}

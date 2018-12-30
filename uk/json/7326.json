@@ -1,0 +1,46 @@
+{
+    "title": "Peachy keen smoothie",
+    "ingredients": [
+        {
+            "name": "",
+            "quantity": "175",
+            "type": "g"
+        },
+        {
+            "name": "ice",
+            "quantity": "4",
+            "type": "-"
+        },
+        {
+            "name": "nutmeg",
+            "quantity": "1/4",
+            "type": "teaspoon"
+        },
+        {
+            "name": "vanilla",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "honey",
+            "quantity": "1/2",
+            "type": "teaspoon"
+        },
+        {
+            "name": "wheatgerm",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "oats",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "vanilla milk",
+            "quantity": "250",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

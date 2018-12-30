@@ -1,0 +1,36 @@
+{
+    "title": "Chocolate Cereal Bars",
+    "ingredients": [
+        {
+            "name": "caster sugar",
+            "quantity": "200",
+            "type": "g"
+        },
+        {
+            "name": "syrup",
+            "quantity": "235",
+            "type": "ml"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": "350",
+            "type": "g"
+        },
+        {
+            "name": "cereal",
+            "quantity": "225",
+            "type": "g"
+        },
+        {
+            "name": "peanut butter",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "170",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

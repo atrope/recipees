@@ -1,0 +1,41 @@
+{
+    "title": "Hawaiian tuna poke",
+    "ingredients": [
+        {
+            "name": "tuna steaks",
+            "quantity": "1",
+            "type": "kg"
+        },
+        {
+            "name": "sauce",
+            "quantity": "225",
+            "type": "ml"
+        },
+        {
+            "name": "onions",
+            "quantity": "10",
+            "type": "-"
+        },
+        {
+            "name": "sesame oil",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "toasted sesame",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "flakes",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "macadamia nuts",
+            "quantity": "2",
+            "type": "-"
+        }
+    ],
+    "calories": 0
+}

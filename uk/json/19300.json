@@ -1,0 +1,31 @@
+{
+    "title": "Digestive biscuit bars",
+    "ingredients": [
+        {
+            "name": "biscuit",
+            "quantity": "170",
+            "type": "g"
+        },
+        {
+            "name": "coconut",
+            "quantity": "150",
+            "type": "g"
+        },
+        {
+            "name": "margarine",
+            "quantity": "50",
+            "type": "g"
+        },
+        {
+            "name": "milk",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "milk chocolate",
+            "quantity": "175",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}

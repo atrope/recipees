@@ -1,0 +1,21 @@
+{
+    "title": "Apple Martini",
+    "ingredients": [
+        {
+            "name": "apple schnapps",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "vodka",
+            "quantity": "30",
+            "type": "ml"
+        },
+        {
+            "name": "apple juice",
+            "quantity": "30",
+            "type": "ml"
+        }
+    ],
+    "calories": 0
+}

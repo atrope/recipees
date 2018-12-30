@@ -1,0 +1,66 @@
+{
+    "title": "Turkey barley soup",
+    "ingredients": [
+        {
+            "name": "leftover turkey",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "water chicken vegetable stock",
+            "quantity": "2.5L",
+            "type": "-"
+        },
+        {
+            "name": "celery",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "carrots",
+            "quantity": "2",
+            "type": "-"
+        },
+        {
+            "name": "onion",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "leaf",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "poultry seasoning",
+            "quantity": "1",
+            "type": "-"
+        },
+        {
+            "name": "thyme",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "rosemary",
+            "quantity": "1",
+            "type": "teaspoon"
+        },
+        {
+            "name": "garlic salt",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "salt pepper",
+            "quantity": 1,
+            "type": "-"
+        },
+        {
+            "name": "barley",
+            "quantity": "125",
+            "type": "g"
+        }
+    ],
+    "calories": 0
+}
