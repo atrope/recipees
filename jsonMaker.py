@@ -87,6 +87,8 @@ def execute(filename):
 
 
 files = glob.glob('uk/csv/*.csv')
+files = glob.glob('uk/csv/34565.csv')
+
 pool = ThreadPool(16)
 # open the urls in their own threads
 # and return the results
