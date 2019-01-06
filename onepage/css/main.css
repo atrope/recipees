@@ -1,0 +1,26 @@
+/* Site Colours
+ * --------------------------------------- */
+/* Media Queries Mixins
+ * --------------------------------------- */
+/* Various Mixins
+ * --------------------------------------- */
+ .wrap {
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box; }
+    @media (min-width: 240px) {
+      .wrap {
+        width: 85%; } }
+    @media (min-width: 768px) {
+      .wrap {
+        width: 90%; } }
+  
+  .tooltip {
+    display: inline;
+    position: relative;
+    z-index: 999; }
+  
+  
