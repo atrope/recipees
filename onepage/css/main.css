@@ -745,12 +745,11 @@ ul.world-menu {
 .room .big-ben,.room .statue-liberty{
     width: 100%;
     max-width: 300px;
-    margin-top: 2%;
+    margin-top: 7%;
 }
 
 .room .most-used{
   font-size: 30px;
-  margin-top: 5%;
 }
 
 .container {
