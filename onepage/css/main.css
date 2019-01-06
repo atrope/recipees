@@ -231,3 +231,29 @@
       @media (min-width: 768px) {
         .loader_overlay p {
           font-size: 1.3em; } }
+
+          /* Overlay style */
+.overlay {
+  position: absolute;
+  z-index: 10000;
+  display: none;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(32, 32, 36, 0.95); }
+
+/* Overlay closing cross */
+.overlay .overlay-close {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  right: 30px;
+  top: 30px;
+  overflow: hidden;
+  border: none;
+  background: url(../img/cross.png) no-repeat center center;
+  text-indent: 200%;
+  color: transparent;
+  outline: none;
+  z-index: 100; }
