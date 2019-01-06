@@ -22,5 +22,50 @@
     display: inline;
     position: relative;
     z-index: 999; }
+    /* Tooltip */
+    
+.tooltip-content {
+  position: absolute;
+  z-index: 9999;
+  width: 90px;
+  height: auto;
+  left: 50%;
+  margin-left: -45px;
+  bottom: 100%;
+  text-align: center;
+  background: #2a3333;
+  color: #fff;
+  opacity: 0;
+  margin-bottom: 20px;
+  cursor: default;
+  pointer-events: none;
+  padding: 10px; }
+
+.tooltip-content i {
+  opacity: 0; }
+
+.tooltip:hover .tooltip-content,
+.tooltip:hover .tooltip-content i {
+  opacity: 1; }
+
+.tooltip-effect .tooltip-content {
+  -webkit-transform: translate3d(0, 10px, 0) rotate3d(0, 1, 0, 90deg);
+  transform: translate3d(0, 10px, 0) rotate3d(0, 1, 0, 90deg);
+  -webkit-transform-origin: 50% 100%;
+  transform-origin: 50% 100%;
+  -webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
+  transition: opacity 0.3s, transform 0.3s; }
+
+.tooltip-effect .tooltip-content i {
+  -webkit-transform: scale3d(0, 0, 1);
+  transform: scale3d(0, 0, 1);
+  -webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
+  transition: opacity 0.3s, transform 0.3s; }
+.tooltip:hover .tooltip-content,
+.tooltip:hover .tooltip-content i {
+  pointer-events: auto;
+  -webkit-transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
+  transform: translate3d(0, 0, 0) scale3d(1, 1, 1); }
+
   
   
