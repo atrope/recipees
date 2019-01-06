@@ -10,7 +10,8 @@
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
-    box-sizing: border-box; }
+    box-sizing: border-box; 
+}
     @media (min-width: 240px) {
       .wrap {
         width: 85%; } }
@@ -22,6 +23,7 @@
     display: inline;
     position: relative;
     z-index: 999; }
+
     /* Tooltip */
     
 .tooltip-content {
@@ -67,5 +69,46 @@
   -webkit-transform: translate3d(0, 0, 0) scale3d(1, 1, 1);
   transform: translate3d(0, 0, 0) scale3d(1, 1, 1); }
 
+  /* Individual Slide Background Colours
+ * --------------------------------------- */
+.unitedStates {
+    background: #f7e5cb; }
+  
+  .unitedStates:after {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    content: "";
+    height: 22%;
+    background: #ead9c1; }
+    @media (min-width: 768px) {
+      .unitedStates:after {
+        height: 28%; } }
+    @media (min-width: 1024px) {
+      .unitedStates:after {
+        height: 33%; } }
+    @media only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+      .unitedStates:after {
+        height: 29%; } }
+  
+  .london {
+    background: #f0eee4; }
+  
+  .london:after {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    content: "";
+    height: 22%;
+    background: #e4e2d8; }
+    @media (min-width: 768px) {
+      .london:after {
+        height: 28%; } }
+    @media (min-width: 1024px) {
+      .london:after {
+        height: 33%; } }
+  
   
   
