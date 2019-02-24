@@ -896,7 +896,31 @@ a.next {
       margin: 0 5px 0 0;
       opacity: 1; }
 
-a.info-button {
+
+a.info-button1{
+  position: absolute;
+  right: 0;
+  top: 40%;
+  background: rgba(32, 32, 36, 0.7);
+  padding: 20px 5px 20px 20px;
+  border-radius: 50px 0px 0px 50px;
+  z-index: 10000;
+  color: #fff;
+  -webkit-transition: all 200ms ease-in-out;
+  -moz-transition: all 200ms ease-in-out;
+  -ms-transition: all 200ms ease-in-out;
+  -o-transition: all 200ms ease-in-out;
+  transition: all 200ms ease-in-out; }
+  a.info-button1 i {
+    width: 20px;
+    padding: 0 15px 0 0; }
+  a.info-button1.fp-section {
+    cursor: pointer;
+    background: rgba(32, 32, 36, 0.95);
+    padding: 20px 15px 20px 20px; 
+  }
+      
+a.info-button2{
   position: absolute;
   right: 0;
   top: 50%;
@@ -910,13 +934,37 @@ a.info-button {
   -ms-transition: all 200ms ease-in-out;
   -o-transition: all 200ms ease-in-out;
   transition: all 200ms ease-in-out; }
-  a.info-button i {
+  a.info-button2 i {
     width: 20px;
     padding: 0 15px 0 0; }
-  a.info-button:hover {
+  a.info-button2:hover {
     cursor: pointer;
     background: rgba(32, 32, 36, 0.95);
     padding: 20px 15px 20px 20px; }
+  
+
+a.info-button3{
+  position: absolute;
+  right: 0;
+  top: 60%;
+  background: rgba(32, 32, 36, 0.7);
+  padding: 20px 5px 20px 20px;
+  border-radius: 50px 0px 0px 50px;
+  z-index: 10000;
+  color: #fff;
+  -webkit-transition: all 200ms ease-in-out;
+  -moz-transition: all 200ms ease-in-out;
+  -ms-transition: all 200ms ease-in-out;
+  -o-transition: all 200ms ease-in-out;
+  transition: all 200ms ease-in-out; }
+  a.info-button3 i {
+    width: 20px;
+    padding: 0 15px 0 0; }
+  a.info-button3:hover {
+    cursor: pointer;
+    background: rgba(32, 32, 36, 0.95);
+    padding: 20px 15px 20px 20px; }
+
 
 /* FP */
 /* Site Colours
