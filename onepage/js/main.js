@@ -8,10 +8,10 @@ $(document).ready(function() {
         controlArrows: false,
         anchors: anchors,
         onSlideLeave: (anchorLink, index, slideIndex, direction) => {
-          $('.' + anchors[slideIndex]).find('div.overlay').fadeOut();
+          $('.' + anchors[slideIndex]).find('div.overlay1').fadeOut();
         },
         afterSlideLoad: (anchorLink, index, slideAnchor, slideIndex) => {
-          $('.' + anchors[slideIndex]).find('div.overlay').show().removeClass('active');
+          $('.' + anchors[slideIndex]).find('div.overlay1').show().removeClass('active');
         },
         afterRender: ()  => {
           $('.loader_overlay').fadeOut()
@@ -53,21 +53,37 @@ $(document).ready(function() {
     });
 
 
-    $('.trigger-overlay').bind('click', function() {
-        doGraph();
-        $(this).parent().find('div.overlay').addClass('active');
+    $('.trigger-overlay1').bind('click', function() {
+        $("#d3-london1").html("");
+        doGraph1();
+        $(this).parent().find('div.overlay2').removeClass('active');
+        $(this).parent().find('div.overlay3').removeClass('active');
+        $(this).parent().find('div.overlay1').addClass('active');
+    });
+
+    $('.trigger-overlay2').bind('click', function() {
+        $("#d3-london2").html("");
+        doGraph2();
+        $(this).parent().find('div.overlay1').removeClass('active');
+        $(this).parent().find('div.overlay3').removeClass('active');
+        $(this).parent().find('div.overlay2').addClass('active');
+    });
+    
+    $('.trigger-overlay3').bind('click', function() {
+        $("#d3-london3").html("");
+        doGraph3();
+        $(this).parent().find('div.overlay1').removeClass('active');
+        $(this).parent().find('div.overlay2').removeClass('active');
+        $(this).parent().find('div.overlay3').addClass('active');
     });
 
     $('button.overlay-close').bind('click', function() {
-        $("#d3-london").html("");
+        $("#d3-london1").html("");
         $(this).parent().removeClass('active');
     });
 });
 
-
-
-
-const doGraph = () => {
+const doGraph1 = () => {
     w = screen.availWidth / 3 * 2,
         h = 480,
         x = d3.scale.linear().range([0, w]),
@@ -80,7 +96,155 @@ const doGraph = () => {
     treemap.sort((a,b) => a.value - b.value);
 
 
-    svg = d3.select("#d3-london").append("div").attr("class", "chart")
+    svg = d3.select("#d3-london1").append("div").attr("class", "chart")
+        .style("width", w + "px").style("height", h + "px")
+        .append("svg:svg").attr("width", w)
+        .attr("height", h).append("svg:g")
+        .attr("transform", "translate(.5,.5)");
+
+    d3.json("js/counter.json", function(data) {
+        node = root = data;
+        var nodes = treemap.nodes(root).reverse().filter(function(d) {
+            return !d.children;
+        });
+
+
+        var cell = svg.selectAll("g")
+            .data(nodes)
+            .enter().append("svg:g")
+            .attr("class", "cell")
+            .attr("transform", function(d) {
+                return "translate(" + d.x + "," + d.y + ")";
+            })
+            .on("click", function(d) {
+                zoomed = !zoomed;
+                return zoom(node == d.parent ? root : d.parent);
+
+            });
+
+        cell.append("svg:rect")
+            .attr("width", function(d) {
+                return d.dx - 1;
+            })
+            .attr("height", function(d) {
+                return d.dy - 1;
+            })
+            .style("fill", function(d) {
+                return color(d.parent.name);
+            });
+
+        cell.append("svg:text")
+            .attr("x", function(d) {
+                return d.dx / 2;
+            })
+            .attr("y", function(d) {
+                return d.dy / 2;
+            })
+            .attr("dy", ".35em")
+            .attr("text-anchor", "middle")
+            .text(function(d) {
+                return capitalize(d.parent.name);
+            })
+            .style("opacity", function(d) {
+                d.w = this.getComputedTextLength();
+                return d.dx > d.w ? 1 : 0;
+            }).style("font-size", function(d) {
+                // console.log(d);
+                return "10px";
+            });
+
+    });
+
+}
+
+const doGraph2 = () => {
+    w = screen.availWidth / 3 * 2,
+        h = 480,
+        x = d3.scale.linear().range([0, w]),
+        y = d3.scale.linear().range([0, h]),
+        color = d3.scale.category20c(),
+        root, node;
+    var treemap = d3.layout.treemap().round(false).size([w, h]).sticky(true).value(function(d) {
+        return d.total;
+    });
+    treemap.sort((a,b) => a.value - b.value);
+
+
+    svg = d3.select("#d3-london2").append("div").attr("class", "chart")
+        .style("width", w + "px").style("height", h + "px")
+        .append("svg:svg").attr("width", w)
+        .attr("height", h).append("svg:g")
+        .attr("transform", "translate(.5,.5)");
+
+    d3.json("js/counter.json", function(data) {
+        node = root = data;
+        var nodes = treemap.nodes(root).reverse().filter(function(d) {
+            return !d.children;
+        });
+
+
+        var cell = svg.selectAll("g")
+            .data(nodes)
+            .enter().append("svg:g")
+            .attr("class", "cell")
+            .attr("transform", function(d) {
+                return "translate(" + d.x + "," + d.y + ")";
+            })
+            .on("click", function(d) {
+                zoomed = !zoomed;
+                return zoom(node == d.parent ? root : d.parent);
+
+            });
+
+        cell.append("svg:rect")
+            .attr("width", function(d) {
+                return d.dx - 1;
+            })
+            .attr("height", function(d) {
+                return d.dy - 1;
+            })
+            .style("fill", function(d) {
+                return color(d.parent.name);
+            });
+
+        cell.append("svg:text")
+            .attr("x", function(d) {
+                return d.dx / 2;
+            })
+            .attr("y", function(d) {
+                return d.dy / 2;
+            })
+            .attr("dy", ".35em")
+            .attr("text-anchor", "middle")
+            .text(function(d) {
+                return capitalize(d.parent.name);
+            })
+            .style("opacity", function(d) {
+                d.w = this.getComputedTextLength();
+                return d.dx > d.w ? 1 : 0;
+            }).style("font-size", function(d) {
+                // console.log(d);
+                return "10px";
+            });
+
+    });
+
+}
+
+const doGraph3 = () => {
+    w = screen.availWidth / 3 * 2,
+        h = 480,
+        x = d3.scale.linear().range([0, w]),
+        y = d3.scale.linear().range([0, h]),
+        color = d3.scale.category20c(),
+        root, node;
+    var treemap = d3.layout.treemap().round(false).size([w, h]).sticky(true).value(function(d) {
+        return d.total;
+    });
+    treemap.sort((a,b) => a.value - b.value);
+
+
+    svg = d3.select("#d3-london3").append("div").attr("class", "chart")
         .style("width", w + "px").style("height", h + "px")
         .append("svg:svg").attr("width", w)
         .attr("height", h).append("svg:g")

@@ -233,7 +233,7 @@ display: none; }
         font-size: 1.3em; } }
 
         /* Overlay style */
-.overlay {
+.overlay1 {
 position: absolute;
 z-index: 10000;
 display: none;
@@ -244,7 +244,7 @@ left: 0;
 background: rgba(32, 32, 36, 0.95); }
 
 /* Overlay closing cross */
-.overlay .overlay-close {
+.overlay1 .overlay-close {
 width: 20px;
 height: 20px;
 position: absolute;
@@ -259,31 +259,31 @@ outline: none;
 z-index: 100; }
 
 /* Menu style */
-.overlay nav {
+.overlay1 nav {
   position: relative;
   top: 0%;
   height: 100%;
   padding: 0;
   width: 100%; }
-  .overlay nav select {
+  .overlay1 nav select {
     float: right;
     margin: 5px 0 0 0;
     display: inline; }
     @media (min-width: 1024px) {
-      .overlay nav select {
+      .overlay1 nav select {
         margin: 30px 0 0 0; } }
-  .overlay nav img {
+  .overlay1 nav img {
     float: left;
     width: 30px;
     margin: 0 10px 0 0; }
     @media (min-width: 768px) {
-      .overlay nav img {
+      .overlay1 nav img {
         width: 45px; } }
     @media (min-width: 1024px) {
-      .overlay nav img {
+      .overlay1 nav img {
         width: 65px; } }
-        #d3-london{    padding: 0px 10px 20px 5%;}
-  .overlay nav p.overlayTitle {
+        #d3-london1{    padding: 0px 10px 20px 5%;}
+  .overlay1 nav p.overlayTitle {
     font-size: 1.6em;
     color: #fff;
     text-align: left;
@@ -291,24 +291,24 @@ z-index: 100; }
     float: left;
     padding: 0px 10px 20px 5%;
     width: 100%; }
-    .overlay nav p.overlayTitle span {
+    .overlay1 nav p.overlayTitle span {
       display: block;
       font-size: 0.75em;
       font-weight: 300; }
       @media (min-width: 768px) {
-        .overlay nav p.overlayTitle span {
+        .overlay1 nav p.overlayTitle span {
           font-size: 0.45em; } }
     @media (min-width: 768px) {
-      .overlay nav p.overlayTitle {
+      .overlay1 nav p.overlayTitle {
         font-size: 2.2em; } }
     @media (min-width: 1024px) {
-      #d3-london{    padding: 0px 20px 50px 5%;}
+      #d3-london1{    padding: 0px 20px 50px 5%;}
 
-      .overlay nav p.overlayTitle {
+      .overlay1 nav p.overlayTitle {
         font-size: 3.5em;
         padding: 0px 20px 50px 5%; } }
 
-.overlay ul {
+.overlay1 ul {
   list-style: none;
   padding: 0;
   margin: 0 auto;
@@ -317,7 +317,7 @@ z-index: 100; }
   width: 100%;
   position: relative; }
 
-.overlay ul li {
+.overlay1 ul li {
   display: block;
   width: 100%;
   height: 12%;
@@ -329,60 +329,60 @@ z-index: 100; }
   font-size: 0.7em;
   position: relative; }
   @media (min-width: 240px) {
-    .overlay ul li {
+    .overlay1 ul li {
       width: 50%; } }
   @media (min-width: 768px) {
-    .overlay ul li {
+    .overlay1 ul li {
       width: 33%;
       height: 18%;
       font-size: 0.9em; } }
   @media (min-width: 1024px) {
-    .overlay ul li {
+    .overlay1 ul li {
       width: 25%;
       height: 25%;
       font-size: 1.0em; } }
-  .overlay ul li span {
+  .overlay1 ul li span {
     display: block;
     font-size: 1.8em;
     font-weight: 900; }
     @media (min-width: 768px) {
-      .overlay ul li span {
+      .overlay1 ul li span {
         font-size: 2.2em; } }
     @media (min-width: 1024px) {
-      .overlay ul li span {
+      .overlay1 ul li span {
         font-size: 2.2em; } }
     @media (min-width: 1400px) {
-      .overlay ul li span {
+      .overlay1 ul li span {
         font-size: 2.7em; } }
-    .overlay ul li span.symbol {
+    .overlay1 ul li span.symbol {
       display: inline;
       font-size: 1.0em; }
-    .overlay ul li span.no-tablet {
+    .overlay1 ul li span.no-tablet {
       display: block; }
-      .overlay ul li span.no-tablet span {
+      .overlay1 ul li span.no-tablet span {
         display: block;
         font-size: 0.55em !important;
         font-weight: 300 !important; }
       @media (min-width: 768px) {
-        .overlay ul li span.no-tablet {
+        .overlay1 ul li span.no-tablet {
           display: none; } }
-    .overlay ul li span.info {
+    .overlay1 ul li span.info {
       font-size: 1.0em;
       font-weight: 300;
       text-transform: lowercase;
       color: #aaa7a7;
       display: none; }
       @media (min-width: 1024px) {
-        .overlay ul li span.info {
+        .overlay1 ul li span.info {
           display: block; } }
-  .overlay ul li i {
+  .overlay1 ul li i {
     display: block;
     margin: 0 0 10px 0; }
     @media (max-height: 700px) {
-      .overlay ul li i {
+      .overlay1 ul li i {
         display: none; } }
 
-.overlay ul li a {
+.overlay1 ul li a {
   font-size: 54px;
   font-weight: 300;
   display: block;
@@ -390,25 +390,387 @@ z-index: 100; }
   -webkit-transition: color 0.2s;
   transition: color 0.2s; }
 
-.overlay ul li a:hover,
-.overlay ul li a:focus {
+.overlay1 ul li a:hover,
+.overlay1 ul li a:focus {
   color: #e3fcb1; }
 /* Effects */
-.overlay-slidedown {
+.overlay-slidedown1 {
   -webkit-transform: translateX(100%);
   transform: translateX(100%);
   -webkit-transition: -webkit-transform 0.4s ease-in-out, visibility 0s 0.4s;
   transition: transform 0.4s ease-in-out, visibility 0s 0.4s; }
-  .overlay-slidedown.active {
+  .overlay-slidedown1.active {
     -webkit-transform: translateX(0%);
     transform: translateX(0%); }
 
-.overlay-slidedown.open {
+.overlay-slidedown1.open {
   visibility: visible;
   -webkit-transform: translateX(0%);
   transform: translateX(0%);
   -webkit-transition: -webkit-transform 0.4s ease-in-out;
   transition: transform 0.4s ease-in-out; }
+
+      
+      /* --------------------------------------- */
+
+      .overlay2 {
+        position: absolute;
+        z-index: 10000;
+        display: none;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: rgba(32, 32, 36, 0.95); }
+        
+        /* Overlay closing cross */
+        .overlay2 .overlay-close {
+        width: 20px;
+        height: 20px;
+        position: absolute;
+        right: 30px;
+        top: 30px;
+        overflow: hidden;
+        border: none;
+        background: url(../img/cross.png) no-repeat center center;
+        text-indent: 200%;
+        color: transparent;
+        outline: none;
+        z-index: 100; }
+        
+        /* Menu style */
+        .overlay2 nav {
+          position: relative;
+          top: 0%;
+          height: 100%;
+          padding: 0;
+          width: 100%; }
+          .overlay2 nav select {
+            float: right;
+            margin: 5px 0 0 0;
+            display: inline; }
+            @media (min-width: 1024px) {
+              .overlay2 nav select {
+                margin: 30px 0 0 0; } }
+          .overlay2 nav img {
+            float: left;
+            width: 30px;
+            margin: 0 10px 0 0; }
+            @media (min-width: 768px) {
+              .overlay2 nav img {
+                width: 45px; } }
+            @media (min-width: 1024px) {
+              .overlay2 nav img {
+                width: 65px; } }
+                #d3-london2{    padding: 0px 10px 20px 5%;}
+          .overlay2 nav p.overlayTitle {
+            font-size: 1.6em;
+            color: #fff;
+            text-align: left;
+            font-weight: 900;
+            float: left;
+            padding: 0px 10px 20px 5%;
+            width: 100%; }
+            .overlay2 nav p.overlayTitle span {
+              display: block;
+              font-size: 0.75em;
+              font-weight: 300; }
+              @media (min-width: 768px) {
+                .overlay2 nav p.overlayTitle span {
+                  font-size: 0.45em; } }
+            @media (min-width: 768px) {
+              .overlay2 nav p.overlayTitle {
+                font-size: 2.2em; } }
+            @media (min-width: 1024px) {
+              #d3-london2{    padding: 0px 20px 50px 5%;}
+        
+              .overlay2 nav p.overlayTitle {
+                font-size: 3.5em;
+                padding: 0px 20px 50px 5%; } }
+        
+        .overlay2 ul {
+          list-style: none;
+          padding: 0;
+          margin: 0 auto;
+          display: inline-block;
+          height: 100%;
+          width: 100%;
+          position: relative; }
+        
+        .overlay2 ul li {
+          display: block;
+          width: 100%;
+          height: 12%;
+          text-transform: uppercase;
+          float: left;
+          color: #fff;
+          -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+          font-size: 0.7em;
+          position: relative; }
+          @media (min-width: 240px) {
+            .overlay2 ul li {
+              width: 50%; } }
+          @media (min-width: 768px) {
+            .overlay2 ul li {
+              width: 33%;
+              height: 18%;
+              font-size: 0.9em; } }
+          @media (min-width: 1024px) {
+            .overlay2 ul li {
+              width: 25%;
+              height: 25%;
+              font-size: 1.0em; } }
+          .overlay2 ul li span {
+            display: block;
+            font-size: 1.8em;
+            font-weight: 900; }
+            @media (min-width: 768px) {
+              .overlay2 ul li span {
+                font-size: 2.2em; } }
+            @media (min-width: 1024px) {
+              .overlay2 ul li span {
+                font-size: 2.2em; } }
+            @media (min-width: 1400px) {
+              .overlay2 ul li span {
+                font-size: 2.7em; } }
+            .overlay2 ul li span.symbol {
+              display: inline;
+              font-size: 1.0em; }
+            .overlay2 ul li span.no-tablet {
+              display: block; }
+              .overlay2 ul li span.no-tablet span {
+                display: block;
+                font-size: 0.55em !important;
+                font-weight: 300 !important; }
+              @media (min-width: 768px) {
+                .overlay2 ul li span.no-tablet {
+                  display: none; } }
+            .overlay2 ul li span.info {
+              font-size: 1.0em;
+              font-weight: 300;
+              text-transform: lowercase;
+              color: #aaa7a7;
+              display: none; }
+              @media (min-width: 1024px) {
+                .overlay2 ul li span.info {
+                  display: block; } }
+          .overlay2 ul li i {
+            display: block;
+            margin: 0 0 10px 0; }
+            @media (max-height: 700px) {
+              .overlay2 ul li i {
+                display: none; } }
+        
+        .overlay2 ul li a {
+          font-size: 54px;
+          font-weight: 300;
+          display: block;
+          color: #fff;
+          -webkit-transition: color 0.2s;
+          transition: color 0.2s; }
+        
+        .overlay2 ul li a:hover,
+        .overlay2 ul li a:focus {
+          color: #e3fcb1; }
+        /* Effects */
+        .overlay-slidedown2 {
+          -webkit-transform: translateX(100%);
+          transform: translateX(100%);
+          -webkit-transition: -webkit-transform 0.4s ease-in-out, visibility 0s 0.4s;
+          transition: transform 0.4s ease-in-out, visibility 0s 0.4s; }
+          .overlay-slidedown2.active {
+            -webkit-transform: translateX(0%);
+            transform: translateX(0%); }
+        
+        .overlay-slidedown2.open {
+          visibility: visible;
+          -webkit-transform: translateX(0%);
+          transform: translateX(0%);
+          -webkit-transition: -webkit-transform 0.4s ease-in-out;
+          transition: transform 0.4s ease-in-out; }
+        
+         /*------------------------------------*/
+         
+         .overlay3 {
+          position: absolute;
+          z-index: 10000;
+          display: none;
+          width: 100%;
+          height: 100%;
+          top: 0;
+          left: 0;
+          background: rgba(32, 32, 36, 0.95); }
+          
+          /* Overlay closing cross */
+          .overlay3 .overlay-close {
+          width: 20px;
+          height: 20px;
+          position: absolute;
+          right: 30px;
+          top: 30px;
+          overflow: hidden;
+          border: none;
+          background: url(../img/cross.png) no-repeat center center;
+          text-indent: 200%;
+          color: transparent;
+          outline: none;
+          z-index: 100; }
+          
+          /* Menu style */
+          .overlay3 nav {
+            position: relative;
+            top: 0%;
+            height: 100%;
+            padding: 0;
+            width: 100%; }
+            .overlay3 nav select {
+              float: right;
+              margin: 5px 0 0 0;
+              display: inline; }
+              @media (min-width: 1024px) {
+                .overlay3 nav select {
+                  margin: 30px 0 0 0; } }
+            .overlay3 nav img {
+              float: left;
+              width: 30px;
+              margin: 0 10px 0 0; }
+              @media (min-width: 768px) {
+                .overlay3 nav img {
+                  width: 45px; } }
+              @media (min-width: 1024px) {
+                .overlay3 nav img {
+                  width: 65px; } }
+                  #d3-london3{    padding: 0px 10px 20px 5%;}
+            .overlay3 nav p.overlayTitle {
+              font-size: 1.6em;
+              color: #fff;
+              text-align: left;
+              font-weight: 900;
+              float: left;
+              padding: 0px 10px 20px 5%;
+              width: 100%; }
+              .overlay3 nav p.overlayTitle span {
+                display: block;
+                font-size: 0.75em;
+                font-weight: 300; }
+                @media (min-width: 768px) {
+                  .overlay3 nav p.overlayTitle span {
+                    font-size: 0.45em; } }
+              @media (min-width: 768px) {
+                .overlay3 nav p.overlayTitle {
+                  font-size: 2.2em; } }
+              @media (min-width: 1024px) {
+                #d3-london3{    padding: 0px 20px 50px 5%;}
+          
+                .overlay3 nav p.overlayTitle {
+                  font-size: 3.5em;
+                  padding: 0px 20px 50px 5%; } }
+          
+          .overlay3 ul {
+            list-style: none;
+            padding: 0;
+            margin: 0 auto;
+            display: inline-block;
+            height: 100%;
+            width: 100%;
+            position: relative; }
+          
+          .overlay3 ul li {
+            display: block;
+            width: 100%;
+            height: 12%;
+            text-transform: uppercase;
+            float: left;
+            color: #fff;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            font-size: 0.7em;
+            position: relative; }
+            @media (min-width: 240px) {
+              .overlay3 ul li {
+                width: 50%; } }
+            @media (min-width: 768px) {
+              .overlay3 ul li {
+                width: 33%;
+                height: 18%;
+                font-size: 0.9em; } }
+            @media (min-width: 1024px) {
+              .overlay3 ul li {
+                width: 25%;
+                height: 25%;
+                font-size: 1.0em; } }
+            .overlay3 ul li span {
+              display: block;
+              font-size: 1.8em;
+              font-weight: 900; }
+              @media (min-width: 768px) {
+                .overlay3 ul li span {
+                  font-size: 2.2em; } }
+              @media (min-width: 1024px) {
+                .overlay3 ul li span {
+                  font-size: 2.2em; } }
+              @media (min-width: 1400px) {
+                .overlay3 ul li span {
+                  font-size: 2.7em; } }
+              .overlay3 ul li span.symbol {
+                display: inline;
+                font-size: 1.0em; }
+              .overlay3 ul li span.no-tablet {
+                display: block; }
+                .overlay3 ul li span.no-tablet span {
+                  display: block;
+                  font-size: 0.55em !important;
+                  font-weight: 300 !important; }
+                @media (min-width: 768px) {
+                  .overlay3 ul li span.no-tablet {
+                    display: none; } }
+              .overlay3 ul li span.info {
+                font-size: 1.0em;
+                font-weight: 300;
+                text-transform: lowercase;
+                color: #aaa7a7;
+                display: none; }
+                @media (min-width: 1024px) {
+                  .overlay3 ul li span.info {
+                    display: block; } }
+            .overlay3 ul li i {
+              display: block;
+              margin: 0 0 10px 0; }
+              @media (max-height: 700px) {
+                .overlay3 ul li i {
+                  display: none; } }
+          
+          .overlay3 ul li a {
+            font-size: 54px;
+            font-weight: 300;
+            display: block;
+            color: #fff;
+            -webkit-transition: color 0.2s;
+            transition: color 0.2s; }
+          
+          .overlay3 ul li a:hover,
+          .overlay3 ul li a:focus {
+            color: #e3fcb1; }
+          /* Effects */
+          .overlay-slidedown3 {
+            -webkit-transform: translateX(100%);
+            transform: translateX(100%);
+            -webkit-transition: -webkit-transform 0.4s ease-in-out, visibility 0s 0.4s;
+            transition: transform 0.4s ease-in-out, visibility 0s 0.4s; }
+            .overlay-slidedown3.active {
+              -webkit-transform: translateX(0%);
+              transform: translateX(0%); }
+          
+          .overlay-slidedown3.open {
+            visibility: visible;
+            -webkit-transform: translateX(0%);
+            transform: translateX(0%);
+            -webkit-transition: -webkit-transform 0.4s ease-in-out;
+            transition: transform 0.4s ease-in-out; }
+          
+      
+
 
 /* Custom CSS
 * --------------------------------------- */
@@ -1057,14 +1419,6 @@ transform: translate3d(0, 0, 0); }
 .fp-controlArrow.fp-prev {
   left: 15px;
   width: 0;
-<<<<<<< HEAD
-  border-width: 38.5px 34px 38.5px 0;
-  border-color: transparent #fff transparent transparent; }
-.fp-controlArrow.fp-next {
-  right: 15px;
-  border-width: 38.5px 0 38.5px 34px;
-  border-color: transparent transparent transparent #fff; }
-=======
   height: 0;
   border-style: solid;
   margin-top: -38px;
@@ -1080,4 +1434,3 @@ transform: translate3d(0, 0, 0); }
     right: 15px;
     border-width: 38.5px 0 38.5px 34px;
     border-color: transparent transparent transparent #fff; }
->>>>>>> c2334cf15eea96c2ef70f8e42faa37183903b1ae
