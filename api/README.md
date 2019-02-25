@@ -12,6 +12,9 @@ Inside put the environment variable
 MONGO=mongodb://root:PASSWORD@ds137686.mlab.com:37686/recipees
 ```
 
+You will also need to install all dependencies and run
+ 
+serverless offline start --skipCacheInvalidation
 
 ## Built With
 
