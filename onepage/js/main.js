@@ -32,14 +32,7 @@ $(document).ready(function() {
         width: 1000,
         tooltipsMode: 'custom',
         responsive: true,
-        marks: [{
-                xy: [200, 200],
-                tooltip: 'USA',
-                attrs: {
-                    href: '#worldMap/unitedStates',
-                    src: 'maps/marker.svg'
-                }
-            },
+        marks: [
             {
                 xy: [445, 155],
                 tooltip: 'United Kingdom',
@@ -48,7 +41,6 @@ $(document).ready(function() {
                     src: 'maps/marker.svg'
                 }
             },
-
         ],
     });
 
