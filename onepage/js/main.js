@@ -182,62 +182,6 @@ const doGraph_ingredients = () => {
 }
 
 const doGraph_diseases = () => {
-    w = screen.availWidth / 3 * 2,
-        h = 480,
-        x = d3.scale.linear().range([0, w]),
-        y = d3.scale.linear().range([0, h]),
-        color = d3.scale.category20c(),
-        root, node;
-    var treemap = d3.layout.treemap().round(false).size([w, h]).sticky(true).value(function(d) {
-        return d.total;
-    });
-    treemap.sort((a,b) => a.value - b.value);
-
-
-    svg = d3.select("#d3-uk-diseases").append("div").attr("class", "chart")
-        .style("width", w + "px").style("height", h + "px")
-        .append("svg:svg").attr("width", w)
-        .attr("height", h).append("svg:g")
-        .attr("transform", "translate(.5,.5)");
-
-    d3.json("https://k77u4j8m1f.execute-api.us-east-1.amazonaws.com/v1/recipe/ingredients/100000", function(data) {
-        node = root = data;
-        var nodes = treemap.nodes(root).reverse().filter(function(d) {
-            return !d.children;
-        });
-
-    const leaf = svg.selectAll("g")
-        .data(nodes.leaves())
-        .join("g")
-          .attr("transform", d => `translate(${d.x + 1},${d.y + 1})`);
-    
-    leaf.append("circle")
-          .attr("id", d => (d.leafUid = DOM.uid("leaf")).id)
-          .attr("r", d => d.r)
-          .attr("fill-opacity", 0.7)
-          .attr("fill", d => color(d.data.group));
-    
-    leaf.append("clipPath")
-          .attr("id", d => (d.clipUid = DOM.uid("clip")).id)
-        .append("use")
-          .attr("xlink:href", d => d.leafUid.href);
-    
-    leaf.append("text")
-          .attr("clip-path", d => d.clipUid)
-        .selectAll("tspan")
-        .data(d => d.data.name.split(/(?=[A-Z][^A-Z])/g))
-        .join("tspan")
-          .attr("x", 0)
-          .attr("y", (d, i, nodes) => `${i - nodes.length / 2 + 0.8}em`)
-          .text(d => d);
-    
-    leaf.append("title")
-          .text(d => `${d.data.title}\n${format(d.value)}`);
-        
-      return svg.node();
-
-    });
-
 }
 
 const doGraph_recipes = () => {

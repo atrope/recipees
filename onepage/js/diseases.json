@@ -1,0 +1,162 @@
+{
+    "title":"diseases",
+    "children":[
+        {
+            "name": "Cancer",
+            "ingredients": [
+                {
+                    "Salt": 10
+                },
+                {
+                    "Pepper": 50
+                },
+                {
+                    "Sugar": 100
+                },
+                {
+                    "Acovado": 100
+                },
+                {
+                    "Onion": 80
+                },
+                {
+                    "Garlic": 500
+                },
+                {
+                    "Orange": 200
+                }
+            ]
+        },
+        {
+            "name": "Heart Attack",
+            "ingredients": [
+                {
+                    "Salt": 10
+                },
+                {
+                    "Pepper": 50
+                },
+                {
+                    "Sugar": 100
+                },
+                {
+                    "Acovado": 100
+                },
+                {
+                    "Onion": 80
+                },
+                {
+                    "Garlic": 500
+                },
+                {
+                    "Orange": 200
+                }
+            ]
+        },
+        {
+            "name": "Liver diseases",
+            "ingredients": [
+                {
+                    "Salt": 10
+                },
+                {
+                    "Pepper": 50
+                },
+                {
+                    "Sugar": 100
+                },
+                {
+                    "Acovado": 100
+                },
+                {
+                    "Onion": 80
+                },
+                {
+                    "Garlic": 500
+                },
+                {
+                    "Orange": 200
+                }
+            ]
+        },
+        {
+            "name": "Stomach diseases",
+            "ingredients": [
+                {
+                    "Salt": 10
+                },
+                {
+                    "Pepper": 50
+                },
+                {
+                    "Sugar": 100
+                },
+                {
+                    "Acovado": 100
+                },
+                {
+                    "Onion": 80
+                },
+                {
+                    "Garlic": 500
+                },
+                {
+                    "Orange": 200
+                }
+            ]
+        },
+        {
+            "name": "Diabetes",
+            "ingredients": [
+                {
+                    "Salt": 10
+                },
+                {
+                    "Pepper": 50
+                },
+                {
+                    "Sugar": 100
+                },
+                {
+                    "Acovado": 100
+                },
+                {
+                    "Onion": 80
+                },
+                {
+                    "Garlic": 500
+                },
+                {
+                    "Orange": 200
+                }
+            ]
+        },
+        {
+            "name": "Digestive system diseases ",
+            "ingredients": [
+                {
+                    "Salt": 10
+                },
+                {
+                    "Pepper": 50
+                },
+                {
+                    "Sugar": 100
+                },
+                {
+                    "Acovado": 100
+                },
+                {
+                    "Onion": 80
+                },
+                {
+                    "Garlic": 500
+                },
+                {
+                    "Orange": 200
+                }
+            ]
+        },
+    
+    ]
+}
