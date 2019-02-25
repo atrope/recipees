@@ -182,6 +182,65 @@ const doGraph_ingredients = () => {
 }
 
 const doGraph_diseases = () => {
+        w = screen.availWidth / 3 * 2,
+        h = 480,
+        x = d3.scale.linear().range([0, w]),
+        y = d3.scale.linear().range([0, h]),
+        color = d3.scale.category20c(),
+        root, node;
+    
+    var xAxis = d3.svg.axis()
+        .scale(x)
+        .orient("bottom")
+    
+    var yAxis = d3.svg.axis()
+        .scale(y)
+        .orient("right");
+
+    svg = d3.select("#d3-uk-diseases").append("div").attr("class", "chart")
+        .style("width", w + "px").style("height", h + "px")
+        .append("svg:svg").attr("width", w)
+        .attr("height", h).append("svg:g")
+        .attr("transform", "translate(.5,.5)");
+
+    d3.json("/recipees/onepage/js/diseases.json", function(data,error) {
+        if (error) throw error;
+        children = data.children.map()
+        var layers = d3.layout.stack()(data.map(function(c) {
+            children = data.children.map(function(e){
+                return e.map(function(d){
+                    return {x: d.name, y:d[e]}
+                })
+            })
+          }));
+        
+          x.domain(layers[0].map(function(d) { return d.x; }));
+          y.domain([0, d3.max(layers[layers.length - 1], function(d) { return d.y0 + d.y; })]).nice();
+        
+          var layer = svg.selectAll(".layer")
+              .data(layers)
+            .enter().append("g")
+              .attr("class", "layer")
+              .style("fill", function(d, i) { return z(i); });
+        
+          layer.selectAll("rect")
+              .data(function(d) { return d; })
+            .enter().append("rect")
+              .attr("x", function(d) { return x(d.x); })
+              .attr("y", function(d) { return y(d.y + d.y0); })
+              .attr("height", function(d) { return y(d.y0) - y(d.y + d.y0); })
+              .attr("width", x.rangeBand() - 1);
+        
+          svg.append("g")
+              .attr("class", "axis axis--x")
+              .attr("transform", "translate(0," + height + ")")
+              .call(xAxis);
+        
+          svg.append("g")
+              .attr("class", "axis axis--y")
+              .attr("transform", "translate(" + width + ",0)")
+              .call(yAxis);
+        });
 }
 
 const doGraph_recipes = () => {
