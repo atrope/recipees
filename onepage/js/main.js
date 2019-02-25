@@ -8,10 +8,10 @@ $(document).ready(function() {
         controlArrows: false,
         anchors: anchors,
         onSlideLeave: (anchorLink, index, slideIndex, direction) => {
-          $('.' + anchors[slideIndex]).find('div.overlay1').fadeOut();
+          $('.' + anchors[slideIndex]).find('div.overlay').fadeOut();
         },
         afterSlideLoad: (anchorLink, index, slideAnchor, slideIndex) => {
-          $('.' + anchors[slideIndex]).find('div.overlay1').show().removeClass('active');
+          $('.' + anchors[slideIndex]).find('div.overlay').show().removeClass('active');
         },
         afterRender: ()  => {
           $('.loader_overlay').fadeOut()
@@ -53,37 +53,39 @@ $(document).ready(function() {
     });
 
 
-    $('.trigger-overlay1').bind('click', function() {
-        $("#d3-london1").html("");
-        doGraph1();
-        $(this).parent().find('div.overlay2').removeClass('active');
-        $(this).parent().find('div.overlay3').removeClass('active');
-        $(this).parent().find('div.overlay1').addClass('active');
+    $('#trigger-overlay-ingredients').bind('click', function() {
+        $("#d3-uk-ingredients").html("");
+        doGraph_ingredients();
+        $(this).parent().find('#overlay-diseases').removeClass('active');
+        $(this).parent().find('#overlay-population').removeClass('active');
+        $(this).parent().find('#overlay-ingredients').addClass('active');
     });
 
-    $('.trigger-overlay2').bind('click', function() {
-        $("#d3-london2").html("");
-        doGraph2();
-        $(this).parent().find('div.overlay1').removeClass('active');
-        $(this).parent().find('div.overlay3').removeClass('active');
-        $(this).parent().find('div.overlay2').addClass('active');
+    $('#trigger-overlay-diseases').bind('click', function() {
+        $("#d3-uk-diseases").html("");
+        doGraph_diseases();
+        $(this).parent().find('#overlay-ingredients').removeClass('active');
+        $(this).parent().find('#overlay-population').removeClass('active');
+        $(this).parent().find('#overlay-diseases').addClass('active');
+
     });
     
-    $('.trigger-overlay3').bind('click', function() {
-        $("#d3-london3").html("");
-        doGraph3();
-        $(this).parent().find('div.overlay1').removeClass('active');
-        $(this).parent().find('div.overlay2').removeClass('active');
-        $(this).parent().find('div.overlay3').addClass('active');
+    $('#trigger-overlay-population').bind('click', function() {
+        $("#d3-uk-population").html("");
+        doGraph_population();
+        $(this).parent().find('#overlay-ingredients').removeClass('active');
+        $(this).parent().find('#overlay-diseases').removeClass('active');
+        $(this).parent().find('#overlay-population').addClass('active');
     });
 
     $('button.overlay-close').bind('click', function() {
-        $("#d3-london1").html("");
+
         $(this).parent().removeClass('active');
     });
+
 });
 
-const doGraph1 = () => {
+const doGraph_ingredients = () => {
     w = screen.availWidth / 3 * 2,
         h = 480,
         x = d3.scale.linear().range([0, w]),
@@ -96,7 +98,7 @@ const doGraph1 = () => {
     treemap.sort((a,b) => a.value - b.value);
 
 
-    svg = d3.select("#d3-london1").append("div").attr("class", "chart")
+    svg = d3.select("#d3-uk-ingredients").append("div").attr("class", "chart")
         .style("width", w + "px").style("height", h + "px")
         .append("svg:svg").attr("width", w)
         .attr("height", h).append("svg:g")
@@ -157,7 +159,7 @@ const doGraph1 = () => {
 
 }
 
-const doGraph2 = () => {
+const doGraph_diseases = () => {
     w = screen.availWidth / 3 * 2,
         h = 480,
         x = d3.scale.linear().range([0, w]),
@@ -170,7 +172,7 @@ const doGraph2 = () => {
     treemap.sort((a,b) => a.value - b.value);
 
 
-    svg = d3.select("#d3-london2").append("div").attr("class", "chart")
+    svg = d3.select("#d3-uk-diseases").append("div").attr("class", "chart")
         .style("width", w + "px").style("height", h + "px")
         .append("svg:svg").attr("width", w)
         .attr("height", h).append("svg:g")
@@ -231,7 +233,7 @@ const doGraph2 = () => {
 
 }
 
-const doGraph3 = () => {
+const doGraph_population = () => {
     w = screen.availWidth / 3 * 2,
         h = 480,
         x = d3.scale.linear().range([0, w]),
@@ -244,7 +246,7 @@ const doGraph3 = () => {
     treemap.sort((a,b) => a.value - b.value);
 
 
-    svg = d3.select("#d3-london3").append("div").attr("class", "chart")
+    svg = d3.select("#d3-uk-population").append("div").attr("class", "chart")
         .style("width", w + "px").style("height", h + "px")
         .append("svg:svg").attr("width", w)
         .attr("height", h).append("svg:g")
