@@ -247,6 +247,10 @@ display: none; }
   background: rgba(32, 32, 36, 0.95); 
 }
 
+.red{
+  background-color: red;
+}
+
 /* Overlay closing cross */
 .overlay .overlay-close{
   width: 20px;
