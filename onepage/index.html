@@ -21,7 +21,7 @@
                <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
             </head>
             <body>
-                <div id="fullpage">
+               <div id="fullpage">
                    <div class="landscape-overlay">
                       <h1 class="tk-futura-pt">Please Rotate Device</h1>
                       <p class="tk-futura-pt">This site is best experienced on portrait devices</p>
@@ -67,12 +67,12 @@
                               <div id="d3-uk-diseases"></div>
                            </nav>
                         </div>
-                        <a id="trigger-overlay-population" href="#" class="info-button population trigger-overlay" type="button"><i class="fa fa-chevron-left"></i></a>
-                        <div class="overlay overlay-slidedown" id="overlay-population">
+                        <a id="trigger-overlay-recipes" href="#" class="info-button recipes trigger-overlay" type="button"><i class="fa fa-chevron-left"></i></a>
+                        <div class="overlay overlay-slidedown" id="overlay-recipes">
                            <button type="button" class="overlay-close">Close</button>
                            <nav>
-                              <p class="overlayTitle tk-futura-pt"><img src="img/nav-london.svg" alt="United Kingdom "/><span class="currencySwitcher5"></span> United Kingdom <span>Population</span></p>
-                              <div id="d3-uk-population"></div>
+                              <p class="overlayTitle tk-futura-pt"><img src="img/nav-london.svg" alt="United Kingdom "/><span class="currencySwitcher5"></span> United Kingdom <span>recipes</span></p>
+                              <div id="d3-uk-recipes"></div>
                            </nav>
                         </div>
                         <div class="intro">
@@ -88,40 +88,87 @@
                                  <a href="#worldMap/unitedStates"><img class="currentMenu" src="img/nav-usa.svg" alt="United States" /></a>
                               </div>
                            </div>
-                           <div class="slideTitle">
-                              <h1 class="tk-futura-pt">United Kingdom</h1>
-                           </div>
-                           <div class="room">
-                              <img class="big-ben" src="img/london/big-ben.svg" alt="London Window" />
-                              <p class="most-used">Can you find out the most used ingredient?</p>
-                              <div id="salt" class="container">
-                                 <img src="img/london/salt.jpg" class="image" alt="Salt" style="width:100%">
-                                 <div class="middle">
-                                     <div class="text">Salt</div>
+                              <div class="slideTitle">
+                                 <h1 class="tk-futura-pt">United Kingdom</h1>
+                              </div>
+                              <!-- Room Ingredients-->
+                              <div class="room ingredients" id="room-ingredients">
+                                 <img class="big-ben" src="img/london/big-ben.svg" alt="London Window" />
+                                 <p class="most-used">Can you find out the most used ingredient?</p>
+                                 <div id="salt" class="container">
+                                    <img src="img/london/salt.jpg" class="image" alt="Salt" style="width:100%">
+                                    <div class="middle">
+                                       <div class="text">Salt</div>
+                                    </div>
                                  </div>
-                             </div>
-                             <div id="salt" class="container">
-                              <img src="img/london/pepper.jpg" class="image" alt="Pepper" style="width:100%">
-                              <div class="middle">
-                                 <div class="text">Pepper</div>
+                                 <div id="salt" class="container">
+                                    <img src="img/london/pepper.jpg" class="image" alt="Pepper" style="width:100%">
+                                    <div class="middle">
+                                       <div class="text">Pepper</div>
+                                    </div>
+                                 </div>
+                                 <div id="salt" class="container">
+                                    <img src="img/london/weath.jpg" class="image" alt="Weath" style="width:100%">
+                                    <div class="middle">
+                                       <div class="text">Weath</div>
+                                    </div>
+                                 </div>
+                              </div>
+                              <!-- Room diseases -->
+                              <div class="room diseases" id="room-diseases">
+                                    <img class="big-ben" src="img/london/londoneye.png" alt="London Window" />
+                                    <p class="most-used">Hmmm, Diseases vs Ingredients ?</p>
+                                    <div id="Heart" class="container">
+                                       <img src="img/london/heart.jpg" class="image" alt="Heart" style="width:100%">
+                                       <div class="middle">
+                                          <div class="text">Heart Attack</div>
+                                       </div>
+                                    </div>
+                                    <div id="Diabetes" class="container">
+                                       <img src="img/london/bloodtest.jpg" class="image" alt="Diabetes" style="width:100%">
+                                       <div class="middle">
+                                          <div class="text">Diabetes</div>
+                                       </div>
+                                    </div>
+                                    <div id="Cancer" class="container">
+                                       <img src="img/london/brain.jpg" class="image" alt="Cancer" style="width:100%">
+                                       <div class="middle">
+                                          <div class="text">Cancer</div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <!-- Room recipes -->
+                              <div class="room recipes" id="room-recipes">
+                                    <img class="big-ben" src="img/london/big-ben.svg" alt="London Window" />
+                                    <p class="most-used">Recipes?</p>
+                                    <div id="salt" class="container">
+                                       <img src="img/london/salt.jpg" class="image" alt="Salt" style="width:100%">
+                                       <div class="middle">
+                                          <div class="text">Salt</div>
+                                       </div>
+                                    </div>
+                                    <div id="salt" class="container">
+                                       <img src="img/london/pepper.jpg" class="image" alt="Pepper" style="width:100%">
+                                       <div class="middle">
+                                          <div class="text">Pepper</div>
+                                       </div>
+                                    </div>
+                                    <div id="salt" class="container">
+                                       <img src="img/london/weath.jpg" class="image" alt="Weath" style="width:100%">
+                                       <div class="middle">
+                                          <div class="text">Weath</div>
+                                       </div>
+                                    </div>
                               </div>
                            </div>
-                           <div id="salt" class="container">
-                              <img src="img/london/weath.jpg" class="image" alt="Weath" style="width:100%">
-                              <div class="middle">
-                                  <div class="text">Weath</div>
-                              </div>
-                           </div>
-                        </div>
                      </div>
                   </div>
                </div>
-            </div>
-            <script src="//d3js.org/d3.v3.min.js"></script>
-            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-            <script src="js/main.js"></script>
-            <script src="js/mapsvg.js"></script>
-            <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.4/raphael-min.js"> </script>
-            <script src="//cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.7.9/jquery.fullPage.min.js"></script>
-         </body>
-      </html>
+               <script src="//d3js.org/d3.v3.min.js"></script>
+               <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+               <script src="js/main.js"></script>
+               <script src="js/mapsvg.js"></script>
+               <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.4/raphael-min.js"> </script>
+               <script src="//cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.7.9/jquery.fullPage.min.js"></script>
+            </body>
+         </html>

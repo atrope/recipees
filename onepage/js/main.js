@@ -44,30 +44,60 @@ $(document).ready(function() {
         ],
     });
 
+    var view;
 
+    $(window).on('load', function() {
+        $("#room-diseases").hide();
+        $("#room-recipes").hide();
+        view = 1;
+     });
+    
     $('#trigger-overlay-ingredients').bind('click', function() {
-        $("#d3-uk-ingredients").html("");
-        doGraph_ingredients();
         $(this).parent().find('#overlay-diseases').removeClass('active');
-        $(this).parent().find('#overlay-population').removeClass('active');
-        $(this).parent().find('#overlay-ingredients').addClass('active');
+        $(this).parent().find('#overlay-recipes').removeClass('active');
+        if(view == 1){
+            $("#d3-uk-ingredients").html("");
+            doGraph_ingredients();
+            $(this).parent().find('#overlay-ingredients').addClass('active');
+        } 
+        else{ 
+            $("#room-ingredients").show();
+            $("#room-diseases").hide();
+            $("#room-recipes").hide();
+            view = 1;
+        }
     });
 
     $('#trigger-overlay-diseases').bind('click', function() {
-        $("#d3-uk-diseases").html("");
-        doGraph_diseases();
         $(this).parent().find('#overlay-ingredients').removeClass('active');
-        $(this).parent().find('#overlay-population').removeClass('active');
-        $(this).parent().find('#overlay-diseases').addClass('active');
-
+        $(this).parent().find('#overlay-recipes').removeClass('active');
+        if(view == 2){
+            $("#d3-uk-diseases").html("");
+            doGraph_diseases();  
+            $(this).parent().find('#overlay-diseases').addClass('active');
+        }
+        else{
+            $("#room-diseases").show();
+            $("#room-recipes").hide();
+            $("#room-ingredients").hide();
+            view = 2;
+        }
     });
 
-    $('#trigger-overlay-population').bind('click', function() {
-        $("#d3-uk-population").html("");
-        doGraph_population();
+    $('#trigger-overlay-recipes').bind('click', function() {
         $(this).parent().find('#overlay-ingredients').removeClass('active');
         $(this).parent().find('#overlay-diseases').removeClass('active');
-        $(this).parent().find('#overlay-population').addClass('active');
+        if(view == 3){
+            $("#d3-uk-recipes").html("");
+            doGraph_recipes();
+            $(this).parent().find('#overlay-recipes').addClass('active');
+        }
+        else{
+            $("#room-recipes").show();
+            $("#room-diseases").hide();
+            $("#room-ingredients").hide();
+            view = 3;
+        }
     });
 
     $('button.overlay-close').bind('click', function() {
@@ -96,7 +126,7 @@ const doGraph_ingredients = () => {
         .attr("height", h).append("svg:g")
         .attr("transform", "translate(.5,.5)");
 
-    d3.json("https://k77u4j8m1f.execute-api.us-east-1.amazonaws.com/v1/recipe/ingredients/150", function(data) {
+    d3.json("https://k77u4j8m1f.execute-api.us-east-1.amazonaws.com/v1/recipe/ingredients/100000", function(data) {
         node = root = data;
         var nodes = treemap.nodes(root).reverse().filter(function(d) {
             return !d.children;
@@ -170,7 +200,7 @@ const doGraph_diseases = () => {
         .attr("height", h).append("svg:g")
         .attr("transform", "translate(.5,.5)");
 
-    d3.json("https://k77u4j8m1f.execute-api.us-east-1.amazonaws.com/v1/recipe/ingredients/150", function(data) {
+    d3.json("https://k77u4j8m1f.execute-api.us-east-1.amazonaws.com/v1/recipe/ingredients/100000", function(data) {
         node = root = data;
         var nodes = treemap.nodes(root).reverse().filter(function(d) {
             return !d.children;
@@ -210,7 +240,7 @@ const doGraph_diseases = () => {
 
 }
 
-const doGraph_population = () => {
+const doGraph_recipes = () => {
     w = screen.availWidth / 3 * 2,
         h = 480,
         x = d3.scale.linear().range([0, w]),
@@ -223,13 +253,13 @@ const doGraph_population = () => {
     treemap.sort((a,b) => a.value - b.value);
 
 
-    svg = d3.select("#d3-uk-population").append("div").attr("class", "chart")
+    svg = d3.select("#d3-uk-recipes").append("div").attr("class", "chart")
         .style("width", w + "px").style("height", h + "px")
         .append("svg:svg").attr("width", w)
         .attr("height", h).append("svg:g")
         .attr("transform", "translate(.5,.5)");
 
-    d3.json("https://k77u4j8m1f.execute-api.us-east-1.amazonaws.com/v1/recipe/ingredients/150", function(data) {
+    d3.json("https://k77u4j8m1f.execute-api.us-east-1.amazonaws.com/v1/recipe/ingredients/100000", function(data) {
         node = root = data;
         var nodes = treemap.nodes(root).reverse().filter(function(d) {
             return !d.children;
