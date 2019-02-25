@@ -184,50 +184,35 @@ const doGraph_diseases = () => {
             return !d.children;
         });
 
-
-        var cell = svg.selectAll("g")
-            .data(nodes)
-            .enter().append("svg:g")
-            .attr("class", "cell")
-            .attr("transform", function(d) {
-                return "translate(" + d.x + "," + d.y + ")";
-            })
-            .on("click", function(d) {
-                zoomed = !zoomed;
-                return zoom(node == d.parent ? root : d.parent);
-
-            });
-
-        cell.append("svg:rect")
-            .attr("width", function(d) {
-                return d.dx - 1;
-            })
-            .attr("height", function(d) {
-                return d.dy - 1;
-            })
-            .style("fill", function(d) {
-                return color(d.parent.name);
-            });
-
-        cell.append("svg:text")
-            .attr("x", function(d) {
-                return d.dx / 2;
-            })
-            .attr("y", function(d) {
-                return d.dy / 2;
-            })
-            .attr("dy", ".35em")
-            .attr("text-anchor", "middle")
-            .text(function(d) {
-                return capitalize(d.parent.name);
-            })
-            .style("opacity", function(d) {
-                d.w = this.getComputedTextLength();
-                return d.dx > d.w ? 1 : 0;
-            }).style("font-size", function(d) {
-                // console.log(d);
-                return "10px";
-            });
+    const leaf = svg.selectAll("g")
+        .data(nodes.leaves())
+        .join("g")
+          .attr("transform", d => `translate(${d.x + 1},${d.y + 1})`);
+    
+    leaf.append("circle")
+          .attr("id", d => (d.leafUid = DOM.uid("leaf")).id)
+          .attr("r", d => d.r)
+          .attr("fill-opacity", 0.7)
+          .attr("fill", d => color(d.data.group));
+    
+    leaf.append("clipPath")
+          .attr("id", d => (d.clipUid = DOM.uid("clip")).id)
+        .append("use")
+          .attr("xlink:href", d => d.leafUid.href);
+    
+    leaf.append("text")
+          .attr("clip-path", d => d.clipUid)
+        .selectAll("tspan")
+        .data(d => d.data.name.split(/(?=[A-Z][^A-Z])/g))
+        .join("tspan")
+          .attr("x", 0)
+          .attr("y", (d, i, nodes) => `${i - nodes.length / 2 + 0.8}em`)
+          .text(d => d);
+    
+    leaf.append("title")
+          .text(d => `${d.data.title}\n${format(d.value)}`);
+        
+      return svg.node();
 
     });
 
