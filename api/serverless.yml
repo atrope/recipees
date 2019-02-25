@@ -1,0 +1,26 @@
+service: recipees-api
+provider:
+  name: aws
+  runtime: nodejs8.10
+  profile: default
+  stage: v1
+  region: us-east-1
+  timeout: 30
+  memorySize: 128
+  package:
+    excludeDevDependencies: true
+functions:
+  app:
+    handler: server.run
+    events:
+      - http:
+          path: /
+          method: ANY
+          cors: true
+      - http:
+          path: /{proxy+}
+          method: ANY
+          cors: true
+
+plugins:
+  - serverless-offline

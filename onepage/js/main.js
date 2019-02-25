@@ -69,7 +69,7 @@ $(document).ready(function() {
         $(this).parent().find('#overlay-diseases').addClass('active');
 
     });
-    
+
     $('#trigger-overlay-population').bind('click', function() {
         $("#d3-uk-population").html("");
         doGraph_population();
@@ -104,7 +104,7 @@ const doGraph_ingredients = () => {
         .attr("height", h).append("svg:g")
         .attr("transform", "translate(.5,.5)");
 
-    d3.json("js/counter.json", function(data) {
+    d3.json("https://k77u4j8m1f.execute-api.us-east-1.amazonaws.com/v1/recipe/ingredients/150", function(data) {
         node = root = data;
         var nodes = treemap.nodes(root).reverse().filter(function(d) {
             return !d.children;
@@ -178,7 +178,7 @@ const doGraph_diseases = () => {
         .attr("height", h).append("svg:g")
         .attr("transform", "translate(.5,.5)");
 
-    d3.json("js/counter.json", function(data) {
+    d3.json("https://k77u4j8m1f.execute-api.us-east-1.amazonaws.com/v1/recipe/ingredients/150", function(data) {
         node = root = data;
         var nodes = treemap.nodes(root).reverse().filter(function(d) {
             return !d.children;
@@ -237,7 +237,7 @@ const doGraph_population = () => {
         .attr("height", h).append("svg:g")
         .attr("transform", "translate(.5,.5)");
 
-    d3.json("js/counter.json", function(data) {
+    d3.json("https://k77u4j8m1f.execute-api.us-east-1.amazonaws.com/v1/recipe/ingredients/150", function(data) {
         node = root = data;
         var nodes = treemap.nodes(root).reverse().filter(function(d) {
             return !d.children;
