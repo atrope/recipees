@@ -954,16 +954,17 @@ transform: translate3d(0, 0, 0); }
     border-width: 38.5px 0 38.5px 34px;
     border-color: transparent transparent transparent #fff; }
 
- .axis text {
-    font: 10px sans-serif;
-  }
-    
-  .axis line, .axis path {
-    fill: none;
-    stroke: #000;
-    shape-rendering: crispEdges;
-  }
-  
-  .axis--x path {
-    display: none;
-  }
+ 
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: #000;
+    }
+   
+    path.domain {
+      stroke: none;
+    }
+   
+    .y .tick line {
+      stroke: #ddd;
+    }
