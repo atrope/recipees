@@ -17,8 +17,9 @@ router.get('/ingredients/:limit?', (req, res) => {
     ], function(err, recipes) {
       if (err) return res.status(500).send({"message":"There was a problem finding the recipes."});
       dict = {"name": "foods", "children": []}
+      let counter = 1;
       recipes.forEach(function (value) {
-        dict["children"].push({"name": value._id, "children": [{"total": value.total}]})
+        dict["children"].push({"position":counter++,"name": value._id, "children": [{"total": value.total}]})
       });
       res.status(200).send(dict);
 

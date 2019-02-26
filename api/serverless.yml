@@ -2,7 +2,6 @@ service: recipees-api
 provider:
   name: aws
   runtime: nodejs8.10
-  profile: default
   stage: v1
   region: us-east-1
   timeout: 30
