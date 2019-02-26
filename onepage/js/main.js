@@ -182,7 +182,7 @@ const doGraph_ingredients = () => {
 }
 
 const doGraph_diseases = () => {
-    var margin = {top: 20, right: 50, bottom: 30, left: 20},
+           var margin = {top: 20, right: 50, bottom: 30, left: 20},
         width = 1200 - margin.left - margin.right,
         height = 500 - margin.top - margin.bottom;
 
