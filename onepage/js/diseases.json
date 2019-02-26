@@ -5,25 +5,32 @@
             "name": "Cancer",
             "ingredients": [
                 {
-                    "Salt": 10
+                    "name":"Salt",
+                    "value": 10
                 },
                 {
-                    "Pepper": 50
+                    "name":"Garlic",
+                    "value": 40
                 },
                 {
-                    "Sugar": 100
+                    "name":"Sugar",
+                    "value": 150
                 },
                 {
-                    "Acovado": 100
+                    "name":"Avocado",
+                    "value": 100
                 },
                 {
-                    "Onion": 80
+                    "name":"Pepper",
+                    "value": 1044
                 },
                 {
-                    "Garlic": 500
+                    "name":"Chilli",
+                    "value": 3
                 },
                 {
-                    "Orange": 200
+                    "name":"Onion",
+                    "value": 55
                 }
             ]
         },
@@ -31,25 +38,32 @@
             "name": "Heart Attack",
             "ingredients": [
                 {
-                    "Salt": 10
+                    "name":"Salt",
+                    "value": 10
                 },
                 {
-                    "Pepper": 50
+                    "name":"Garlic",
+                    "value": 120
                 },
                 {
-                    "Sugar": 100
+                    "name":"Sugar",
+                    "value": 150
                 },
                 {
-                    "Acovado": 100
+                    "name":"Avocado",
+                    "value": 100
                 },
                 {
-                    "Onion": 80
+                    "name":"Pepper",
+                    "value": 1044
                 },
                 {
-                    "Garlic": 500
+                    "name":"Chilli",
+                    "value": 3
                 },
                 {
-                    "Orange": 200
+                    "name":"Onion",
+                    "value": 55
                 }
             ]
         },
@@ -57,51 +71,32 @@
             "name": "Liver diseases",
             "ingredients": [
                 {
-                    "Salt": 10
+                    "name":"Salt",
+                    "value": 10
                 },
                 {
-                    "Pepper": 50
+                    "name":"Garlic",
+                    "value": 70
                 },
                 {
-                    "Sugar": 100
+                    "name":"Sugar",
+                    "value": 150
                 },
                 {
-                    "Acovado": 100
+                    "name":"Avocado",
+                    "value": 100
                 },
                 {
-                    "Onion": 80
+                    "name":"Pepper",
+                    "value": 1044
                 },
                 {
-                    "Garlic": 500
+                    "name":"Chilli",
+                    "value": 3
                 },
                 {
-                    "Orange": 200
-                }
-            ]
-        },
-        {
-            "name": "Stomach diseases",
-            "ingredients": [
-                {
-                    "Salt": 10
-                },
-                {
-                    "Pepper": 50
-                },
-                {
-                    "Sugar": 100
-                },
-                {
-                    "Acovado": 100
-                },
-                {
-                    "Onion": 80
-                },
-                {
-                    "Garlic": 500
-                },
-                {
-                    "Orange": 200
+                    "name":"Onion",
+                    "value": 55
                 }
             ]
         },
@@ -109,54 +104,67 @@
             "name": "Diabetes",
             "ingredients": [
                 {
-                    "Salt": 10
+                    "name":"Salt",
+                    "value": 10
                 },
                 {
-                    "Pepper": 50
+                    "name":"Garlic",
+                    "value": 10
                 },
                 {
-                    "Sugar": 100
+                    "name":"Sugar",
+                    "value": 150
                 },
                 {
-                    "Acovado": 100
+                    "name":"Avocado",
+                    "value": 100
                 },
                 {
-                    "Onion": 80
+                    "name":"Pepper",
+                    "value": 1044
                 },
                 {
-                    "Garlic": 500
+                    "name":"Chilli",
+                    "value": 3
                 },
                 {
-                    "Orange": 200
+                    "name":"Onion",
+                    "value": 55
                 }
             ]
         },
         {
-            "name": "Digestive system diseases ",
+            "name": "Digestive Diseases ",
             "ingredients": [
                 {
-                    "Salt": 10
+                    "name":"Salt",
+                    "value": 10
                 },
                 {
-                    "Pepper": 50
+                    "name":"Garlic",
+                    "value": 104
                 },
                 {
-                    "Sugar": 100
+                    "name":"Sugar",
+                    "value": 150
                 },
                 {
-                    "Acovado": 100
+                    "name":"Avocado",
+                    "value": 100
                 },
                 {
-                    "Onion": 80
+                    "name":"Pepper",
+                    "value": 1044
                 },
                 {
-                    "Garlic": 500
+                    "name":"Chilli",
+                    "value": 3
                 },
                 {
-                    "Orange": 200
+                    "name":"Onion",
+                    "value": 55
                 }
             ]
-        },
-    
+        }
     ]
 }

@@ -953,3 +953,18 @@ transform: translate3d(0, 0, 0); }
     right: 15px;
     border-width: 38.5px 0 38.5px 34px;
     border-color: transparent transparent transparent #fff; }
+
+
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: #000;
+    }
+   
+    path.domain {
+      stroke: none;
+    }
+   
+    .y .tick line {
+      stroke: #ddd;
+    }
