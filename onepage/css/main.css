@@ -82,6 +82,13 @@
    font: 20px sans-serif;
 
  }
+ .londonrecipes select{
+margin-left: 75px;
+  margin-top: 10px;
+  width: 200px;
+text-align-last:center;
+}
+ }
 .overlayTitle label { font-size:20px; margin-left: 10px;}
  .link {
    fill: none;
@@ -186,13 +193,7 @@
     height: 100%;
     padding: 0;
     width: 100%; }
-    .overlay nav select {
-      float: right;
-      margin: 5px 0 0 0;
-      display: inline; }
-      @media (min-width: 1024px) {
-        .overlay nav select {
-          margin: 30px 0 0 0; } }
+
     .overlay nav img {
       float: left;
       width: 30px;
@@ -204,6 +205,8 @@
         .overlay nav img {
           width: 65px; } }
           #d3-london{    padding: 0px 10px 20px 5%;}
+          .london input{    text-align: center;
+    width: 70px;}
     .overlay nav p.overlayTitle {
       font-size: 1.6em;
       color: #fff;
@@ -687,7 +690,7 @@ ul.world-menu {
   opacity: 1;
   display: block;
   width: 100%;
-  height: auto;
+  height: 222px;
   transition: .5s ease;
   backface-visibility: hidden;
 }
@@ -730,6 +733,7 @@ ul.world-menu {
     }
 
   @media only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+    .image{ height: 88px;}
     .room {
       max-width: 900px;
       height: 560px;

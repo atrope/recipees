@@ -53,7 +53,8 @@
        <div class="overlay overlay-slidedown">
           <button type="button" class="overlay-close">Close</button>
           <nav>
-             <p class="overlayTitle tk-futura-pt"><img src="img/nav-london.svg" alt="London"/>United Kingdom <span>Most used ingredients (Top 50)</span></p>
+             <p class="overlayTitle tk-futura-pt"><img src="img/nav-london.svg" alt="London"/>United Kingdom <span>Most used ingredients</span>
+               <span>Quantity: <input type="number" name="quantity" min="1" max="999" value="50"></span></p>
              <div id="d3-london" class="d3" ></div>
           </nav>
        </div>
@@ -74,19 +75,19 @@
              <img class="mainimg" src="img/london/big-ben.svg" alt="London Window" />
              <p class="most-used">Can you find out the most used ingredient?</p>
              <div id="salt" class="container">
-                <img src="img/london/salt.jpg" class="image" alt="Salt" style="width:100%">
+                <img src="img/london/salt.jpg" class="image" alt="Salt">
                 <div class="middle">
                     <div class="text">Salt</div>
                 </div>
             </div>
             <div id="salt" class="container">
-             <img src="img/london/pepper.jpg" class="image" alt="Pepper" style="width:100%">
+             <img src="img/london/pepper.jpg" class="image" alt="Pepper">
              <div class="middle">
                 <div class="text">Pepper</div>
              </div>
           </div>
           <div id="salt" class="container">
-             <img src="img/london/weath.jpg" class="image" alt="Weath" style="width:100%">
+             <img src="img/london/weath.jpg" class="image" alt="Weath">
              <div class="middle">
                  <div class="text">Weath</div>
              </div>
@@ -127,19 +128,19 @@
            <img class="mainimg" src="img/london/bus.png" alt="bus" />
            <p class="most-used">What should I try to avoid ?</p>
            <div id="water" class="container">
-              <img src="img/london/water2.jpg" class="image" alt="water" style="width:100%; height: 300px">
+              <img src="img/london/water2.jpg" class="image" alt="water">
               <div class="middle">
                  <div class="text">Water</div>
               </div>
            </div>
            <div id="onion" class="container">
-              <img src="img/london/onion.jpg" class="image" alt="onion" style="width:100%; height: 300px">
+              <img src="img/london/onion.jpg" class="image" alt="onion">
               <div class="middle">
                  <div class="text">Onion</div>
               </div>
            </div>
            <div id="garlic" class="container">
-              <img src="img/london/garlic.jpg" class="image" alt="garlic" style="width:100%; height:300px">
+              <img src="img/london/garlic.jpg" class="image" alt="garlic">
               <div class="middle">
                  <div class="text">Garlic</div>
               </div>
@@ -154,7 +155,16 @@
      <div class="overlay overlay-slidedown">
         <button type="button" class="overlay-close">Close</button>
         <nav>
-           <p class="overlayTitle tk-futura-pt"><img src="img/nav-london.svg" alt="London"/>United Kingdom <span>Most used ingredients (more than 300 recipees)</span></p>
+           <p class="overlayTitle tk-futura-pt"><img src="img/nav-london.svg" alt="London"/>United Kingdom <span>Recipes Relations</span>
+            <span><select name="disease">
+  <option value="cancer">Cancer</option>
+  <option value="asthma">Asthma</option>
+</select>
+<select name="type">
+<option value="good">Good</option>
+<option value="bad">Bad</option>
+</select>
+</span></p>
            <div id="d3-recipes" class="d3"></div>
         </nav>
      </div>
@@ -174,21 +184,21 @@
         </div>
         <div class="room">
           <img class="mainimg" src="img/london/londoneye.png" alt="Londoneye" />
-          <p class="most-used">Which popular diseases may be produced by everyday ingredients ?</p>
+          <p class="most-used">Which recipes relate to good/bad</p>
           <div id="Heart" class="container">
-             <img src="img/london/heart.jpg" class="image" alt="Heart" style="width:100%; height: 300px">
+             <img src="img/london/heart.jpg" class="image" alt="Heart">
              <div class="middle">
                 <div class="text">Heart Attack</div>
              </div>
           </div>
           <div id="Diabetes" class="container">
-             <img src="img/london/bloodtest.jpg" class="image" alt="Diabetes" style="width:100%; height: 300px">
+             <img src="img/london/bloodtest.jpg" class="image" alt="Diabetes">
              <div class="middle">
                 <div class="text">Diabetes</div>
              </div>
           </div>
           <div id="Cancer" class="container">
-             <img src="img/london/brain.jpg" class="image" alt="Cancer" style="width:100%; height: 300px">
+             <img src="img/london/brain.jpg" class="image" alt="Cancer">
              <div class="middle">
                 <div class="text">Cancer</div>
              </div>
@@ -200,6 +210,8 @@
 </div>
 
                <script src="//d3js.org/d3.v3.min.js"></script>
+               <script src="https://rawgit.com/jasondavies/d3-cloud/master/build/d3.layout.cloud.js"></script>
+
                <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
                <script src="js/main.js"></script>
                <script src="js/mapsvg.js"></script>

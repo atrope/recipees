@@ -1,4 +1,5 @@
 var root,w,h,x,y,svg,root,node,zoomed=false;
+const baseApi = 'https://k77u4j8m1f.execute-api.us-east-1.amazonaws.com/v1';
 $(document).ready(function() {
     const anchors = ['worldMap', 'london', 'londondiseases', 'londonrecipes'];
     $('#fullpage').fullpage({
@@ -58,18 +59,75 @@ $(document).ready(function() {
 });
 
 
-
+const getRandomColor = () => {
+  var letters = '0123456789ABCDEF';
+  var color = '#';
+  for (var i = 0; i < 6; i++) {
+    color += letters[Math.floor(Math.random() * 16)];
+  }
+  return color;
+}
 const doGraphRecipes = () => {
-  // svg = d3.select("#d3-recipes").append("div").attr("class", "chart")
-  // .style("width", w + "px").style("height", h + "px")
-  // .append("svg:svg").attr("width", w)
-  // .attr("height", h).append("svg:g")
-  // .attr("transform", "translate(.5,.5)");
+  $(".d3").html("");
 
+  let dis = $('.londonrecipes select[name="disease"] option:selected').val();
+let type = $('.londonrecipes select[name="type"] option:selected').val();
+
+  w = screen.availWidth / 3 * 2,
+      h = 480;
+  d3.json(`${baseApi}/recipe/disease/${dis}/${type}`, function(error, data) {
+    var fontSize = d3.scale.pow().exponent(5).domain([0,1]).range([10,80]);
+    words = ["a","b","c"];
+    var layout = d3.layout.cloud()
+        .timeInterval(10)
+        .size([w, h])
+        .words(data)
+        .rotate(function(d) { return 0; })
+        .font('monospace')
+        .fontSize(function(d,i) { return fontSize(Math.random()); })
+        .text(function(d) { return d.title; })
+        .spiral("archimedean")
+        .on("end", draw)
+        .start();
+
+        svg = d3.select("#d3-recipes").append("div").attr("class", "chart")
+        .style("width", w + "px").style("height", h + "px")
+        .append("svg:svg").attr("width", w)
+        .attr("height", h).append("svg:g")
+        .attr("transform", "translate(.5,.5)");
+
+
+
+    var wordcloud = svg.append("g")
+        .attr('class','wordcloud')
+        .attr("transform", "translate(" + w/2 + "," + h/2 + ")");
+
+
+    function draw(words) {
+      wordcloud.selectAll("text")
+          .data(words)
+        .enter().append("text")
+          .attr('class','word')
+          .style("font-size", function(d) { return d.size + "px"; })
+          .style("font-family", function(d) { return d.font; })
+          .style("fill", function(d) {
+              var paringObject = data.filter(function(obj) { return obj.password === d.text});
+              return getRandomColor();
+          })
+          .attr("text-anchor", "middle")
+          .attr("transform", function(d) { return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")"; })
+          .text(function(d) { return d.text; });
+    };
+
+  });
 }
 function hasChanged() { doGraphDiseases(this.value);}
+function hasChangedIngredients() { doGraphIngredients(this.value);}
 
-d3.selectAll("input").on("change", hasChanged);
+d3.selectAll(".londondiseases input").on("change", hasChanged);
+d3.selectAll(".londonrecipes select").on("change", doGraphRecipes);
+d3.selectAll(".london input").on("change", hasChangedIngredients);
+
 const doGraphDiseases = (type="bad") => {
   $(".d3").html("");
   var width = screen.availWidth / 3 * 2;
@@ -83,7 +141,7 @@ const doGraphDiseases = (type="bad") => {
       .attr("height", height)
       .append("g")
       .attr("transform", "translate(40,0)");
-        d3.json(`https://k77u4j8m1f.execute-api.us-east-1.amazonaws.com/v1/disease/${type}`, function(data) {
+        d3.json(`${baseApi}/disease/${type}`, function(data) {
 
       var nodes = cluster.nodes(data),
           links = cluster.links(nodes);
@@ -113,7 +171,9 @@ const doGraphDiseases = (type="bad") => {
 }
 
 
-const doGraphIngredients = () => {
+const doGraphIngredients = (qty=50) => {
+  $(".d3").html("");
+
     w = screen.availWidth / 3 * 2,
         h = 480,
         x = d3.scale.linear().range([0, w]),
@@ -132,7 +192,7 @@ const doGraphIngredients = () => {
         .attr("height", h).append("svg:g")
         .attr("transform", "translate(.5,.5)");
 
-    d3.json("https://k77u4j8m1f.execute-api.us-east-1.amazonaws.com/v1/recipe/ingredients/50", function(data) {
+    d3.json(`${baseApi}/recipe/ingredients/${qty}`, function(data) {
         node = root = data;
         var nodes = treemap.nodes(root).reverse().filter(function(d) {
             return !d.children;
@@ -179,7 +239,6 @@ const doGraphIngredients = () => {
                 d.w = this.getComputedTextLength();
                 return d.dx > d.w ? 1 : 0;
             }).style("font-size", function(d) {
-                // console.log(d);
                 return "10px";
             });
 
