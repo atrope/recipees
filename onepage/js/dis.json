@@ -34,6 +34,30 @@
       {
         "name": "milk",
         "type": "bad"
+      },
+      {
+        "name": "meat",
+        "type": "bad"
+      },
+      {
+        "name": "strawberry",
+        "type": "good"
+      },
+      {
+        "name": "apple",
+        "type": "good"
+      },
+      {
+        "name": "sugar",
+        "type": "bad"
+      },
+      {
+        "name": "Salt",
+        "type": "bad"
+      },
+      {
+        "name": "eggplant",
+        "type": "good"
       }
     ]
   },
