@@ -13,6 +13,18 @@
       {
         "name": "margarine",
         "type": "bad"
+      },
+      {
+        "name": "grilled chicken",
+        "type": "good"
+      },
+      {
+        "name": "Carrot",
+        "type": "good" 
+      },
+      {
+        "name": "tomato",
+        "type": "good"  
       }
     ]
   },
@@ -35,6 +47,14 @@
       {
         "name": "tomatoes",
         "type": "good"
+      },
+      {
+        "name": "lettuce",
+        "type": "good"
+      },
+      {
+        "name": "celery",
+        "type": "good"
       }
     ]
   },
@@ -52,6 +72,18 @@
       {
         "name": "butter",
         "type": "bad"
+      },
+      {
+        "name": "cucumber",
+        "type": "good"
+      },
+      {
+        "name": "beet",
+        "type": "good"
+      },
+      {
+        "name": "Green onions",
+        "type": "good" 
       }
     ]
   },
@@ -59,12 +91,20 @@
     "name": "tuberculosis",
     "ingredients": [
       {
-        "name": "vitamin D",
+        "name": "Coconut oil",
         "type": "good"
       },
       {
         "name": "ecaliptus",
         "type": "bad"
+      },
+      {
+        "name": "bean",
+        "type": "good"
+      },
+      {
+        "name": "fish",
+        "type": "good"
       }
     ]
   },
@@ -78,7 +118,15 @@
       {
         "name": "eggs",
         "type": "bad"
-      }
+      },
+    {
+      "name": "bean",
+      "type": "good"
+    },
+    {
+      "name": "Whole wheat flour",
+      "type": "good"
+    }
     ]
   },
   {
@@ -95,6 +143,18 @@
       {
         "name": "butter",
         "type": "bad"
+      },
+      {
+        "name": "garlic",
+        "type": "good"
+      },
+      {
+        "name": "kale",
+        "type": "good"
+      },
+      {
+        "name": "quinoa",
+        "type": "good"
       }
     ]
   }
