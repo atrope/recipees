@@ -67,71 +67,51 @@ const doGraphRecipes = () => {
   // .attr("transform", "translate(.5,.5)");
 
 }
-const doGraphDiseases = () => {
+function hasChanged() { doGraphDiseases(this.value);}
 
+d3.selectAll("input").on("change", hasChanged);
+const doGraphDiseases = (type="bad") => {
+  $(".d3").html("");
   var width = screen.availWidth / 3 * 2;
       height = 480;
 
-  var cluster = d3.layout.cluster()
-      .size([height, width - 160]);
+  var cluster = d3.layout.cluster().size([height, width - 160]);
 
-  var diagonal = d3.svg.diagonal()
-      .projection(function(d) { return [d.y, d.x]; });
-
+  var diagonal = d3.svg.diagonal().projection(function(d) { return [d.y, d.x]; });
   var svg = d3.select("#d3-diseases").append("svg")
       .attr("width", width)
       .attr("height", height)
-    .append("g")
+      .append("g")
       .attr("transform", "translate(40,0)");
-      d3.json("js/test.json", function(data) {
+        d3.json(`https://k77u4j8m1f.execute-api.us-east-1.amazonaws.com/v1/disease/${type}`, function(data) {
 
-        console.lg
-        var nodes = cluster.nodes(data),
-            links = cluster.links(nodes);
-
-        nodes.forEach(function(d) {
-          d.y = d.depth * 200;
-          d.x*=2;
-        });
-
+      var nodes = cluster.nodes(data),
+          links = cluster.links(nodes);
+        nodes.forEach(function(d) { d.y = d.depth * 300 + 100; });
         var link = svg.selectAll(".link")
             .data(links)
-          .enter().append("path")
+            .enter().append("path")
             .attr("class", "link")
             .attr("d", diagonal);
-
         var node = svg.selectAll(".node")
             .data(nodes)
           .enter().append("g")
-            .attr("class", "node")
+          .attr("class", function(d) { return `node depth-${d.depth}`; })
             .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
-
-        node.append("circle")
-            .attr("r", 4.5);
-
+        node.append("circle").attr("r", 4.5);
         node.append("text")
             .attr("dx", function(d) { return d.children ? -8 : 8; })
             .attr("dy", 3)
             .style("text-anchor", function(d) { return d.children ? "end" : "start"; })
-            .text(function(d) { return d.name; });
+            .text(function(d) { return d.name; })
+            .on("click", function(d) {
+              alert(`position #${d.value}`);
+            });;
 
 });
 
 }
 
-function changed() {
-  timeout = clearTimeout(timeout);
-  (this.value === "tree" ? tree : cluster)(root);
-  var t = d3.transition().duration(750);
-  node.transition(t).attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; });
-  link.transition(t).attr("d", diagonal);
-}
-function diagonal(d) {
-return "M" + d.y + "," + d.x
-    + "C" + (d.parent.y + 100) + "," + d.x
-    + " " + (d.parent.y + 100) + "," + d.parent.x
-    + " " + d.parent.y + "," + d.parent.x;
-}
 
 const doGraphIngredients = () => {
     w = screen.availWidth / 3 * 2,

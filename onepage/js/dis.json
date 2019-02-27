@@ -1,0 +1,29 @@
+{
+  "name": "heart disease",
+  "ingredients": [{"name":"oil","type":"good"},{"name":"butter","type":"good"},{"name":"oil","type":"bad"},{"name":"butter","type":"bad"}]
+}
+{
+  "name": "asthma",
+  "ingredients": [{"name":"oil","type":"good"},{"name":"cheese","type":"good"},{"name":"oil","type":"bad"},{"name":"cheese","type":"bad"}]
+}
+{
+  "name": "cancer",
+  "ingredients": [{"name":"oil","type":"good"},{"name":"sugar","type":"good"},{"name":"oil","type":"bad"},{"name":"sugar","type":"bad"}]
+}
+{
+  "name": "chronic liver disease",
+  "ingredients": [{"name":"milk","type":"good"},{"name":"cheese","type":"good"},{"name":"butter","type":"good"},{"name":"oil","type":"bad"},{"name":"butter","type":"bad"}]
+}
+{
+  "name": "tuberculosis",
+  "ingredients": [{"name":"chicken","type":"good"},{"name":"cheese","type":"good"},{"name":"butter"},{"name":"meat","type":"good"},{"name":"oil","type":"bad"},{"name":"butter","type":"bad"}]
+}
+{
+
+  "name": "salmonella",
+  "ingredients": [{"name":"meat","type":"good"},{"name":"eggs","type":"good"},{"name":"oil","type":"bad"},{"name":"butter","type":"bad"}]
+}
+{
+  "name": "diabetes",
+  "ingredients": [{"name":"sugar","type":"good"},{"name":"chocolate","type":"good"},{"name":"oil","type":"bad"},{"name":"butter","type":"bad"}]
+}

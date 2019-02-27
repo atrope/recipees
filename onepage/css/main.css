@@ -79,12 +79,13 @@
  }
 .node text{ fill: #FFF; }
  .node {
-   font: 10px sans-serif;
- }
+   font: 20px sans-serif;
 
+ }
+.overlayTitle label { font-size:20px; margin-left: 10px;}
  .link {
    fill: none;
-   stroke: #ccc;
+   stroke: #983131;
    stroke-width: 1.5px;
  }
   .london {
