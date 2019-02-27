@@ -4,19 +4,27 @@
     "ingredients": [
       {
         "name": "oil",
-        "type": "good"
-      },
-      {
-        "name": "butter",
-        "type": "good"
-      },
-      {
-        "name": "oil",
         "type": "bad"
       },
       {
         "name": "butter",
         "type": "bad"
+      },
+      {
+        "name": "margarine",
+        "type": "bad"
+      },
+      {
+        "name": "grilled chicken",
+        "type": "good"
+      },
+      {
+        "name": "Carrot",
+        "type": "good" 
+      },
+      {
+        "name": "tomato",
+        "type": "good"  
       }
     ]
   },
@@ -24,20 +32,32 @@
     "name": "asthma",
     "ingredients": [
       {
-        "name": "oil",
-        "type": "good"
-      },
-      {
-        "name": "cheese",
-        "type": "good"
-      },
-      {
-        "name": "oil",
+        "name": "milk",
         "type": "bad"
       },
       {
-        "name": "cheese",
+        "name": "meat",
         "type": "bad"
+      },
+      {
+        "name": "strawberry",
+        "type": "good"
+      },
+      {
+        "name": "apple",
+        "type": "good"
+      },
+      {
+        "name": "sugar",
+        "type": "bad"
+      },
+      {
+        "name": "Salt",
+        "type": "bad"
+      },
+      {
+        "name": "eggplant",
+        "type": "good"
       }
     ]
   },
@@ -45,20 +65,20 @@
     "name": "cancer",
     "ingredients": [
       {
-        "name": "oil",
-        "type": "good"
-      },
-      {
-        "name": "sugar",
-        "type": "good"
-      },
-      {
-        "name": "oil",
+        "name": "meat",
         "type": "bad"
       },
       {
-        "name": "sugar",
-        "type": "bad"
+        "name": "tomatoes",
+        "type": "good"
+      },
+      {
+        "name": "lettuce",
+        "type": "good"
+      },
+      {
+        "name": "celery",
+        "type": "good"
       }
     ]
   },
@@ -66,24 +86,28 @@
     "name": "chronic liver disease",
     "ingredients": [
       {
-        "name": "milk",
-        "type": "good"
+        "name": "alcohol",
+        "type": "bad"
       },
       {
         "name": "cheese",
-        "type": "good"
-      },
-      {
-        "name": "butter",
-        "type": "good"
-      },
-      {
-        "name": "oil",
         "type": "bad"
       },
       {
         "name": "butter",
         "type": "bad"
+      },
+      {
+        "name": "cucumber",
+        "type": "good"
+      },
+      {
+        "name": "beet",
+        "type": "good"
+      },
+      {
+        "name": "Green onions",
+        "type": "good" 
       }
     ]
   },
@@ -91,27 +115,20 @@
     "name": "tuberculosis",
     "ingredients": [
       {
-        "name": "chicken",
+        "name": "Coconut oil",
         "type": "good"
       },
       {
-        "name": "cheese",
-        "type": "good"
-      },
-      {
-        "name": "butter"
-      },
-      {
-        "name": "meat",
-        "type": "good"
-      },
-      {
-        "name": "oil",
+        "name": "ecaliptus",
         "type": "bad"
       },
       {
-        "name": "butter",
-        "type": "bad"
+        "name": "bean",
+        "type": "good"
+      },
+      {
+        "name": "fish",
+        "type": "good"
       }
     ]
   },
@@ -120,20 +137,20 @@
     "ingredients": [
       {
         "name": "meat",
-        "type": "good"
+        "type": "bad"
       },
       {
         "name": "eggs",
-        "type": "good"
-      },
-      {
-        "name": "oil",
         "type": "bad"
       },
-      {
-        "name": "butter",
-        "type": "bad"
-      }
+    {
+      "name": "bean",
+      "type": "good"
+    },
+    {
+      "name": "Whole wheat flour",
+      "type": "good"
+    }
     ]
   },
   {
@@ -141,19 +158,27 @@
     "ingredients": [
       {
         "name": "sugar",
-        "type": "good"
+        "type": "bad"
       },
       {
         "name": "chocolate",
-        "type": "good"
-      },
-      {
-        "name": "oil",
         "type": "bad"
       },
       {
         "name": "butter",
         "type": "bad"
+      },
+      {
+        "name": "garlic",
+        "type": "good"
+      },
+      {
+        "name": "kale",
+        "type": "good"
+      },
+      {
+        "name": "quinoa",
+        "type": "good"
       }
     ]
   }
