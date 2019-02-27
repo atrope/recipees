@@ -4,18 +4,14 @@
     "ingredients": [
       {
         "name": "oil",
-        "type": "good"
-      },
-      {
-        "name": "butter",
-        "type": "good"
-      },
-      {
-        "name": "oil",
         "type": "bad"
       },
       {
         "name": "butter",
+        "type": "bad"
+      },
+      {
+        "name": "margarine",
         "type": "bad"
       }
     ]
@@ -24,19 +20,7 @@
     "name": "asthma",
     "ingredients": [
       {
-        "name": "oil",
-        "type": "good"
-      },
-      {
-        "name": "cheese",
-        "type": "good"
-      },
-      {
-        "name": "oil",
-        "type": "bad"
-      },
-      {
-        "name": "cheese",
+        "name": "milk",
         "type": "bad"
       }
     ]
@@ -45,20 +29,12 @@
     "name": "cancer",
     "ingredients": [
       {
-        "name": "oil",
-        "type": "good"
-      },
-      {
-        "name": "sugar",
-        "type": "good"
-      },
-      {
-        "name": "oil",
+        "name": "meat",
         "type": "bad"
       },
       {
-        "name": "sugar",
-        "type": "bad"
+        "name": "tomatoes",
+        "type": "good"
       }
     ]
   },
@@ -66,19 +42,11 @@
     "name": "chronic liver disease",
     "ingredients": [
       {
-        "name": "milk",
-        "type": "good"
+        "name": "alcohol",
+        "type": "bad"
       },
       {
         "name": "cheese",
-        "type": "good"
-      },
-      {
-        "name": "butter",
-        "type": "good"
-      },
-      {
-        "name": "oil",
         "type": "bad"
       },
       {
@@ -91,26 +59,11 @@
     "name": "tuberculosis",
     "ingredients": [
       {
-        "name": "chicken",
+        "name": "vitamin D",
         "type": "good"
       },
       {
-        "name": "cheese",
-        "type": "good"
-      },
-      {
-        "name": "butter"
-      },
-      {
-        "name": "meat",
-        "type": "good"
-      },
-      {
-        "name": "oil",
-        "type": "bad"
-      },
-      {
-        "name": "butter",
+        "name": "ecaliptus",
         "type": "bad"
       }
     ]
@@ -120,18 +73,10 @@
     "ingredients": [
       {
         "name": "meat",
-        "type": "good"
-      },
-      {
-        "name": "eggs",
-        "type": "good"
-      },
-      {
-        "name": "oil",
         "type": "bad"
       },
       {
-        "name": "butter",
+        "name": "eggs",
         "type": "bad"
       }
     ]
@@ -141,14 +86,10 @@
     "ingredients": [
       {
         "name": "sugar",
-        "type": "good"
+        "type": "bad"
       },
       {
         "name": "chocolate",
-        "type": "good"
-      },
-      {
-        "name": "oil",
         "type": "bad"
       },
       {
