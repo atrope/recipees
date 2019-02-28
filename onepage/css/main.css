@@ -610,14 +610,18 @@ ul.world-menu {
   padding: 3.5em 0 0 0;
   max-width: 100% !important; }
   @media (min-width: 768px) {
-    #map {
-      max-width: 100% !important; } }
+    #map {max-width: 100% !important; } }
   @media (min-width: 1024px) {
     #map {
       max-width: 70% !important; } }
   @media (min-width: 1400px) {
     #map {
       max-width: 100% !important; } }
+
+      @media only screen and (max-width: 768px) {
+
+      .image{height: 88px!important;}
+}
   @media only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
     #map {
       max-width: 60% !important; } }
@@ -742,7 +746,6 @@ ul.world-menu {
     }
 
   @media only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
-    .image{ height: 88px;}
     .room {
       max-width: 900px;
       height: 560px;
