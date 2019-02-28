@@ -76,11 +76,8 @@ let type = $('.londonrecipes select[name="type"] option:selected').val();
   w = screen.availWidth / 3 * 2,
       h = 480;
   d3.json(`${baseApi}/recipe/disease/${dis}/${type}`, function(error, data) {
-    console.log(data);
-    console.log(data.length);
     if(!data.length){
       $("#d3-recipes.d3").html("<p>No recipes were found!</p>");
-      console.log(1);
     }
   else {
     var fontSize = d3.scale.pow().exponent(5).domain([0,1]).range([10,80]);
