@@ -1,5 +1,4 @@
-[
-  {
+{
     "name": "heart disease",
     "ingredients": [
       {
@@ -11,23 +10,19 @@
         "type": "bad"
       },
       {
-        "name": "margarine",
-        "type": "bad"
-      },
-      {
         "name": "grilled chicken",
         "type": "good"
       },
       {
-        "name": "Carrot",
-        "type": "good" 
+        "name": "carrot",
+        "type": "good"
       },
       {
         "name": "tomato",
-        "type": "good"  
+        "type": "good"
       }
     ]
-  },
+  }
   {
     "name": "asthma",
     "ingredients": [
@@ -52,15 +47,15 @@
         "type": "bad"
       },
       {
-        "name": "Salt",
+        "name": "salt",
         "type": "bad"
       },
       {
-        "name": "eggplant",
+        "name": "aubergine",
         "type": "good"
       }
     ]
-  },
+  }
   {
     "name": "cancer",
     "ingredients": [
@@ -69,7 +64,7 @@
         "type": "bad"
       },
       {
-        "name": "tomatoes",
+        "name": "tomato",
         "type": "good"
       },
       {
@@ -81,7 +76,7 @@
         "type": "good"
       }
     ]
-  },
+  }
   {
     "name": "chronic liver disease",
     "ingredients": [
@@ -102,24 +97,24 @@
         "type": "good"
       },
       {
-        "name": "beet",
+        "name": "beetroot",
         "type": "good"
       },
       {
-        "name": "Green onions",
-        "type": "good" 
+        "name": "green onion",
+        "type": "good"
       }
     ]
-  },
+  }
   {
     "name": "tuberculosis",
     "ingredients": [
       {
-        "name": "Coconut oil",
+        "name": "coconut oil",
         "type": "good"
       },
       {
-        "name": "ecaliptus",
+        "name": "sugar",
         "type": "bad"
       },
       {
@@ -131,7 +126,7 @@
         "type": "good"
       }
     ]
-  },
+  }
   {
     "name": "salmonella",
     "ingredients": [
@@ -148,11 +143,11 @@
       "type": "good"
     },
     {
-      "name": "Whole wheat flour",
+      "name": "flour",
       "type": "good"
     }
     ]
-  },
+  }
   {
     "name": "diabetes",
     "ingredients": [
@@ -182,4 +177,3 @@
       }
     ]
   }
-]

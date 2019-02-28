@@ -76,8 +76,14 @@ let type = $('.londonrecipes select[name="type"] option:selected').val();
   w = screen.availWidth / 3 * 2,
       h = 480;
   d3.json(`${baseApi}/recipe/disease/${dis}/${type}`, function(error, data) {
+    console.log(data);
+    console.log(data.length);
+    if(!data.length){
+      $("#d3-recipes.d3").html("<p>No recipes were found!</p>");
+      console.log(1);
+    }
+  else {
     var fontSize = d3.scale.pow().exponent(5).domain([0,1]).range([10,80]);
-    words = ["a","b","c"];
     var layout = d3.layout.cloud()
         .timeInterval(10)
         .size([w, h])
@@ -95,7 +101,7 @@ let type = $('.londonrecipes select[name="type"] option:selected').val();
         .append("svg:svg").attr("width", w)
         .attr("height", h).append("svg:g")
         .attr("transform", "translate(.5,.5)");
-
+}
 
 
     var wordcloud = svg.append("g")
@@ -104,6 +110,7 @@ let type = $('.londonrecipes select[name="type"] option:selected').val();
 
 
     function draw(words) {
+      if(wordcloud)
       wordcloud.selectAll("text")
           .data(words)
         .enter().append("text")
@@ -163,7 +170,7 @@ const doGraphDiseases = (type="bad") => {
             .style("text-anchor", function(d) { return d.children ? "end" : "start"; })
             .text(function(d) { return d.name; })
             .on("click", function(d) {
-              alert(`position #${d.value}`);
+              // alert(`position #${d.value}`);
             });;
 
 });

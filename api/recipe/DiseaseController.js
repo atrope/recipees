@@ -17,7 +17,7 @@ router.get('/', (req, res) => {
 
 router.get('/:type', (req, res) => {
     var type = req.params.type
-    Recipe.aggregate([{$unwind:"$ingredients"},{$group:{_id:"$ingredients.name", total:{$sum:1}}},{ $sort: { "total": -1 } },{ $limit: 50 }], function(err, recipes) {
+    Recipe.aggregate([{$unwind:"$ingredients"},{$group:{_id:"$ingredients.name", total:{$sum:1}}},{ $sort: { "total": -1 } },{ $limit: 9999 }], function(err, recipes) {
       if (err) return res.status(500).send({"message":"There was a problem finding the recipes."});
       dict = {}
       let counter = 1;
